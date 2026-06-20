@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # vault
-data/vault/
+data/
