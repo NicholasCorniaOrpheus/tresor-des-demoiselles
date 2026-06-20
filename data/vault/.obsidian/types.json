@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "identifier": "multitext",
+    "holding_institution": "multitext"
+  }
+}

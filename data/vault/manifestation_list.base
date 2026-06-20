@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - class == "Manifestation"
+    order:
+      - file.name
+      - local_asset_path
+      - contributor
+      - has_version
+      - instance_of
+      - instrumentation
+      - part_of
+      - title
+      - based_on
+    sort:
+      - property: file.name
+        direction: ASC

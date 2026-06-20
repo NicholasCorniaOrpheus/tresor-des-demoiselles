@@ -1,0 +1,19 @@
+---
+class: Agent
+label: Laure Jourdain
+aliases:
+description:
+instance_of:
+date_of_birth:
+described_by_source:
+image:
+date_of_death:
+place_of_birth:
+place_of_death:
+sex_or_gender:
+identifier:
+  - http://www.wikidata.org/entity/Q140289959
+occupation:
+  - "[[lyricist]]"
+country_of_citizenship:
+---

@@ -1,0 +1,19 @@
+---
+class: Agent
+label: Victor Mabille
+aliases:
+description:
+instance_of:
+  - "[[human]]"
+date_of_birth:
+described_by_source:
+image:
+date_of_death:
+place_of_birth:
+place_of_death:
+sex_or_gender: "[[male]]"
+identifier: http://www.wikidata.org/entity/Q130773936
+occupation:
+  - "[[lyricist]]"
+country_of_citizenship:
+---
