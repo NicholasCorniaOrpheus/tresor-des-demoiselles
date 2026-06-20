@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>kb-light: TEI & Facsimile Viewer</title>
+        
+        <!-- 1. Include Libraries -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
+        <link rel="stylesheet" href="https://teic.github.io/CETEIcean/css/tei.css">
+        
+        <style>
+        body { margin: 0; padding: 0; font-family: sans-serif; }
+        #viewer-container {
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+        /* OpenSeadragon on the Left */
+        #osd-viewer {
+            width: 50%;
+            background-color: #333;
+            border-right: 2px solid #ccc;
+        }
+        /* TEI Transcription on the Right */
+        #tei-transcription {
+            width: 50%;
+            padding: 40px;
+            overflow-y: auto;
+            background-color: #fff;
+            line-height: 1.6;
+        }
+
+        /* 2. Styling the Isomorphic TEI Elements [4, 5] */
+        tei-tei { display: block; }
+        tei-body { display: block; }
+        
+        tei-div[type="column"] {
+            display: block;
+            margin-bottom: 2em;
+            padding: 10px;
+        }
+        tei-head {
+            display: block;
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-top: 1em;
+            color: #2c3e50;
+        }
+        tei-p {
+            display: block;
+            margin: 1em 0;
+            text-align: justify;
+        }
+        tei-fw {
+            display: block;
+            text-align: center;
+            font-style: italic;
+            margin-bottom: 20px;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="viewer-container">
+            <div id="osd-viewer"></div>
+            <div id="tei-transcription"></div>
+        </div>
+
+        <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // 3. Initialize OpenSeadragon
+            try {
+                var viewer = OpenSeadragon({
+                    id: "osd-viewer",
+                    prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
+                    tileSources: {
+                        type: 'image',
+                        url: './assets/OI-20144531/20144531_007.jpg'
+                    },
+                    showRotationControl: true,
+                    gestureSettingsMouse: { clickToZoom: true }
+                });
+                console.log("OpenSeadragon initialized.");
+            } catch (e) {
+                console.error("OpenSeadragon failed to initialize:", e);
+            }
+        }); // <-- ADDED THIS MISSING CLOSING BRACE
+        </script>
+
+        <script type="module">
+        // 4. Initialize CETEIcean via ES Module (Modern Approach) [6]
+        import CETEI from 'https://cdn.jsdelivr.net/npm/ceteicean@1.9.5/dist/CETEI.mjs';
+        const CETEIobj = new CETEI();
+        
+        CETEIobj.getHTML5('./assets/OI-20144531/20144531_007_tei.xml', function(data) {
+            const container = document.getElementById("tei-transcription");
+            if (container) {
+                container.appendChild(data);
+                console.log("TEI successfully rendered via ES Module.");
+            }
+        });
+        </script>
+    </body>
+</html>

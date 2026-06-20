@@ -1,0 +1,35 @@
+{
+  "title": {
+    "element": "title"
+    },
+  "heading": {
+    "element": "head"
+    },
+  "paragraph": {
+    "element": "p"
+    },
+  "quotation": {
+    "element": "quote"
+  },
+  "footnote": {
+    "element": "note",
+    "attributes": {
+      "type": "gloss",
+      "place": "bot"
+    }
+    },
+  "page-number": {
+    "element": "fw",
+    "attributes": {
+      "type": "footer",
+      "place": "bot"
+    }
+    },
+  "page-number": {
+    "element": "fw",
+    "attributes": {
+      "type": "pageNum",
+      "place": "bot"
+    }
+    }
+}

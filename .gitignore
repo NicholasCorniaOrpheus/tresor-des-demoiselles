@@ -9,5 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-# vault
+# configuration files
+data/config/credentials.json
 
