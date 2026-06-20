@@ -1,0 +1,32 @@
+class: Agent
+identifier: http://wikidata.org/entity/Q6172006
+label: Jeanne-Justine Fouqueau de Pussy
+aliases: null
+description: null
+instance_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6PMdFsnsScaX
+  label: human
+occupation:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PyjfeSxUHKu6
+  reference_URL: null
+  label: editor
+date_of_birth:
+- value: 1786-01-01
+described_by_source:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/irjazgNVG9Uw
+  label: Agents of Change
+image: null
+date_of_death:
+- value: 1864-01-01
+place_of_birth: null
+place_of_death: null
+sex_or_gender:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/df4vkhqbv73S
+  label: female
+country_of_citizenship:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Z576NnEpMHRx
+  label: France
+filename: Jeanne-Justine Fouqueau de Pussy.md
+id: H6C6LbKPxHSE
+n_id: 311050628388049999683
+markdown_content: ''

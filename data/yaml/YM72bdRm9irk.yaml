@@ -1,0 +1,41 @@
+class: Manifestation
+identifier: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582
+label: Trésor des demoiselles (1857)
+aliases: null
+description: 1857 issues collected in one volume.
+IIIF_manifest: null
+local_asset_path: ./assets/OI-20144531
+instance_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CDySc7gdZ5E8
+  label: periodical
+has_part: null
+part_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PfHfWcdrd9dn
+  volume: 25
+  publication_date: 1857-01-01
+  label: Le trésor des demoiselles
+contributor:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pp5XBt7GyjdN
+  role: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7S7CDyJZXfHd
+  label: François Desterbecq
+has_version: null
+title: Trésor des demoiselles. Vingt-cinquième Année.
+publication_date:
+- value: 1857-01-01
+place_of_publication:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i9rj5PoVW4wH
+  label: Amsterdam
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SHCZHUnTQ8W6
+  label: Brussels
+instrumentation: null
+language:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/N7eErqdAJ69X
+  label: French
+holding_institution:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9LpQqL2zEKP4
+  label: Orpheus Instituut
+depicts: null
+filename: Trésor des demoiselles (1857).md
+id: YM72bdRm9irk
+n_id: 625987453125029073333
+markdown_content: ''

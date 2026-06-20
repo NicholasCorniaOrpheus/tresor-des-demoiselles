@@ -1,0 +1,26 @@
+class: Agent
+label: Francesco Masini
+aliases:
+- François Masini
+description: null
+instance_of: null
+occupation:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nqqbqUmSgQkF
+  label: composer
+date_of_birth: null
+described_by_source: null
+image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Francesco_Masini.jpg
+date_of_death: null
+place_of_birth: null
+place_of_death: null
+sex_or_gender:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HaBvW8DhyynE
+  label: male
+identifier: http://www.wikidata.org/entity/Q21664072
+country_of_citizenship:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Z576NnEpMHRx
+  label: France
+filename: Francesco Masini.md
+id: gUg2UHRUyjYh
+n_id: 793818469463715437637
+markdown_content: ''

@@ -1,0 +1,28 @@
+class: Organisation
+identifier: http://wikidata.org/entity/Q40163826
+label: Journal des demoiselles
+aliases: null
+description: null
+instance_of: null
+described_by_source:
+- - Agents of Change
+inception:
+- value: 1833-02-01
+image: https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg
+location:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9CpkjWJGHT6q
+  label: Paris
+country:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Z576NnEpMHRx
+  label: France
+dissolved:
+- value: 1922-01-01
+contributor:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/H6C6LbKPxHSE
+  role: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PyjfeSxUHKu6
+  label: Jeanne-Justine Fouqueau de Pussy
+official_website: null
+filename: Journal des demoiselles.md
+id: Bk6QrjiCaDHe
+n_id: 200956451513265859014
+markdown_content: ''

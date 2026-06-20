@@ -1,0 +1,40 @@
+class: Manifestation
+label: Ange ployez votre aile! rêverie
+aliases: null
+description: null
+local_asset_path: ./assets/RCA-12971499
+instance_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QkCUpHCNWZKU
+  label: song
+has_part: null
+part_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PfHfWcdrd9dn
+  volume: 1
+  label: Le trésor des demoiselles
+contributor:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gUg2UHRUyjYh
+  role: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nqqbqUmSgQkF
+  label: Francesco Masini
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/h9VnT5jfMipi
+  role: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PPzJgGZCF56X
+  label: Émile Barateau
+has_version: null
+title: Ange ployez votre aile! rêverie
+publication_date: null
+place_of_publication: null
+instrumentation: null
+language:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/N7eErqdAJ69X
+  label: French
+identifier: https://anet.be/record/opacap/c:lvd:12971499
+IIIF_manifest: null
+holding_institution:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7BBP6S3HZLHP
+  label: Royal Conservatory of Antwerp
+depicts: null
+based_on: null
+about: null
+filename: Ange ployez votre aile! rêverie.md
+id: 8NDEUCSsc4VG
+n_id: 131127320404052654315
+markdown_content: ''

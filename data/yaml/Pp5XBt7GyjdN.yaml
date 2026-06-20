@@ -1,0 +1,30 @@
+class: Agent
+identifier: http://wikidata.org/entity/Q46999103
+label: François Desterbecq
+aliases: null
+description: null
+instance_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6PMdFsnsScaX
+  label: human
+occupation:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7S7CDyJZXfHd
+  label: publisher
+described_by_source:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Hj5r5nEnG9UE
+  label: Wikidata
+image: null
+place_of_birth: null
+date_of_birth: null
+place_of_death: null
+date_of_death:
+- value: 1896
+sex_or_gender:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HaBvW8DhyynE
+  label: male
+country_of_citizenship:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/EGPSti7iPSDK
+  label: Belgium
+filename: François Desterbecq.md
+id: Pp5XBt7GyjdN
+n_id: 450029736144404589032
+markdown_content: ''

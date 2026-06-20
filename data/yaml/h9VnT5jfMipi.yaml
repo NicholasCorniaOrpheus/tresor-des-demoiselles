@@ -1,0 +1,25 @@
+class: Agent
+label: Émile Barateau
+aliases: null
+description: null
+instance_of: null
+occupation:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PPzJgGZCF56X
+  label: librettist
+date_of_birth: null
+described_by_source: null
+image: null
+date_of_death: null
+place_of_birth: null
+place_of_death: null
+sex_or_gender:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HaBvW8DhyynE
+  label: male
+identifier: http://www.wikidata.org/entity/Q55836686
+country_of_citizenship:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Z576NnEpMHRx
+  label: France
+filename: Émile Barateau.md
+id: h9VnT5jfMipi
+n_id: 807510770504966052088
+markdown_content: ''

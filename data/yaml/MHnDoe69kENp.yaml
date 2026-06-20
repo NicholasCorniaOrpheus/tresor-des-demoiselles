@@ -1,0 +1,29 @@
+class: Agent
+label: Pierre Dupont
+aliases: null
+description: null
+instance_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6PMdFsnsScaX
+  label: human
+occupation:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PPzJgGZCF56X
+  label: librettist
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Px66N789fagC
+  label: poet
+date_of_birth: null
+described_by_source: null
+image: https://upload.wikimedia.org/wikipedia/commons/0/07/Pierre_Dupont_LACMA_AC1992.229.130.jpg
+date_of_death: null
+place_of_birth: null
+place_of_death: null
+sex_or_gender:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HaBvW8DhyynE
+  label: male
+identifier: http://www.wikidata.org/entity/Q2735843
+country_of_citizenship:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Z576NnEpMHRx
+  label: France
+filename: Pierre Dupont.md
+id: MHnDoe69kENp
+n_id: 397793377193979495085
+markdown_content: ''

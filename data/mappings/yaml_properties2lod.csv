@@ -1,0 +1,68 @@
+yaml_property,namespace,property_name,property_URI,data_type,wd_pid,category
+class,dcterms,type,http://purl.org/dc/terms/type,Class,,metadata
+label,rdfs,label,http://www.w3.org/2000/01/rdf-schema#label,String,,metadata
+aliases,skos,altLabel,http://www.w3.org/2004/02/skos/core#altLabel,String,,metadata
+description,dc,description,http://purl.org/dc/elements/1.1/description,String,,metadata
+identifier,dcterms,identifier,http://purl.org/dc/terms/identifier,URIRef,,statements
+IIIF_manifest,wdt,IIIF manifest URL,http://wikidata.org/entity/P6108,URIRef,P6108,assets
+local_asset_path,,,,FilePath,,assets
+instance_of,wdt,instance of,http://wikidata.org/entity/P31,Entity,P31,statements
+has_part,,,,Statement,,statements
+has_part/value,dcterms,hasPart,http://purl.org/dc/terms/hasPart,Entity,P527,statements
+part_of,,,,Statement,,statements
+part_of/value,dcterms,isPartOf,http://purl.org/dc/terms/isPartOf,Entity,P361,statements
+part_of/volume,schema,volumeNumber,https://schema.org/volumeNumber,Integer,,statements
+part_of/publication_date,schema,datePublished,https://schema.org/datePublished,Date,,statements
+contributor,,,,Statement,,statements
+contributor/value,dcterms,contributor,http://purl.org/dc/terms/contributor,Entity,P767,statements
+contributor/role,bf,Role,http://id.loc.gov/ontologies/bibframe/Role,Entity,,statements
+has_version,,,,Statement,,statements
+has_version/permalink,schema,url,https://schema.org/url,URIRef,,statements
+has_version/note,bf,note,http://id.loc.gov/ontologies/bibframe/Note,String,,statements
+has_version/external_source,bf,electronicLocator,http://id.loc.gov/ontologies/bibframe/electronicLocator,URIRef,,assets
+has_version/publication_date,schema,datePublished,https://schema.org/datePublished,Date,P577,statements
+has_version/place_of_publication,wdt,place of publication,http://wikidata.org/entity/P291,Entity,P291,statements
+has_version/holding_institution,bf,heldBy,http://id.loc.gov/ontologies/bibframe/heldBy,Entity,,statements
+has_version/IIIF_manifest,wdt,IIIF manifest URL,http://wikidata.org/entity/P6108,URIRef,P6108,assets
+title,dcterms,title,http://purl.org/dc/terms/title,String,P1476,statements
+instrumentation,,,,Statement,,statements
+instrumentation/value,wdt,instrumentation,http://wikidata.org/entity/P870,,P870,statements
+instrumentation/quantity,wdt,quantity,http://wikidata.org/entity/P1114,,P1114,statements
+language,dc,language,http://wikidata.org/entity/P870,Entity,P407,statements
+image,schema,image,https://schema.org/image,URIRef,P18,assets
+described_by_source,wdt,described by source,http://wikidata.org/entity/P1343,Entity,P1343,statements
+sex_or_gender,schema,gender,https://schema.org/gender,Entity,P21,statements
+date_of_birth,,,,Statement,,statements
+date_of_birth/value,schema,birthDate,https://schema.org/birthDate,Date,,statements
+date_of_birth/sourcing_circumstances,wdt,sourcing circumstances,http://wikidata.org/entity/P1480,Entity,,statements
+date_of_birth/reference_URL,wdt,reference URL,http://wikidata.org/entity/P854,URIRef,,statements
+date_of_death,,,,Statement,,statements
+date_of_death/value,schema,deathDate,https://schema.org/deathDate,Date,,statements
+date_of_death/sourcing_circumstances,wdt,sourcing circumstances,http://wikidata.org/entity/P1480,Entity,,statements
+date_of_death/reference_URL,wdt,reference URL,http://wikidata.org/entity/P854,URIRef,,statements
+place_of_birth,,,,Statement,,statements
+place_of_birth/value,schema,birthPlace,https://schema.org/birthPlace,Entity,,statements
+place_of_birth/reference_URL,wdt,reference URL,http://wikidata.org/entity/P854,URIRef,,statements
+place_of_death,,,,Statement,,statements
+place_of_death/value,schema,deathPlace,https://schema.org/deathPlace,Entity,,statements
+place_of_death/reference_URL,wdt,reference URL,http://wikidata.org/entity/P854,URIRef,,statements
+occupation,,,,Statement,,statements
+occupation/value,schema,hasOccupation,https://schema.org/hasOccupation,Entity,,statements
+occupation/reference_URL,,,,,,statements
+subclass_of,rdfs,subClassOf,http://www.w3.org/2000/01/rdf-schema#subClassOf,,,statements
+inception,,,,Statement,,statements
+inception/value,dcterms,created,http://purl.org/dc/terms/created,Date,,statements
+dissolved,,,,Statement,,statements
+dissolved/value,schema,dissolutionDate,https://schema.org/dissolutionDate,Date,,statements
+country,wdt,country,http://wikidata.org/entity/P17,Entity,,statements
+location,,,,Statement,,statements
+location/value,wdt,located in the administrative territorial entity,http://wikidata.org/entity/P131,Entity,,statements
+location/address,schema,address,https://schema.org/address,String,,statements
+official_website,wdt,official website,http://wikidata.org/entity/P856,URIRef,,statements
+depicts,wdt,depicts,http://www.wikidata.org/entity/P180,Entity,,statements
+based_on,,,,Statement,,statements
+based_on/value,wdt,based on,http://www.wikidata.org/entity/P144,Entity,P144,statements
+based_on/reference_URL,wdt,reference URL,http://wikidata.org/entity/P854,URIRef,P854,statements
+based_on/note,bf,note,http://id.loc.gov/ontologies/bibframe/Note,String,,statements
+about,schema,about,https://schema.org/about,Entity,,statements
+form_of_creative_work,wdt,form of creative work,http://www.wikidata.org/entity/P7937,Entity,P7937,statements

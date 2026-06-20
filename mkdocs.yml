@@ -1,0 +1,96 @@
+site_name: Trésor des Demoiselles
+site_author: Nicholas Cornia
+repo_url: https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles
+nav:
+  - Home: index.md
+  - Explore: explore.md
+  - Contributors: contributors.md
+  - References: references.md
+
+plugins:
+  - search
+
+#extra_css:
+  #- assets/stylesheets/extra.css
+
+#extra_javascript:
+  #- assets/javascripts/extra.js
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    admonition:
+      abstract: fontawesome/solid/book
+      note: fontawesome/solid/note-sticky
+      quote: fontawesome/solid/quote-left
+
+  font:
+      text: Sofia Sans
+  palette:
+    # Palette toggle for light mode
+    #- scheme: default
+      #primary: custom
+      #default: custom
+      #footer: custom
+      #accent: custom
+      #toggle:
+        #icon: material/weather-night
+        #name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      default: deep purple
+      footer: deep purple
+      accent: deep purple
+      #toggle:
+        #icon: material/weather-sunny
+        #name: Switch to light mode        
+
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.expand
+    - navigation.prune
+    - search.share
+    - toc.integrate
+    #- navigation.footer
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    #- navigation.top
+    #- toc.follow
+    #- toc
+
+copyright: Copyright &copy; 2026 Orpheus Instituut, Resounding Libraries
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/NicholasCorniaOrpheus
+      name: GitHub repository
+  social:
+    - icon: material/music-note
+      link: https://orpheusinstituut.be/
+      name: Orpheus Instituut
+
+markdown_extensions:
+  - footnotes
+  - tables
+  - attr_list
+  - admonition
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # icons extension!
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true

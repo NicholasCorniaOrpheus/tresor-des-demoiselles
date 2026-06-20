@@ -1,0 +1,25 @@
+class: Agent
+label: Robert Julien Van Maldeghem
+aliases: null
+description: null
+instance_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6PMdFsnsScaX
+  label: human
+occupation:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nqqbqUmSgQkF
+  label: composer
+date_of_birth: null
+described_by_source: null
+image: null
+date_of_death: null
+place_of_birth: null
+place_of_death: null
+sex_or_gender:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HaBvW8DhyynE
+  label: male
+identifier: http://www.wikidata.org/entity/Q2298736
+country_of_citizenship: null
+filename: Robert Julien Van Maldeghem.md
+id: jLenqgWSkB2G
+n_id: 852822144294841350005
+markdown_content: ''

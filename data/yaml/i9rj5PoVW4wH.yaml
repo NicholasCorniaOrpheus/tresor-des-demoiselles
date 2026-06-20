@@ -1,0 +1,12 @@
+class: Place
+identifier: http://wikidata.org/entity/Q727
+country:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AMWZ5cudfur2
+  label: Netherlands
+label: Amsterdam
+aliases: null
+description: null
+filename: Amsterdam.md
+id: i9rj5PoVW4wH
+n_id: 828279674423494534578
+markdown_content: ''

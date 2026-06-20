@@ -1,0 +1,6 @@
+yaml_class,namespace,class,class_URI
+Agent,dcterms,Agent,http://purl.org/dc/terms/Agent
+Concept,skos,Concept,http://www.w3.org/2004/02/skos/core#Concept
+Manifestation,dcterms,PhysicalResource,http://purl.org/dc/terms/PhysicalResource
+Organisation,bf,Organization,http://id.loc.gov/ontologies/bibframe/Organization
+Place,bf,Place,http://id.loc.gov/ontologies/bibframe/Place

@@ -1,0 +1,42 @@
+class: Manifestation
+label: 'L''enfant et la rose: mélodie'
+aliases: null
+description: null
+local_asset_path: ./assets/RCA-12971523
+instance_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QkCUpHCNWZKU
+  label: song
+has_part: null
+part_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PfHfWcdrd9dn
+  volume: 2
+  label: Le trésor des demoiselles
+contributor:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jLenqgWSkB2G
+  role: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nqqbqUmSgQkF
+  reference_URL: https://anet.be/record/opacap/c:lvd:12971523
+  label: Robert Julien Van Maldeghem
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MedoGUfqbU5S
+  role: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PPzJgGZCF56X
+  reference_URL: https://anet.be/record/opacap/c:lvd:12971523
+  label: Eugeen Edward Stroobant
+has_version: null
+title: 'L''enfant et la rose: mélodie'
+publication_date: null
+place_of_publication: null
+instrumentation: null
+language:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/N7eErqdAJ69X
+  label: French
+identifier: https://anet.be/record/opacap/c:lvd:12971523
+IIIF_manifest: null
+holding_institution:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7BBP6S3HZLHP
+  label: Royal Conservatory of Antwerp
+depicts: null
+based_on: null
+about: null
+filename: L'enfant et la rose.md
+id: iSXHu5YP4LED
+n_id: 834310759331674617248
+markdown_content: ''

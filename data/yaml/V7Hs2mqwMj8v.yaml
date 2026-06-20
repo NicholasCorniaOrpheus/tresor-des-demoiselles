@@ -1,0 +1,46 @@
+class: Manifestation
+identifier: https://anet.be/record/opacap/c:lvd:12971503
+label: 'Une orientale: mélodie'
+aliases: null
+description: null
+local_asset_path: ./assets/RCA-12971503
+instance_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QkCUpHCNWZKU
+  label: song
+has_part: null
+part_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PfHfWcdrd9dn
+  volume: 2
+  label: Le trésor des demoiselles
+contributor:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PAnv3kw8jfoF
+  reference_URL: https://anet.be/record/opacap/c:lvd:12971503
+  role: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nqqbqUmSgQkF
+  label: Ernest L’Épine
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MHnDoe69kENp
+  reference_URL: https://anet.be/record/opacap/c:lvd:12971503
+  role: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PPzJgGZCF56X
+  label: Pierre Dupont
+has_version: null
+title: null
+publication_date: null
+place_of_publication:
+- null
+instrumentation: null
+language:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/N7eErqdAJ69X
+  label: French
+IIIF_manifest: null
+holding_institution:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7BBP6S3HZLHP
+  label: Royal Conservatory of Antwerp
+depicts: null
+based_on: null
+about:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XUbxb2sF6Yfu
+  label: exoticism
+filename: Une orientale.md
+id: V7Hs2mqwMj8v
+n_id: 559080197231059216069
+markdown_content: According to the https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7BBP6S3HZLHP's
+  catalogue, the song appears in the second issue of volume 2 of https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PfHfWcdrd9dn.

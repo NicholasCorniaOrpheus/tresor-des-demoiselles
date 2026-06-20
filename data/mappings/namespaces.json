@@ -1,0 +1,70 @@
+[
+	{"namespace": "tdd",
+	 "base_URI": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/",
+	 "documentation": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/",
+	 "version": 1
+	},
+
+	{"namespace": "rdfs",
+	 "base_URI": "http://www.w3.org/2000/01/rdf-schema#",
+	 "documentation": "https://www.w3.org/TR/rdf12-schema/",
+	 "version": 1.2
+	},
+
+	{"namespace": "rdf",
+	 "base_URI": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+	 "documentation": "https://www.w3.org/TR/rdf12-schema/",
+	 "version": 1.2
+	},
+
+	
+	{"namespace": "schema",
+	 "base_URI": "https://schema.org/",
+	 "documentation": "https://schema.org/docs/schemas.html",
+	 "version": 1
+	},
+
+	{"namespace": "dc",
+	 "base_URI": "http://purl.org/dc/elements/1.1/",
+	 "documentation": "https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3",
+	 "version": 1.1
+	},
+
+	{"namespace": "dcterms",
+	 "base_URI": "http://purl.org/dc/terms/",
+	 "documentation": "https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-2",
+	 "version": 1
+	},
+
+	{"namespace": "bf",
+	 "base_URI": "http://id.loc.gov/ontologies/bibframe/",
+	 "documentation": "https://id.loc.gov/ontologies/bibframe.html",
+	 "version": 2.5
+	},
+
+	{"namespace": "wdt",
+	 "base_URI": "http://wikidata.org/entity/",
+	 "documentation": "https://www.wikidata.org",
+	 "version": 1
+	},
+
+	{"namespace": "skos",
+	 "base_URI": "http://www.w3.org/2004/02/skos/core#",
+	 "documentation": "https://www.w3.org/2009/08/skos-reference/skos.html",
+	 "version": 1
+	},
+
+	{"namespace": "gnd",
+	 "base_URI": "https://d-nb.info/standards/elementset/gnd#",
+	 "documentation": "https://d-nb.info/standards/elementset/gnd#",
+	 "version": 1.5
+	},
+
+	{"namespace": "bibo",
+	 "base_URI": "http://purl.org/ontology/bibo/#:",
+	 "documentation": "https://d-nb.info/standards/elementset/gnd#",
+	 "version": 1.5
+	}
+
+
+]

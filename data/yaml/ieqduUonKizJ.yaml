@@ -1,0 +1,16 @@
+class: Concept
+instance_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YaaAngZx3M3y
+  label: occupation
+subclass_of:
+- value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PPzJgGZCF56X
+  label: librettist
+described_by_source: null
+description: null
+aliases: null
+label: lyricist
+identifier: http://www.wikidata.org/entity/Q822146
+filename: lyricist.md
+id: ieqduUonKizJ
+n_id: 838771715005585772773
+markdown_content: ''
