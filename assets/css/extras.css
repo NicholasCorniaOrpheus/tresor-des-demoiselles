@@ -17,6 +17,15 @@ body, .md-typeset {
     color: #8e1a4a; /* Using your 'Agent' color for headings */
 }
 
+/* Standard Material Buttons */
+.md-typeset .md-button:hover {
+    background-color: #8e1a4a; /* Your 'Agent' color */
+    border-color: #8e1a4a;
+    color: #ffffff;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+
 /* Container for the TEI content */
 #TEI {
     background-color: #2B423C; /* Page background */
@@ -85,6 +94,14 @@ tei-hi {
   /* Using 'Manifestation' color for warnings/abstracts */
   --md-admonition-fg-color--abstract: #8e1a4a;
   --md-admonition-bg-color--abstract: #8e1a4aB10;
+}
+
+
+/* Ensure the title also scales or stays slightly distinct */
+.md-typeset .admonition-title, 
+.md-typeset summary {
+    font-size: 1.0rem;
+    font-weight: 700;
 }
 
 /* Applying the border and title background */
