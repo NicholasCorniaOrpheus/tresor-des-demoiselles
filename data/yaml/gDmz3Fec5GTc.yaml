@@ -1,0 +1,43 @@
+metadata:
+  class: Manifestation
+  label: Magasin des demoiselles (1886)
+  aliases: null
+  description: null
+  base_name: Magasin des demoiselles (1886)
+  filename: Magasin des demoiselles (1886).md
+  id: gDmz3Fec5GTc
+  n_id: 788425917901303763620
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+    label: periodical
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+    volume: 42
+    publication_date: 1886-01-01
+    label: Magasin des demoiselles
+  contributor: null
+  has_version:
+  - permalink: http://catalogue.bnf.fr/ark:/12148/cb32810582s
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB
+      label: Bibliothèque nationale de France
+    publication_date: 1886-01-01
+    external_source: https://gallica.bnf.fr/ark:/12148/bpt6k9996748
+    IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9996748/manifest.json
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title: null
+  instrumentation: null
+  depicts: null
+  about: null
+  language: null
+  based_on: null
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

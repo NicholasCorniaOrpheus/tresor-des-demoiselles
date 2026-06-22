@@ -1,0 +1,25 @@
+metadata:
+  class: Agent
+  label: George Sawanoff
+  aliases: null
+  description: null
+  base_name: George Sawanoff
+  filename: George Sawanoff.md
+  id: Ewn4kBPzhWzy
+  n_id: 267098334895676698369
+statements:
+  instance_of: null
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender: null
+  identifier:
+  - http://www.wikidata.org/entity/Q126896682
+  occupation: null
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''

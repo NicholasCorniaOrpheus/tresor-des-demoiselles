@@ -1,0 +1,57 @@
+metadata:
+  class: Manifestation
+  label: Songe de Bonheur
+  aliases: null
+  description: null
+  base_name: Songe de Bonheur
+  filename: Songe de Bonheur.md
+  id: TL2CYehsnjpj
+  n_id: 522415271489453607707
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC
+    label: waltz
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+    publication_date: 1853-06-01
+    label: Trésor des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PMhy6ZVncrXN
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Emile Ettling
+  has_version:
+  - holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+      label: Orpheus Instituut
+    permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+    place_of_publication:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
+      label: François Desterbecq
+    publication_date: 1853-06-01
+  title:
+  - Songe de Bonheur. Suite de Valses. N. 1-3
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  based_on: null
+  about: null
+  language: null
+assets:
+  local_asset_path: ./assets/OI-20143702p32
+  IIIF_manifest: null
+  jpg:
+  - orp-ettli-songede-20143702p32-ps-00001.jpg
+  - orp-ettli-songede-20143702p32-ps-00002.jpg
+  - orp-ettli-songede-20143702p32-ps-00003.jpg
+  - orp-ettli-songede-20143702p32-ps-00004.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

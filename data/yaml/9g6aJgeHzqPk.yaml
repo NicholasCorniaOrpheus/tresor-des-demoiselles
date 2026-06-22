@@ -1,0 +1,46 @@
+metadata:
+  class: Manifestation
+  label: Journal des demoiselles (1844)
+  aliases: null
+  description: null
+  base_name: Journal des demoiselles (1844)
+  filename: Journal des demoiselles (1844).md
+  id: 9g6aJgeHzqPk
+  n_id: 158237570030965261440
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+    label: periodical
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 12
+    publication_date: 1844-01-01
+    label: Journal des demoiselles
+  contributor: null
+  has_version:
+  - external_source: https://archive.org/details/journaldesdemois00pari
+    note: The publication date listed in Internet Archive is wrong. According to the
+      digitization, it is 1844.
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GpjEsTdNqATu
+      label: University of Toronto
+    publication_date: 1844-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    permalink: https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/1bcgp01/alma991106287992806196
+  title: null
+  instrumentation: null
+  depicts: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  based_on: null
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

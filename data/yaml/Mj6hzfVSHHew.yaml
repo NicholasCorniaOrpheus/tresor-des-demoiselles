@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: null
+  base_name: classical dance music
+  filename: classical dance music.md
+  id: Mj6hzfVSHHew
+  n_id: 406955326902224693462
+statements:
+  instance_of: null
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q118738876
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

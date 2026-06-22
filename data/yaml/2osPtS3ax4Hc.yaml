@@ -1,0 +1,32 @@
+metadata:
+  class: Organisation
+  label: Royal Library of Belgium
+  aliases: null
+  description: null
+  base_name: Royal Library of Belgium
+  filename: Royal Library of Belgium.md
+  id: 2osPtS3ax4Hc
+  n_id: 16605160132612162543
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk
+    label: national library
+  described_by_source: null
+  inception: null
+  location:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+    label: Brussels
+  dissolved: null
+  contributor: null
+  official_website:
+  - https://www.kbr.be/
+  identifier:
+  - http://www.wikidata.org/entity/Q383931
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+    label: Belgium
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''

@@ -1,0 +1,31 @@
+metadata:
+  class: Organisation
+  label: Magasin des demoiselles
+  aliases: null
+  description: null
+  base_name: Magasin des demoiselles
+  filename: Magasin des demoiselles.md
+  id: HuT8aF2rGmzB
+  n_id: 328161716426853765096
+statements:
+  instance_of: null
+  described_by_source:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP
+    label: Agents of Change
+  inception:
+  - value: 1844-01-01
+  location: null
+  dissolved:
+  - value: 1896-01-01
+  contributor: null
+  official_website: null
+  identifier:
+  - http://www.wikidata.org/entity/Q88566529
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
+    label: France
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''

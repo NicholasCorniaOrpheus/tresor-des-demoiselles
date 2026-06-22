@@ -1,0 +1,22 @@
+metadata:
+  class: Place
+  label: Antwerp
+  aliases:
+  - Antwerpen
+  - Anvers
+  description: null
+  base_name: Antwerp
+  filename: Antwerp.md
+  id: CnfhMurv8zu8
+  n_id: 222527854265610412203
+statements:
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+    label: Belgium
+  identifier:
+  - http://www.wikidata.org/entity/Q12892
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+content:
+  markdown_content: ''

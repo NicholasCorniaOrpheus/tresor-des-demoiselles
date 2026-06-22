@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: null
+  base_name: digital library
+  filename: digital library.md
+  id: G5aFCqnqarZS
+  n_id: 290193415046469255393
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HjSMhbA3nqG8
+    label: type of library
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q212805
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

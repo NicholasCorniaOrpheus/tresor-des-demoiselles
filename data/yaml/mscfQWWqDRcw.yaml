@@ -1,0 +1,31 @@
+metadata:
+  class: Agent
+  label: Antoine Louis Clapisson
+  aliases: null
+  description: null
+  base_name: Antoine Louis Clapisson
+  filename: Antoine Louis Clapisson.md
+  id: mscfQWWqDRcw
+  n_id: 905303445212915321177
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+    label: male
+  identifier:
+  - http://wikidata.org/entity/Q1871594
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+    label: composer
+assets:
+  image: https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Clapisson_photo_Imbert_1866.jpg
+  IIIF_manifest: null
+content:
+  markdown_content: ''

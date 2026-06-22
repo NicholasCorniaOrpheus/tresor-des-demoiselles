@@ -1,0 +1,67 @@
+metadata:
+  class: Manifestation
+  label: La brune Thérèse
+  aliases: null
+  description: null
+  base_name: La brune Thérèse
+  filename: La brune Thérèse.md
+  id: KWMc2MyB5896
+  n_id: 361071698515835820721
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+    label: song
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+    volume: 2
+    label: Trésor des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3At93rnWJp3u
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    reference_URL: https://anet.be/record/opacap/c:lvd:13279473
+    label: Prosper Guion
+  - role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3At93rnWJp3u
+      label: Prosper Guion
+    value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+    reference_URL: https://anet.be/record/opacap/c:lvd:13279473
+    label: lyricist
+  has_version:
+  - permalink: https://anet.be/record/opacap/c:lvd:13279473
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+      label: Royal Conservatory of Antwerp
+    place_of_publication:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
+      label: François Desterbecq
+  title:
+  - La brune Thérèse
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+    quantity: 1
+    label: voice
+  depicts: null
+  based_on: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+assets:
+  local_asset_path: ./assets/RCA-13279473
+  IIIF_manifest: null
+  jpg:
+  - 20260608134000426_0001.jpg
+  - 20260608134000426_0002.jpg
+  - 20260608134000426_0003.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

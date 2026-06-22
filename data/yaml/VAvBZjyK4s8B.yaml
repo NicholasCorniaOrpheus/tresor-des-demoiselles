@@ -1,0 +1,18 @@
+metadata:
+  class: Place
+  label: null
+  aliases: null
+  description: null
+  base_name: Italy
+  filename: Italy.md
+  id: VAvBZjyK4s8B
+  n_id: 560396904689154412458
+statements:
+  identifier:
+  - http://www.wikidata.org/entity/Q38
+  country: null
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+content:
+  markdown_content: ''

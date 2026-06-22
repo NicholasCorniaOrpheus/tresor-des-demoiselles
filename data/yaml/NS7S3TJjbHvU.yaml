@@ -1,0 +1,38 @@
+metadata:
+  class: Organisation
+  label: Journal des demoiselles
+  aliases: null
+  description: null
+  base_name: Journal des demoiselles
+  filename: Journal des demoiselles.md
+  id: NS7S3TJjbHvU
+  n_id: 421441232247743728610
+statements:
+  identifier:
+  - http://wikidata.org/entity/Q40163826
+  instance_of: null
+  described_by_source:
+  - - Agents of Change
+  inception:
+  - value: 1833-02-01
+  location:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+    address: Boulevard des Italiens, 1
+    label: Paris
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
+    label: France
+  dissolved:
+  - value: 1922-01-01
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VahNSkW7JbTC
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
+      label: editor
+    label: Jeanne-Justine Fouqueau de Pussy
+  official_website: null
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg
+  IIIF_manifest: null
+content:
+  markdown_content: ''

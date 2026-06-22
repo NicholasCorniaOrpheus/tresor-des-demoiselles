@@ -1,0 +1,58 @@
+metadata:
+  class: Manifestation
+  label: Thalie
+  aliases: null
+  description: null
+  base_name: Thalie
+  filename: Thalie.md
+  id: AgTowXcdYL6T
+  n_id: 179008371225655632424
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU
+    label: polka
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aRNbPTwmsbtP
+    label: mazurka
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+    label: Trésor des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PiqNkd3hzjnY
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Adrien Talexy
+  has_version:
+  - holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+      label: Orpheus Instituut
+    permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+    place_of_publication:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
+      label: François Desterbecq
+  title:
+  - 'Thalie: Polka mazurka.'
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  based_on: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+assets:
+  local_asset_path: ./assets/OI-20143702p44
+  IIIF_manifest: null
+  jpg:
+  - orp-talex-thalie-20143702p44-ps-00001.jpg
+  - orp-talex-thalie-20143702p44-ps-00002.jpg
+  - orp-talex-thalie-20143702p44-ps-00003.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

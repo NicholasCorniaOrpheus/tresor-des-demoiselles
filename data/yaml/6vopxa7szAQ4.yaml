@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: female
+  base_name: female
+  filename: female.md
+  id: 6vopxa7szAQ4
+  n_id: 101660381002636031111
+statements:
+  instance_of: null
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q6581072
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

@@ -1,0 +1,30 @@
+metadata:
+  class: Organisation
+  label: University of Toronto
+  aliases: null
+  description: null
+  base_name: University of Toronto
+  filename: University of Toronto.md
+  id: GpjEsTdNqATu
+  n_id: 305817975508339725741
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a
+    label: university
+  described_by_source: null
+  inception: null
+  location: null
+  dissolved: null
+  contributor: null
+  official_website:
+  - https://librarysearch.library.utoronto.ca/
+  identifier:
+  - http://www.wikidata.org/entity/Q180865
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL9bhQaShbbC
+    label: Canada
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''

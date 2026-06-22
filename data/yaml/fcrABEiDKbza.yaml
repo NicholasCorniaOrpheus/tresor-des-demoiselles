@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: French
+  base_name: French
+  filename: French.md
+  id: fcrABEiDKbza
+  n_id: 776143208949055140089
+statements:
+  identifier:
+  - http://wikidata.org/entity/Q150
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dqFtJQZDwkjb
+    label: language
+  subclass_of: null
+  described_by_source:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
+    label: Wikidata
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

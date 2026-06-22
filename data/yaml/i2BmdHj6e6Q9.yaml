@@ -1,0 +1,29 @@
+metadata:
+  class: Agent
+  label: Johannes Verhulst
+  aliases: null
+  description: null
+  base_name: Johannes Verhulst
+  filename: Johannes Verhulst.md
+  id: i2BmdHj6e6Q9
+  n_id: 825498019293643570312
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender: null
+  identifier:
+  - http://www.wikidata.org/entity/Q964611
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+    label: composer
+assets:
+  image: https://gallica.bnf.fr/ark:/12148/btv1b10219343r/f1.highres
+  IIIF_manifest: null
+content:
+  markdown_content: ''

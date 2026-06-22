@@ -1,0 +1,22 @@
+metadata:
+  class: Place
+  label: Ghent
+  aliases:
+  - Gand
+  - Gent
+  description: null
+  base_name: Ghent
+  filename: Ghent.md
+  id: dcRsGEWm6xtE
+  n_id: 734717200977129141990
+statements:
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+    label: Belgium
+  identifier:
+  - http://www.wikidata.org/entity/Q1296
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+content:
+  markdown_content: ''

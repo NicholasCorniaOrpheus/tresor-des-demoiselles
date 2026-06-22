@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: editor
+  base_name: editor
+  filename: editor.md
+  id: nQTxNAy4WtLK
+  n_id: 916109171714744475335
+statements:
+  identifier:
+  - http://wikidata.org/entity/Q1607826
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
+    label: occupation
+  subclass_of: null
+  described_by_source: null
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

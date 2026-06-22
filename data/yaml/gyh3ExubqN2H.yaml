@@ -1,0 +1,55 @@
+metadata:
+  class: Manifestation
+  label: L'Aubépine
+  aliases: null
+  description: null
+  base_name: L'Aubépine
+  filename: L'Aubépine.md
+  id: gyh3ExubqN2H
+  n_id: 804323872952994036021
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU
+    label: polka
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aRNbPTwmsbtP
+    label: mazurka
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 23
+    publication_date: 1856-01-01
+    label: Journal des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7iBtPDhpSi6a
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Elisa Bosch
+  has_version:
+  - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+      label: Orpheus Instituut
+    publication_date: 1856-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title:
+  - 'L''Aubépine: Polka mazurka'
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language: null
+  based_on: null
+assets:
+  local_asset_path: ./assets/OI-20143702p30
+  IIIF_manifest: null
+  jpg:
+  - orp-bosch-l'aubép-20143702p30-ps-00001.jpg
+  - orp-bosch-l'aubép-20143702p30-ps-00002.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

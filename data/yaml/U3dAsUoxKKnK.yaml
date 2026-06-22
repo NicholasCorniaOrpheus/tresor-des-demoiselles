@@ -1,0 +1,68 @@
+metadata:
+  class: Manifestation
+  label: Histoire d'une Fleur
+  aliases: null
+  description: null
+  base_name: Histoire d'une Fleur
+  filename: Histoire d'une Fleur.md
+  id: U3dAsUoxKKnK
+  n_id: 537118719861599227859
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+    label: song
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 25
+    publication_date: 1857-01-01
+    label: Journal des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YKxiqAW7Evgt
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j
+      label: dedicatee
+    label: Florine Mouvielle
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Marie Lasseveur
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WZhiseJ2xo5P
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+      label: lyricist
+    label: Georges de Nevers
+  has_version:
+  - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+      label: Orpheus Instituut
+    publication_date: 1857-01-01
+    place_of_publication:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title:
+  - 'Histoire d''une Fleur: Rêverie: Pour Voix de Soprano.'
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+    quantity: 1
+    label: voice
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  based_on: null
+assets:
+  local_asset_path: ./assets/OI-20143702p20
+  IIIF_manifest: null
+  jpg:
+  - orp-lassa-histoir-20143702p20-fs-00001.jpg
+  - orp-lassa-histoir-20143702p20-fs-00002.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

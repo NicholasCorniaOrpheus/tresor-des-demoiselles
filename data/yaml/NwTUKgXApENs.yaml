@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: null
+  base_name: opera
+  filename: opera.md
+  id: NwTUKgXApENs
+  n_id: 432067482689105229967
+statements:
+  instance_of: null
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q1344
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

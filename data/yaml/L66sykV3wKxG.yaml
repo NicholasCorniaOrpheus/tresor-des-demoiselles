@@ -1,0 +1,52 @@
+metadata:
+  class: Manifestation
+  label: Ninon. Schottich
+  aliases: null
+  description: null
+  base_name: Ninon. Schottich
+  filename: Ninon. Schottich.md
+  id: L66sykV3wKxG
+  n_id: 372925306253197035914
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P3xwqK2mHjC7
+    label: schottische
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 24
+    publication_date: 1856-03-01
+    label: Journal des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bqLWPNXVxrhM
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Alexandre Scola
+  has_version:
+  - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+      label: Orpheus Instituut
+    publication_date: 1856-03-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title:
+  - Ninon. Schottich
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language: null
+  based_on: null
+assets:
+  local_asset_path: ./assets/OI-20143702p43
+  IIIF_manifest: null
+  jpg:
+  - orp-scola-ninon-20143702p43-ps-00001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

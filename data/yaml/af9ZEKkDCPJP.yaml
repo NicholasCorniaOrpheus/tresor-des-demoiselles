@@ -1,0 +1,28 @@
+metadata:
+  class: Work
+  description: null
+  aliases: null
+  label: Le Carillonneur de Bruges
+  base_name: Le Carillonneur de Bruges
+  filename: Le Carillonneur de Bruges.md
+  id: af9ZEKkDCPJP
+  n_id: 673791968446031399865
+statements:
+  instance_of: null
+  subclass_of: null
+  described_by_source: null
+  identifier: null
+  form_of_creative_work:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
+    label: opera
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3Y5ZuvTBzed4
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Albert Grisar
+  based_on: null
+assets:
+  IIIF_manifest: null
+content:
+  markdown_content: ''

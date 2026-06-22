@@ -1,0 +1,31 @@
+metadata:
+  class: Organisation
+  label: Royal Conservatory of Antwerp
+  aliases: null
+  description: null
+  base_name: Royal Conservatory of Antwerp
+  filename: Royal Conservatory of Antwerp.md
+  id: RYU7rRDeh5zs
+  n_id: 485652487271220534565
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+    label: Royal Conservatory of Antwerp
+  described_by_source: null
+  inception:
+  - value: 1898-01-01
+  location: null
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+    label: Belgium
+  dissolved: null
+  contributor: null
+  official_website:
+  - https://anet.be/desktop/apcon
+  identifier:
+  - http://www.wikidata.org/entity/Q2665388
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''

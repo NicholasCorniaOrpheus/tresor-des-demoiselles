@@ -1,0 +1,68 @@
+metadata:
+  class: Manifestation
+  label: Vole! Vole! Hirondelle
+  aliases: null
+  description: null
+  base_name: Vole! Vole! Hirondelle
+  filename: Vole! Vole! Hirondelle.md
+  id: C6UXNXKkBERA
+  n_id: 207975541815872468573
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+    label: song
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    publication_date: 1837-01-01
+    volume: 5
+    label: Journal des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fVVUZGiGyTJr
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY
+      label: arranger
+    label: Joseph Vimeux
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ek3Kt26Yt2sh
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Auguste Marquerie
+  has_version:
+  - permalink: https://mdz-nbn-resolving.de/details:bsb10359988
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh
+      label: Munich Digitization Center
+    publication_date: 1837-01-01
+    external_source: https://www.digitale-sammlungen.de/en/view/bsb10359988
+    IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359988/manifest
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title:
+  - Vole! Vole! Hirondelle
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4
+    quantity: 1
+    label: guitar
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+    quantity: 1
+    label: voice
+  depicts: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  based_on: null
+assets:
+  local_asset_path: ./assets/MDZ-10359988_1
+  IIIF_manifest: null
+  jpg:
+  - 001.jpg
+  - 002.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

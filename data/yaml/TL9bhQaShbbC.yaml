@@ -1,0 +1,18 @@
+metadata:
+  class: Place
+  label: null
+  aliases: null
+  description: null
+  base_name: Canada
+  filename: Canada.md
+  id: TL9bhQaShbbC
+  n_id: 522462311703205352227
+statements:
+  identifier:
+  - http://www.wikidata.org/entity/Q16
+  country: null
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+content:
+  markdown_content: ''

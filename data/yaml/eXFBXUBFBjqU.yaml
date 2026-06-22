@@ -1,0 +1,18 @@
+metadata:
+  class: Place
+  label: null
+  aliases: null
+  description: null
+  base_name: Germany
+  filename: Germany.md
+  id: eXFBXUBFBjqU
+  n_id: 753474992218913880167
+statements:
+  identifier:
+  - http://www.wikidata.org/entity/Q183
+  country: null
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+content:
+  markdown_content: ''

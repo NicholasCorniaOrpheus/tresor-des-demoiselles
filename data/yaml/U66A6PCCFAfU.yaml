@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: polka
+  base_name: polka
+  filename: polka.md
+  id: U66A6PCCFAfU
+  n_id: 538007836371959109467
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP
+    label: type of musical work
+  subclass_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
+    label: classical dance music
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q11821889
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

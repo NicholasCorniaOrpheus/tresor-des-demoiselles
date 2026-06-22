@@ -1,0 +1,33 @@
+metadata:
+  class: Organisation
+  label: Orpheus Instituut
+  aliases:
+  - Orpheus Institute
+  description: null
+  base_name: Orpheus Instituut
+  filename: Orpheus Instituut.md
+  id: nvkQnSyBbvsT
+  n_id: 927074628245022976603
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BSaTuCVugahJ
+    label: research institute
+  described_by_source: null
+  inception: null
+  location:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE
+    label: Ghent
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+    label: Belgium
+  dissolved: null
+  contributor: null
+  official_website:
+  - https://cat.orpheusinstituut.be/
+  identifier:
+  - http://www.wikidata.org/entity/Q2289519
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''

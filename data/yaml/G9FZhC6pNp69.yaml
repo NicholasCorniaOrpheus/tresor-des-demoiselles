@@ -1,0 +1,28 @@
+metadata:
+  class: Organisation
+  label: Internet Archive
+  aliases: null
+  description: null
+  base_name: Internet Archive
+  filename: Internet Archive.md
+  id: G9FZhC6pNp69
+  n_id: 291522931718950825057
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS
+    label: digital library
+  described_by_source: null
+  inception: null
+  location: null
+  dissolved: null
+  contributor: null
+  official_website:
+  - https://archive.org/
+  identifier:
+  - http://www.wikidata.org/entity/Q461
+  country: null
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''

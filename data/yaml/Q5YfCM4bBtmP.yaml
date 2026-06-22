@@ -1,0 +1,66 @@
+metadata:
+  class: Manifestation
+  label: Quadrille. Parisina
+  aliases: null
+  description: null
+  base_name: Quadrille. Parisina
+  filename: Quadrille. Parisina.md
+  id: Q5YfCM4bBtmP
+  n_id: 455270584580947959207
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6
+    label: quadrille
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    publication_date: 1838-01-01
+    volume: 6
+    label: Journal des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3v4q5PWHnZcN
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY
+      label: arranger
+    label: Louis Gomion
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Gaetano Donizetti
+  has_version:
+  - permalink: https://www.digitale-sammlungen.de/en/view/bsb10359989
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh
+      label: Munich Digitization Center
+    external_source: https://www.digitale-sammlungen.de/en/view/bsb10359989
+    publication_date: 1838-01-01
+    IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title:
+  - Deux Madones. Romance
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  based_on:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof
+    label: Parisina
+assets:
+  local_asset_path: ./assets/MDZ-10359989_2
+  IIIF_manifest: null
+  jpg:
+  - 001.jpg
+  - 002.jpg
+  - 003.jpg
+  - 004.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

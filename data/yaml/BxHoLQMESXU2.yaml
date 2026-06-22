@@ -1,0 +1,18 @@
+metadata:
+  class: Place
+  label: Brussels
+  aliases: null
+  description: null
+  base_name: Brussels
+  filename: Brussels.md
+  id: BxHoLQMESXU2
+  n_id: 205373221131698217465
+statements:
+  identifier:
+  - http://wikidata.org/entity/Q239
+  country: null
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+content:
+  markdown_content: ''

@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: occupation
+  base_name: occupation
+  filename: occupation.md
+  id: mQD8LFQ4A2HJ
+  n_id: 895378998996612466792
+statements:
+  instance_of: null
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q12737077
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

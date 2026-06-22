@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: male
+  base_name: male
+  filename: male.md
+  id: hkA3uvTGSDnD
+  n_id: 820056520373040841562
+statements:
+  instance_of: null
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q6581097
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

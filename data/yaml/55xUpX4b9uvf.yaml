@@ -1,0 +1,33 @@
+metadata:
+  class: Agent
+  label: Ambroise Thomas
+  aliases: null
+  description: null
+  base_name: Ambroise Thomas
+  filename: Ambroise Thomas.md
+  id: 55xUpX4b9uvf
+  n_id: 63339766698609582727
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
+    label: Wikidata
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+    label: male
+  identifier:
+  - http://www.wikidata.org/entity/Q297717
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+    label: composer
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/0/04/Ambroise_Thomas_2.jpg
+  IIIF_manifest: null
+content:
+  markdown_content: ''

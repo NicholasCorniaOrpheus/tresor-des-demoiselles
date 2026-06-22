@@ -1,0 +1,31 @@
+metadata:
+  class: Organisation
+  label: Ghent University
+  aliases: null
+  description: null
+  base_name: Ghent University
+  filename: Ghent University.md
+  id: 6iccGpXVqGeL
+  n_id: 97244700092216032167
+statements:
+  identifier:
+  - http://wikidata.org/entity/Q1137665
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a
+    label: university
+  described_by_source:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
+    label: Wikidata
+  inception: null
+  location: null
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+    label: Belgium
+  dissolved: null
+  contributor: null
+  official_website: null
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''

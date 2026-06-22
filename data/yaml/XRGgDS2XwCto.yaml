@@ -1,0 +1,68 @@
+metadata:
+  class: Manifestation
+  label: Parles bas! Chansonette
+  aliases: null
+  description: null
+  base_name: Parles bas! Chansonette
+  filename: Parles bas! Chansonette.md
+  id: XRGgDS2XwCto
+  n_id: 606861040624398499902
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+    label: song
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+    publication_date: 1849-01-01
+    label: Trésor des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+      label: lyricist
+    reference_URL: https://anet.be/record/opacap/c:lvd:12971526
+    label: Hippolyte Guérin
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5BX54FRugrpJ
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    reference_URL: https://anet.be/record/opacap/c:lvd:12971526
+    label: Francesco Masini
+  has_version:
+  - holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+      label: Royal Conservatory of Antwerp
+    permalink: https://anet.be/record/opacap/c:lvd:12971526
+    place_of_publication:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+    publication_date: 1849-01-01
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
+      label: François Desterbecq
+  title:
+  - Parles bas! Chansonette
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+    quantity: 1
+    label: voice
+  depicts: null
+  based_on: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+assets:
+  local_asset_path: ./assets/RCA-12971526
+  IIIF_manifest: null
+  jpg:
+  - 20260608141705109_0011.jpg
+  - 20260608141705109_0012.jpg
+  - 20260608141705109_0013.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

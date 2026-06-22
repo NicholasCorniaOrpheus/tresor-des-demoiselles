@@ -1,0 +1,65 @@
+metadata:
+  class: Manifestation
+  label: Ange ployez votre aile! rêverie
+  aliases: null
+  description: null
+  base_name: Ange ployez votre aile! rêverie
+  filename: Ange ployez votre aile! rêverie.md
+  id: W7qdj2zgimxv
+  n_id: 579917862579785515063
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+    label: song
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+    volume: 1
+    label: Trésor des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5BX54FRugrpJ
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Francesco Masini
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Je7moMztSRaR
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+      label: lyricist
+    label: Émile Barateau
+  has_version:
+  - permalink: https://anet.be/record/opacap/c:lvd:12971499
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+      label: Royal Conservatory of Antwerp
+    place_of_publication:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
+      label: François Desterbecq
+  title:
+  - Ange ployez votre aile! rêverie
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+    quantity: 1
+    label: voice
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  depicts: null
+  based_on: null
+  about: null
+assets:
+  local_asset_path: ./assets/RCA-12971499
+  IIIF_manifest: null
+  jpg:
+  - 20260608141705109_0001.jpg
+  - 20260608141705109_0002.jpg
+  - 20260608141705109_0003.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

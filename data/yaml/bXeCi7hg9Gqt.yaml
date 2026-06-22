@@ -1,0 +1,70 @@
+metadata:
+  class: Manifestation
+  label: 'L''enfant et la rose: mélodie'
+  aliases: null
+  description: null
+  base_name: L'enfant et la rose
+  filename: L'enfant et la rose.md
+  id: bXeCi7hg9Gqt
+  n_id: 691713508395877658444
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+    label: song
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+    volume: 2
+    label: Trésor des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oTMkeVga9UZA
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j
+      label: dedicatee
+    note: The baroness de Peellaert could be a relavite (spouse or daughter) of [Auguste
+      Philippe de Peellaert](http://www.wikidata.org/entity/Q2720231).
+    label: de Peellaert
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RjYJceWjXaJJ
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    reference_URL: https://anet.be/record/opacap/c:lvd:12971523
+    label: Robert Julien Van Maldeghem
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWYUY7mvkVNd
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+      label: lyricist
+    reference_URL: https://anet.be/record/opacap/c:lvd:12971523
+    label: Eugeen Edward Stroobant
+  has_version:
+  - permalink: https://anet.be/record/opacap/c:lvd:12971523
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+      label: Royal Conservatory of Antwerp
+    note: Hommage à Madame la Baronne de Peellaert
+  title:
+  - 'L''enfant et la rose: mélodie'
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+    quantity: 1
+    label: voice
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  depicts: null
+  based_on: null
+  about: null
+assets:
+  local_asset_path: ./assets/RCA-12971523
+  IIIF_manifest: null
+  jpg:
+  - 20260608141705109_0007.jpg
+  - 20260608141705109_0008.jpg
+  - 20260608141705109_0009.jpg
+  - 20260608141705109_0010.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

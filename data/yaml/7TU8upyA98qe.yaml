@@ -1,0 +1,68 @@
+metadata:
+  class: Manifestation
+  label: La Prière. Dédiée à S.M. la reine des français
+  aliases: null
+  description: null
+  base_name: La Prière. Dédiée à S.M. la reine des français
+  filename: La Prière. Dédiée à S.M. la reine des français.md
+  id: 7TU8upyA98qe
+  n_id: 112396240648006500678
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+    label: song
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 4
+    publication_date: 1836-01-01
+    label: Journal des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fVVUZGiGyTJr
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY
+      label: arranger
+    label: Joseph Vimeux
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/d3bH5kZvxqbQ
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: C.A. Boulanger
+  has_version:
+  - permalink: https://mdz-nbn-resolving.de/details:bsb10359987
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh
+      label: Munich Digitization Center
+    publication_date: 1836-01-01
+    external_source: https://www.digitale-sammlungen.de/en/view/bsb10359987
+    IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title:
+  - La Prière. Dédiée à S.M. la reine des français
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4
+    quantity: 1
+    label: guitar
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+    quantity: 1
+    label: voice
+  depicts: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  based_on: null
+assets:
+  local_asset_path: ./assets/MDZ-10359987_2
+  IIIF_manifest: null
+  jpg:
+  - 001.jpg
+  - 002.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

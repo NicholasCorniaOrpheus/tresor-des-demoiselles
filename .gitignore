@@ -12,7 +12,6 @@ wheels/
 # keep temporary files out of commit
 docs/
 site/
-data/config/
-data/yaml/
-data/mappings/
+data/config/credentials.json
+
 

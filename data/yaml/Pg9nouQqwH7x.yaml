@@ -1,0 +1,71 @@
+metadata:
+  class: Manifestation
+  label: 'Une orientale: mélodie'
+  aliases: null
+  description: null
+  base_name: Une orientale
+  filename: Une orientale.md
+  id: Pg9nouQqwH7x
+  n_id: 447160617199110533946
+statements:
+  identifier:
+  - https://anet.be/record/opacap/c:lvd:12971503
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+    label: song
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+    volume: 2
+    label: Trésor des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XY6KvveRnQs7
+    reference_URL: https://anet.be/record/opacap/c:lvd:12971503
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Ernest L’Épine
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bdE6MYos7APn
+    reference_URL: https://anet.be/record/opacap/c:lvd:12971503
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+      label: lyricist
+    label: Pierre Dupont
+  has_version:
+  - permalink: https://anet.be/record/opacap/c:lvd:12971503
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+      label: Royal Conservatory of Antwerp
+    place_of_publication:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
+      label: François Desterbecq
+  title:
+  - 'Une orientale: mélodie'
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+    quantity: 1
+    label: voice
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  depicts: null
+  based_on: null
+  about:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BCSvsKmuf8u3
+    label: exoticism
+assets:
+  local_asset_path: ./assets/RCA-12971503
+  IIIF_manifest: null
+  jpg:
+  - 20260608141705109_0004.jpg
+  - 20260608141705109_0005.jpg
+  - 20260608141705109_0006.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

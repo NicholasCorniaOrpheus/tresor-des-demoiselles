@@ -1,0 +1,56 @@
+metadata:
+  class: Manifestation
+  label: Le Corbeille de roses
+  aliases: null
+  description: null
+  base_name: Le Corbeille de roses
+  filename: Le Corbeille de roses.md
+  id: Ao5Ame5q39g9
+  n_id: 181398730176591290518
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC
+    label: waltz
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 24
+    publication_date: 1856-03-01
+    label: Journal des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ewn4kBPzhWzy
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: George Sawanoff
+  has_version:
+  - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+      label: Orpheus Instituut
+    publication_date: 1856-03-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title:
+  - Le Corbeille de roses. Valse brillante
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language: null
+  based_on: null
+assets:
+  local_asset_path: ./assets/OI-20143702p41
+  IIIF_manifest: null
+  jpg:
+  - orp-sawan-lecorbe-20143702p41-ps-00001.jpg
+  - orp-sawan-lecorbe-20143702p41-ps-00002.jpg
+  - orp-sawan-lecorbe-20143702p41-ps-00003.jpg
+  - orp-sawan-lecorbe-20143702p41-ps-00004.jpg
+  - orp-sawan-lecorbe-20143702p41-ps-00005.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

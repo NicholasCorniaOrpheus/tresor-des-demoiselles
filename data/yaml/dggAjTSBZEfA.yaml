@@ -1,0 +1,18 @@
+metadata:
+  class: Place
+  label: Netherlands
+  aliases: null
+  description: null
+  base_name: Netherlands
+  filename: Netherlands.md
+  id: dggAjTSBZEfA
+  n_id: 736256090862171196994
+statements:
+  identifier:
+  - http://wikidata.org/entity/Q55
+  country: null
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+content:
+  markdown_content: ''

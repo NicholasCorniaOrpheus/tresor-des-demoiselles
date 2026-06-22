@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: null
+  base_name: duet
+  filename: duet.md
+  id: Rbyhy2fEYa2g
+  n_id: 486926581164492393362
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP
+    label: type of musical work
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q109940
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

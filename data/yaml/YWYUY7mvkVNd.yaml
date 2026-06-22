@@ -1,0 +1,32 @@
+metadata:
+  class: Agent
+  label: Eugeen Edward Stroobant
+  aliases:
+  - Eugeen Stroobant
+  description: null
+  base_name: Eugeen Edward Stroobant
+  filename: Eugeen Edward Stroobant.md
+  id: YWYUY7mvkVNd
+  n_id: 629407429933659994040
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+    label: lyricist
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+    label: male
+  identifier:
+  - http://www.wikidata.org/entity/Q56036071
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''

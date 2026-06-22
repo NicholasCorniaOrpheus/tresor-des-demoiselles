@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: mazurka
+  base_name: mazurka
+  filename: mazurka.md
+  id: aRNbPTwmsbtP
+  n_id: 668806311544781823963
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
+    label: classical dance music
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q151942
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+content:
+  markdown_content: ''

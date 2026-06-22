@@ -1,0 +1,72 @@
+metadata:
+  class: Manifestation
+  label: Herminie. Mazurka
+  aliases: null
+  description: null
+  base_name: Herminie. Mazurka
+  filename: Herminie. Mazurka.md
+  id: ReUSHfcDfYkz
+  n_id: 487826740396054730027
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aRNbPTwmsbtP
+    label: mazurka
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 25
+    publication_date: 1857-01-01
+    label: Journal des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/inAaJFhDYvcx
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j
+      label: dedicatee
+    label: Suzanne Battaille
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mFC9uMqxqNkK
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Eugène Braulart
+  has_version:
+  - permalink: http://id.sbn.it/bid/MUS0256990
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7LoWAKaDbbUb
+      label: Biblioteca civica di Verona
+    publication_date: 1857-01-01
+    place_of_publication:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Q5THigN5nbNH
+      label: Dupuy
+  - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+      label: Orpheus Instituut
+    publication_date: 1857-01-01
+    place_of_publication:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title:
+  - Herminie. Mazurka
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language: null
+  based_on: null
+assets:
+  local_asset_path: ./assets/OI-20143702p19
+  IIIF_manifest: null
+  jpg:
+  - orp-braul-hermini-20143702p19-ps-00001.jpg
+  - orp-braul-hermini-20143702p19-ps-00002.jpg
+  - orp-braul-hermini-20143702p19-ps-00003.jpg
+  - orp-braul-hermini-20143702p19-ps-00004.jpg
+  - orp-braul-hermini-20143702p19-ps-00005.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

@@ -1,0 +1,81 @@
+# {{ metadata.label }} ({{ metadata.id }})
+
+{# 1. Export Buttons #}
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/{{ metadata.id }}.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/{{ metadata.id }}.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/{{ metadata.id }}.csv){ .md-button }
+{%- if assets and assets.local_asset_path %}
+[:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/{{ assets.local_asset_path | replace('./', '') }}){ .md-button }
+{%- endif %}
+
+{# 2. Metadata Admonition - Filtering out n_id, base_name, and filename #}
+<img src="{{ assets.image }}" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+!!! note "metadata"
+    {%- for k, v in metadata.items() if v is not none and k not in ['n_id', 'base_name', 'filename'] %}
+    - {{ k }}: {% if v is iterable and v is not string %}{{ v | join('; ') }}{% else %}{{ v }}{% endif %} 
+    {%- endfor %}
+    <div style="clear:both;"></div>
+
+<br><br>
+{# 3. Statements Admonitions #}
+## Statements
+{%- for key, items in statements.items() if items is not none %}
+???+ abstract "{{ key | replace('_', ' ') }}"
+    {%- set items_list = items if items is iterable and items is not string else [items] -%}
+    {%- for item in items_list %}
+    - {% if item is mapping -%}
+        {%- if item.label and item.value -%}
+          [{{ item.label }}]({{ item.value }})
+        {%- elif item.value -%}
+          {%- if item.value is string and item.value.startswith('http') -%}
+
+            [{{ (item.value.rstrip('/').split('/')|last).split('=')|last }}]({{ item.value }})
+          {%- else -%}
+          {% if item.value is iterable and item.value is not string %}{{ item.value | join('; ') }}{% else %}{{ item.value }}{% endif %}
+          {%- endif -%}
+        {%- endif -%}
+        
+        {%- for subk, subv in item.items() if subk not in ['label', 'value'] and subv is not none %}
+        * {{ subk | replace('_', ' ') }}: 
+        {%- set subv_list = subv if subv is iterable and subv is not string and subv is not mapping else [subv] -%}
+        {%- for sv in subv_list -%}
+          {#- Add an explicit space if this is the first item -#}
+          {%- if loop.first %} {% endif -%}
+          {%- if sv is mapping -%}
+            {%- if sv.label and sv.value -%}[{{ sv.label }}]({{ sv.value }}){%- elif sv.value -%}{%- if sv.value is string and sv.value.startswith('http') -%}[{{ (sv.value.rstrip('/').split('/')|last).split('=')|last }}]({{ sv.value }}){%- else -%}{{ sv.value }}{%- endif -%}{%- endif -%}
+          {%- elif sv is string and sv.startswith('http') -%}[{{ (sv.rstrip('/').split('/')|last).split('=')|last }}]({{ sv }}){%- else -%}{{ sv }}{%- endif -%}
+          {%- if not loop.last %} ; {% endif -%}
+        {%- endfor -%}
+{%- endfor -%}
+      {%- else -%}
+        {%- if item is string and item.startswith('http') -%}[{{ (item.rstrip('/').split('/')|last).split('=')|last }}]({{ item }}){%- else -%}{{ item }}{%- endif -%}
+      {%- endif -%}
+    {%- endfor %}
+{% endfor %}
+
+{# 4. Notes Content #}
+{%- if content.markdown_content %}
+## Notes
+{{ content.markdown_content }}
+{% endif %}
+
+{# 5. Digital Assets Viewer #}
+{%- if assets and (assets.IIIF_manifest or assets.local_asset_path) %}
+## Digital Assets
+<div id="openseadragon-container" style="display: flex; height: 600px; border: 1px solid #ccc;">
+    <div id="osd-viewer" style="width: {% if assets.tei %}50%{% else %}100%{% endif %}; background: #333;"></div>
+    {%- if assets.tei %}
+    <div id="tei-transcription" style="width: 50%; padding: 20px; overflow-y: auto; background: #fff;"></div>
+    {%- endif %}
+</div>
+
+<script>
+window.entityAssets = {
+    "base_github_url": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/" ,
+    "local_path": "{{ (assets.local_asset_path or '') | replace('./', '') }}/",
+    "images": {{ (assets.jpg or []) | tojson }},
+    "tei": {{ (assets.tei or []) | tojson }},
+    "iiif": "{{ assets.IIIF_manifest or '' }}"
+};
+</script>
+{%- endif %}

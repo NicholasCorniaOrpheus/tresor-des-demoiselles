@@ -1,0 +1,33 @@
+metadata:
+  class: Agent
+  label: Albert Grisar
+  aliases: null
+  description: null
+  base_name: Albert Grisar
+  filename: Albert Grisar.md
+  id: 3Y5ZuvTBzed4
+  n_id: 31519510024821367859
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8
+    label: Antwerp
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+    label: male
+  identifier:
+  - http://www.wikidata.org/entity/Q2003880
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+    label: composer
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/e/ef/Albert_Grisar.jpg
+  IIIF_manifest: null
+content:
+  markdown_content: ''

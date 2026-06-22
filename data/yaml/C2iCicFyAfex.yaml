@@ -1,0 +1,31 @@
+metadata:
+  class: Work
+  description: null
+  aliases: null
+  label: Le Caïd
+  base_name: Le Caïd
+  filename: Le Caïd.md
+  id: C2iCicFyAfex
+  n_id: 206614251070597609065
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp
+    label: dramatico-musical work
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q8773631
+  form_of_creative_work:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
+    label: opera
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/55xUpX4b9uvf
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Ambroise Thomas
+  based_on: null
+assets:
+  IIIF_manifest: null
+content:
+  markdown_content: ''

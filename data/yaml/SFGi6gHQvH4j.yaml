@@ -1,0 +1,62 @@
+metadata:
+  class: Manifestation
+  label: L'Elisir d'amore. Quadrille
+  aliases: null
+  description: null
+  base_name: L'Elisir d'amore. Quadrille
+  filename: L'Elisir d'amore. Quadrille.md
+  id: SFGi6gHQvH4j
+  n_id: 500061417507748931744
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6
+    label: quadrille
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 7
+    publication_date: 1839-01-01
+    label: Journal des demoiselles
+  contributor:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CaRovnpexber
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY
+      label: arranger
+    label: Louis Antoine Jullien
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    label: Gaetano Donizetti
+  has_version:
+  - permalink: https://mdz-nbn-resolving.de/details:bsb10359990
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh
+      label: Munich Digitization Center
+    publication_date: 1839-01-01
+    external_source: https://www.digitale-sammlungen.de/en/view/bsb10359990
+    IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  title:
+  - L'Elisir d'amore. Quadrille
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language: null
+  based_on: null
+assets:
+  local_asset_path: ./assets/MDZ-10359990_2
+  IIIF_manifest: null
+  jpg:
+  - 001.jpg
+  - 002.jpg
+  - 003.jpg
+  - 004.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

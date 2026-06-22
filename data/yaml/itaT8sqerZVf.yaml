@@ -1,0 +1,44 @@
+metadata:
+  class: Manifestation
+  label: Journal des demoiselles (1851)
+  aliases: null
+  description: null
+  base_name: Journal des demoiselles (1851)
+  filename: Journal des demoiselles (1851).md
+  id: itaT8sqerZVf
+  n_id: 843743708244636108652
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+    label: periodical
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 19
+    publication_date: 1851-01-01
+    label: Journal des demoiselles
+  contributor: null
+  has_version:
+  - external_source: https://archive.org/details/journaldesdemoi04unkngoog
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX
+      label: Harvard University
+    publication_date: 1851-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    permalink: https://id.lib.harvard.edu/alma/990053803900203941/catalog
+  title: null
+  instrumentation: null
+  depicts: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  based_on: null
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+content:
+  markdown_content: ''

@@ -1,0 +1,28 @@
+metadata:
+  class: Agent
+  label: Suzanne Battaille
+  aliases: null
+  description: null
+  base_name: Suzanne Battaille
+  filename: Suzanne Battaille.md
+  id: inAaJFhDYvcx
+  n_id: 841419871482287457453
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+    label: female
+  identifier: null
+  occupation: null
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  IIIF_manifest: null
+content:
+  markdown_content: ''
