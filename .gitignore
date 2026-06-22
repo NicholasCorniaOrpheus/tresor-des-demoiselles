@@ -9,7 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
-# configuration files
+# keep temporary files out of commit
+docs/
+site/
 data/config/
 data/yaml/
 data/rdf/
