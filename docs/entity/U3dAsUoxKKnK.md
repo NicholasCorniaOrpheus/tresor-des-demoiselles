@@ -10,7 +10,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Manifestation |
     | **label** | Histoire d'une Fleur |
     | **id** | U3dAsUoxKKnK |
@@ -51,8 +51,7 @@
         * quantity: 1
 
 ???+ abstract "language"
-    - value
-    - label
+    - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
 
 
 

@@ -8,7 +8,7 @@ instance_of:
   - "[[romance]]"
 has_part:
 part_of:
-  - value: "[[Le trésor des demoiselles]]"
+  - value: "[[Trésor des demoiselles]]"
     publication_date: 1853-04-01
 contributor:
   - value: "[[Louis Pierre Deffès]]"

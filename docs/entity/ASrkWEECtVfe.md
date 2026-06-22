@@ -10,7 +10,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Manifestation |
     | **label** | Trésor des demoiselles (1859) |
     | **description** | 1859 issues collected in one volume. |
@@ -23,11 +23,10 @@
     - [19582](https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582)
 
 ???+ abstract "instance of"
-    - value
-    - label
+    - [periodical](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW)
 
 ???+ abstract "part of"
-    - [Le trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MskVEM8qoANK)
+    - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
         * volume: 27
         * publication date: 1859-01-01
 

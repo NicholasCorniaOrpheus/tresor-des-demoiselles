@@ -8,7 +8,7 @@ instance_of:
   - "[[song]]"
 has_part:
 part_of:
-  - value: "[[Le trésor des demoiselles]]"
+  - value: "[[Trésor des demoiselles]]"
     publication_date: 1849-01-01
 contributor:
   - value: "[[Hippolyte Guérin]]"

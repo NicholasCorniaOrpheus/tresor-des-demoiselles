@@ -1,9 +1,9 @@
 ---
 class: Organisation
 identifier: http://wikidata.org/entity/Q88565625
-label: Le trésor des demoiselles
+label: Trésor des demoiselles
 aliases:
-  - Trésor des demoiselles
+  - Le trésor des demoiselles
 description: Belgian periodical
 instance_of: "[[periodical]]"
 described_by_source:

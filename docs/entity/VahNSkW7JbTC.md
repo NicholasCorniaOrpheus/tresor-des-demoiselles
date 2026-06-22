@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Jeanne-Justine Fouqueau de Pussy |
     | **id** | VahNSkW7JbTC |
@@ -21,8 +21,7 @@
     - [Q6172006](http://wikidata.org/entity/Q6172006)
 
 ???+ abstract "instance of"
-    - value
-    - label
+    - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "occupation"
     - [editor](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK)
@@ -37,8 +36,7 @@
     - 1864-01-01
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [female](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4)
 
 
 

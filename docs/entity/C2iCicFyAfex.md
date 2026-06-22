@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Work |
     | **label** | Le Caïd |
     | **id** | C2iCicFyAfex |
@@ -24,8 +24,7 @@
     - [Q8773631](http://www.wikidata.org/entity/Q8773631)
 
 ???+ abstract "form of creative work"
-    - value
-    - label
+    - [opera](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs)
 
 ???+ abstract "contributor"
     - [Ambroise Thomas](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/55xUpX4b9uvf)

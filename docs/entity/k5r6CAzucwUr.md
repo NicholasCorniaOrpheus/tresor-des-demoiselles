@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Work |
     | **label** | L'elisir d'amore |
     | **id** | k5r6CAzucwUr |
@@ -24,8 +24,7 @@
     - [Q332536](http://www.wikidata.org/entity/Q332536)
 
 ???+ abstract "form of creative work"
-    - value
-    - label
+    - [opera](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs)
 
 ???+ abstract "contributor"
     - [Gaetano Donizetti](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm)

@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Friedrich_Burgm%C3%BCller.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Friedrich Burgmüller |
     | **id** | kXFWowftH5UQ |
@@ -21,8 +21,7 @@
     - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [male](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD)
 
 ???+ abstract "occupation"
     - [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)

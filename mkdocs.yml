@@ -11,16 +11,18 @@ plugins:
   - search
 
 extra_css:
-  - overrides/css/extras.css
+  - assets/css/extras.css
 
 extra_javascript:
-  - overrides/js/CETEI.js 
-  - overrides/js/openseadragon.js
-  - overrides/js/d3.js
+  - assets/js/CETEI.js
+  - https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js
+  - https://d3js.org/d3.v7.min.js 
+  - assets/js/openseadragon-init.js
+  - assets/js/d3.js
 
 theme:
   name: material
-  custom_dir: overrides
+  # custom_dir: overrides
   language: en
   icon:
     previous: fontawesome/solid/angle-left
@@ -31,28 +33,14 @@ theme:
       quote: fontawesome/solid/quote-left
 
   font:
-      text: Sofia Sans
+      text: Crimson Pro
   palette:
-    # Palette toggle for light mode
-    #- scheme: default
-      #primary: custom
-      #default: custom
-      #footer: custom
-      #accent: custom
-      #toggle:
-        #icon: material/weather-night
-        #name: Switch to dark mode
-
-    # Palette toggle for dark mode
     - scheme: slate
       primary: custom
       default: custom
       footer: custom
       accent: custom
-      #toggle:
-        #icon: material/weather-sunny
-        #name: Switch to light mode        
-
+      
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -62,12 +50,7 @@ theme:
     - navigation.prune
     - search.share
     - toc.integrate
-    #- navigation.footer
-    #- navigation.tabs
-    #- navigation.tabs.sticky
-    #- navigation.top
-    #- toc.follow
-    #- toc
+
 
 copyright: Copyright &copy; 2026 Orpheus Instituut, Resounding Libraries
 

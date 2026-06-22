@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Concept |
     | **label** | waltz |
     | **id** | LTZ2PAutKcZC |
@@ -21,8 +21,7 @@
     - [type of musical work](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP)
 
 ???+ abstract "subclass of"
-    - value
-    - label
+    - [classical dance music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew)
 
 ???+ abstract "identifier"
     - [Q8701407](http://www.wikidata.org/entity/Q8701407)

@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Organisation |
     | **label** | Agents of Change. Women Editors and Socio-Cultural Transformation in Europe 1710-1920 |
     | **aliases** | WeChangeEd |
@@ -20,8 +20,7 @@
 
 ## Statements
 ???+ abstract "described by source"
-    - value
-    - label
+    - [Wikidata](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2)
 
 ???+ abstract "inception"
     - 2015-01-01

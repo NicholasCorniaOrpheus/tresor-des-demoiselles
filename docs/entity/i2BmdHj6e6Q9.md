@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://gallica.bnf.fr/ark:/12148/btv1b10219343r/f1.highres" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Johannes Verhulst |
     | **id** | i2BmdHj6e6Q9 |

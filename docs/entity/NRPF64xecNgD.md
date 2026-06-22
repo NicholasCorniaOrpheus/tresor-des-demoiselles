@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Portrait_de_Marceline_Desbordes_%28cropped%29.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Marceline Desbordes-Valmore |
     | **id** | NRPF64xecNgD |
@@ -21,8 +21,7 @@
     - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [female](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4)
 
 ???+ abstract "identifier"
     - [Q466987](http://www.wikidata.org/entity/Q466987)

@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Adrien_Talexy_1850.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Adrien Talexy |
     | **id** | PiqNkd3hzjnY |

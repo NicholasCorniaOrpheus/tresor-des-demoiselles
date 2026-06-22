@@ -10,7 +10,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Manifestation |
     | **label** | Quadrille. Parisina |
     | **id** | Q5YfCM4bBtmP |
@@ -27,7 +27,7 @@
         * volume: 6
 
 ???+ abstract "contributor"
-    - [[Louis Gomion]]
+    - [Louis Gomion](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3v4q5PWHnZcN)
         * role: [arranger](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY)
     - [Gaetano Donizetti](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm)
         * role: [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)
@@ -52,7 +52,7 @@
     - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
 
 ???+ abstract "based on"
-    - [[Parisina]]
+    - [Parisina](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof)
 
 
 

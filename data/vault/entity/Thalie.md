@@ -9,7 +9,7 @@ instance_of:
   - "[[mazurka]]"
 has_part:
 part_of:
-  - value: "[[Le trésor des demoiselles]]"
+  - value: "[[Trésor des demoiselles]]"
 contributor:
   - value: "[[Adrien Talexy]]"
     role: "[[composer]]"

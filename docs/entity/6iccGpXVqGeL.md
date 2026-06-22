@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Organisation |
     | **label** | Ghent University |
     | **id** | 6iccGpXVqGeL |
@@ -21,12 +21,10 @@
     - [Q1137665](http://wikidata.org/entity/Q1137665)
 
 ???+ abstract "instance of"
-    - value
-    - label
+    - [university](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a)
 
 ???+ abstract "described by source"
-    - value
-    - label
+    - [Wikidata](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2)
 
 ???+ abstract "country"
     - [Belgium](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R)

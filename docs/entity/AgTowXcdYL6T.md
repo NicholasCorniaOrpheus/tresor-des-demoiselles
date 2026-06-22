@@ -10,7 +10,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Manifestation |
     | **label** | Thalie |
     | **id** | AgTowXcdYL6T |
@@ -23,7 +23,7 @@
     - [mazurka](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aRNbPTwmsbtP)
 
 ???+ abstract "part of"
-    - [Le trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MskVEM8qoANK)
+    - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
 
 ???+ abstract "contributor"
     - [Adrien Talexy](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PiqNkd3hzjnY)

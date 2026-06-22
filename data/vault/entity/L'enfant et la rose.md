@@ -7,7 +7,7 @@ local_asset_path: ./assets/RCA-12971523
 instance_of: "[[song]]"
 has_part:
 part_of:
-  - value: "[[Le trésor des demoiselles]]"
+  - value: "[[Trésor des demoiselles]]"
     volume: 2
 contributor:
   - value: "[[de Peellaert]]"

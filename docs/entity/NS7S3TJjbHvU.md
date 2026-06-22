@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Organisation |
     | **label** | Journal des demoiselles |
     | **id** | NS7S3TJjbHvU |

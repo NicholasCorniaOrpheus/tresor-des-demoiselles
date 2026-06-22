@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Matteo_Carcassi_%281792-1853%29.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Matteo Carcassi |
     | **id** | 6wJL3XGBiSDj |
@@ -21,8 +21,7 @@
     - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [male](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD)
 
 ???+ abstract "identifier"
     - [Q469912](http://www.wikidata.org/entity/Q469912)

@@ -9,7 +9,7 @@ local_asset_path: ./assets/OI-20144506
 instance_of: "[[periodical]]"
 has_part:
 part_of:
-  - value: "[[Le trésor des demoiselles]]"
+  - value: "[[Trésor des demoiselles]]"
     volume: 27
     publication_date: 1859-01-01
 contributor:

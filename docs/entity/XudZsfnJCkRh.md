@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Amable_Tastu_by_Constance_Mayer.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Amable Tastu |
     | **id** | XudZsfnJCkRh |
@@ -21,8 +21,7 @@
     - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [female](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4)
 
 ???+ abstract "identifier"
     - [Q2840806](http://www.wikidata.org/entity/Q2840806)

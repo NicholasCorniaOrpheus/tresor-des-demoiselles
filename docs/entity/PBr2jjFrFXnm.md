@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fotoreproductie_van_Gaetano_Donizetti.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Gaetano Donizetti |
     | **id** | PBr2jjFrFXnm |
@@ -21,8 +21,7 @@
     - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [male](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD)
 
 ???+ abstract "identifier"
     - [Q101698](http://www.wikidata.org/entity/Q101698)

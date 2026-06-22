@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Organisation |
     | **label** | Royal Library of Belgium |
     | **id** | 2osPtS3ax4Hc |
@@ -18,7 +18,7 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - [[national library]]
+    - [national library](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk)
 
 ???+ abstract "location"
     - [Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2)

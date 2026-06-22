@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Work |
     | **label** | Le Carillonneur de Bruges |
     | **id** | af9ZEKkDCPJP |
@@ -18,8 +18,7 @@
 
 ## Statements
 ???+ abstract "form of creative work"
-    - value
-    - label
+    - [opera](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs)
 
 ???+ abstract "contributor"
     - [Albert Grisar](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3Y5ZuvTBzed4)

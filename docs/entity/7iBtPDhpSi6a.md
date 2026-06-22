@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Elisa Bosch |
     | **id** | 7iBtPDhpSi6a |
@@ -21,8 +21,7 @@
     - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [female](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4)
 
 ???+ abstract "identifier"
     - [Q110996848](http://www.wikidata.org/entity/Q110996848)

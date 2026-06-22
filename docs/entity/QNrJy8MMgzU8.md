@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Louise Jeanne Cécile Ruelens |
     | **id** | QNrJy8MMgzU8 |
@@ -18,8 +18,7 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - value
-    - label
+    - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "occupation"
     - [editor](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK)
@@ -28,8 +27,7 @@
     - 1818-03-15
 
 ???+ abstract "described by source"
-    - value
-    - label
+    - [Agents of Change](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP)
 
 ???+ abstract "date of death"
     - 1884-06-04
@@ -38,8 +36,7 @@
     - [Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8)
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [female](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4)
 
 ???+ abstract "identifier"
     - [Q55875664](http://www.wikidata.org/entity/Q55875664)

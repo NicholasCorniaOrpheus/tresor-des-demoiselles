@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Charles-Henri_Plantade_1806.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Charles-Henri Plantade |
     | **id** | EZRQ4FAbVngs |
@@ -21,8 +21,7 @@
     - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [male](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD)
 
 ???+ abstract "identifier"
     - [Q2958126](http://www.wikidata.org/entity/Q2958126)

@@ -10,7 +10,7 @@ has_part:
 part_of:
   - value: "[[La mélodie]]"
     volume: 29
-  - value: "[[Le trésor des demoiselles]]"
+  - value: "[[Trésor des demoiselles]]"
 contributor:
   - value: "[[Louis Bordèse]]"
     role: "[[composer]]"

@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Work |
     | **aliases** | Parisina d'Este |
     | **label** | Parisina |
@@ -25,8 +25,7 @@
     - [Q652926](http://www.wikidata.org/entity/Q652926)
 
 ???+ abstract "form of creative work"
-    - value
-    - label
+    - [opera](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs)
 
 ???+ abstract "contributor"
     - [Gaetano Donizetti](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm)

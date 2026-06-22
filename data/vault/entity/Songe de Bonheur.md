@@ -8,7 +8,7 @@ instance_of:
   - "[[waltz]]"
 has_part:
 part_of:
-  - value: "[[Le trésor des demoiselles]]"
+  - value: "[[Trésor des demoiselles]]"
     publication_date: 1853-06-01
 contributor:
   - value: "[[Emile Ettling]]"

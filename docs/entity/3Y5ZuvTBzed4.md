@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Albert_Grisar.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | Albert Grisar |
     | **id** | 3Y5ZuvTBzed4 |
@@ -24,8 +24,7 @@
     - [Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8)
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [male](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD)
 
 ???+ abstract "identifier"
     - [Q2003880](http://www.wikidata.org/entity/Q2003880)

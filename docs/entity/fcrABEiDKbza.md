@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Concept |
     | **label** | French |
     | **id** | fcrABEiDKbza |
@@ -21,12 +21,10 @@
     - [Q150](http://wikidata.org/entity/Q150)
 
 ???+ abstract "instance of"
-    - value
-    - label
+    - [language](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dqFtJQZDwkjb)
 
 ???+ abstract "described by source"
-    - value
-    - label
+    - [Wikidata](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2)
 
 
 

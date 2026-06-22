@@ -9,7 +9,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Agent |
     | **label** | François Desterbecq |
     | **id** | XogB6ccutzoR |
@@ -21,22 +21,19 @@
     - [Q46999103](http://wikidata.org/entity/Q46999103)
 
 ???+ abstract "instance of"
-    - value
-    - label
+    - [human](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk)
 
 ???+ abstract "occupation"
     - [publisher](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs)
 
 ???+ abstract "described by source"
-    - value
-    - label
+    - [Wikidata](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2)
 
 ???+ abstract "date of death"
     - 1896
 
 ???+ abstract "sex or gender"
-    - value
-    - label
+    - [male](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD)
 
 
 

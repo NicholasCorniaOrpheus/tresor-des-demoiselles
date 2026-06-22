@@ -10,7 +10,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Manifestation |
     | **label** | Le soir: mélodie transcrite pour soprano |
     | **id** | dJRZgT58Xf8A |
@@ -22,7 +22,7 @@
     - [song](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU)
 
 ???+ abstract "part of"
-    - [Le trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MskVEM8qoANK)
+    - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
         * volume: 4
 
 ???+ abstract "contributor"

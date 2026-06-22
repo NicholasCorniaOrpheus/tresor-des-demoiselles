@@ -8,7 +8,7 @@ instance_of:
   - "[[song]]"
 has_part:
 part_of:
-  - value: "[[Le trésor des demoiselles]]"
+  - value: "[[Trésor des demoiselles]]"
     volume: 4
 contributor:
   - value: "[[Marceline Desbordes-Valmore]]"

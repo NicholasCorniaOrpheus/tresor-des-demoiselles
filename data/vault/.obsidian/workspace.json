@@ -23,36 +23,12 @@
             }
           },
           {
-            "id": "bbcd7223ff346c3b",
+            "id": "32d6ada254ee9884",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entity/Deux Madones. Romance.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Deux Madones. Romance"
-            }
-          },
-          {
-            "id": "ad14503c6a295e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity/Journal des demoiselles (1876).md",
+                "file": "entity/Journal des demoiselles (1837).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -67,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Journal des demoiselles (1876)"
+              "title": "Journal des demoiselles (1837)"
             }
           }
         ],
@@ -103,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Journal des demoiselles (1837)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +100,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,12 +209,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "9131230921203baf",
+  "active": "32d6ada254ee9884",
   "lastOpenFiles": [
+    "entity/Magasin des demoiselles.md",
+    "entity/Magasin des demoiselles (1886).md",
+    "entity/Magasin des demoiselles (1887).md",
+    "entity/Deux Madones. Romance.md",
+    "entity/Bibliothèque nationale de France.md",
+    "entity/Journal des demoiselles (1877).md",
+    "entity/Jeanne-Justine Fouqueau de Pussy.md",
+    "entity/Trésor des demoiselles.md",
+    "entity/Gaetano Donizetti.md",
+    "entity/male.md",
     "entity/Journal des demoiselles (1838).md",
     "entity/Journal des demoiselles (1876).md",
     "entity/Journal des demoiselles (1876) 1.md",
-    "entity/Deux Madones. Romance.md",
     "entity/Quadrille. Parisina.md",
     "assets/MDZ-10359989_2/004.jpg",
     "assets/MDZ-10359989_2/Unconfirmed 579759.crdownload",
@@ -258,18 +244,9 @@
     "entity/Adrien Talexy.md",
     "entity/Adolphe Aimé Lecadre.md",
     "entity/Trésor des demoiselles (1859).md",
-    "Journal des demoiselles (1838).md",
     "entity/Vole! Vole! Hirondelle.md",
     "entity/Vole Vite.md",
     "entity/Untitled.md",
-    "entity/University of Toronto.md",
-    "entity/United States.md",
-    "entity/type of musical group.md",
-    "entity/type of library.md",
-    "entity/Thalie.md",
-    "entity/Suzanne Battaille.md",
-    "entity/serenade.md",
-    "entity/schottische.md",
     "assets/place.png",
     "assets/agent.png",
     "assets/concept.png",

@@ -10,7 +10,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Manifestation |
     | **label** | Dieu le voit |
     | **id** | gRR8aAYdEX54 |
@@ -22,7 +22,7 @@
     - [song](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU)
 
 ???+ abstract "part of"
-    - [Le trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MskVEM8qoANK)
+    - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
 
 ???+ abstract "contributor"
     - [Auguste Richomme](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/c5Sr2gJUocsM)

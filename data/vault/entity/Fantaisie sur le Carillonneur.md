@@ -8,7 +8,7 @@ instance_of:
   - "[[fantasia]]"
 has_part:
 part_of:
-  - value: "[[Le trésor des demoiselles]]"
+  - value: "[[Trésor des demoiselles]]"
 contributor:
   - value: "[[Friedrich Burgmüller]]"
     role: "[[composer]]"

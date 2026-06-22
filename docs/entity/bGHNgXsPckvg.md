@@ -10,7 +10,7 @@
 !!! note "metadata"
     <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
     | property | value |
-    | :--- | :--- |
+    | --- | --- |
     | **class** | Manifestation |
     | **label** | Les Fauvettes |
     | **id** | bGHNgXsPckvg |
@@ -24,7 +24,7 @@
 ???+ abstract "part of"
     - [La mélodie](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fPQHFdTsWu9q)
         * volume: 29
-    - [Le trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MskVEM8qoANK)
+    - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
 
 ???+ abstract "contributor"
     - [Louis Bordèse](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VcpJBubpN5Jf)
