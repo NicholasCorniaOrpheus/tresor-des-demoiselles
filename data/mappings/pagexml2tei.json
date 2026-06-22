@@ -1,6 +1,6 @@
 {
   "title": {
-    "element": "title"
+    "element": "head"
     },
   "heading": {
     "element": "head"

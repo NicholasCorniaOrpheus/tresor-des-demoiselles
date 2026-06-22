@@ -10,5 +10,10 @@ wheels/
 .venv
 
 # configuration files
-data/config/credentials.json
+data/config/
+data/yaml/
+data/rdf/
+data/json/
+data/csv/
+data/mappings/
 

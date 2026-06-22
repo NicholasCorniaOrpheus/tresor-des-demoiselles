@@ -19,11 +19,11 @@ contributor/role,bf,Role,http://id.loc.gov/ontologies/bibframe/Role,Entity,,stat
 has_version,,,,Statement,,statements
 has_version/permalink,schema,url,https://schema.org/url,URIRef,,statements
 has_version/note,bf,note,http://id.loc.gov/ontologies/bibframe/Note,String,,statements
-has_version/external_source,bf,electronicLocator,http://id.loc.gov/ontologies/bibframe/electronicLocator,URIRef,,assets
+has_version/external_source,bf,electronicLocator,http://id.loc.gov/ontologies/bibframe/electronicLocator,URIRef,,statements
 has_version/publication_date,schema,datePublished,https://schema.org/datePublished,Date,P577,statements
 has_version/place_of_publication,wdt,place of publication,http://wikidata.org/entity/P291,Entity,P291,statements
 has_version/holding_institution,bf,heldBy,http://id.loc.gov/ontologies/bibframe/heldBy,Entity,,statements
-has_version/IIIF_manifest,wdt,IIIF manifest URL,http://wikidata.org/entity/P6108,URIRef,P6108,assets
+has_version/IIIF_manifest,wdt,IIIF manifest URL,http://wikidata.org/entity/P6108,URIRef,P6108,statements
 title,dcterms,title,http://purl.org/dc/terms/title,String,P1476,statements
 instrumentation,,,,Statement,,statements
 instrumentation/value,wdt,instrumentation,http://wikidata.org/entity/P870,,P870,statements
@@ -66,3 +66,8 @@ based_on/reference_URL,wdt,reference URL,http://wikidata.org/entity/P854,URIRef,
 based_on/note,bf,note,http://id.loc.gov/ontologies/bibframe/Note,String,,statements
 about,schema,about,https://schema.org/about,Entity,,statements
 form_of_creative_work,wdt,form of creative work,http://www.wikidata.org/entity/P7937,Entity,P7937,statements
+markdown_content,schema,text,https://schema.org/text,String,,content
+filename,,,,String,,metadata
+n_id,,,,Integer,,metadata
+id,,,,String,,metadata
+base_name,,,,String,,metadata

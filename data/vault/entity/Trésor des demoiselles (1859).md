@@ -1,7 +1,7 @@
 ---
 class: Manifestation
 identifier: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582
-label: Trésor des demoiselles (1857)
+label: Trésor des demoiselles (1859)
 aliases:
 description: 1859 issues collected in one volume.
 IIIF_manifest:
@@ -29,6 +29,6 @@ language:
   - value: "[[French]]"
 holding_institution: "[[Orpheus Instituut]]"
 depicts:
-based_on: 
-about: 
+based_on:
+about:
 ---
