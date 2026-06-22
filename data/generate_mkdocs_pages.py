@@ -1,16 +1,22 @@
-from kblight.site import jinja
+from kblight.site import jinja, d3_graph
 from kblight import utilities
 from pathlib import Path
 
 credentials = utilities.json2dict("./config/credentials.json")
 
+base_url = credentials["kblight"]["base_url"]
+
 vault_dir = "./vault"
 
 yaml_dir = "./yaml"
 
+print("Generating D3.js compatible graph JSON...")
+d3_graph.generate_global_network(base_url=base_url)
+
+
 jinja.generate_mkdocs_pages(
     GITHUB_RAW_BASE=credentials["kblight"]["vault_url"],
     YAML_PATH=Path(yaml_dir),
-    OUTPUT_PATH=Path("../docs"),
+    OUTPUT_PATH=Path("../docs/entity"),
     TEMPLATE_FILE="./config/entity_template.md.j2",
 )

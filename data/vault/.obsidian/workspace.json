@@ -4,16 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "ff1d4f17f6ea30c1",
+        "id": "0ef58335325e2a6d",
         "type": "tabs",
         "children": [
           {
-            "id": "7703ce715e91af2b",
+            "id": "a021b60216f25b74",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "entity/manifestation_list.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "manifestation_list"
+            }
+          },
+          {
+            "id": "bbcd7223ff346c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entity/Trésor des demoiselles (1859).md",
+                "file": "entity/Deux Madones. Romance.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deux Madones. Romance"
+            }
+          },
+          {
+            "id": "ad14503c6a295e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entity/Journal des demoiselles (1876).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +67,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trésor des demoiselles (1859)"
+              "title": "Journal des demoiselles (1876)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +124,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,8 +232,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "7703ce715e91af2b",
+  "active": "9131230921203baf",
   "lastOpenFiles": [
+    "entity/Journal des demoiselles (1838).md",
+    "entity/Journal des demoiselles (1876).md",
+    "entity/Journal des demoiselles (1876) 1.md",
+    "entity/Deux Madones. Romance.md",
+    "entity/Quadrille. Parisina.md",
+    "assets/MDZ-10359989_2/004.jpg",
+    "assets/MDZ-10359989_2/Unconfirmed 579759.crdownload",
+    "assets/MDZ-10359989_2/003.jpg",
+    "assets/MDZ-10359989_2/Unconfirmed 852883.crdownload",
+    "assets/MDZ-10359989_2/002.jpg",
+    "assets/MDZ-10359989_2/Unconfirmed 602390.crdownload",
+    "assets/MDZ-10359989_2/001.jpg",
+    "assets/MDZ-10359989_2/Unconfirmed 880773.crdownload",
+    "entity/Parisina.md",
+    "entity/Louis Gomion.md",
+    "assets/MDZ-10359989_2",
+    "entity/manifestation_list.base",
+    "entity/Royal Library of Belgium.md",
+    "entity/public library.md",
+    "entity/national library.md",
+    "entity/Les lutins de Bretagne.md",
+    "entity/Adrien Talexy.md",
+    "entity/Adolphe Aimé Lecadre.md",
+    "entity/Trésor des demoiselles (1859).md",
     "Journal des demoiselles (1838).md",
     "entity/Vole! Vole! Hirondelle.md",
     "entity/Vole Vite.md",
@@ -207,39 +270,15 @@
     "entity/Suzanne Battaille.md",
     "entity/serenade.md",
     "entity/schottische.md",
-    "entity/Sans toi. Romance.md",
-    "entity/Royal Library of Belgium.md",
-    "entity/Remiehleki.md",
-    "entity/quadrille.md",
-    "entity/pseudonym.md",
-    "entity/piano four hands.md",
-    "entity/physician.md",
-    "entity/Philip Musard.md",
-    "entity/pastor.md",
-    "entity/opera singer.md",
-    "entity/noble family.md",
-    "entity/Ninon. Schottich.md",
-    "entity/Narcisse Bousquet.md",
-    "entity/music educator.md",
-    "entity/manifestation_list.base",
     "assets/place.png",
     "assets/agent.png",
     "assets/concept.png",
     "assets/organisation.png",
     "assets/manifestation.png",
     "assets/greek-temple-svgrepo-com.svg",
-    "assets/person-team-svgrepo-com.svg",
-    "assets/book-bookmark-svgrepo-com.svg",
-    "assets/idea-round-svgrepo-com.svg",
-    "assets/place-ui-pin-svgrepo-com.svg",
     "assets/MDZ-10359989_1/Unconfirmed 671997.crdownload",
     "assets/MDZ-10359989_1/Unconfirmed 620961.crdownload",
     "assets/MDZ-10359989_1",
-    "manifestation_list.base",
-    "assets/OI-20144531/20144531_418.txt",
-    "assets/OI-20144531/20144531_417.txt",
-    "assets/OI-20144531/20144531_416.txt",
-    "assets/OI-20144531/20144531_415.txt",
-    "assets/OI-20144531/20144531_414.txt"
+    "manifestation_list.base"
   ]
 }

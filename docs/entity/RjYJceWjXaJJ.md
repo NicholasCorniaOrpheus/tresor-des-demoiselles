@@ -1,0 +1,36 @@
+# Robert Julien Van Maldeghem (RjYJceWjXaJJ)
+
+
+[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/RjYJceWjXaJJ.json){ .md-button }
+[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/RjYJceWjXaJJ.ttl){ .md-button }
+[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/RjYJceWjXaJJ.csv){ .md-button }
+
+
+!!! note "metadata"
+    <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+    | property | value |
+    | :--- | :--- |
+    | **class** | Agent |
+    | **label** | Robert Julien Van Maldeghem |
+    | **id** | RjYJceWjXaJJ |
+    <div style="clear:both;"></div>
+
+
+## Statements
+???+ abstract "instance of"
+    - value
+    - label
+
+???+ abstract "occupation"
+    - [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)
+
+???+ abstract "sex or gender"
+    - value
+    - label
+
+???+ abstract "identifier"
+    - [Q2298736](http://www.wikidata.org/entity/Q2298736)
+
+
+
+

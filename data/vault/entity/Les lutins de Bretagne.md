@@ -20,7 +20,7 @@ has_version:
     publication_date: 1855-11-01
     place_of_publication: "[[Brussels]]"
     note: dedicated to M.me C. Houillon
-title: Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan
+title: "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan"
 instrumentation:
   - value: "[[piano four hands]]"
     quantity: 1

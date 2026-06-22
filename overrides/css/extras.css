@@ -1,0 +1,75 @@
+
+/* Main colors */
+:root {
+  /* basic foreground and background color of body */
+  --md-primary-fg-color: #DBECDC;
+  --md-primary-bg-color: #1a1d1a;
+
+}
+
+/* Container for the TEI content */
+#TEI {
+    background-color: #1a1d1a; /* Page background */
+    padding: 2em;
+    font-family: 'Sofia Sans', sans-serif; /* Using your site font */
+    line-height: 1.6;
+    color: #E4EADF;
+}
+
+/* Specific TEI Element Styles */
+tei-div {
+    display: block; /* Elements act as blocks [4] */
+    margin-bottom: 1em;
+}
+
+tei-p {
+    display: block;
+    margin: 1em 0; /* Standard paragraph margins [4] */
+    text-align: justify;
+}
+
+tei-head {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: var(--md-primary-fg-color); /* Matches your Material theme primary color */
+    margin-top: 1.2em;
+}
+
+/* Hide the TEI Header by default as it contains metadata [5, 6] */
+tei-teiHeader {
+    display: none;
+}
+
+/* Highlighted or important text */
+tei-hi {
+    background-color: #9FB1B6; /* Pale yellow background for highlights */
+    font-style: italic;
+}
+
+/* Custom Admonition styling to match your theme palettes */
+.md-typeset .admonition {
+    border-left: .2rem solid var(--md-primary-fg-color);
+    background-color: var(--md-default-bg-color);
+}
+
+/*D3.js */
+
+#d3-graph-container {
+    width: 100%;
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+/* Ensure the SVG scales correctly */
+#d3-graph-container svg {
+    display: block;
+    max-width: 100%;
+}
+
+/* Specific styling for node labels if added later */
+.node-label {
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 12px;
+    fill: var(--md-default-fg-color);
+}

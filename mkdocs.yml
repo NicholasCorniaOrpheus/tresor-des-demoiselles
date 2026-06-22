@@ -3,18 +3,20 @@ site_author: Nicholas Cornia
 repo_url: https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles
 nav:
   - Home: index.md
-  - Explore: explore.md
+  - Knowledge Graph: knowledge_graph.md
   - Contributors: contributors.md
   - References: references.md
 
 plugins:
   - search
 
-#extra_css:
-  #- assets/stylesheets/extra.css
+extra_css:
+  - overrides/css/extras.css
 
-#extra_javascript:
-  #- assets/javascripts/extra.js
+extra_javascript:
+  - overrides/js/CETEI.js 
+  - overrides/js/openseadragon.js
+  - overrides/js/d3.js
 
 theme:
   name: material
@@ -43,10 +45,10 @@ theme:
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: deep purple
-      default: deep purple
-      footer: deep purple
-      accent: deep purple
+      primary: custom
+      default: custom
+      footer: custom
+      accent: custom
       #toggle:
         #icon: material/weather-sunny
         #name: Switch to light mode        

@@ -17,6 +17,8 @@ base_url = "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entit
 
 properties_mapping_path = "./mappings/yaml_properties2lod.csv"
 
+class_mapping_path = "./mappings/yaml_classes2lod.csv"
+
 print("Generating UUID-labels mapping....")
 uuid_mapping_index = import_md.generate_label_uuid_mapping(yaml_dir=yaml_dir)
 
@@ -56,3 +58,6 @@ assets.extract_assets_from_local_paths(
     vault_path="./vault",
     vault_base_url=credentials["kblight"]["vault_url"],
 )
+
+print("Add default images if absent...")
+assets.add_default_image(yaml_dir=yaml_dir, class_mapping_path=class_mapping_path)
