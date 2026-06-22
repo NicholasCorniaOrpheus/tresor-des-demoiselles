@@ -1,21 +1,20 @@
 # Munich Digitization Center (PSaEANSLWUfh)
 
 
-[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/PSaEANSLWUfh.json){ .md-button }
-[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/PSaEANSLWUfh.ttl){ .md-button }
-[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/PSaEANSLWUfh.csv){ .md-button }
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/PSaEANSLWUfh.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/PSaEANSLWUfh.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/PSaEANSLWUfh.csv){ .md-button }
 
 
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
-    <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
-    | property | value |
-    | --- | --- |
-    | **class** | Organisation |
-    | **label** | Munich Digitization Center |
-    | **aliases** | MDZ |
-    | **id** | PSaEANSLWUfh |
+    - class: Organisation
+    - label: Munich Digitization Center
+    - aliases: MDZ
+    - id: PSaEANSLWUfh
     <div style="clear:both;"></div>
 
+<br><br>
 
 ## Statements
 ???+ abstract "instance of"

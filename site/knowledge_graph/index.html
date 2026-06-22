@@ -66,12 +66,12 @@
         
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia+Sans:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
-        <style>:root{--md-text-font:"Sofia Sans";--md-code-font:"Roboto Mono"}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Pro:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Crimson Pro";--md-code-font:"Roboto Mono"}</style>
       
     
     
-      <link rel="stylesheet" href="../overrides/css/extras.css">
+      <link rel="stylesheet" href="../assets/css/extras.css">
     
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -405,8 +405,28 @@
 
 
 <h1 id="knowledge-graph">Knowledge Graph</h1>
-<div id="d3-graph-container" style="background: var(--md-default-bg-color); border: 1px solid #ddd; border-radius: 8px; cursor: move;">
-    <!-- D3.js will inject the graph here -->
+<div id="controls">
+  <label><input id="toggleLabels" type="checkbox" checked /> labels</label>
+  <input id="search" type="search" placeholder="Search node label or id and press Enter" />
+  <div class="controls-right">
+    <div class="legend" id="legend"></div>
+  </div>
+</div>
+
+<div id="graph-container"></div>
+<div id="tooltip" class="tooltip" aria-hidden="true"></div>
+
+<!-- Modal for pop-up -->
+<div id="modal-backdrop" class="modal-backdrop" role="dialog" aria-hidden="true">
+  <div class="modal" role="document">
+    <button id="modal-close" class="close" aria-label="Close">&times;</button>
+    <div class="media" id="modal-media"></div>
+    <div class="content">
+      <h2 id="modal-title"></h2>
+      <p id="modal-desc"></p>
+      <a id="modal-link" class="url" href="#" target="_blank" rel="noopener">Open page</a>
+    </div>
+  </div>
 </div>
 
 
@@ -481,11 +501,15 @@
     
       <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
       
-        <script src="../overrides/js/CETEI.js"></script>
+        <script src="../assets/js/CETEI.js"></script>
       
-        <script src="../overrides/js/openseadragon.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
       
-        <script src="../overrides/js/d3.js"></script>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+      
+        <script src="../assets/js/openseadragon-init.js"></script>
+      
+        <script src="../assets/js/d3-graph.js"></script>
       
     
   </body>

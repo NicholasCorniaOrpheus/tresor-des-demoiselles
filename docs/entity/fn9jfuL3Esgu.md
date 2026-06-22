@@ -1,20 +1,19 @@
 # Journal des demoiselles (1836) (fn9jfuL3Esgu)
 
 
-[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/fn9jfuL3Esgu.json){ .md-button }
-[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/fn9jfuL3Esgu.ttl){ .md-button }
-[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/fn9jfuL3Esgu.csv){ .md-button }
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/fn9jfuL3Esgu.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/fn9jfuL3Esgu.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/fn9jfuL3Esgu.csv){ .md-button }
 
 
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
-    <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
-    | property | value |
-    | --- | --- |
-    | **class** | Manifestation |
-    | **label** | Journal des demoiselles (1836) |
-    | **id** | fn9jfuL3Esgu |
+    - class: Manifestation
+    - label: Journal des demoiselles (1836)
+    - id: fn9jfuL3Esgu
     <div style="clear:both;"></div>
 
+<br><br>
 
 ## Statements
 ???+ abstract "instance of"

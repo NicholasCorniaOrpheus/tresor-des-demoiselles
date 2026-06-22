@@ -1,20 +1,19 @@
 # Royal Library of Belgium (2osPtS3ax4Hc)
 
 
-[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/2osPtS3ax4Hc.json){ .md-button }
-[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/2osPtS3ax4Hc.ttl){ .md-button }
-[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/2osPtS3ax4Hc.csv){ .md-button }
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/2osPtS3ax4Hc.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/2osPtS3ax4Hc.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/2osPtS3ax4Hc.csv){ .md-button }
 
 
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
-    <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
-    | property | value |
-    | --- | --- |
-    | **class** | Organisation |
-    | **label** | Royal Library of Belgium |
-    | **id** | 2osPtS3ax4Hc |
+    - class: Organisation
+    - label: Royal Library of Belgium
+    - id: 2osPtS3ax4Hc
     <div style="clear:both;"></div>
 
+<br><br>
 
 ## Statements
 ???+ abstract "instance of"

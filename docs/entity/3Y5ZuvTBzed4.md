@@ -1,20 +1,19 @@
 # Albert Grisar (3Y5ZuvTBzed4)
 
 
-[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/3Y5ZuvTBzed4.json){ .md-button }
-[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/3Y5ZuvTBzed4.ttl){ .md-button }
-[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/3Y5ZuvTBzed4.csv){ .md-button }
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/3Y5ZuvTBzed4.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/3Y5ZuvTBzed4.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/3Y5ZuvTBzed4.csv){ .md-button }
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Albert_Grisar.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Albert_Grisar.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
-    | property | value |
-    | --- | --- |
-    | **class** | Agent |
-    | **label** | Albert Grisar |
-    | **id** | 3Y5ZuvTBzed4 |
+    - class: Agent
+    - label: Albert Grisar
+    - id: 3Y5ZuvTBzed4
     <div style="clear:both;"></div>
 
+<br><br>
 
 ## Statements
 ???+ abstract "instance of"

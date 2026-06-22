@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Journal des demoiselles (1837)",
+                "query": "image",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +209,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "32d6ada254ee9884",
+  "active": "815a71d52790abf1",
   "lastOpenFiles": [
     "entity/Magasin des demoiselles.md",
     "entity/Magasin des demoiselles (1886).md",

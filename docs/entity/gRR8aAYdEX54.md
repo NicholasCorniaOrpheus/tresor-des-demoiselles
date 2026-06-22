@@ -1,21 +1,20 @@
 # Dieu le voit (gRR8aAYdEX54)
 
 
-[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/gRR8aAYdEX54.json){ .md-button }
-[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/gRR8aAYdEX54.ttl){ .md-button }
-[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/gRR8aAYdEX54.csv){ .md-button }
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/gRR8aAYdEX54.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/gRR8aAYdEX54.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/gRR8aAYdEX54.csv){ .md-button }
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p36){ .md-button }
 
 
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
-    <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
-    | property | value |
-    | --- | --- |
-    | **class** | Manifestation |
-    | **label** | Dieu le voit |
-    | **id** | gRR8aAYdEX54 |
+    - class: Manifestation
+    - label: Dieu le voit
+    - id: gRR8aAYdEX54
     <div style="clear:both;"></div>
 
+<br><br>
 
 ## Statements
 ???+ abstract "instance of"
@@ -59,7 +58,7 @@
 
 <script>
 window.entityAssets = {
-    "base_github_url": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+    "base_github_url": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/" ,
     "local_path": "assets/OI-20143702p36/",
     "images": ["orp-henri-dieulev-20143702p36-fs-00001.jpg", "orp-henri-dieulev-20143702p36-fs-00002.jpg", "orp-henri-dieulev-20143702p36-fs-00003.jpg"],
     "tei": [],

@@ -1,21 +1,20 @@
 # Fantaisie sur le Carillonneur (2Qk3wiPP6j39)
 
 
-[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/2Qk3wiPP6j39.json){ .md-button }
-[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/2Qk3wiPP6j39.ttl){ .md-button }
-[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/2Qk3wiPP6j39.csv){ .md-button }
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/2Qk3wiPP6j39.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/2Qk3wiPP6j39.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/2Qk3wiPP6j39.csv){ .md-button }
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p22){ .md-button }
 
 
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
-    <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
-    | property | value |
-    | --- | --- |
-    | **class** | Manifestation |
-    | **label** | Fantaisie sur le Carillonneur |
-    | **id** | 2Qk3wiPP6j39 |
+    - class: Manifestation
+    - label: Fantaisie sur le Carillonneur
+    - id: 2Qk3wiPP6j39
     <div style="clear:both;"></div>
 
+<br><br>
 
 ## Statements
 ???+ abstract "instance of"
@@ -56,7 +55,7 @@
 
 <script>
 window.entityAssets = {
-    "base_github_url": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+    "base_github_url": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/" ,
     "local_path": "assets/OI-20143702p22/",
     "images": ["orp-burgm-fantais-20143702p22-ps-00001.jpg", "orp-burgm-fantais-20143702p22-ps-00002.jpg", "orp-burgm-fantais-20143702p22-ps-00003.jpg", "orp-burgm-fantais-20143702p22-ps-00004.jpg"],
     "tei": [],

@@ -1,21 +1,20 @@
 # Le Corbeille de roses (Ao5Ame5q39g9)
 
 
-[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/Ao5Ame5q39g9.json){ .md-button }
-[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/Ao5Ame5q39g9.ttl){ .md-button }
-[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/Ao5Ame5q39g9.csv){ .md-button }
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/Ao5Ame5q39g9.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/Ao5Ame5q39g9.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/Ao5Ame5q39g9.csv){ .md-button }
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p41){ .md-button }
 
 
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
-    <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
-    | property | value |
-    | --- | --- |
-    | **class** | Manifestation |
-    | **label** | Le Corbeille de roses |
-    | **id** | Ao5Ame5q39g9 |
+    - class: Manifestation
+    - label: Le Corbeille de roses
+    - id: Ao5Ame5q39g9
     <div style="clear:both;"></div>
 
+<br><br>
 
 ## Statements
 ???+ abstract "instance of"
@@ -55,7 +54,7 @@
 
 <script>
 window.entityAssets = {
-    "base_github_url": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+    "base_github_url": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/" ,
     "local_path": "assets/OI-20143702p41/",
     "images": ["orp-sawan-lecorbe-20143702p41-ps-00001.jpg", "orp-sawan-lecorbe-20143702p41-ps-00002.jpg", "orp-sawan-lecorbe-20143702p41-ps-00003.jpg", "orp-sawan-lecorbe-20143702p41-ps-00004.jpg", "orp-sawan-lecorbe-20143702p41-ps-00005.jpg"],
     "tei": [],

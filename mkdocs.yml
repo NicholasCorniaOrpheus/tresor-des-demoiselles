@@ -18,7 +18,7 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js
   - https://d3js.org/d3.v7.min.js 
   - assets/js/openseadragon-init.js
-  - assets/js/d3.js
+  - assets/js/d3-graph.js
 
 theme:
   name: material

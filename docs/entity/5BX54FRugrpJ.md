@@ -1,21 +1,20 @@
 # Francesco Masini (5BX54FRugrpJ)
 
 
-[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/5BX54FRugrpJ.json){ .md-button }
-[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/5BX54FRugrpJ.ttl){ .md-button }
-[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/5BX54FRugrpJ.csv){ .md-button }
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/5BX54FRugrpJ.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/5BX54FRugrpJ.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/5BX54FRugrpJ.csv){ .md-button }
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Francesco_Masini.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Francesco_Masini.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
-    | property | value |
-    | --- | --- |
-    | **class** | Agent |
-    | **label** | Francesco Masini |
-    | **aliases** | François Masini |
-    | **id** | 5BX54FRugrpJ |
+    - class: Agent
+    - label: Francesco Masini
+    - aliases: François Masini
+    - id: 5BX54FRugrpJ
     <div style="clear:both;"></div>
 
+<br><br>
 
 ## Statements
 ???+ abstract "occupation"

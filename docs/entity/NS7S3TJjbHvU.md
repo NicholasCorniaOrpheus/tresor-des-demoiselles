@@ -1,20 +1,19 @@
 # Journal des demoiselles (NS7S3TJjbHvU)
 
 
-[:material-code-json](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/NS7S3TJjbHvU.json){ .md-button }
-[:material-vector-link](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/NS7S3TJjbHvU.ttl){ .md-button }
-[:material-table](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/NS7S3TJjbHvU.csv){ .md-button }
+[JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/NS7S3TJjbHvU.json){ .md-button }
+[RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/NS7S3TJjbHvU.ttl){ .md-button }
+[CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/NS7S3TJjbHvU.csv){ .md-button }
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
-    | property | value |
-    | --- | --- |
-    | **class** | Organisation |
-    | **label** | Journal des demoiselles |
-    | **id** | NS7S3TJjbHvU |
+    - class: Organisation
+    - label: Journal des demoiselles
+    - id: NS7S3TJjbHvU
     <div style="clear:both;"></div>
 
+<br><br>
 
 ## Statements
 ???+ abstract "identifier"
