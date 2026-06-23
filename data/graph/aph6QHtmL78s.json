@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aph6QHtmL78s",
-      "label": NaN,
+      "label": "romance",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },

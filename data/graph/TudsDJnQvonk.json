@@ -92,7 +92,7 @@
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4MqfuoGuN6Ra",
-      "label": NaN,
+      "label": "Remiehleki",
       "class": "Agent",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
@@ -176,7 +176,7 @@
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VcpJBubpN5Jf",
-      "label": NaN,
+      "label": "Louis Bordèse",
       "class": "Agent",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },

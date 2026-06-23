@@ -4,3 +4,4 @@ Concept,skos,Concept,http://www.w3.org/2004/02/skos/core#Concept,#2B423C,https:/
 Manifestation,dcterms,PhysicalResource,http://purl.org/dc/terms/PhysicalResource,#BA430B,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
 Organisation,bf,Organization,http://id.loc.gov/ontologies/bibframe/Organization,#792B4F,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
 Place,bf,Place,http://id.loc.gov/ontologies/bibframe/Place,#2B423C,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+Work,bf,Work,http://id.loc.gov/ontologies/bibframe/Work,#4a6c6f,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png

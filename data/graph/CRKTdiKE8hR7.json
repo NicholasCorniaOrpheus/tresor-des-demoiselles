@@ -51,6 +51,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CRKTdiKE8hR7",
       "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+      "property": "contributor"
     }
   ]
 }

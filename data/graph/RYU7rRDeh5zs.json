@@ -119,11 +119,6 @@
       "property": "has_version"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "property": "instance_of"
-    },
-    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LXFHHQhGBzwC",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
       "property": "has_version"

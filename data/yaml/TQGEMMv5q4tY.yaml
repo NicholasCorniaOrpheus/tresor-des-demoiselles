@@ -49,6 +49,6 @@ assets:
   - orp-remie-chanson-20143702p37-ps-00001.jpg
   - orp-remie-chanson-20143702p37-ps-00002.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/TQGEMMv5q4tY.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/TQGEMMv5q4tY.json
 content:
   markdown_content: ''

@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn",
-      "label": NaN,
+      "label": "piano four hands",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
@@ -20,7 +20,7 @@
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cifmNoRzoHNK",
-      "label": NaN,
+      "label": "type of musical group",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     }

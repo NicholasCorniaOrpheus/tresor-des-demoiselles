@@ -40,7 +40,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
       "label": "Parisina",
       "class": "Work",
-      "image": NaN
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY",
@@ -128,6 +128,31 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Q5YfCM4bBtmP",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
       "property": "based_on"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3v4q5PWHnZcN",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "location"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
     }
   ]
 }

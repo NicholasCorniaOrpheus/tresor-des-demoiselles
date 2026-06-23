@@ -9,6 +9,8 @@ base_url = credentials["kblight"]["base_url"]
 
 vault_base_url = credentials["kblight"]["vault_url"]
 
+graph_base_url = vault_base_url.replace("/vault", "")
+
 vault_dir = "./vault"
 
 yaml_dir = "./yaml"
@@ -22,7 +24,7 @@ d3_graph.generate_backlinks_graphs(graph_json="./graph.json", graph_dir=graph_di
 
 print("Adding graph path to entity's assets...")
 assets.add_local_graph_to_assets(
-    vault_base_url=vault_base_url, yaml_dir=yaml_dir, graph_dir=graph_dir
+    graph_base_url=graph_base_url, yaml_dir=yaml_dir, graph_dir=graph_dir
 )
 
 jinja.generate_mkdocs_pages(

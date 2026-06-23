@@ -20,7 +20,7 @@
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fPQHFdTsWu9q",
-      "label": NaN,
+      "label": "La mélodie",
       "class": "Organisation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
     },
@@ -282,6 +282,16 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G3drbzHXXtxV",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
       "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ASrkWEECtVfe",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6XQw6vXJb4qt",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+      "property": "part_of"
     }
   ]
 }

@@ -14,6 +14,6 @@ statements:
 assets:
   IIIF_manifest: null
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/VAvBZjyK4s8B.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/VAvBZjyK4s8B.json
 content:
   markdown_content: ''

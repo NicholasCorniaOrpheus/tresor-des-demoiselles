@@ -26,7 +26,7 @@
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2",
-      "label": NaN,
+      "label": "Wikidata",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     }
@@ -50,6 +50,11 @@
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dJRZgT58Xf8A",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gBejS4d5MNmC",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dJRZgT58Xf8A",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     }
   ]

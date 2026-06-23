@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL9bhQaShbbC",
-      "label": NaN,
+      "label": "Canada",
       "class": "Place",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
     },

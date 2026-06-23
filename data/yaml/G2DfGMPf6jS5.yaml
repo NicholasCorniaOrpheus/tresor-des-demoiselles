@@ -76,6 +76,6 @@ assets:
   - orp-rauis-lepinso-20143702p40-fs-00002.jpg
   - orp-rauis-lepinso-20143702p40-fs-00003.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/G2DfGMPf6jS5.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/G2DfGMPf6jS5.json
 content:
   markdown_content: ''

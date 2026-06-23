@@ -16,7 +16,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
       "label": "Parisina",
       "class": "Work",
-      "image": NaN
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Q5YfCM4bBtmP",
@@ -46,7 +46,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/k5r6CAzucwUr",
       "label": "L'elisir d'amore",
       "class": "Work",
-      "image": NaN
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
     }
   ],
   "links": [
@@ -83,6 +83,31 @@
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/k5r6CAzucwUr",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Q5YfCM4bBtmP",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Q5YfCM4bBtmP",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
+      "property": "based_on"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SFGi6gHQvH4j",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/k5r6CAzucwUr",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     }
   ]

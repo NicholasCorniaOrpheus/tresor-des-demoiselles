@@ -84,6 +84,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ao5Ame5q39g9",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
       "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "location"
     }
   ]
 }

@@ -65,6 +65,6 @@ assets:
   - orp-dufau-fauvett-20143702p29-fs-00002.jpg
   - orp-dufau-fauvett-20143702p29-fs-00003.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/3JDQaYB6Tv2h.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/3JDQaYB6Tv2h.json
 content:
   markdown_content: ''
