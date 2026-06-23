@@ -25,6 +25,13 @@ body, .md-typeset {
     transition: background-color 0.3s, border-color 0.3s;
 }
 
+.md-typeset .md-button:active {
+    background-color: #8e1a4a; /* Your 'Agent' color */
+    border-color: #8e1a4a;
+    color: #ffffff;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
 
 /* Container for the TEI content */
 #TEI {
@@ -144,6 +151,12 @@ tei-hi {
 .node-label {
     font-family: 'Sofia Sans', sans-serif;
     font-size: 12px;
+    fill: var(--md-default-fg-color);
+}
+
+.edge-label{
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 10px;
     fill: var(--md-default-fg-color);
 }
 
