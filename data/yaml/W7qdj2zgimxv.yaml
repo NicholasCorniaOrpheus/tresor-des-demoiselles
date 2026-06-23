@@ -54,13 +54,13 @@ statements:
   based_on: null
   about: null
 assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499
   local_asset_path: ./assets/RCA-12971499
   IIIF_manifest: null
   jpg:
   - 20260608141705109_0001.jpg
   - 20260608141705109_0002.jpg
   - 20260608141705109_0003.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/W7qdj2zgimxv.json
 content:
   markdown_content: ''

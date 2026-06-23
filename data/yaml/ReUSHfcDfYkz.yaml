@@ -61,13 +61,13 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p19
   IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p19/orp-braul-hermini-20143702p19-ps-00001.jpg
   jpg:
   - orp-braul-hermini-20143702p19-ps-00001.jpg
   - orp-braul-hermini-20143702p19-ps-00002.jpg
   - orp-braul-hermini-20143702p19-ps-00003.jpg
   - orp-braul-hermini-20143702p19-ps-00004.jpg
   - orp-braul-hermini-20143702p19-ps-00005.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ReUSHfcDfYkz.json
 content:
   markdown_content: ''

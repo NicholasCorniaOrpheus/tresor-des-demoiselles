@@ -1,6 +1,5 @@
 ---
 class: Manifestation
-identifier: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582
 label: Trésor des demoiselles (1857)
 aliases:
 description: 1857 issues collected in one volume.

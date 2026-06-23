@@ -30,7 +30,9 @@ instrumentation:
     quantity: 1
 depicts:
 about:
-language: ["[[French]]"]
+language:
+  - "[[French]]"
 based_on:
   - value: "[[Parisina]]"
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/MDZ-10359989_2/001.jpg
 ---

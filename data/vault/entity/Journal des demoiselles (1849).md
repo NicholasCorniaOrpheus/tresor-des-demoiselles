@@ -1,0 +1,31 @@
+---
+class: Manifestation
+label: Journal des demoiselles (1849)
+aliases:
+description:
+local_asset_path:
+instance_of:
+  - "[[periodical]]"
+has_part:
+part_of:
+  - value: "[[Journal des demoiselles]]"
+    volume: 17
+    publication_date: 1849-01-01
+contributor:
+has_version:
+  - external_source: https://www.digitale-sammlungen.de/en/view/bsb10360009
+    holding_institution: "[[Munich Digitization Center]]"
+    publication_date: 1849-01-01
+    place_of_publication:
+      - "[[Paris]]"
+    permalink: https://mdz-nbn-resolving.de/details:bsb10360009
+    IIIF_manifest: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360009/manifest"
+title:
+instrumentation:
+depicts:
+about:
+language:
+  - "[[French]]"
+based_on:
+---
+

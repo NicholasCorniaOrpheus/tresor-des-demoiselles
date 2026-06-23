@@ -13,6 +13,10 @@ statements:
     label: song
   has_part: null
   part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    volume: 17
+    publication_date: 1849-01-01
+    label: Journal des demoiselles
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
     publication_date: 1849-01-01
     label: Trésor des demoiselles

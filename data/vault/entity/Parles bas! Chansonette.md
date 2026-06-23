@@ -8,6 +8,9 @@ instance_of:
   - "[[song]]"
 has_part:
 part_of:
+  - value: "[[Journal des demoiselles]]"
+    volume: 17
+    publication_date: 1849-01-01
   - value: "[[Trésor des demoiselles]]"
     publication_date: 1849-01-01
 contributor:

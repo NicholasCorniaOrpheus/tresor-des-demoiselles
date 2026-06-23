@@ -1,0 +1,32 @@
+metadata:
+  class: Agent
+  label: Élisa Adam-Boisgontier
+  aliases:
+  - Elisa Adam-Boisgontier
+  - Mme Adam Boisgontier
+  description: null
+  base_name: Élisa Adam-Boisgontier
+  filename: Élisa Adam-Boisgontier.md
+  id: bbp23eR4DnZs
+  n_id: 693223966861869322573
+statements:
+  instance_of: null
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+    label: female
+  identifier:
+  - http://www.wikidata.org/entity/Q54894949
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+    label: lyricist
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/bbp23eR4DnZs.json
+content:
+  markdown_content: ''

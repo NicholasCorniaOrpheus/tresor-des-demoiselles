@@ -35,4 +35,5 @@ depicts:
 about:
 language:
 based_on:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p19/orp-braul-hermini-20143702p19-ps-00001.jpg
 ---

@@ -6,6 +6,7 @@ views:
         - class == "Manifestation"
     order:
       - file.name
+      - image
       - local_asset_path
       - contributor
       - has_version
@@ -15,5 +16,9 @@ views:
       - title
       - based_on
     sort:
-      - property: file.name
+      - property: image
         direction: ASC
+      - property: local_asset_path
+        direction: ASC
+    columnSize:
+      note.image: 327

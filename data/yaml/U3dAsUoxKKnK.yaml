@@ -59,11 +59,11 @@ statements:
   based_on: null
 assets:
   local_asset_path: ./assets/OI-20143702p20
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p20/orp-lassa-histoir-20143702p20-fs-00001.jpg
   IIIF_manifest: null
   jpg:
   - orp-lassa-histoir-20143702p20-fs-00001.jpg
   - orp-lassa-histoir-20143702p20-fs-00002.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/U3dAsUoxKKnK.json
 content:
   markdown_content: ''

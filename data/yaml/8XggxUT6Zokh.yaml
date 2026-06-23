@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: Hendrik Conscience Heritage Library
+  aliases:
+  - Erfgoedbibliotheek Hendrik Conscience
+  description: null
+  base_name: Hendrik Conscience Heritage Library
+  filename: Hendrik Conscience Heritage Library.md
+  id: 8XggxUT6Zokh
+  n_id: 134560062304044179529
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
+    label: public library
+  described_by_source: null
+  inception: null
+  location:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8
+    label: Antwerp
+  dissolved: null
+  contributor: null
+  official_website:
+  - http://www.consciencebibliotheek.be/
+  identifier:
+  - http://www.wikidata.org/entity/Q2564527
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+    label: Belgium
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/8XggxUT6Zokh.json
+content:
+  markdown_content: ''

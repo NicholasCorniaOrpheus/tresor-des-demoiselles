@@ -3,7 +3,7 @@ site_author: Nicholas Cornia
 repo_url: https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles
 nav:
   - Home: index.md
-  - Knowledge Graph: knowledge_graph.md
+  - Explore: explore.md
   - Contributors: contributors.md
   - References: references.md
 

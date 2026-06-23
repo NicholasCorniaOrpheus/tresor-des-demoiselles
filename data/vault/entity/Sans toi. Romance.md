@@ -39,4 +39,5 @@ about:
 language:
   - "[[French]]"
 based_on:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/MDZ-10359990_1/001.jpg
 ---

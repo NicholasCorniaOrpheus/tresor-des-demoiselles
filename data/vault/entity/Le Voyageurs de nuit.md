@@ -4,6 +4,7 @@ label: Le Voyageurs de nuit
 aliases:
 description:
 local_asset_path: ./assets/MDZ-10359990_3
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/MDZ-10359990_3/001.jpg
 instance_of:
   - "[[song]]"
 has_part:

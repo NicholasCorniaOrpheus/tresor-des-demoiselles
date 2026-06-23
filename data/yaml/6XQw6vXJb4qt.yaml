@@ -8,8 +8,6 @@ metadata:
   id: 6XQw6vXJb4qt
   n_id: 93188213713395752285
 statements:
-  identifier:
-  - https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582
   instance_of:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
     label: periodical

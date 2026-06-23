@@ -14,7 +14,6 @@ part_of:
 contributor:
 has_version:
   - permalink: https://mdz-nbn-resolving.de/details:bsb10359988
-    note: Issue 1, January 1837
     publication_date: 1837-01-01
     holding_institution: "[[Munich Digitization Center]]"
     external_source: https://www.digitale-sammlungen.de/en/view/bsb10359988

@@ -59,11 +59,11 @@ statements:
   based_on: null
 assets:
   local_asset_path: ./assets/MDZ-10359990_3
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/MDZ-10359990_3/001.jpg
   IIIF_manifest: null
   jpg:
   - 001.jpg
   - 002.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/S77HJUbgUuKq.json
 content:
   markdown_content: ''
