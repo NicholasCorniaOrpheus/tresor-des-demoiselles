@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn",
+      "label": NaN,
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LiRnHQgHVwqd",
+      "label": "Les lutins de Bretagne",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/g24ctTK5q9V8",
+      "label": "L'Ouragan",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cifmNoRzoHNK",
+      "label": NaN,
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cifmNoRzoHNK",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LiRnHQgHVwqd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/g24ctTK5q9V8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn",
+      "property": "instrumentation"
+    }
+  ]
+}

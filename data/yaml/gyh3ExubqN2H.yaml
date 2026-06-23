@@ -51,5 +51,6 @@ assets:
   - orp-bosch-l'aubép-20143702p30-ps-00001.jpg
   - orp-bosch-l'aubép-20143702p30-ps-00002.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/gyh3ExubqN2H.json
 content:
   markdown_content: ''

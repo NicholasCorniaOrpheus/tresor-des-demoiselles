@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dqFtJQZDwkjb",
+      "label": NaN,
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+      "label": "French",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dqFtJQZDwkjb",
+      "property": "instance_of"
+    }
+  ]
+}

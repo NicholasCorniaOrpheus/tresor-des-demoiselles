@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ewn4kBPzhWzy",
+      "label": "George Sawanoff",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ao5Ame5q39g9",
+      "label": "Le Corbeille de roses",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ao5Ame5q39g9",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ewn4kBPzhWzy",
+      "property": "contributor"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS",
+      "label": NaN,
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G9FZhC6pNp69",
+      "label": "Internet Archive",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HjSMhbA3nqG8",
+      "label": NaN,
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
+      "label": "Munich Digitization Center",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HjSMhbA3nqG8",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G9FZhC6pNp69",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS",
+      "property": "instance_of"
+    }
+  ]
+}

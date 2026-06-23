@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE",
+      "label": "Ghent",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+      "label": "Belgium",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
+      "label": "Orpheus Instituut",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+      "property": "country"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE",
+      "property": "location"
+    }
+  ]
+}

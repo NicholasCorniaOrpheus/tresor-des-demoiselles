@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3yS9agtba9rA",
+      "label": "translator",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+      "label": "occupation",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/axFwXa8k5P4u",
+      "label": "Eugène Talbot",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3yS9agtba9rA",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/axFwXa8k5P4u",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3yS9agtba9rA",
+      "property": "occupation"
+    }
+  ]
+}

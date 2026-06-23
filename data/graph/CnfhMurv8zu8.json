@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8",
+      "label": "Antwerp",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3Y5ZuvTBzed4",
+      "label": "Albert Grisar",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Albert_Grisar.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+      "label": "Belgium",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "label": "Louise Jeanne Cécile Ruelens",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+      "property": "country"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3Y5ZuvTBzed4",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8",
+      "property": "place_of_birth"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8",
+      "property": "place_of_birth"
+    }
+  ]
+}

@@ -68,5 +68,6 @@ assets:
   - orp-braul-hermini-20143702p19-ps-00004.jpg
   - orp-braul-hermini-20143702p19-ps-00005.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/ReUSHfcDfYkz.json
 content:
   markdown_content: ''

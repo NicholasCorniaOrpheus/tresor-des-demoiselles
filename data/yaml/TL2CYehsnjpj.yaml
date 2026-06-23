@@ -53,5 +53,6 @@ assets:
   - orp-ettli-songede-20143702p32-ps-00003.jpg
   - orp-ettli-songede-20143702p32-ps-00004.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/TL2CYehsnjpj.json
 content:
   markdown_content: ''

@@ -469,5 +469,6 @@ assets:
   - 20144506_423.jpg
   - 20144506_424.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/ASrkWEECtVfe.json
 content:
   markdown_content: ''

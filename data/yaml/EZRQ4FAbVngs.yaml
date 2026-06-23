@@ -27,5 +27,6 @@ statements:
 assets:
   image: https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Charles-Henri_Plantade_1806.jpg
   IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/EZRQ4FAbVngs.json
 content:
   markdown_content: ''

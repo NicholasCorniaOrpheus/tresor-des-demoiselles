@@ -59,5 +59,6 @@ assets:
   - orp-ikelm-enfant,-20143702p38-fs-00001.jpg
   - orp-ikelm-enfant,-20143702p38-fs-00002.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/fZckAh7Xyvr6.json
 content:
   markdown_content: ''

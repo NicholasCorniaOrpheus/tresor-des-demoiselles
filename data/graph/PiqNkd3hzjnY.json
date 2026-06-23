@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PiqNkd3hzjnY",
+      "label": "Adrien Talexy",
+      "class": "Agent",
+      "image": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Adrien_Talexy_1850.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "label": "composer",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AgTowXcdYL6T",
+      "label": "Thalie",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PiqNkd3hzjnY",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AgTowXcdYL6T",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PiqNkd3hzjnY",
+      "property": "contributor"
+    }
+  ]
+}

@@ -17,6 +17,26 @@
     <div style="clear:both;"></div>
 
 <br><br>
+
+## Knowledge Graph
+{# 3. Local Knowledge Graph Visualization #}
+{%- if assets and assets.graph -%}
+
+{# The container where D3 will inject the local graph #}
+<div id="controls">
+  <label><input id="toggleLabels" type="checkbox" checked /> labels</label>
+  <div class="controls-right">
+    <div class="legend" id="legend"></div>
+  </div>
+</div>
+<div id="graph-container" style="height: 500px; background: var(--md-default-bg-color); border: 1px solid #ddd; border-radius: 8px; margin-bottom: 20px;"></div>
+
+<script>
+  {# Access the .value of the first item in the standardized graph list #}
+  window.entityGraphUrl = "{{ assets.graph.value }}";
+</script>
+{%- endif -%}
+
 {# 3. Statements Admonitions #}
 ## Statements
 {%- for key, items in statements.items() if items is not none %}

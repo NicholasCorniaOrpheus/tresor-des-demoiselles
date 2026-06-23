@@ -55,5 +55,6 @@ assets:
   - orp-revel-emilie-20143702p27-ps-00002.jpg
   - orp-revel-emilie-20143702p27-ps-00003.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/hs4rWBqGPmab.json
 content:
   markdown_content: ''

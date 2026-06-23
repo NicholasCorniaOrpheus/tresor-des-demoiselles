@@ -59,5 +59,6 @@ assets:
   - 20260608141705109_0022.jpg
   - 20260608141705109_0023.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/WPYDAMp8mTS3.json
 content:
   markdown_content: ''

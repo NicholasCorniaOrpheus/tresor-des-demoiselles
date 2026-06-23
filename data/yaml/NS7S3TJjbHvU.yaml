@@ -34,5 +34,6 @@ statements:
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg
   IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/NS7S3TJjbHvU.json
 content:
   markdown_content: ''

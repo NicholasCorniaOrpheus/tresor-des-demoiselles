@@ -1,0 +1,89 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "label": "Louise Jeanne Cécile Ruelens",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ASrkWEECtVfe",
+      "label": "Trésor des demoiselles (1859)",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+      "label": "editor",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+      "label": "Trésor des demoiselles",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+      "label": "female",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "label": "human",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP",
+      "label": "Agents of Change. Women Editors and Socio-Cultural Transformation in Europe 1710-1920",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8",
+      "label": "Antwerp",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP",
+      "property": "described_by_source"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8",
+      "property": "place_of_birth"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ASrkWEECtVfe",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+      "property": "contributor"
+    }
+  ]
+}

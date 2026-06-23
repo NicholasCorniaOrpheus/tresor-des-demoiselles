@@ -1,0 +1,78 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+      "label": "dedicatee",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U3dAsUoxKKnK",
+      "label": "Histoire d'une Fleur",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3JDQaYB6Tv2h",
+      "label": "Fauvette",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bXeCi7hg9Gqt",
+      "label": "L'enfant et la rose: mélodie",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hs4rWBqGPmab",
+      "label": "Emilie. Schottich",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ju8BRMVThr4C",
+      "label": "Mandoline. Sérénade.",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ReUSHfcDfYkz",
+      "label": "Herminie. Mazurka",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U3dAsUoxKKnK",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3JDQaYB6Tv2h",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bXeCi7hg9Gqt",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hs4rWBqGPmab",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ju8BRMVThr4C",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ReUSHfcDfYkz",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+      "property": "contributor"
+    }
+  ]
+}

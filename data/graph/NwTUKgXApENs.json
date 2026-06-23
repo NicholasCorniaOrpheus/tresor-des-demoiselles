@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "label": NaN,
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/af9ZEKkDCPJP",
+      "label": "Le Carillonneur de Bruges",
+      "class": "Work",
+      "image": NaN
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/C2iCicFyAfex",
+      "label": "Le Caïd",
+      "class": "Work",
+      "image": NaN
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
+      "label": "Parisina",
+      "class": "Work",
+      "image": NaN
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/k5r6CAzucwUr",
+      "label": "L'elisir d'amore",
+      "class": "Work",
+      "image": NaN
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/af9ZEKkDCPJP",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "property": "form_of_creative_work"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/C2iCicFyAfex",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "property": "form_of_creative_work"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "property": "form_of_creative_work"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/k5r6CAzucwUr",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "property": "form_of_creative_work"
+    }
+  ]
+}

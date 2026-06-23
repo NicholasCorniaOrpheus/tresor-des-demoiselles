@@ -27,5 +27,6 @@ statements:
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
   IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/gBejS4d5MNmC.json
 content:
   markdown_content: ''

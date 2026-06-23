@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CEnnWH4uZsFX",
+      "label": "Amsterdam",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dggAjTSBZEfA",
+      "label": "Netherlands",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6XQw6vXJb4qt",
+      "label": "Trésor des demoiselles (1857)",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CEnnWH4uZsFX",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dggAjTSBZEfA",
+      "property": "country"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6XQw6vXJb4qt",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CEnnWH4uZsFX",
+      "property": "has_version"
+    }
+  ]
+}

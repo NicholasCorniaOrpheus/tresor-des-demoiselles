@@ -76,5 +76,6 @@ assets:
   - orp-bordè-lesfauv-20143702p18-fs-00002.jpg
   - orp-bordè-lesfauv-20143702p18-fs-00003.jpg
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/graph/bGHNgXsPckvg.json
 content:
   markdown_content: ''

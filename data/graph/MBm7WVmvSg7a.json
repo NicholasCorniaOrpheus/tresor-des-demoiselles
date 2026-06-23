@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a",
+      "label": "Ghent University",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GpjEsTdNqATu",
+      "label": "University of Toronto",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6iccGpXVqGeL",
+      "label": "Ghent University",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX",
+      "label": "Harvard University",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GpjEsTdNqATu",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6iccGpXVqGeL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a",
+      "property": "instance_of"
+    }
+  ]
+}

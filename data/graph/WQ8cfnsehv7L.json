@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WQ8cfnsehv7L",
+      "label": "pastor",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iqUisMc9DuzZ",
+      "label": "Louis Meyrargues",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iqUisMc9DuzZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WQ8cfnsehv7L",
+      "property": "occupation"
+    }
+  ]
+}
