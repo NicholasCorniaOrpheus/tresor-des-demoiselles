@@ -1,9 +1,27 @@
+/* Custom fonts */
+
+@font-face {
+  font-family: 'Chillax-Medium';
+  src: url('../assets/fonts/Chillax-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax-Semibold';
+  src: url('../assets/fonts/Chillax-Medium.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+
 
 /* Main colors */
 :root {
   /* basic foreground and background color of body */
-  --md-primary-fg-color: #DBECDC;
-  --md-primary-bg-color: #2B423C;
+  --md-primary-fg-color: #792B4F;
+  --md-primary-bg-color: #f9fbfa;
 
 }
 
@@ -14,7 +32,8 @@ body, .md-typeset {
 
 /* Standard Markdown Headings */
 .md-typeset h1, .md-typeset h2, .md-typeset h3 {
-    color: #8e1a4a; /* Using your 'Agent' color for headings */
+    color: #1a1d1a; 
+    font-family: "Chillax Medium"
 }
 
 /* Standard Material Buttons */
@@ -28,23 +47,23 @@ body, .md-typeset {
 .md-typeset .md-button:active {
     background-color: #8e1a4a; /* Your 'Agent' color */
     border-color: #8e1a4a;
-    color: #ffffff;
+    color: #8e1a4a;
     transition: background-color 0.3s, border-color 0.3s;
 }
 
 
 /* Container for the TEI content */
 #TEI {
-    background-color: #2B423C; /* Page background */
+    background-color: #f9fbfa; /* Page background */
     padding: 2em;
     font-family: 'Sofia Sans', sans-serif; /* Using your site font */
     line-height: 1.6;
-    color: #E4EADF;
+    color: #1a1d1a;
 }
 
 /* Standard Links (Anchors) */
 .md-typeset a {
-    color: #BA430B; /* Using your 'Manifestation' color */
+    color: #792B4F; 
     text-decoration: none;
     border-bottom: 1px solid transparent;
     transition: color 0.3s, border-color 0.3s;
@@ -52,7 +71,7 @@ body, .md-typeset {
 
 /* Hover effects for links */
 .md-typeset a:hover {
-    color: #4a6c6f; /* Using your 'Organisation' color */
+    color: #2B423C; /* Using your 'Organisation' color */
     border-bottom: 1px solid #792B4F;
 }
 
@@ -83,7 +102,7 @@ tei-teiHeader {
 
 /* Highlighted or important text */
 tei-hi {
-    background-color: #9FB1B6; /* Pale yellow background for highlights */
+    background-color: #792B4F; /* Pale yellow background for highlights */
     font-style: italic;
 }
 
@@ -95,12 +114,12 @@ tei-hi {
 
 :root {
   /* Using 'Agent' color for info/note admonitions */
-  --md-admonition-fg-color--note: #8e1a4a;
-  --md-admonition-bg-color--note: #8e1a4a10; /* 10% transparency */
+  --md-admonition-fg-color--note: #E4EADF;
+  --md-admonition-bg-color--note: #E4EADF; /* 10% transparency */
 
   /* Using 'Manifestation' color for warnings/abstracts */
-  --md-admonition-fg-color--abstract: #8e1a4a;
-  --md-admonition-bg-color--abstract: #8e1a4aB10;
+  --md-admonition-fg-color--abstract: #E4EADF;
+  --md-admonition-bg-color--abstract: #E4EADF;
 }
 
 
@@ -149,13 +168,11 @@ tei-hi {
 
 /* Specific styling for node labels if added later */
 .node-label {
-    font-family: 'Sofia Sans', sans-serif;
     font-size: 12px;
     fill: var(--md-default-fg-color);
 }
 
 .edge-label{
-    font-family: 'Sofia Sans', sans-serif;
     font-size: 10px;
     fill: var(--md-default-fg-color);
 }
@@ -167,7 +184,6 @@ tei-hi {
     align-items: center;
     padding: 10px;
     background: var(--md-default-bg-color);
-    font-family: 'Crimson Pro', serif;
 }
 
 #search {
@@ -221,7 +237,6 @@ tei-hi {
 
 /* D3 Elements */
 .node-label {
-    font-family: 'Crimson Pro', serif;
     font-size: 14px;
     pointer-events: none;
     fill: var(--md-default-fg-color);

@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         const linkLabels = container.append("g").selectAll("text")
             .data(graph.links).join("text")
-            .text(d => d.property.replace("_"," ") || "").attr("font-size", "10px").attr("fill", "#666").style("display", "none");
+            .text(d => d.property.replaceAll("_"," ") || "").attr("font-size", "10px").attr("fill", "#666").style("display", "none");
 
         const node = container.append("g").selectAll("g")
             .data(graph.nodes).join("g").attr("class", "node-group")
@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function() {
             .call(d3.drag().on("start", dragstarted).on("drag", dragged).on("end", dragended));
 
         node.append("circle").attr("r", 18).attr("fill", d => nodeMapping[d.class]?.color || "#ccc")
-            .attr("stroke", "#fff").attr("stroke-width", 2);
+            .attr("stroke", "#000").attr("stroke-width", 2);
 
         node.append("image").attr("xlink:href", d => nodeMapping[d.class]?.image)
             .attr("x", -12).attr("y", -12).attr("width", 24).attr("height", 24);
@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 const term = event.target.value.toLowerCase();
                 node.selectAll("circle").transition().duration(500)
                     .attr("r", d => (d.label?.toLowerCase().includes(term)) ? 30 : 18)
-                    .attr("stroke", d => (d.label?.toLowerCase().includes(term)) ? "#ffeb3b" : "#fff")
+                    .attr("stroke", d => (d.label?.toLowerCase().includes(term)) ? "#ffeb3b" : "#000")
                     .attr("stroke-width", d => (d.label?.toLowerCase().includes(term)) ? 6 : 2);
             }
         });
