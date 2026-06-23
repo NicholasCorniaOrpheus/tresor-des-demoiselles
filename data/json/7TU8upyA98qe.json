@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "La Prière. Dédiée à S.M. la reine des français",
+    "aliases": null,
+    "description": null,
+    "base_name": "La Prière. Dédiée à S.M. la reine des français",
+    "filename": "La Prière. Dédiée à S.M. la reine des français.md",
+    "id": "7TU8upyA98qe",
+    "n_id": 112396240648006500678
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
+        "label": "song"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "volume": 4,
+        "publication_date": 

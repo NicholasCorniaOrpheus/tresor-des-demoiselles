@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:QKKdeXjo8w7N a rdfs:Resource ;
+    rdfs:label "Gustave de Revel" ;
+    <> 460256310551501629694,
+        "Gustave de Revel" ;
+    dcterms:type dcterms:Agent ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    schema:gender tdd:hkA3uvTGSDnD .
+

@@ -1,0 +1,13 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:i2BmdHj6e6Q9 a rdfs:Resource ;
+    rdfs:label "Johannes Verhulst" ;
+    <> 825498019293643570312,
+        "Johannes Verhulst" ;
+    dcterms:type dcterms:Agent ;
+    wdt:P31 tdd:TudsDJnQvonk .
+

@@ -1,0 +1,14 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:oDTETof3Wqj5 a rdfs:Resource ;
+    rdfs:label "Journal des demoiselles (1891)" ;
+    <> 932758035969777761448,
+        "Journal des demoiselles (1891)" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:Ue6ZuYvAVpqW ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

@@ -1,0 +1,13 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:Je7moMztSRaR a rdfs:Resource ;
+    rdfs:label "Émile Barateau" ;
+    <> 343244235640912408244,
+        "Émile Barateau" ;
+    dcterms:type dcterms:Agent ;
+    schema:gender tdd:hkA3uvTGSDnD .
+

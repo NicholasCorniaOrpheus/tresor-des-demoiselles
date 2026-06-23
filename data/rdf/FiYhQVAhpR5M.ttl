@@ -1,0 +1,17 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:FiYhQVAhpR5M a rdfs:Resource ;
+    rdfs:label "Alfred Lebigre" ;
+    <> 282942965402603695477,
+        "Alfred Lebigre" ;
+    dcterms:type dcterms:Agent ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    skos:altLabel "Duquesne" ;
+    schema:gender tdd:hkA3uvTGSDnD .
+

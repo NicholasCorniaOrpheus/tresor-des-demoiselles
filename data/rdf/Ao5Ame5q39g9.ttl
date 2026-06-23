@@ -1,0 +1,14 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:Ao5Ame5q39g9 a rdfs:Resource ;
+    rdfs:label "Le Corbeille de roses" ;
+    <> 181398730176591290518,
+        "Le Corbeille de roses" ;
+    dcterms:title "Le Corbeille de roses. Valse brillante" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:LTZ2PAutKcZC .
+

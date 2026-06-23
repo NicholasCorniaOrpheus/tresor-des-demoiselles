@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:bXeCi7hg9Gqt a rdfs:Resource ;
+    rdfs:label "L'enfant et la rose: mélodie" ;
+    <> 691713508395877658444,
+        "L'enfant et la rose" ;
+    dcterms:title "L'enfant et la rose: mélodie" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:8FqAjuo6FtkU ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

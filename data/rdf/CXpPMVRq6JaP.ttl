@@ -1,0 +1,13 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:CXpPMVRq6JaP a rdfs:Resource ;
+    rdfs:label "Hippolyte Guérin" ;
+    <> 217152510888317167143,
+        "Hippolyte Guérin" ;
+    dcterms:type dcterms:Agent ;
+    wdt:P31 tdd:TudsDJnQvonk .
+

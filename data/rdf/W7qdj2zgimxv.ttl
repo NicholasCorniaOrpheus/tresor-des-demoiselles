@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:W7qdj2zgimxv a rdfs:Resource ;
+    rdfs:label "Ange ployez votre aile! rêverie" ;
+    <> 579917862579785515063,
+        "Ange ployez votre aile! rêverie" ;
+    dcterms:title "Ange ployez votre aile! rêverie" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:8FqAjuo6FtkU ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

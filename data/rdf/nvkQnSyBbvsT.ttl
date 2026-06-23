@@ -1,0 +1,17 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:nvkQnSyBbvsT a rdfs:Resource ;
+    rdfs:label "Orpheus Instituut" ;
+    <> 927074628245022976603,
+        "Orpheus Instituut" ;
+    dcterms:type bf:Organization ;
+    wdt:P17 tdd:B2DaBkDtqy5R ;
+    wdt:P31 tdd:BSaTuCVugahJ ;
+    skos:altLabel "Orpheus Institute" .
+

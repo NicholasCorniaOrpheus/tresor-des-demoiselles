@@ -1,0 +1,18 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:iqUisMc9DuzZ a rdfs:Resource ;
+    rdfs:label "Louis Meyrargues" ;
+    <> 842621253939453694123,
+        "Louis Meyrargues" ;
+    dcterms:type dcterms:Agent ;
+    wdt:P1343 tdd:XP2eoc3jqCp2 ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    skos:altLabel "Louis Mairargue" ;
+    schema:gender tdd:hkA3uvTGSDnD .
+

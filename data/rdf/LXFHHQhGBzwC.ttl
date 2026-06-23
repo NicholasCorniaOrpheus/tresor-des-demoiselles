@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:LXFHHQhGBzwC a rdfs:Resource ;
+    rdfs:label "Espoir en Dieu: chants du crépuscule" ;
+    <> 382029435231396803773,
+        "Espoir en Dieu" ;
+    dcterms:title "Espoir en Dieu: chants du crépuscule" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:8FqAjuo6FtkU ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

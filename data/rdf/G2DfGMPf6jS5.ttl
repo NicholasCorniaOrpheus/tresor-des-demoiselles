@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:G2DfGMPf6jS5 a rdfs:Resource ;
+    rdfs:label "Le Pinson" ;
+    <> 288976615496145968385,
+        "Le Pinson" ;
+    dcterms:title "Le Pinson ou le bien pour le mal" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:8FqAjuo6FtkU ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

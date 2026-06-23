@@ -1,0 +1,14 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:g24ctTK5q9V8 a rdfs:Resource ;
+    rdfs:label "L'Ouragan" ;
+    <> 784180786063434023688,
+        "L'Ouragan" ;
+    dcterms:title "L'Ouragan: Quadrille par Musard: Arrangé à quatre mains par A. Scola." ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:HKt9yvCZmpw6 .
+

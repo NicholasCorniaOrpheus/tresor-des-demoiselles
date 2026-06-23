@@ -10,7 +10,7 @@ occupation:
     reference_URL:
 date_of_birth:
   - value: 1786-01-01
-described_by_source: ["[[Agents of Change]]"]
+described_by_source: "[[Agents of Change]]"
 image:
 date_of_death:
   - value: 1864-01-01

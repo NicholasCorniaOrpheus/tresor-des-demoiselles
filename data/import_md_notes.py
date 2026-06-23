@@ -1,6 +1,5 @@
 from kblight.entity import import_md, assets
 from kblight.statement import statements
-from kblight.serialize import rdf
 from kblight import utilities
 
 import yaml, os

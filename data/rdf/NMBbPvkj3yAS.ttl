@@ -1,0 +1,14 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:NMBbPvkj3yAS a rdfs:Resource ;
+    rdfs:label "poet" ;
+    <> 419657514340286950941,
+        "poet" ;
+    dcterms:type skos:Concept ;
+    wdt:P31 tdd:mQD8LFQ4A2HJ .
+

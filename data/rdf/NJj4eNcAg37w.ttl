@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:NJj4eNcAg37w a rdfs:Resource ;
+    rdfs:label "Eugène Delisle" ;
+    <> 418771235045438972978,
+        "Eugène Delisle" ;
+    dcterms:type dcterms:Agent ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    schema:gender tdd:hkA3uvTGSDnD .
+

@@ -1,0 +1,15 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:RYU7rRDeh5zs a rdfs:Resource ;
+    rdfs:label "Royal Conservatory of Antwerp" ;
+    <> 485652487271220534565,
+        "Royal Conservatory of Antwerp" ;
+    dcterms:type bf:Organization ;
+    wdt:P17 tdd:B2DaBkDtqy5R ;
+    wdt:P31 tdd:RYU7rRDeh5zs .
+

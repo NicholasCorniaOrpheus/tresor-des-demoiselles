@@ -7,7 +7,7 @@ aliases:
 description: Belgian periodical
 instance_of: "[[periodical]]"
 described_by_source:
-  - - Agents of Change
+  - "[[Agents of Change]]"
 inception:
 image:
 location:

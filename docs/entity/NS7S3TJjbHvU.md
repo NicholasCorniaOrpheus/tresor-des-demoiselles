@@ -70,7 +70,7 @@
     - [Q40163826](http://wikidata.org/entity/Q40163826)
 
 ???+ abstract "described by source"
-    - ['Agents of Change']
+    - [Agents of Change](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP)
 
 ???+ abstract "inception"
     - 1833-02-01

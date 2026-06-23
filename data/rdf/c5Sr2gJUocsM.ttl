@@ -1,0 +1,11 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:c5Sr2gJUocsM a rdfs:Resource ;
+    rdfs:label "Auguste Richomme" ;
+    <> 702864481357471479088,
+        "Auguste Richomme" ;
+    dcterms:type dcterms:Agent .
+

@@ -1,0 +1,15 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:NS7S3TJjbHvU a rdfs:Resource ;
+    rdfs:label "Journal des demoiselles" ;
+    <> 421441232247743728610,
+        "Journal des demoiselles" ;
+    dcterms:type bf:Organization ;
+    wdt:P1343 tdd:S2Htsbzzq7aP ;
+    wdt:P17 tdd:LCZnUXZBAaXS .
+

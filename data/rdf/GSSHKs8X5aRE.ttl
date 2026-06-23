@@ -1,0 +1,16 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:GSSHKs8X5aRE a rdfs:Resource ;
+    rdfs:label "Le Farouche ennemi. Opérette en un acte" ;
+    <> 297745539899550740784,
+        "Le Farouche ennemi. Opérette en un acte" ;
+    dcterms:title "Le Farouche ennemi. Opérette en un acte" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:GFGuESLqMKpn,
+        tdd:bogx9ECia7TM ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

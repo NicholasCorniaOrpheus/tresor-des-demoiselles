@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:dJRZgT58Xf8A a rdfs:Resource ;
+    rdfs:label "Le soir: mélodie transcrite pour soprano" ;
+    <> 728198642634042432977,
+        "Le soir" ;
+    dcterms:title "Le soir: mélodie transcrite pour soprano" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:8FqAjuo6FtkU ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

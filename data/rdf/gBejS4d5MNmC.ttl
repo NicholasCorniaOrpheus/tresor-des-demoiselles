@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:gBejS4d5MNmC a rdfs:Resource ;
+    rdfs:label "François de Coninck" ;
+    <> 787655764151801091904,
+        "François de Coninck" ;
+    dcterms:type dcterms:Agent ;
+    wdt:P1343 tdd:XP2eoc3jqCp2 ;
+    schema:gender tdd:hkA3uvTGSDnD .
+

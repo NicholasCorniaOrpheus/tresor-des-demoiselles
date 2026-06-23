@@ -1,0 +1,16 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.wikidata.org/entity/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:k5r6CAzucwUr a rdfs:Resource ;
+    rdfs:label "L'elisir d'amore" ;
+    <> 868099231250241298047,
+        "L'elisir d'amore" ;
+    dcterms:type bf:Work ;
+    wdt:P31 tdd:XaBZqJUPUbCp ;
+    ns1:P7937 tdd:NwTUKgXApENs .
+

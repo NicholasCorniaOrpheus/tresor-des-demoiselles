@@ -110,9 +110,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entity/Adrien Talexy.md",
+                "file": "entity/Journal des demoiselles.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -125,10 +125,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adrien Talexy"
+              "title": "Journal des demoiselles"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "image",
+                "query": "file: Jour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -290,12 +291,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "a021b60216f25b74",
+  "active": "665ab545f521c1a6",
   "lastOpenFiles": [
+    "entity/Trésor des demoiselles.md",
+    "entity/Adrien Talexy.md",
+    "entity/Magasin des demoiselles.md",
+    "entity/Louise Jeanne Cécile Ruelens.md",
+    "entity/Jeanne-Justine Fouqueau de Pussy.md",
+    "entity/Agents of Change.md",
+    "entity/manifestation_list.base",
     "entity/Ange ployez votre aile! rêverie.md",
     "entity/Parles bas! Chansonette.md",
-    "entity/Adrien Talexy.md",
-    "entity/manifestation_list.base",
     "Le Farouche ennemi. Opérette en un acte.md",
     "entity/Quadrille. Parisina.md",
     "Journal des demoiselles (1849).md",
@@ -332,11 +338,6 @@
     "entity/Journal des demoiselles (1837).md",
     "entity/Harvard University.md",
     "entity/Trésor des demoiselles (1857).md",
-    "Gerritsen Women's History Collection of Aletta H. Jacobs.md",
-    "Hendrik Conscience Heritage Library.md",
-    "University of Leuven.md",
-    "Jean Baptiste Bruylant.md",
-    "entity/Magasin des demoiselles.md",
-    "entity/Magasin des demoiselles (1886).md"
+    "Gerritsen Women's History Collection of Aletta H. Jacobs.md"
   ]
 }

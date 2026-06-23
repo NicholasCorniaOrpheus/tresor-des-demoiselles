@@ -1,0 +1,20 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:VWaxuELqVfKN a rdfs:Resource ;
+    rdfs:label "Trésor des demoiselles" ;
+    <> 567515594472666155378,
+        "Trésor des demoiselles" ;
+    dc:description "Belgian periodical" ;
+    dcterms:type bf:Organization ;
+    wdt:P1343 tdd:S2Htsbzzq7aP ;
+    wdt:P17 tdd:B2DaBkDtqy5R ;
+    wdt:P31 tdd:Ue6ZuYvAVpqW ;
+    skos:altLabel "Le trésor des demoiselles" .
+

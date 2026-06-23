@@ -1,0 +1,14 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:fPQHFdTsWu9q a rdfs:Resource ;
+    <> 771272426233161451886,
+        "La mélodie" ;
+    dcterms:type bf:Organization ;
+    wdt:P17 tdd:B2DaBkDtqy5R ;
+    wdt:P31 tdd:Ue6ZuYvAVpqW .
+

@@ -1,0 +1,14 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.wikidata.org/entity/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:af9ZEKkDCPJP a rdfs:Resource ;
+    rdfs:label "Le Carillonneur de Bruges" ;
+    <> 673791968446031399865,
+        "Le Carillonneur de Bruges" ;
+    dcterms:type bf:Work ;
+    ns1:P7937 tdd:NwTUKgXApENs .
+
