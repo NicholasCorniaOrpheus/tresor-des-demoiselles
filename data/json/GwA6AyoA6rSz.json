@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Eugène de Lonlay",
+    "aliases": null,
+    "description": null,
+    "base_name": "Eugène de Lonlay",
+    "filename": "Eugène de Lonlay.md",
+    "id": "GwA6AyoA6rSz",
+    "n_id": 308141640034732006319
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q3060238"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+        "label": "lyricist"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS",
+        "label": "poet"
+      }
+    ]
+  }
+}

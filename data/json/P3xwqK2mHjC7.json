@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": "country dance derived from polka, of continental European origin",
+    "aliases": null,
+    "label": "schottische",
+    "base_name": "schottische",
+    "filename": "schottische.md",
+    "id": "P3xwqK2mHjC7",
+    "n_id": 434064908239951994459
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
+        "label": "classical dance music"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q329385"
+    ]
+  }
+}

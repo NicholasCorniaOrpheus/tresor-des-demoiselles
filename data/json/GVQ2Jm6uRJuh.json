@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "type of fictional character",
+    "base_name": "type of fictional character",
+    "filename": "type of fictional character.md",
+    "id": "GVQ2Jm6uRJuh",
+    "n_id": 298817263371010291122
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q112265308"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Dieu le voit",
+    "aliases": null,
+    "description": null,
+    "base_name": "Dieu le voit",
+    "filename": "Dieu le voit.md",
+    "id": "gRR8aAYdEX54",
+    "n_id": 792637777608565348001
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
+        "label": "song"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+        "label": "Trésor des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/c5Sr2gJUocsM",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+          "label": "lyricist"
+        },
+        "label": "Auguste Richomme"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AouufLb7bx5R",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Paul Henrion"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
+          "label": "Orpheus Instituut"
+        },
+        "place_of_publication": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+          "label": "Brussels"
+        }
+      }
+    ],
+    "title": [
+      "Dieu le voit: Mélodie"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+        "quantity": 1,
+        "label": "voice"
+      }
+    ],
+    "depicts": null,
+    "based_on": null,
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ]
+  }
+}

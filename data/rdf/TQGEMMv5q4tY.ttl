@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:TQGEMMv5q4tY a rdfs:Resource ;
     rdfs:label "Chanson russe" ;
-    <> 523952526061395594927,
-        "Chanson russe" ;
     dcterms:title "Chanson russe: Romance sans paroles." ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:aph6QHtmL78s .

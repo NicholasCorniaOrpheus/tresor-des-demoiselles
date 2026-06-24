@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:dfucaD9GdueP a rdfs:Resource ;
     rdfs:label "type of musical work" ;
-    <> 735979505609816392764,
-        "type of musical work" ;
     dcterms:type skos:Concept ;
     skos:altLabel "type of composition" .
 

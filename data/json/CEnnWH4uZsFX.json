@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Amsterdam",
+    "aliases": null,
+    "description": null,
+    "base_name": "Amsterdam",
+    "filename": "Amsterdam.md",
+    "id": "CEnnWH4uZsFX",
+    "n_id": 210987821370184692728
+  },
+  "statements": {
+    "identifier": [
+      "http://wikidata.org/entity/Q727"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dggAjTSBZEfA",
+        "label": "Netherlands"
+      }
+    ]
+  }
+}

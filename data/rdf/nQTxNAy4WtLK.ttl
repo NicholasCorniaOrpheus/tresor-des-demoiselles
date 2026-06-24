@@ -3,12 +3,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:nQTxNAy4WtLK a rdfs:Resource ;
     rdfs:label "editor" ;
-    <> 916109171714744475335,
-        "editor" ;
     dcterms:type skos:Concept ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

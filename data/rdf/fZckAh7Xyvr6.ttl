@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:fZckAh7Xyvr6 a rdfs:Resource ;
     rdfs:label "Enfant, sais-tu?" ;
-    <> 774971976028895364712,
-        "Enfant, sais-tu?" ;
     dcterms:title "Enfant, sais-tu?" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

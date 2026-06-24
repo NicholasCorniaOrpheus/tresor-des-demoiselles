@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Germany",
+    "aliases": null,
+    "description": null,
+    "base_name": "Germany",
+    "filename": "Germany.md",
+    "id": "eXFBXUBFBjqU",
+    "n_id": 753474992218913880167
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q183"
+    ],
+    "country": null,
+    "instance_of": [
+      "[[country]]"
+    ]
+  }
+}

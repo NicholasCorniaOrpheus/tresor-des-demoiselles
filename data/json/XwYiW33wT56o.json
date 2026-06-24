@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "L'emploi de ma journée",
+    "aliases": null,
+    "description": null,
+    "base_name": "L'emploi de ma journée",
+    "filename": "L'emploi de ma journée.md",
+    "id": "XwYiW33wT56o",
+    "n_id": 617823919262994529152
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
+        "label": "song"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+        "label": "Trésor des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mscfQWWqDRcw",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Antoine Louis Clapisson"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CRKTdiKE8hR7",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+          "label": "lyricist"
+        },
+        "label": "Frédéric de Courcy"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://anet.be/record/opacdkvc/c:lvd:15287383",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+          "label": "Royal Conservatory of Antwerp"
+        },
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE",
+          "label": "Joseph Meynne"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+            "label": "Brussels"
+          }
+        ]
+      },
+      {
+        "permalink": "https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=183654",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+          "label": "Royal Conservatory of Brussels"
+        },
+        "note": "Part of Le Mélomane, journal de chant No. 54, vol. 3",
+        "publication_date": "1852-01-01",
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LJtUagnxHJ9B",
+          "label": "Gustave Jacqmain"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE",
+            "label": "Ghent"
+          }
+        ]
+      },
+      {
+        "permalink": "http://ark.bnf.fr/ark:/12148/cb42913217h",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+          "label": "Bibliothèque nationale de France"
+        },
+        "publication_date": "1851-01-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8HSKpjkZAxrE",
+          "label": "Joseph Meissonnier"
+        }
+      },
+      {
+        "permalink": "https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
+          "label": "Orpheus Instituut"
+        },
+        "place_of_publication": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+          "label": "Brussels"
+        },
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
+          "label": "François Desterbecq"
+        }
+      }
+    ],
+    "title": [
+      "L'emploi de ma journée"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+        "quantity": 1,
+        "label": "voice"
+      }
+    ],
+    "depicts": null,
+    "based_on": null,
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ]
+  }
+}

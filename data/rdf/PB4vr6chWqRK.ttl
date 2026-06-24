@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:PB4vr6chWqRK a rdfs:Resource ;
     rdfs:label "Sans toi. Romance" ;
-    <> 436630788970231454132,
-        "Sans toi. Romance" ;
     dcterms:title "Sans toi. Romance" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

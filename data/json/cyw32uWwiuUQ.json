@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "voice",
+    "base_name": "voice",
+    "filename": "voice.md",
+    "id": "cyw32uWwiuUQ",
+    "n_id": 721869170272909956550
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/e2BQmjur6FrK",
+        "label": "type of musical instrument"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q17172850"
+    ]
+  }
+}

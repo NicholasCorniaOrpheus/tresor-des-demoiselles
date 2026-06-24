@@ -2,10 +2,10 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:VAvBZjyK4s8B a rdfs:Resource ;
-    <> 560396904689154412458,
-        "Italy" ;
-    dcterms:type bf:Place .
+    rdfs:label "Italy" ;
+    dcterms:type bf:Place ;
+    wdt:P31 <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/[[country]]> .
 

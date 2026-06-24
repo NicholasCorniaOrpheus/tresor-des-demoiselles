@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "periodical",
+    "base_name": "periodical",
+    "filename": "periodical.md",
+    "id": "Ue6ZuYvAVpqW",
+    "n_id": 549595558063296081898
+  },
+  "statements": {
+    "identifier": [
+      "http://wikidata.org/entity/Q1002697"
+    ],
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null
+  }
+}

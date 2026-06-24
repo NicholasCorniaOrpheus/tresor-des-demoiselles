@@ -4,12 +4,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:8XggxUT6Zokh a rdfs:Resource ;
     rdfs:label "Hendrik Conscience Heritage Library" ;
-    <> 134560062304044179529,
-        "Hendrik Conscience Heritage Library" ;
     dcterms:type bf:Organization ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:TKzN8Z8ZP45J ;

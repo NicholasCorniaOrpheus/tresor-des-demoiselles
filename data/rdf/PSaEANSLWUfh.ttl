@@ -4,12 +4,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:PSaEANSLWUfh a rdfs:Resource ;
     rdfs:label "Munich Digitization Center" ;
-    <> 442247297981066628801,
-        "Munich Digitization Center" ;
     dcterms:type bf:Organization ;
     wdt:P17 tdd:eXFBXUBFBjqU ;
     wdt:P31 tdd:G5aFCqnqarZS ;

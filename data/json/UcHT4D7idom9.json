@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Marie Caroline Miolan-Carvalho",
+    "aliases": [
+      "M.me Miolan Carvalho"
+    ],
+    "description": null,
+    "base_name": "Marie Caroline Miolan-Carvalho",
+    "filename": "Marie Caroline Miolan-Carvalho.md",
+    "id": "UcHT4D7idom9",
+    "n_id": 548940592437398931232
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q1630239"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VMZCquADC29J",
+        "label": "opera singer"
+      }
+    ]
+  }
+}

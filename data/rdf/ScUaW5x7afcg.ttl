@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:ScUaW5x7afcg a rdfs:Resource ;
     rdfs:label "En écoutant avec son coeur" ;
-    <> 507739489318998451211,
-        "En écoutant avec son coeur" ;
     dcterms:title "En écoutant avec son coeur" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:aph6QHtmL78s ;

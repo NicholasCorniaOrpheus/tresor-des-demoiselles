@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Italy",
+    "aliases": null,
+    "description": null,
+    "base_name": "Italy",
+    "filename": "Italy.md",
+    "id": "VAvBZjyK4s8B",
+    "n_id": 560396904689154412458
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q38"
+    ],
+    "country": null,
+    "instance_of": [
+      "[[country]]"
+    ]
+  }
+}

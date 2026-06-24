@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:axFwXa8k5P4u a rdfs:Resource ;
     rdfs:label "Eugène Talbot" ;
-    <> 679987129020356437338,
-        "Eugène Talbot" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD .

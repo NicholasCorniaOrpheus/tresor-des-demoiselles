@@ -1,0 +1,11 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:caTPx3dAfP6L a rdfs:Resource ;
+    rdfs:label "Renouveau. bluette" ;
+    dcterms:title "Renouveau : bluette" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

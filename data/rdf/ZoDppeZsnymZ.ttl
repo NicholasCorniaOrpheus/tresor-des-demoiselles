@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.wikidata.org/entity/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:ZoDppeZsnymZ a rdfs:Resource ;
+    rdfs:label "Ondine" ;
+    dcterms:title "Ondine" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:FNU55ruFFYjd ;
+    ns1:P180 tdd:CvRtXZCnhvKH ;
+    schema:about tdd:RixYXzFHfhqy .
+

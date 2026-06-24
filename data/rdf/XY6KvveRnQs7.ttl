@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:XY6KvveRnQs7 a rdfs:Resource ;
     rdfs:label "Ernest L’Épine" ;
-    <> 609329500445437240139,
-        "Ernest L’Épine" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD .

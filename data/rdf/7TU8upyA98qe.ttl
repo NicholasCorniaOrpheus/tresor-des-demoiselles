@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:7TU8upyA98qe a rdfs:Resource ;
     rdfs:label "La Prière. Dédiée à S.M. la reine des français" ;
-    <> 112396240648006500678,
-        "La Prière. Dédiée à S.M. la reine des français" ;
     dcterms:title "La Prière. Dédiée à S.M. la reine des français" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

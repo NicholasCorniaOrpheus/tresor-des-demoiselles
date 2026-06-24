@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:LiRnHQgHVwqd a rdfs:Resource ;
     rdfs:label "Les lutins de Bretagne" ;
-    <> 386078547941944883465,
-        "Les lutins de Bretagne" ;
     dcterms:title "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:HKt9yvCZmpw6 .

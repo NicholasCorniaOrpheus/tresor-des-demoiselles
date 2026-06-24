@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Canada",
+    "aliases": null,
+    "description": null,
+    "base_name": "Canada",
+    "filename": "Canada.md",
+    "id": "TL9bhQaShbbC",
+    "n_id": 522462311703205352227
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q16"
+    ],
+    "country": null,
+    "instance_of": [
+      "[[country]]"
+    ]
+  }
+}

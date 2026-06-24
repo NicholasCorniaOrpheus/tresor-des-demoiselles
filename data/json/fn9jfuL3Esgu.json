@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Journal des demoiselles (1836)",
+    "aliases": null,
+    "description": null,
+    "base_name": "Journal des demoiselles (1836)",
+    "filename": "Journal des demoiselles (1836).md",
+    "id": "fn9jfuL3Esgu",
+    "n_id": 779506865546985594138
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
+        "label": "periodical"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "volume": 4,
+        "publication_date": "1836-01-01",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": null,
+    "has_version": [
+      {
+        "external_source": "https://www.digitale-sammlungen.de/en/view/bsb10359987",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
+          "label": "Munich Digitization Center"
+        },
+        "publication_date": "1836-01-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "permalink": "https://mdz-nbn-resolving.de/details:bsb10359987",
+        "IIIF_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest"
+      }
+    ],
+    "title": null,
+    "instrumentation": null,
+    "depicts": null,
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "based_on": null
+  }
+}

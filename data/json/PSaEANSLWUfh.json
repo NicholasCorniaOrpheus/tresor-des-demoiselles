@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Munich Digitization Center",
+    "aliases": [
+      "MDZ"
+    ],
+    "description": null,
+    "base_name": "Munich Digitization Center",
+    "filename": "Munich Digitization Center.md",
+    "id": "PSaEANSLWUfh",
+    "n_id": 442247297981066628801
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS",
+        "label": "digital library"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": null,
+    "dissolved": null,
+    "contributor": null,
+    "official_website": [
+      "https://www.digitale-sammlungen.de/"
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q1645155"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXFBXUBFBjqU",
+        "label": "Germany"
+      }
+    ]
+  }
+}

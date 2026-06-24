@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Fantaisie sur le Carillonneur",
+    "aliases": null,
+    "description": null,
+    "base_name": "Fantaisie sur le Carillonneur",
+    "filename": "Fantaisie sur le Carillonneur.md",
+    "id": "2Qk3wiPP6j39",
+    "n_id": 8231711117617962325
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dkFoW9KcT58b",
+        "label": "fantasia"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+        "volume": 9,
+        "publication_date": "1852-01-01",
+        "label": "Magasin des demoiselles"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+        "label": "Trésor des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kXFWowftH5UQ",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Friedrich Burgmüller"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://anet.be/record/opacdkvc/c:lvd:6722999",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+          "label": "Royal Conservatory of Antwerp"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+            "label": "Brussels"
+          }
+        ],
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWSTBQTKP4Bb",
+          "label": "Pascal Nacher"
+        }
+      },
+      {
+        "permalink": "http://ark.bnf.fr/ark:/12148/cb42884316z",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+          "label": "Bibliothèque nationale de France"
+        },
+        "note": "Piano four-hands version. Second edition.",
+        "publication_date": "1862-01-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ]
+      },
+      {
+        "permalink": "https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
+          "label": "Orpheus Instituut"
+        },
+        "place_of_publication": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+          "label": "Brussels"
+        },
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
+          "label": "François Desterbecq"
+        }
+      }
+    ],
+    "title": [
+      "Fantaisie sur le Carillonneur"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "based_on": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/af9ZEKkDCPJP",
+        "label": "Le Carillonneur de Bruges"
+      }
+    ],
+    "about": null,
+    "language": null
+  }
+}

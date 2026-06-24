@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Pascal Nacher",
+    "aliases": null,
+    "description": null,
+    "base_name": "Pascal Nacher",
+    "filename": "Pascal Nacher.md",
+    "id": "YWSTBQTKP4Bb",
+    "n_id": 629369169251758935909
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q140332089"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+        "label": "publisher"
+      }
+    ]
+  }
+}

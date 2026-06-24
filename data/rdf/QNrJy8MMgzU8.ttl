@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:QNrJy8MMgzU8 a rdfs:Resource ;
     rdfs:label "Louise Jeanne Cécile Ruelens" ;
-    <> 461537225053232420955,
-        "Louise Jeanne Cécile Ruelens" ;
     dcterms:type dcterms:Agent ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P31 tdd:TudsDJnQvonk ;

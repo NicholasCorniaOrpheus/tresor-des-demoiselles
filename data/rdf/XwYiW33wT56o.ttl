@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:XwYiW33wT56o a rdfs:Resource ;
     rdfs:label "L'emploi de ma journée" ;
-    <> 617823919262994529152,
-        "L'emploi de ma journée" ;
     dcterms:title "L'emploi de ma journée" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

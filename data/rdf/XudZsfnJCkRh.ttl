@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:XudZsfnJCkRh a rdfs:Resource ;
     rdfs:label "Amable Tastu" ;
-    <> 617130649360442653254,
-        "Amable Tastu" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:6vopxa7szAQ4 .

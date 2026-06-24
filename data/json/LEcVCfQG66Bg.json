@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "United States",
+    "aliases": [
+      "USA",
+      "US",
+      "United States of America"
+    ],
+    "description": null,
+    "base_name": "United States",
+    "filename": "United States.md",
+    "id": "LEcVCfQG66Bg",
+    "n_id": 376009577177307442157
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q30"
+    ],
+    "country": null,
+    "instance_of": [
+      "[[country]]"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Chansonette de l'opéra Le caïd",
+    "aliases": null,
+    "description": null,
+    "base_name": "Chansonette de l'opéra Le caïd",
+    "filename": "Chansonette de l'opéra Le caïd.md",
+    "id": "WPYDAMp8mTS3",
+    "n_id": 585599682863744563150
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
+        "label": "song"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+        "volume": 5,
+        "label": "Trésor des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+          "label": "publisher"
+        },
+        "reference_URL": "https://anet.be/record/opacap/c:lvd:12971554",
+        "label": "François Desterbecq"
+      }
+    ],
+    "has_version": [
+      {
+        "place_of_publication": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+          "label": "Brussels"
+        },
+        "permalink": "https://anet.be/record/ap/opacap/c:lvd:12971554",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+          "label": "Royal Conservatory of Antwerp"
+        },
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
+          "label": "François Desterbecq"
+        }
+      }
+    ],
+    "title": [
+      "Chansonette de l'opéra Le caïd"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+        "quantity": 1,
+        "label": "voice"
+      }
+    ],
+    "depicts": null,
+    "based_on": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/C2iCicFyAfex",
+        "label": "Le Caïd"
+      }
+    ],
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ]
+  }
+}

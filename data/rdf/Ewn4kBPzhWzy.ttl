@@ -1,11 +1,10 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Ewn4kBPzhWzy a rdfs:Resource ;
     rdfs:label "George Sawanoff" ;
-    <> 267098334895676698369,
-        "George Sawanoff" ;
-    dcterms:type dcterms:Agent .
+    dcterms:type dcterms:Agent ;
+    wdt:P31 tdd:TudsDJnQvonk .
 

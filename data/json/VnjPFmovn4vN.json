@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "early music",
+    "base_name": "early music",
+    "filename": "early music.md",
+    "id": "VnjPFmovn4vN",
+    "n_id": 573361540564776801332
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q436016"
+    ]
+  }
+}

@@ -4,12 +4,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:MzUK38XpCjqB a rdfs:Resource ;
     rdfs:label "Bibliothèque nationale de France" ;
-    <> 412522999014522832323,
-        "Bibliothèque nationale de France" ;
     dcterms:type bf:Organization ;
     wdt:P17 tdd:LCZnUXZBAaXS ;
     wdt:P31 tdd:Y9ux9hBbTDEk ;

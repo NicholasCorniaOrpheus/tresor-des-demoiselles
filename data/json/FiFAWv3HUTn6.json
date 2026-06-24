@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Le Mariage chinois",
+    "aliases": null,
+    "description": null,
+    "base_name": "Le Mariage chinois",
+    "filename": "Le Mariage chinois.md",
+    "id": "FiFAWv3HUTn6",
+    "n_id": 282831548827818951397
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
+        "label": "song"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "volume": 24,
+        "publication_date": "1856-03-01",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GwA6AyoA6rSz",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+          "label": "lyricist"
+        },
+        "label": "Eugène de Lonlay"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/EZRQ4FAbVngs",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Charles-Henri Plantade"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
+          "label": "Orpheus Instituut"
+        },
+        "publication_date": "1856-03-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay."
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+        "quantity": 1,
+        "label": "voice"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BCSvsKmuf8u3",
+        "label": "exoticism"
+      }
+    ],
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "based_on": null
+  }
+}

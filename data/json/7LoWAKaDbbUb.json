@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Biblioteca civica di Verona",
+    "aliases": null,
+    "description": null,
+    "base_name": "Biblioteca civica di Verona",
+    "filename": "Biblioteca civica di Verona.md",
+    "id": "7LoWAKaDbbUb",
+    "n_id": 109985051477425497753
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
+        "label": "public library"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": null,
+    "dissolved": null,
+    "contributor": null,
+    "official_website": [
+      "https://cbv.comune.verona.it/"
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q3639573"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B",
+        "label": "Italy"
+      }
+    ]
+  }
+}

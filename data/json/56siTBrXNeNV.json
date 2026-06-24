@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Marie Lasseveur",
+    "aliases": null,
+    "description": null,
+    "base_name": "Marie Lasseveur",
+    "filename": "Marie Lasseveur.md",
+    "id": "56siTBrXNeNV",
+    "n_id": 63671561017350787230
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ],
+    "identifier": [
+      "http://wikidata.org/entity/Q126722513"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+        "label": "editor"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE",
+        "label": "music critic"
+      }
+    ]
+  }
+}

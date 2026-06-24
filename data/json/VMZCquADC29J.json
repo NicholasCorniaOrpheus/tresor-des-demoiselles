@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "opera singer",
+    "base_name": "opera singer",
+    "filename": "opera singer.md",
+    "id": "VMZCquADC29J",
+    "n_id": 564246033656257086301
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+        "label": "occupation"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q2865819"
+    ]
+  }
+}

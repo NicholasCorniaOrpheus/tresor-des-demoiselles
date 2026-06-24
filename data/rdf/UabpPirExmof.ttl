@@ -5,12 +5,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:UabpPirExmof a rdfs:Resource ;
     rdfs:label "Parisina" ;
-    <> 548333230265211457405,
-        "Parisina" ;
     dcterms:type bf:Work ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
     skos:altLabel "Parisina d'Este" ;

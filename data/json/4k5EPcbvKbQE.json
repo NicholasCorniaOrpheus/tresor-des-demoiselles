@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Joseph Meynne",
+    "aliases": null,
+    "description": null,
+    "base_name": "Joseph Meynne",
+    "filename": "Joseph Meynne.md",
+    "id": "4k5EPcbvKbQE",
+    "n_id": 56497633482361101243
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q55770583"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+        "label": "publisher"
+      }
+    ]
+  }
+}

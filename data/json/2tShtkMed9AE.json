@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "music critic",
+    "base_name": "music critic",
+    "filename": "music critic.md",
+    "id": "2tShtkMed9AE",
+    "n_id": 18258546594045262050
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+        "label": "occupation"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q1350157"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Charles Delioux",
+    "aliases": null,
+    "description": null,
+    "base_name": "Charles Delioux",
+    "filename": "Charles Delioux.md",
+    "id": "nBadkY3jYgWe",
+    "n_id": 911445125215694784150
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://wikidata.org/entity/Q85751566"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ]
+  }
+}

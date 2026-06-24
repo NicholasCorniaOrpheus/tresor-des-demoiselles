@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:Q5YfCM4bBtmP a rdfs:Resource ;
     rdfs:label "Quadrille. Parisina" ;
-    <> 455270584580947959207,
-        "Quadrille. Parisina" ;
     dcterms:title "Deux Madones. Romance" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:HKt9yvCZmpw6 ;

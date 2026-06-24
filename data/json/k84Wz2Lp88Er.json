@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "music educator",
+    "base_name": "music educator",
+    "filename": "music educator.md",
+    "id": "k84Wz2Lp88Er",
+    "n_id": 868895927922425685006
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+        "label": "occupation"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q16145150"
+    ]
+  }
+}

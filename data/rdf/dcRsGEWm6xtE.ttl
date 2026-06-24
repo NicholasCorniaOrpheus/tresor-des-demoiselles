@@ -4,14 +4,12 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:dcRsGEWm6xtE a rdfs:Resource ;
     rdfs:label "Ghent" ;
-    <> 734717200977129141990,
-        "Ghent" ;
     dcterms:type bf:Place ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
+    wdt:P31 <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/[[city]]> ;
     skos:altLabel "Gand",
         "Gent" .
 

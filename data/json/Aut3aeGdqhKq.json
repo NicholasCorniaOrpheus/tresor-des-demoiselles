@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "country",
+    "base_name": "country",
+    "filename": "country.md",
+    "id": "Aut3aeGdqhKq",
+    "n_id": 183868647375764041865
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q6256"
+    ]
+  }
+}

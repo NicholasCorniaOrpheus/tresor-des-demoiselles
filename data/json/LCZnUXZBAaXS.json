@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "France",
+    "aliases": [
+      "Frankrijk",
+      "Francia"
+    ],
+    "description": null,
+    "base_name": "France",
+    "filename": "France.md",
+    "id": "LCZnUXZBAaXS",
+    "n_id": 375268381433550005979
+  },
+  "statements": {
+    "identifier": [
+      "http://wikidata.org/entity/Q142"
+    ],
+    "country": null,
+    "instance_of": [
+      "[[country]]"
+    ]
+  }
+}

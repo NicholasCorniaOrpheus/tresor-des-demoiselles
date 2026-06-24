@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Francesco Masini",
+    "aliases": [
+      "François Masini"
+    ],
+    "description": null,
+    "base_name": "Francesco Masini",
+    "filename": "Francesco Masini.md",
+    "id": "5BX54FRugrpJ",
+    "n_id": 65350530716451168385
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q21664072"
+    ]
+  }
+}

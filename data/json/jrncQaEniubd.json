@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Octave Fouque",
+    "aliases": null,
+    "description": null,
+    "base_name": "Octave Fouque",
+    "filename": "Octave Fouque.md",
+    "id": "jrncQaEniubd",
+    "n_id": 863732792554987841684
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q18197626"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bmuitt3Uptaq",
+        "label": "writer"
+      }
+    ]
+  }
+}

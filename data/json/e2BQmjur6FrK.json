@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "type of musical instrument",
+    "base_name": "type of musical instrument",
+    "filename": "type of musical instrument.md",
+    "id": "e2BQmjur6FrK",
+    "n_id": 742952096246536076708
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q110295396"
+    ]
+  }
+}

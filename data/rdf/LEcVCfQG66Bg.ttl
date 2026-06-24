@@ -3,13 +3,12 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:LEcVCfQG66Bg a rdfs:Resource ;
     rdfs:label "United States" ;
-    <> 376009577177307442157,
-        "United States" ;
     dcterms:type bf:Place ;
+    wdt:P31 <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/[[country]]> ;
     skos:altLabel "US",
         "USA",
         "United States of America" .

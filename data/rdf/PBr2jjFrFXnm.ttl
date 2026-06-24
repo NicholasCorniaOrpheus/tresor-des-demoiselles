@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:PBr2jjFrFXnm a rdfs:Resource ;
     rdfs:label "Gaetano Donizetti" ;
-    <> 436917149476152028222,
-        "Gaetano Donizetti" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD .

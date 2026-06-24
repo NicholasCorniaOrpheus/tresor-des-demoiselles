@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:FiFAWv3HUTn6 a rdfs:Resource ;
     rdfs:label "Le Mariage chinois" ;
-    <> 282831548827818951397,
-        "Le Mariage chinois" ;
     dcterms:title "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay." ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

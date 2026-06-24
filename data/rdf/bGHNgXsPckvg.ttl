@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:bGHNgXsPckvg a rdfs:Resource ;
     rdfs:label "Les Fauvettes" ;
-    <> 686150738933694652121,
-        "Les Fauvettes" ;
     dcterms:title "Les Fauvettes" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:Rbyhy2fEYa2g ;

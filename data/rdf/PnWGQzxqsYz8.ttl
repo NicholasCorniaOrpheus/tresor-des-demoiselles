@@ -1,0 +1,12 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:PnWGQzxqsYz8 a rdfs:Resource ;
+    rdfs:label "Polka sur le Val D'Andorre d'Halevy" ;
+    dcterms:title "Polka sur le Val D'Andorre d'Halevy: pour piano" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:U66A6PCCFAfU ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

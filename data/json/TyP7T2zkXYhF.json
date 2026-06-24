@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Narcisse Bousquet",
+    "aliases": null,
+    "description": null,
+    "base_name": "Narcisse Bousquet",
+    "filename": "Narcisse Bousquet.md",
+    "id": "TyP7T2zkXYhF",
+    "n_id": 535943317309628581084
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q116868205"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ]
+  }
+}

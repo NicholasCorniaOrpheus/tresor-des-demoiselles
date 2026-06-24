@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Jeanne-Justine Fouqueau de Pussy",
+    "aliases": null,
+    "description": null,
+    "base_name": "Jeanne-Justine Fouqueau de Pussy",
+    "filename": "Jeanne-Justine Fouqueau de Pussy.md",
+    "id": "VahNSkW7JbTC",
+    "n_id": 569004347693072220853
+  },
+  "statements": {
+    "identifier": [
+      "http://wikidata.org/entity/Q6172006"
+    ],
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+        "reference_URL": null,
+        "label": "editor"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": "1786-01-01"
+      }
+    ],
+    "described_by_source": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP",
+        "label": "Agents of Change"
+      }
+    ],
+    "date_of_death": [
+      {
+        "value": "1864-01-01"
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ]
+  }
+}

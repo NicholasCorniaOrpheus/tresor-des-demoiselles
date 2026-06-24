@@ -4,12 +4,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:YWYUY7mvkVNd a rdfs:Resource ;
     rdfs:label "Eugeen Edward Stroobant" ;
-    <> 629407429933659994040,
-        "Eugeen Edward Stroobant" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk ;
     skos:altLabel "Eugeen Stroobant" ;

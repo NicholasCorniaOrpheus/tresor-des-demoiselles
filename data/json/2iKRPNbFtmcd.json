@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Louis Rauis",
+    "aliases": [
+      "L. Rauis"
+    ],
+    "description": null,
+    "base_name": "Louis Rauis",
+    "filename": "Louis Rauis.md",
+    "id": "2iKRPNbFtmcd",
+    "n_id": 14591912740909524209
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q139943916"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ]
+  }
+}

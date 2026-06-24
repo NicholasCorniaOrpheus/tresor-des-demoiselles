@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Belgium",
+    "aliases": null,
+    "description": null,
+    "base_name": "Belgium",
+    "filename": "Belgium.md",
+    "id": "B2DaBkDtqy5R",
+    "n_id": 185796549893605538228
+  },
+  "statements": {
+    "identifier": [
+      "http://wikidata.org/entity/Q31"
+    ],
+    "country": null,
+    "instance_of": [
+      "[[country]]"
+    ]
+  }
+}

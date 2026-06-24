@@ -3,11 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:YRK5MZJvXEBP a rdfs:Resource ;
-    <> 627512110771929029958,
-        "Gerritsen Women's History Collection of Aletta H. Jacobs" ;
+    rdfs:label "Gerritsen Women's History Collection of Aletta H. Jacobs" ;
     dcterms:type bf:Organization ;
     wdt:P17 tdd:LEcVCfQG66Bg ;
     wdt:P31 tdd:G5aFCqnqarZS .

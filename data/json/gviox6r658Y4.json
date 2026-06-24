@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "class": "Work",
+    "description": null,
+    "aliases": null,
+    "label": "Le Lac des fées",
+    "base_name": "Le Lac des fées",
+    "filename": "Le Lac des fées.md",
+    "id": "gviox6r658Y4",
+    "n_id": 803249107692244633550
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+        "label": "dramatico-musical work"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q3223877"
+    ],
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+        "label": "opera"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RkUgaRZ6zs57",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Daniel François Esprit Auber"
+      }
+    ],
+    "based_on": null
+  }
+}

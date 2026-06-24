@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Eugène Talbot",
+    "aliases": null,
+    "description": null,
+    "base_name": "Eugène Talbot",
+    "filename": "Eugène Talbot.md",
+    "id": "axFwXa8k5P4u",
+    "n_id": 679987129020356437338
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://wikidata.org/entity/Q18117908"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3yS9agtba9rA",
+        "label": "translator"
+      }
+    ]
+  }
+}

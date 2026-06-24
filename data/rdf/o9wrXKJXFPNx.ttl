@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:o9wrXKJXFPNx a rdfs:Resource ;
     rdfs:label "Louis Pierre Deffès" ;
-    <> 931491761875303603200,
-        "Louis Pierre Deffès" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD .

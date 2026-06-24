@@ -4,12 +4,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:jMzRtWT8BzJg a rdfs:Resource ;
     rdfs:label "Jules Pillevestre" ;
-    <> 853308872372833535543,
-        "Jules Pillevestre" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk ;
     skos:altLabel "Jules Pillevesse" ;

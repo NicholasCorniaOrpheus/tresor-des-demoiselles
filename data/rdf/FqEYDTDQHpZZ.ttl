@@ -1,0 +1,12 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:FqEYDTDQHpZZ a rdfs:Resource ;
+    rdfs:label "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\"" ;
+    dcterms:title "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:WnBSn3vmYiYL ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

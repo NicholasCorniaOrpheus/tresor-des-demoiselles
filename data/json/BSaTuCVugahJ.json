@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "research institute",
+    "base_name": "research institute",
+    "filename": "research institute.md",
+    "id": "BSaTuCVugahJ",
+    "n_id": 194618031563378501026
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q31855"
+    ]
+  }
+}

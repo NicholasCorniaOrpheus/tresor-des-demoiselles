@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "music arranger",
+    "base_name": "arranger",
+    "filename": "arranger.md",
+    "id": "cZsa9QkDZfZY",
+    "n_id": 713158431471657609333
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+        "label": "occupation"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q1643514"
+    ]
+  }
+}

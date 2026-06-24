@@ -4,12 +4,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:UcHT4D7idom9 a rdfs:Resource ;
     rdfs:label "Marie Caroline Miolan-Carvalho" ;
-    <> 548940592437398931232,
-        "Marie Caroline Miolan-Carvalho" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk ;
     skos:altLabel "M.me Miolan Carvalho" ;

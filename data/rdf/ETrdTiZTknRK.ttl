@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:ETrdTiZTknRK a rdfs:Resource ;
     rdfs:label "Le Livre du coeur" ;
-    <> 256990452460512746279,
-        "Le Livre du coeur" ;
     dcterms:title "Le Livre du coeur: Méditation." ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Trésor des demoiselles (1857)",
+    "aliases": null,
+    "description": "1857 issues collected in one volume.",
+    "base_name": "Trésor des demoiselles (1857)",
+    "filename": "Trésor des demoiselles (1857).md",
+    "id": "6XQw6vXJb4qt",
+    "n_id": 93188213713395752285
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
+        "label": "periodical"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+        "volume": 25,
+        "publication_date": "1857-01-01",
+        "label": "Trésor des demoiselles"
+      }
+    ],
+    "contributor": null,
+    "has_version": [
+      {
+        "permalink": "https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
+          "label": "Orpheus Instituut"
+        },
+        "publication_date": "1857-01-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+            "label": "Brussels"
+          },
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CEnnWH4uZsFX",
+            "label": "Amsterdam"
+          }
+        ],
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
+          "label": "François Desterbecq"
+        },
+        "note": null
+      }
+    ],
+    "title": [
+      "Trésor des demoiselles. Vingt-cinquième Année."
+    ],
+    "instrumentation": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "based_on": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "note": "Reprint of vol. 25 of 1857 probably using the same printing plates of the original Parisian edition.",
+        "label": "Journal des demoiselles"
+      }
+    ]
+  }
+}

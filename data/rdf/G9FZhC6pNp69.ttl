@@ -3,12 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:G9FZhC6pNp69 a rdfs:Resource ;
     rdfs:label "Internet Archive" ;
-    <> 291522931718950825057,
-        "Internet Archive" ;
     dcterms:type bf:Organization ;
     wdt:P31 tdd:G5aFCqnqarZS .
 

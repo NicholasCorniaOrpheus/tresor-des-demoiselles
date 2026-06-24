@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:SW5eHBJmrm62 a rdfs:Resource ;
     rdfs:label "L'etoile qui brille" ;
-    <> 505421626191562801101,
-        "L'etoile qui brille" ;
     dcterms:title "L'etoile qui brille" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

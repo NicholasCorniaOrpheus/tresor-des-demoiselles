@@ -4,12 +4,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:P3xwqK2mHjC7 a rdfs:Resource ;
     rdfs:label "schottische" ;
-    <> 434064908239951994459,
-        "schottische" ;
     dc:description "country dance derived from polka, of continental European origin" ;
     dcterms:type skos:Concept ;
     wdt:P31 tdd:Mj6hzfVSHHew .

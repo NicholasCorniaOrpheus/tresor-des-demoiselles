@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Un concert chez les demoiselles de Saint-Cyr",
+    "aliases": null,
+    "description": null,
+    "base_name": "Un concert chez les demoiselles de Saint-Cyr",
+    "filename": "Un concert chez les demoiselles de Saint-Cyr.md",
+    "id": "SUrWQhaKnmHL",
+    "n_id": 504982498605912151740
+  },
+  "statements": {
+    "instance_of": null,
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "publication_date": "1877-01-01",
+        "volume": 45,
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+          "label": "librettist"
+        },
+        "label": "Achille de Lauzières"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VcpJBubpN5Jf",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Louis Bordèse"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://imslp.org/wiki/Un_concert_chez_les_demoiselles_de_Saint-Cyr_(Bord%C3%A8se%2C_Luigi)",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gAK3b5Jh5UVf",
+          "label": "International Music Score Library Project"
+        },
+        "publication_date": "1877-01-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "external_source": "https://ks15.imslp.org/files/imglnks/usimg/5/5a/IMSLP250564-SIBLEY1802.24274.9db4-39087011142348concert.pdf"
+      },
+      {
+        "permalink": "https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88151",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+          "label": "Royal Conservatory of Brussels"
+        },
+        "publication_date": "1877-01-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "external_source": null
+      }
+    ],
+    "title": [
+      "Un concert chez les demoiselles de Saint-Cyr: opérette en un acte"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+        "quantity": 3,
+        "label": "voice"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "based_on": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Journal des demoiselles (1848)",
+    "aliases": null,
+    "description": null,
+    "base_name": "Journal des demoiselles (1848)",
+    "filename": "Journal des demoiselles (1848).md",
+    "id": "RFFnScDJKvsc",
+    "n_id": 479419650827666806258
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
+        "label": "periodical"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "volume": 16,
+        "publication_date": "1848-01-01",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": null,
+    "has_version": [
+      {
+        "permalink": "https://mdz-nbn-resolving.de/details:bsb10360008",
+        "publication_date": "1848-01-01",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
+          "label": "Munich Digitization Center"
+        },
+        "external_source": "https://www.digitale-sammlungen.de/en/view/bsb10360008",
+        "IIIF_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360008/manifest",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ]
+      }
+    ],
+    "title": null,
+    "instrumentation": null,
+    "depicts": null,
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "based_on": null
+  }
+}

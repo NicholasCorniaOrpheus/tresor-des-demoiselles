@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "University of Leuven",
+    "aliases": [
+      "KU Leuven"
+    ],
+    "description": null,
+    "base_name": "University of Leuven",
+    "filename": "University of Leuven.md",
+    "id": "hpUpv7QsMNuH",
+    "n_id": 821623994667663319662
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a",
+        "label": "university"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": null,
+    "dissolved": null,
+    "contributor": null,
+    "official_website": [
+      "https://kuleuven.limo.libis.be/"
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q833670"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+        "label": "Belgium"
+      }
+    ]
+  }
+}

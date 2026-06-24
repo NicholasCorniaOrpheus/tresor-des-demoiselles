@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Louise Jeanne Cécile Ruelens",
+    "aliases": null,
+    "description": null,
+    "base_name": "Louise Jeanne Cécile Ruelens",
+    "filename": "Louise Jeanne Cécile Ruelens.md",
+    "id": "QNrJy8MMgzU8",
+    "n_id": 461537225053232420955
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+        "label": "editor"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": "1818-03-15"
+      }
+    ],
+    "described_by_source": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP",
+        "label": "Agents of Change"
+      }
+    ],
+    "date_of_death": [
+      {
+        "value": "1884-06-04"
+      }
+    ],
+    "place_of_birth": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8",
+        "label": "Antwerp"
+      }
+    ],
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q55875664"
+    ]
+  }
+}

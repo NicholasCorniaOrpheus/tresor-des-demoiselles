@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.wikidata.org/entity/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:98ui7xFiSD8t a rdfs:Resource ;
+    rdfs:label "La vallée de chevreuse. suite de valses" ;
+    dcterms:title "La vallée de chevreuse : suite de valses" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:LTZ2PAutKcZC ;
+    ns1:P180 tdd:eXQDntRhJGku ;
+    schema:about tdd:2z8JMC92FAK6 .
+

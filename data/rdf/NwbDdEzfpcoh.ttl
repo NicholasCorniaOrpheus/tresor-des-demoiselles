@@ -1,0 +1,12 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:NwbDdEzfpcoh a rdfs:Resource ;
+    rdfs:label "Un Loi Somptuaire. opérette en deux actes" ;
+    dcterms:title "Un Loi Somptuaire. opérette en deux actes" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:bogx9ECia7TM ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

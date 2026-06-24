@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Bibliothèque nationale de France",
+    "aliases": "BnF",
+    "description": null,
+    "base_name": "Bibliothèque nationale de France",
+    "filename": "Bibliothèque nationale de France.md",
+    "id": "MzUK38XpCjqB",
+    "n_id": 412522999014522832323
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk",
+        "label": "national library"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": null,
+    "dissolved": null,
+    "contributor": null,
+    "official_website": [
+      "https://data.bnf.fr/"
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q193563"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
+        "label": "France"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "waltz",
+    "base_name": "waltz",
+    "filename": "waltz.md",
+    "id": "LTZ2PAutKcZC",
+    "n_id": 380693968040245898992
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+        "label": "type of musical work"
+      }
+    ],
+    "subclass_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
+        "label": "classical dance music"
+      }
+    ],
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q8701407"
+    ]
+  }
+}

@@ -3,12 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:ASrkWEECtVfe a rdfs:Resource ;
     rdfs:label "Trésor des demoiselles (1859)" ;
-    <> 174085604453787328902,
-        "Trésor des demoiselles (1859)" ;
     dc:description "1859 issues collected in one volume." ;
     dcterms:title "Trésor des demoiselles. Vingt-septième Année." ;
     dcterms:type dcterms:PhysicalResource ;

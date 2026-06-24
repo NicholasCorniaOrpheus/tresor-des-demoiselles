@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:85SpUz2RoVS7 a rdfs:Resource ;
     rdfs:label "Jean Baptiste Katto" ;
-    <> 125059112928970930085,
-        "Jean Baptiste Katto" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD .

@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:62Xi6xL89ovo a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1884)" ;
-    <> 82732258817655185280,
-        "Journal des demoiselles (1884)" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .

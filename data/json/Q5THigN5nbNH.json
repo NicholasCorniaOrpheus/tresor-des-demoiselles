@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Dupuy",
+    "aliases": null,
+    "description": null,
+    "base_name": "Dupuy",
+    "filename": "Dupuy.md",
+    "id": "Q5THigN5nbNH",
+    "n_id": 455236435138792070622
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": null,
+    "identifier": null,
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+        "label": "publisher"
+      }
+    ]
+  }
+}

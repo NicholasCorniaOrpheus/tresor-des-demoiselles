@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:Dny65A3KJPvG a rdfs:Resource ;
     rdfs:label "Deux Madones. Romance" ;
-    <> 243274147671596835158,
-        "Deux Madones. Romance" ;
     dcterms:title "Deux Madones. Romance" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:aph6QHtmL78s ;

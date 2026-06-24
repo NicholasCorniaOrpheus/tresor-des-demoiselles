@@ -4,12 +4,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:CnfhMurv8zu8 a rdfs:Resource ;
     rdfs:label "Antwerp" ;
-    <> 222527854265610412203,
-        "Antwerp" ;
     dcterms:type bf:Place ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     skos:altLabel "Antwerpen",

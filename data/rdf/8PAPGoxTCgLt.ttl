@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.wikidata.org/entity/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:8PAPGoxTCgLt a rdfs:Resource ;
+    rdfs:label "Les fées du lac. valse brillante pour piano" ;
+    dcterms:title "Les fées du lac : valse brillante pour piano" ;
+    dcterms:type dcterms:PhysicalResource ;
+    wdt:P31 tdd:LTZ2PAutKcZC ;
+    ns1:P180 tdd:i35bPNVVTFXP ;
+    schema:about tdd:RixYXzFHfhqy .
+

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Journal des demoiselles (1866)",
+    "aliases": null,
+    "description": null,
+    "base_name": "Journal des demoiselles (1866)",
+    "filename": "Journal des demoiselles (1866).md",
+    "id": "ZxvgXLzDfsvr",
+    "n_id": 659597264255830430067
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
+        "label": "periodical"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "volume": 16,
+        "publication_date": "1866-01-01",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": null,
+    "has_version": [
+      {
+        "permalink": "https://mdz-nbn-resolving.de/details:bsb10360013",
+        "publication_date": "1866-01-01",
+        "note": "Only issues 1-5 are present.",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
+          "label": "Munich Digitization Center"
+        },
+        "external_source": "https://www.digitale-sammlungen.de/en/view/bsb10360013",
+        "IIIF_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360013/manifest",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ]
+      }
+    ],
+    "title": null,
+    "instrumentation": null,
+    "depicts": null,
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "based_on": null
+  }
+}

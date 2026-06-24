@@ -5,12 +5,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:Habre5ErbtGP a rdfs:Resource ;
     rdfs:label "Jean Baptiste Bruylant" ;
-    <> 321338582333263951857,
-        "Jean Baptiste Bruylant" ;
     dc:description "Belgian publisher" ;
     dcterms:type dcterms:Agent ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;

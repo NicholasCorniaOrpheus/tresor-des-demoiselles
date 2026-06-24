@@ -3,12 +3,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:HVUSjYYisyE8 a rdfs:Resource ;
     rdfs:label "piano" ;
-    <> 319481291853761649099,
-        "piano" ;
     dcterms:type skos:Concept ;
     wdt:P31 tdd:e2BQmjur6FrK .
 

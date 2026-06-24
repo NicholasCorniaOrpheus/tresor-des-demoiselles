@@ -3,12 +3,12 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:LCZnUXZBAaXS a rdfs:Resource ;
-    <> 375268381433550005979,
-        "France" ;
+    rdfs:label "France" ;
     dcterms:type bf:Place ;
+    wdt:P31 <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/[[country]]> ;
     skos:altLabel "Francia",
         "Frankrijk" .
 

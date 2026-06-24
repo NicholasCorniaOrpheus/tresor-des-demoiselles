@@ -2,11 +2,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:FM6DzoKyNv6j a rdfs:Resource ;
     rdfs:label "dedicatee" ;
-    <> 275172074504200080593,
-        "dedicatee" ;
-    dcterms:type skos:Concept .
+    dcterms:type skos:Concept ;
+    wdt:P31 tdd:mQD8LFQ4A2HJ .
 

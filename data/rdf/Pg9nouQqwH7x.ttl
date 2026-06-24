@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:Pg9nouQqwH7x a rdfs:Resource ;
     rdfs:label "Une orientale: mélodie" ;
-    <> 447160617199110533946,
-        "Une orientale" ;
     dcterms:title "Une orientale: mélodie" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

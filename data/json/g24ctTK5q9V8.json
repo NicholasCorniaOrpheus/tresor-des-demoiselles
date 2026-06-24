@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "L'Ouragan",
+    "aliases": null,
+    "description": null,
+    "base_name": "L'Ouragan",
+    "filename": "L'Ouragan.md",
+    "id": "g24ctTK5q9V8",
+    "n_id": 784180786063434023688
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
+        "label": "quadrille"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "volume": 24,
+        "publication_date": "1856-11-01",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NYeqU3eqcUoH",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Philip Musard"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bqLWPNXVxrhM",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY",
+          "label": "arranger"
+        },
+        "label": "Alexandre Scola"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
+          "label": "Orpheus Instituut"
+        },
+        "publication_date": "1856-11-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "L'Ouragan: Quadrille par Musard: Arrangé à quatre mains par A. Scola."
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn",
+        "quantity": 1,
+        "label": "piano four hands"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": null,
+    "based_on": null
+  }
+}

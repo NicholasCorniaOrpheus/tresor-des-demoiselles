@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:Q5THigN5nbNH a rdfs:Resource ;
     rdfs:label "Dupuy" ;
-    <> 455236435138792070622,
-        "Dupuy" ;
     dcterms:type dcterms:Agent ;
     wdt:P31 tdd:TudsDJnQvonk .
 

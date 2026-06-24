@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Trésor des demoiselles (1859)",
+    "aliases": null,
+    "description": "1859 issues collected in one volume.",
+    "base_name": "Trésor des demoiselles (1859)",
+    "filename": "Trésor des demoiselles (1859).md",
+    "id": "ASrkWEECtVfe",
+    "n_id": 174085604453787328902
+  },
+  "statements": {
+    "identifier": [
+      "https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582"
+    ],
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
+        "label": "periodical"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+        "volume": 27,
+        "publication_date": "1859-01-01",
+        "label": "Trésor des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QNrJy8MMgzU8",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+          "label": "editor"
+        },
+        "label": "Louise Jeanne Cécile Ruelens"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+          "label": "publisher"
+        },
+        "label": "François Desterbecq"
+      }
+    ],
+    "has_version": null,
+    "title": [
+      "Trésor des demoiselles. Vingt-septième Année."
+    ],
+    "instrumentation": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "depicts": null,
+    "based_on": null,
+    "about": null
+  }
+}

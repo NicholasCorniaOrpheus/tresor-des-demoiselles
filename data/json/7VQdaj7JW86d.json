@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Paris",
+    "aliases": [
+      "Parigi",
+      "Parijs"
+    ],
+    "description": null,
+    "base_name": "Paris",
+    "filename": "Paris.md",
+    "id": "7VQdaj7JW86d",
+    "n_id": 113098095564124119824
+  },
+  "statements": {
+    "identifier": [
+      "http://wikidata.org/entity/Q90"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
+        "label": "France"
+      }
+    ],
+    "instance_of": [
+      "[[city]]"
+    ]
+  }
+}

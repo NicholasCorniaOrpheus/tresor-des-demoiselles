@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "mythology",
+    "base_name": "mythology",
+    "filename": "mythology.md",
+    "id": "RixYXzFHfhqy",
+    "n_id": 489453411239179843390
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q9134"
+    ]
+  }
+}

@@ -5,12 +5,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:S2Htsbzzq7aP a rdfs:Resource ;
     rdfs:label "Agents of Change. Women Editors and Socio-Cultural Transformation in Europe 1710-1920" ;
-    <> 495362537776268128620,
-        "Agents of Change" ;
     dc:description "Agents of Change: Women Editors and Socio-Cultural Transformation in Europe, 1710-1920″ (acronym WeChangEd) was an ERC Starting Grant project directed by Marianne Van Remoortel and based at the Department of Literary Studies, Ghent University, Belgium." ;
     dcterms:type bf:Organization ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;

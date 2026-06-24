@@ -3,12 +3,9 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:VahNSkW7JbTC a rdfs:Resource ;
     rdfs:label "Jeanne-Justine Fouqueau de Pussy" ;
-    <> 569004347693072220853,
-        "Jeanne-Justine Fouqueau de Pussy" ;
     dcterms:type dcterms:Agent ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P31 tdd:TudsDJnQvonk ;

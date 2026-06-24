@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Marceline Desbordes-Valmore",
+    "aliases": null,
+    "description": null,
+    "base_name": "Marceline Desbordes-Valmore",
+    "filename": "Marceline Desbordes-Valmore.md",
+    "id": "NRPF64xecNgD",
+    "n_id": 421179601685530661900
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q466987"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+        "label": "lyricist"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS",
+        "label": "poet"
+      }
+    ]
+  }
+}

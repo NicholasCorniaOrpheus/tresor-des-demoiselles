@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Agents of Change. Women Editors and Socio-Cultural Transformation in Europe 1710-1920",
+    "aliases": [
+      "WeChangeEd"
+    ],
+    "description": "Agents of Change: Women Editors and Socio-Cultural Transformation in Europe, 1710-1920″ (acronym WeChangEd) was an ERC Starting Grant project directed by Marianne Van Remoortel and based at the Department of Literary Studies, Ghent University, Belgium.",
+    "base_name": "Agents of Change",
+    "filename": "Agents of Change.md",
+    "id": "S2Htsbzzq7aP",
+    "n_id": 495362537776268128620
+  },
+  "statements": {
+    "instance_of": null,
+    "described_by_source": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2",
+        "label": "Wikidata"
+      }
+    ],
+    "inception": [
+      {
+        "value": "2015-01-01"
+      }
+    ],
+    "dissolved": [
+      {
+        "value": "2021-01-01"
+      }
+    ],
+    "location": [
+      null
+    ],
+    "country": [
+      null
+    ],
+    "identifier": null,
+    "contributor": null,
+    "official_website": [
+      "https://www.wechanged.ugent.be/"
+    ]
+  }
+}

@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:U3dAsUoxKKnK a rdfs:Resource ;
     rdfs:label "Histoire d'une Fleur" ;
-    <> 537118719861599227859,
-        "Histoire d'une Fleur" ;
     dcterms:title "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano." ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

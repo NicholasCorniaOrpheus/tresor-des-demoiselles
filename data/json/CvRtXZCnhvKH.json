@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": [
+      "ondine"
+    ],
+    "label": "undine",
+    "base_name": "undine",
+    "filename": "undine.md",
+    "id": "CvRtXZCnhvKH",
+    "n_id": 225336445010721734628
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i35bPNVVTFXP",
+        "label": "mythical character"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q192032"
+    ]
+  }
+}

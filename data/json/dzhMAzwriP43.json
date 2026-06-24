@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Clara Pilet-Comettant",
+    "aliases": null,
+    "description": null,
+    "base_name": "Clara Pilet-Comettant",
+    "filename": "Clara Pilet-Comettant.md",
+    "id": "dzhMAzwriP43",
+    "n_id": 742780204580513892562
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q126722628"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ]
+  }
+}

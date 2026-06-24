@@ -3,12 +3,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:bogx9ECia7TM a rdfs:Resource ;
     rdfs:label "operetta" ;
-    <> 697523583217046111608,
-        "operetta" ;
     dcterms:type skos:Concept ;
     wdt:P31 tdd:dfucaD9GdueP .
 

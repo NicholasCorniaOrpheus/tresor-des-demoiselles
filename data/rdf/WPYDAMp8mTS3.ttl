@@ -2,12 +2,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:WPYDAMp8mTS3 a rdfs:Resource ;
     rdfs:label "Chansonette de l'opéra Le caïd" ;
-    <> 585599682863744563150,
-        "Chansonette de l'opéra Le caïd" ;
     dcterms:title "Chansonette de l'opéra Le caïd" ;
     dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;

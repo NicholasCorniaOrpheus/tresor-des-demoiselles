@@ -3,11 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:7LoWAKaDbbUb a rdfs:Resource ;
-    <> 109985051477425497753,
-        "Biblioteca civica di Verona" ;
+    rdfs:label "Biblioteca civica di Verona" ;
     dcterms:type bf:Organization ;
     wdt:P17 tdd:VAvBZjyK4s8B ;
     wdt:P31 tdd:TKzN8Z8ZP45J .

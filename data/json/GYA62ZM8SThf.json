@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Journal des demoiselles (1870)",
+    "aliases": null,
+    "description": null,
+    "base_name": "Journal des demoiselles (1870)",
+    "filename": "Journal des demoiselles (1870).md",
+    "id": "GYA62ZM8SThf",
+    "n_id": 299814856933267352557
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
+        "label": "periodical"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "volume": 38,
+        "publication_date": "1870-01-01",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": null,
+    "has_version": [
+      {
+        "external_source": "https://archive.org/details/journaldesdemoi06unkngoog",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX",
+          "label": "Harvard University"
+        },
+        "publication_date": "1870-01-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "permalink": "https://id.lib.harvard.edu/alma/990053803900203941/catalog"
+      }
+    ],
+    "title": null,
+    "instrumentation": null,
+    "depicts": null,
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "based_on": null
+  }
+}

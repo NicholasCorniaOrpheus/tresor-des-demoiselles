@@ -3,12 +3,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:Y9ux9hBbTDEk a rdfs:Resource ;
     rdfs:label "national library" ;
-    <> 621941186873303047392,
-        "national library" ;
     dcterms:type skos:Concept ;
     wdt:P31 tdd:HjSMhbA3nqG8 .
 

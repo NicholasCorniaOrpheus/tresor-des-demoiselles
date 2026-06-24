@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Harvard University",
+    "aliases": null,
+    "description": null,
+    "base_name": "Harvard University",
+    "filename": "Harvard University.md",
+    "id": "HzNj4duEtJSX",
+    "n_id": 329943967932770121071
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a",
+        "label": "university"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": null,
+    "dissolved": null,
+    "contributor": null,
+    "official_website": [
+      "https://hollis.harvard.edu/"
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q13371"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LEcVCfQG66Bg",
+        "label": "United States"
+      }
+    ]
+  }
+}
