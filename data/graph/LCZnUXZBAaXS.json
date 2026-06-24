@@ -19,6 +19,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku",
+      "label": "Chevreuse",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
       "label": "Bibliothèque nationale de France",
       "class": "Organisation",
@@ -39,6 +45,11 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
+      "property": "country"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
       "property": "country"
     },

@@ -1,0 +1,20 @@
+{
+	"label": ["metadata/label","statements/title"],
+	"class": ["metadata/class"],
+	"aliases": ["metadata/aliases"],
+	"description": ["metadata/description"],
+	"instance of": ["statements/instance_of"],
+	"part of": ["statements/part_of"],
+	"date": ["statements/part_of/publication_date","statements/has_version/publication_date","statements/inception","statements/dissolved"],
+	"contributor": ["statements/contributor"],
+	"holding institution": ["statements/has_version/holding_institution"],
+	"instrumentation": ["statements/instrumentation"],
+	"language": ["statements/language"],
+	"gender": ["statements/sex_or_gender"],
+	"place": ["statements/has_version/place_of_publication","statements/country","statements/location"],
+	"occupation": ["statements/occupation"],
+	"based_on": ["statements/based_on"],
+	"about": ["statements/about"],
+	"form of creative work": ["statements/form_of_creative_work"],
+	"image": ["assets/image"]
+}

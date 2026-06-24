@@ -62,12 +62,12 @@ statements:
     label: French
 assets:
   local_asset_path: ./assets/RCA-12971526
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971526/20260608141705109_0011.jpg
   IIIF_manifest: null
   jpg:
   - 20260608141705109_0011.jpg
   - 20260608141705109_0012.jpg
   - 20260608141705109_0013.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/XRGgDS2XwCto.json
 content:
   markdown_content: ''

@@ -1,0 +1,63 @@
+metadata:
+  class: Manifestation
+  label: Un Loi Somptuaire. opérette en deux actes
+  aliases: null
+  description: null
+  base_name: Un Loi Somptuaire. opérette en deux actes
+  filename: Un Loi Somptuaire. opérette en deux actes.md
+  id: NwbDdEzfpcoh
+  n_id: 432116657260390753869
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM
+    label: operetta
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    publication_date: 1874-01-01
+    volume: 42
+    label: Journal des demoiselles
+  contributor:
+  - value: '[[Paul Dubourg]]'
+    role: '[[librettist]]'
+  - value: '[[Victor Massé]]'
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  has_version:
+  - permalink: https://catalogue.bnf.fr/ark:/12148/cb43140041g
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB
+      label: Bibliothèque nationale de France
+    publication_date: 1878-01-01
+    external_source: https://gallica.bnf.fr/ark:/12148/bpt6k1281624n
+    IIIF_manifest: https://gallica.bnf.fr/ark:/12148/bpt6k1281624n
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=70336
+    holding_institution: '[[Royal Conservatory of Brussels]]'
+    publication_date: 1874-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    external_source: null
+  title:
+  - Un Loi Somptuaire. opérette en deux actes
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  based_on: null
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/NwbDdEzfpcoh.json
+content:
+  markdown_content: ''

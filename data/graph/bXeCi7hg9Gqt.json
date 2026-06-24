@@ -4,7 +4,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bXeCi7hg9Gqt",
       "label": "L'enfant et la rose: mélodie",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971523/20260608141705109_0007.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RjYJceWjXaJJ",
@@ -144,11 +144,6 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RjYJceWjXaJJ",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "occupation"
-    },
-    {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "property": "instance_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWYUY7mvkVNd",

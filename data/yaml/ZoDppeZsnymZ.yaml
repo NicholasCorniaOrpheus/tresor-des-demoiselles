@@ -1,0 +1,50 @@
+metadata:
+  class: Manifestation
+  label: Ondine
+  aliases: null
+  description: null
+  base_name: Ondine. Musique de Mlle H. Wild
+  filename: Ondine. Musique de Mlle H. Wild.md
+  id: ZoDppeZsnymZ
+  n_id: 656079479601758135188
+statements:
+  instance_of:
+  - '[[programme music]]'
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    publication_date: 1890-01-01
+    volume: 58
+    label: Journal des demoiselles
+  contributor:
+  - value: '[[Hortense Wild]]'
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  has_version:
+  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88119
+    holding_institution: '[[Royal Conservatory of Brussels]]'
+    publication_date: 1890-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    external_source: null
+  title:
+  - Ondine
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts:
+  - '[[undine]]'
+  about:
+  - '[[mythology]]'
+  language: null
+  based_on: null
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ZoDppeZsnymZ.json
+content:
+  markdown_content: ''

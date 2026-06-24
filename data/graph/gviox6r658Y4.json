@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+      "label": "Le Lac des fées",
+      "class": "Work",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "label": "composer",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "label": "opera",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+      "label": "dramatico-musical work",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "property": "form_of_creative_work"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    }
+  ]
+}

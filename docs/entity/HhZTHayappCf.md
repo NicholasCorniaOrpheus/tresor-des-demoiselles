@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p45){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p45/orp-henri-captivi-20143702p45-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Captivité
@@ -100,6 +100,51 @@
     - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
 
 
+
+## Notes
+### Lyrics
+
+Prends, petit oiseau, 
+ce que je te donne
+dit l’enfant à son prisonnier,
+du gateau pour ta faim mignonne,
+avec le sucre qui foisonne,
+et du frais plantin printanier.
+
+Ah! répond tout en peine,
+Ah! répond tout en peine
+un regard attristé:
+J’ai mon grain dans la plaine,
+rendez-moi 
+ah! rendez-moi ma liberté.
+
+Je sais des chansons 
+qu’il te faut apprendre,
+dit l’enfant à son prisonnier,
+des chansons, que par la voix tendre,
+il me sera si doux d’entendre,
+sous l’azur du ciel printanier.
+
+Ah! répond tout en peine,
+Ah! répond tout en peine
+un regard attristé:
+J’ai mon grain dans la plaine,
+rendez-moi 
+ah! rendez-moi ma liberté.
+
+Les jours seront beaux 
+les nuits seront belles
+dit l’enfant à son prisonnier,
+j’apporte au sommeil de tes ailes,
+des fleurs et des mousses nouvelles
+qu’embaume un parfum printanier.
+
+Ah! répond tout en peine,
+Ah! répond tout en peine
+un regard attristé:
+J’ai mon grain dans la plaine,
+rendez-moi 
+ah! rendez-moi ma liberté.
 
 
 

@@ -64,13 +64,13 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FiFAWv3HUTn6",
       "label": "Le Mariage chinois",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p42/orp-plant-lemaria-20143702p42-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WPYDAMp8mTS3",
       "label": "Chansonette de l'opéra Le caïd",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971554/20260608141705109_0021.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UcHT4D7idom9",
@@ -97,6 +97,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RkUgaRZ6zs57",
+      "label": "Daniel François Esprit Auber",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/D-F-E_Auber.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BCSvsKmuf8u3",
       "label": "exoticism",
       "class": "Concept",
@@ -109,10 +115,28 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ernest_L%27%C3%89pine.jpg"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/T3eDQEfcZJYp",
+      "label": "Cracoviana. pour le piano",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/H83bdJHHtVPP",
       "label": "Laure Jourdain",
       "class": "Agent",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gSpQjJMRbo9y",
+      "label": "Alexandre Fessy",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CvRtXZCnhvKH",
+      "label": "undine",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RFFnScDJKvsc",
@@ -130,13 +154,13 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TQGEMMv5q4tY",
       "label": "Chanson russe",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p37/orp-remie-chanson-20143702p37-ps-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bGHNgXsPckvg",
       "label": "Les Fauvettes",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p18/20143702p18_001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fPQHFdTsWu9q",
@@ -151,6 +175,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z",
+      "label": "Fromental Halévy",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fromental_Halevy_by_Etienne_Carjat-crop.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dkFoW9KcT58b",
       "label": "fantasia",
       "class": "Concept",
@@ -160,7 +190,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ASrkWEECtVfe",
       "label": "Trésor des demoiselles (1859)",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20144506/20144506_247.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dggAjTSBZEfA",
@@ -172,7 +202,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
       "label": "L'emploi de ma journée",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p25/orp-clapi-l'emplo-20143702p25-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2YakjmMCnSKo",
@@ -181,10 +211,22 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "label": "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\"",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aph6QHtmL78s",
       "label": "romance",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2yrMbZSDVHNx",
+      "label": "Jean-Baptiste Weckerlin",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jean-Baptiste_Weckerlin_par_Truchelut.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
@@ -217,16 +259,28 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
+      "label": "La gioventù di Enrico Quinto",
+      "class": "Work",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/L66sykV3wKxG",
       "label": "Ninon. Schottich",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p43/orp-scola-ninon-20143702p43-ps-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
       "label": "Fantaisie sur le Carillonneur",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p22/orp-burgm-fantais-20143702p22-ps-00001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku",
+      "label": "Chevreuse",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk",
@@ -253,8 +307,20 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HcCqx9kcHttd",
+      "label": "Pavane. Musique de Mlle H. Wild",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dqFtJQZDwkjb",
       "label": "language",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CvXTTAGDV8To",
+      "label": "clergyman",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
@@ -277,10 +343,28 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ui6pfXfmqxPM",
+      "label": "Léon Vasseur",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/L%C3%A9on-Vasseur.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP",
       "label": "Jean Baptiste Bruylant",
       "class": "Agent",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox",
+      "label": "Le val d'Andorre",
+      "class": "Work",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/98ui7xFiSD8t",
+      "label": "La vallée de chevreuse. suite de valses",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/C2iCicFyAfex",
@@ -358,7 +442,13 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7sLxino2QMBv",
       "label": "La Pervenche",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p35/orp-lenbi-laperve-20143702p35-ps-00001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL",
+      "label": "aria",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4",
@@ -385,6 +475,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5GQCpP8JBfZH",
+      "label": "piano sonata",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GYA62ZM8SThf",
       "label": "Journal des demoiselles (1870)",
       "class": "Manifestation",
@@ -394,13 +490,25 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/W7qdj2zgimxv",
       "label": "Ange ployez votre aile! rêverie",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499/20260608141705109_0001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
       "label": "voice",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE",
+      "label": "music critic",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+      "label": "Royal Conservatory of Brussels",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
@@ -415,6 +523,18 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+      "label": "Le Lac des fées",
+      "class": "Work",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gAK3b5Jh5UVf",
+      "label": "International Music Score Library Project",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/d3Jyp9sKuWUF",
       "label": "serenade",
       "class": "Concept",
@@ -424,19 +544,25 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
       "label": "Songe de Bonheur",
       "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p32/orp-ettli-songede-20143702p32-ps-00001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "label": "Un Loi Somptuaire. opérette en deux actes",
+      "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3JDQaYB6Tv2h",
       "label": "Fauvette",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p29/orp-dufau-fauvett-20143702p29-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pg9nouQqwH7x",
       "label": "Une orientale: mélodie",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971503/20260608141705109_0004.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iqUisMc9DuzZ",
@@ -445,10 +571,22 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8HSKpjkZAxrE",
+      "label": "Joseph Meissonnier",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
       "label": "Parisina",
       "class": "Work",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8PAPGoxTCgLt",
+      "label": "Les fées du lac. valse brillante pour piano",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S77HJUbgUuKq",
@@ -461,6 +599,12 @@
       "label": "Remiehleki",
       "class": "Agent",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd",
+      "label": "programme music",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
@@ -514,7 +658,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LiRnHQgHVwqd",
       "label": "Les lutins de Bretagne",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p27/orp-revel-emilie-20143702p28/orp-pilet-lesluti-20143702p28-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oDTETof3Wqj5",
@@ -556,7 +700,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KWMc2MyB5896",
       "label": "La brune Thérèse",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-13279473/20260608134000426_0001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GFGuESLqMKpn",
@@ -568,13 +712,13 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bXeCi7hg9Gqt",
       "label": "L'enfant et la rose: mélodie",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971523/20260608141705109_0007.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G2DfGMPf6jS5",
       "label": "Le Pinson",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p40/orp-rauis-lepinso-20143702p40-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/k84Wz2Lp88Er",
@@ -586,7 +730,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XRGgDS2XwCto",
       "label": "Parles bas! Chansonette",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971526/20260608141705109_0011.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GSSHKs8X5aRE",
@@ -604,7 +748,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/g24ctTK5q9V8",
       "label": "L'Ouragan",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p39/orp-musar-l'ourag-20143702p39-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LWCE9BBAwpmz",
@@ -616,7 +760,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hs4rWBqGPmab",
       "label": "Emilie. Schottich",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p27/orp-revel-emilie-20143702p27-ps-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
@@ -649,16 +793,28 @@
       "image": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Louis-Pierre_Deff%C3%A8s_-_E.Delon,_Toulouse_1890_BNF_Gallica.jpg"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i35bPNVVTFXP",
+      "label": "mythical character",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i2BmdHj6e6Q9",
       "label": "Johannes Verhulst",
       "class": "Agent",
       "image": "https://gallica.bnf.fr/ark:/12148/btv1b10219343r/f1.highres"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LJtUagnxHJ9B",
+      "label": "Gustave Jacqmain",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gzxLx7Y6cNMi",
       "label": "Le Bouquet",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p33/orp-talbo-lebouqu-20143702p33-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL9bhQaShbbC",
@@ -691,6 +847,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ambroise_Thomas_2.jpg"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/caTPx3dAfP6L",
+      "label": "Renouveau. bluette",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cifmNoRzoHNK",
       "label": "type of musical group",
       "class": "Concept",
@@ -700,7 +862,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dJRZgT58Xf8A",
       "label": "Le soir: mélodie transcrite pour soprano",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971546/20260608141705109_0017.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
@@ -731,6 +893,12 @@
       "label": "Hippolyte Guérin",
       "class": "Agent",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FJbVhQcQoVGQ",
+      "label": "overture",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bdE6MYos7APn",
@@ -769,6 +937,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A",
+      "label": "Achille de Lauzières",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE",
       "label": "Joseph Meynne",
       "class": "Agent",
@@ -778,13 +952,19 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ETrdTiZTknRK",
       "label": "Le Livre du coeur",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p34/orp-delis-lelivre-20143702p34-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P3xwqK2mHjC7",
       "label": "schottische",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWSTBQTKP4Bb",
+      "label": "Pascal Nacher",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LEcVCfQG66Bg",
@@ -796,7 +976,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gRR8aAYdEX54",
       "label": "Dieu le voit",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p36/orp-henri-dieulev-20143702p36-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jMzRtWT8BzJg",
@@ -809,6 +989,12 @@
       "label": "male",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4Z9bCRmwDbS7",
+      "label": "Paul Dubourg",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VahNSkW7JbTC",
@@ -865,16 +1051,22 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VnjPFmovn4vN",
+      "label": "early music",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fZckAh7Xyvr6",
       "label": "Enfant, sais-tu?",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p38/orp-ikelm-enfant,-20143702p38-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
       "label": "En écoutant avec son coeur",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p26/orp-pierr-enécout-20143702p26-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RwcM78phMv6z",
@@ -887,6 +1079,12 @@
       "label": "Agents of Change. Women Editors and Socio-Cultural Transformation in Europe 1710-1920",
       "class": "Organisation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fuQNwtNrhyNk",
+      "label": "Danse villageoise. air de danse antique",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ek3Kt26Yt2sh",
@@ -937,16 +1135,34 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DKdeWwAqyKRJ",
+      "label": "Auguste Durand",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Auguste_Durand_-_A._Li%C3%A9bert_-_btv1b8417501n.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NYeqU3eqcUoH",
       "label": "Philip Musard",
       "class": "Agent",
       "image": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Philippe_Musard_Recadr%C3%A9.jpg"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC",
+      "label": "conservatory",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SFGi6gHQvH4j",
       "label": "L'Elisir d'amore. Quadrille",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/MDZ-10359990_2/001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2z8JMC92FAK6",
+      "label": "landscape",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WQ8cfnsehv7L",
@@ -961,10 +1177,16 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
+      "label": "Hortense Wild",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gyh3ExubqN2H",
       "label": "L'Aubépine",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p30/orp-bosch-l'aubép-20143702p30-ps-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
@@ -982,7 +1204,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6XQw6vXJb4qt",
       "label": "Trésor des demoiselles (1857)",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20144531/20144531_177.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GtHJaJBarc2K",
@@ -1033,8 +1255,20 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ZoDppeZsnymZ",
+      "label": "Ondine",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TyP7T2zkXYhF",
       "label": "Narcisse Bousquet",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r",
+      "label": "Édouard Gérard",
       "class": "Agent",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
@@ -1099,6 +1333,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
+      "label": "Polka sur le Val D'Andorre d'Halevy",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gDmz3Fec5GTc",
       "label": "Magasin des demoiselles (1886)",
       "class": "Manifestation",
@@ -1109,6 +1349,12 @@
       "label": "Eugeen Edward Stroobant",
       "class": "Agent",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "label": "Un concert chez les demoiselles de Saint-Cyr",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5BX54FRugrpJ",
@@ -1129,6 +1375,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bv7PDGtc5dE9",
+      "label": "3me sonatine. musique de Mlle H. Wild",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2",
       "label": "Wikidata",
       "class": "Concept",
@@ -1138,7 +1390,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ao5Ame5q39g9",
       "label": "Le Corbeille de roses",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p41/orp-sawan-lecorbe-20143702p41-ps-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
@@ -1150,7 +1402,13 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HhZTHayappCf",
       "label": "Captivité",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p45/orp-henri-captivi-20143702p45-fs-00001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bmuitt3Uptaq",
+      "label": "writer",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AouufLb7bx5R",
@@ -1195,10 +1453,28 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
+      "label": "Ferdinand Hérold",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Fotoreproductie_van_een_portret_van_Ferdinand_H%C3%A9rold_door_Eugen_Felix_Herold_%28titel_op_object%29_Bruckmann%27s_Portrait-Collection_%28serietitel_op_object%29%2C_RP-F-2001-7-878-5_%28cropped%29.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/m7PhAFWpDJeW",
       "label": "Journal des demoiselles (1861)",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RixYXzFHfhqy",
+      "label": "mythology",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "label": "Juliette Dillon",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Juliette_Dillon_d%C3%A9tail.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/85SpUz2RoVS7",
@@ -1225,6 +1501,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GVQ2Jm6uRJuh",
+      "label": "type of fictional character",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ctiBvfKCHD9m",
       "label": "Victor Hugo",
       "class": "Agent",
@@ -1246,13 +1528,19 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LXFHHQhGBzwC",
       "label": "Espoir en Dieu: chants du crépuscule",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971543/20260608141705109_0014.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VKzHPzJxYHNi",
+      "label": "Victor Massé",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Victor_Mass%C3%A9_by_Erwin_fr%C3%A8res.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ju8BRMVThr4C",
       "label": "Mandoline. Sérénade.",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p31/orp-delio-mandoli-20143702p31-ps-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/C6UXNXKkBERA",
@@ -1297,6 +1585,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Amable_Tastu_by_Constance_Mayer.jpg"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+      "label": "librettist",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
       "label": "quadrille",
       "class": "Concept",
@@ -1324,7 +1618,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AgTowXcdYL6T",
       "label": "Thalie",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p44/orp-talex-thalie-20143702p44-ps-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/axFwXa8k5P4u",
@@ -1363,10 +1657,46 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KBhDjToyQTEi",
+      "label": "medievalism",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX",
       "label": "Harvard University",
       "class": "Organisation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd",
+      "label": "Octave Fouque",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Octave_Fouque_par_D%C3%A9li%C3%A9%2C_d%C3%A9tail.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV.",
+      "label": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV.",
+      "class": "External",
+      "image": null
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YRK5MZJvXEBP,",
+      "label": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YRK5MZJvXEBP,",
+      "class": "External",
+      "image": null
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G9FZhC6pNp69.",
+      "label": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G9FZhC6pNp69.",
+      "class": "External",
+      "image": null
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP.",
+      "label": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP.",
+      "class": "External",
+      "image": null
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP]",
@@ -1697,6 +2027,21 @@
       "property": "instance_of"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RkUgaRZ6zs57",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RkUgaRZ6zs57",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RkUgaRZ6zs57",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XY6KvveRnQs7",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
       "property": "instance_of"
@@ -1712,8 +2057,43 @@
       "property": "sex_or_gender"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/T3eDQEfcZJYp",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/T3eDQEfcZJYp",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/T3eDQEfcZJYp",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/T3eDQEfcZJYp",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/H83bdJHHtVPP",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gSpQjJMRbo9y",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gSpQjJMRbo9y",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gSpQjJMRbo9y",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "occupation"
     },
     {
@@ -1828,6 +2208,26 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bGHNgXsPckvg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bGHNgXsPckvg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bGHNgXsPckvg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bGHNgXsPckvg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bGHNgXsPckvg",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
       "property": "has_version"
     },
@@ -1902,6 +2302,21 @@
       "property": "contributor"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dkFoW9KcT58b",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
       "property": "instance_of"
@@ -1973,6 +2388,36 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
       "property": "has_version"
     },
@@ -2022,9 +2467,54 @@
       "property": "occupation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+      "property": "language"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aph6QHtmL78s",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
       "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2yrMbZSDVHNx",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2yrMbZSDVHNx",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2yrMbZSDVHNx",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
@@ -2102,6 +2592,21 @@
       "property": "instance_of"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "property": "form_of_creative_work"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/L66sykV3wKxG",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P3xwqK2mHjC7",
       "property": "instance_of"
@@ -2143,6 +2648,11 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
       "property": "part_of"
     },
@@ -2155,6 +2665,26 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
@@ -2182,6 +2712,11 @@
       "property": "based_on"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
+      "property": "country"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HjSMhbA3nqG8",
       "property": "instance_of"
@@ -2190,6 +2725,36 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8vWQXZ7da2WS",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
       "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HcCqx9kcHttd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HcCqx9kcHttd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HcCqx9kcHttd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HcCqx9kcHttd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HcCqx9kcHttd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CvXTTAGDV8To",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+      "property": "instance_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3v4q5PWHnZcN",
@@ -2252,6 +2817,21 @@
       "property": "instance_of"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ui6pfXfmqxPM",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ui6pfXfmqxPM",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ui6pfXfmqxPM",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
       "property": "instance_of"
@@ -2270,6 +2850,46 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
       "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "property": "form_of_creative_work"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/98ui7xFiSD8t",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/98ui7xFiSD8t",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/98ui7xFiSD8t",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/98ui7xFiSD8t",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/98ui7xFiSD8t",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/C2iCicFyAfex",
@@ -2517,6 +3137,11 @@
       "property": "instrumentation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+      "property": "instance_of"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/e2BQmjur6FrK",
       "property": "instance_of"
@@ -2595,6 +3220,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U3dAsUoxKKnK",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
       "property": "language"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5GQCpP8JBfZH",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+      "property": "instance_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GYA62ZM8SThf",
@@ -2687,6 +3317,21 @@
       "property": "instance_of"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+      "property": "location"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
       "property": "instance_of"
@@ -2722,6 +3367,26 @@
       "property": "occupation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+      "property": "form_of_creative_work"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gAK3b5Jh5UVf",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS",
+      "property": "instance_of"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/d3Jyp9sKuWUF",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
       "property": "instance_of"
@@ -2730,6 +3395,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
       "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "property": "part_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
@@ -2745,6 +3415,21 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
@@ -2767,9 +3452,54 @@
       "property": "instrumentation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+      "property": "language"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3JDQaYB6Tv2h",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
       "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3JDQaYB6Tv2h",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "property": "part_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3JDQaYB6Tv2h",
@@ -2922,6 +3652,26 @@
       "property": "occupation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8HSKpjkZAxrE",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8HSKpjkZAxrE",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8HSKpjkZAxrE",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8HSKpjkZAxrE",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+      "property": "occupation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
       "property": "instance_of"
@@ -2940,6 +3690,31 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UabpPirExmof",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8PAPGoxTCgLt",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8PAPGoxTCgLt",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8PAPGoxTCgLt",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8PAPGoxTCgLt",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8PAPGoxTCgLt",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S77HJUbgUuKq",
@@ -3015,6 +3790,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4MqfuoGuN6Ra",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+      "property": "instance_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
@@ -3673,11 +4453,6 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GSSHKs8X5aRE",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
-      "property": "contributor"
-    },
-    {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GSSHKs8X5aRE",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
       "property": "has_version"
     },
@@ -3862,9 +4637,29 @@
       "property": "occupation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LJtUagnxHJ9B",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LJtUagnxHJ9B",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LJtUagnxHJ9B",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+      "property": "occupation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gzxLx7Y6cNMi",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
       "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gzxLx7Y6cNMi",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "property": "part_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gzxLx7Y6cNMi",
@@ -4000,6 +4795,31 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/55xUpX4b9uvf",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/caTPx3dAfP6L",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/caTPx3dAfP6L",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/caTPx3dAfP6L",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/caTPx3dAfP6L",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/caTPx3dAfP6L",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+      "property": "language"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dJRZgT58Xf8A",
@@ -4167,6 +4987,26 @@
       "property": "occupation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3yS9agtba9rA",
+      "property": "occupation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
       "property": "instance_of"
@@ -4185,6 +5025,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ETrdTiZTknRK",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
       "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ETrdTiZTknRK",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "property": "part_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ETrdTiZTknRK",
@@ -4245,6 +5090,21 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P3xwqK2mHjC7",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
       "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWSTBQTKP4Bb",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWSTBQTKP4Bb",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWSTBQTKP4Bb",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+      "property": "occupation"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gRR8aAYdEX54",
@@ -4315,6 +5175,16 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jMzRtWT8BzJg",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4Z9bCRmwDbS7",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4Z9bCRmwDbS7",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VahNSkW7JbTC",
@@ -4488,6 +5358,11 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
       "property": "part_of"
     },
@@ -4510,6 +5385,31 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
       "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
@@ -4565,6 +5465,31 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2",
       "property": "described_by_source"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fuQNwtNrhyNk",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fuQNwtNrhyNk",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fuQNwtNrhyNk",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fuQNwtNrhyNk",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fuQNwtNrhyNk",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ek3Kt26Yt2sh",
@@ -4627,6 +5552,51 @@
       "property": "contributor"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YRK5MZJvXEBP,",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2osPtS3ax4Hc",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP.",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hpUpv7QsMNuH",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8XggxUT6Zokh",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G9FZhC6pNp69.",
+      "property": ""
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6wJL3XGBiSDj",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
       "property": "instance_of"
@@ -4670,6 +5640,21 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/T5ASCKwAeK8X",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
       "property": "language"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DKdeWwAqyKRJ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DKdeWwAqyKRJ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DKdeWwAqyKRJ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+      "property": "occupation"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NYeqU3eqcUoH",
@@ -4747,6 +5732,26 @@
       "property": "occupation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gyh3ExubqN2H",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU",
       "property": "instance_of"
@@ -4788,7 +5793,7 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
       "property": "instance_of"
     },
     {
@@ -4947,6 +5952,26 @@
       "property": "occupation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ZoDppeZsnymZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ZoDppeZsnymZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ZoDppeZsnymZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ZoDppeZsnymZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TyP7T2zkXYhF",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
       "property": "instance_of"
@@ -4959,6 +5984,21 @@
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TyP7T2zkXYhF",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
       "property": "occupation"
     },
     {
@@ -5007,11 +6047,6 @@
       "property": "sex_or_gender"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bbp23eR4DnZs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
-      "property": "occupation"
-    },
-    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mFC9uMqxqNkK",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "occupation"
@@ -5030,6 +6065,36 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/inAaJFhDYvcx",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
       "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+      "property": "language"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gDmz3Fec5GTc",
@@ -5065,6 +6130,51 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWYUY7mvkVNd",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
       "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VcpJBubpN5Jf",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+      "property": "language"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": ""
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5BX54FRugrpJ",
@@ -5110,6 +6220,36 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7iBtPDhpSi6a",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bv7PDGtc5dE9",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bv7PDGtc5dE9",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bv7PDGtc5dE9",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bv7PDGtc5dE9",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bv7PDGtc5dE9",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bv7PDGtc5dE9",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ao5Ame5q39g9",
@@ -5220,6 +6360,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HhZTHayappCf",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
       "property": "language"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bmuitt3Uptaq",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+      "property": "instance_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AouufLb7bx5R",
@@ -5382,6 +6527,21 @@
       "property": "subclass_of"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/m7PhAFWpDJeW",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
       "property": "instance_of"
@@ -5405,6 +6565,26 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/m7PhAFWpDJeW",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
       "property": "language"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV.",
+      "property": ""
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/85SpUz2RoVS7",
@@ -5545,6 +6725,21 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LXFHHQhGBzwC",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
       "property": "language"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VKzHPzJxYHNi",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VKzHPzJxYHNi",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VKzHPzJxYHNi",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ju8BRMVThr4C",
@@ -5730,6 +6925,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XudZsfnJCkRh",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS",
       "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+      "property": "instance_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
@@ -5965,6 +7165,21 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LEcVCfQG66Bg",
       "property": "country"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
     }
   ]
 }

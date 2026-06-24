@@ -4,11 +4,23 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
       "label": "Songe de Bonheur",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p32/orp-ettli-songede-20143702p32-ps-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
       "label": "Brussels",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "label": "Magasin des demoiselles",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "label": "Paris",
       "class": "Place",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
     },
@@ -37,6 +49,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "label": "Bibliothèque nationale de France",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
       "label": "Orpheus Instituut",
       "class": "Organisation",
@@ -63,6 +81,11 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
       "property": "part_of"
     },
@@ -75,6 +98,16 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",

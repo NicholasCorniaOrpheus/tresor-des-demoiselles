@@ -29,4 +29,5 @@ depicts:
 about:
 language:
 based_on:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p30/orp-bosch-l'aubép-20143702p30-ps-00001.jpg
 ---

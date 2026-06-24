@@ -1,4 +1,4 @@
-from kblight.site import jinja, d3_graph
+from kblight.site import jinja, d3_graph, advanced_search
 from kblight.entity import assets
 from kblight import utilities
 from pathlib import Path
@@ -27,6 +27,10 @@ assets.add_local_graph_to_assets(
     graph_base_url=graph_base_url, yaml_dir=yaml_dir, graph_dir=graph_dir
 )
 
+print("Generating advanced search index...")
+advanced_search.generate_advanced_search_index()
+
+print("Generating Markdown pages...")
 jinja.generate_mkdocs_pages(
     GITHUB_RAW_BASE=credentials["kblight"]["vault_url"],
     YAML_PATH=Path(yaml_dir),

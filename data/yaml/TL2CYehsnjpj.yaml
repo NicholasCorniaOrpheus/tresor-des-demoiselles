@@ -13,6 +13,10 @@ statements:
     label: waltz
   has_part: null
   part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+    volume: 9
+    publication_date: 1852-01-01
+    label: Magasin des demoiselles
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
     publication_date: 1853-06-01
     label: Trésor des demoiselles
@@ -23,6 +27,23 @@ statements:
       label: composer
     label: Emile Ettling
   has_version:
+  - permalink: http://ark.bnf.fr/ark:/12148/cb42940871v
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB
+      label: Bibliothèque nationale de France
+    publication_date: 1861-01-01
+    publisher: '[[Édouard Gérard]]'
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+  - permalink: https://imslp.org/wiki/Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile)
+    holding_institution: '[[International Music Score Library Project]]'
+    publication_date: 1853-01-01
+    note: Part of Magasin des demoiselles, vol. 9
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    external_source: https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP479520-PMLP777286-Ettling_-_Op59_Songe_de_bonheur_-_pf-BDH.pdf
   - holding_institution:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
       label: Orpheus Instituut
@@ -46,13 +67,13 @@ statements:
   language: null
 assets:
   local_asset_path: ./assets/OI-20143702p32
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p32/orp-ettli-songede-20143702p32-ps-00001.jpg
   IIIF_manifest: null
   jpg:
   - orp-ettli-songede-20143702p32-ps-00001.jpg
   - orp-ettli-songede-20143702p32-ps-00002.jpg
   - orp-ettli-songede-20143702p32-ps-00003.jpg
   - orp-ettli-songede-20143702p32-ps-00004.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/TL2CYehsnjpj.json
 content:
   markdown_content: ''

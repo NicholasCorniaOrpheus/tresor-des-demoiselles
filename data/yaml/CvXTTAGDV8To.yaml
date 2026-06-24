@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: null
+  base_name: clergyman
+  filename: clergyman.md
+  id: CvXTTAGDV8To
+  n_id: 225371759447174028357
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
+    label: occupation
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q3315492
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/CvXTTAGDV8To.json
+content:
+  markdown_content: ''

@@ -4,7 +4,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/W7qdj2zgimxv",
       "label": "Ange ployez votre aile! rêverie",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499/20260608141705109_0001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
@@ -154,11 +154,6 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Je7moMztSRaR",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
       "property": "occupation"
-    },
-    {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "property": "instance_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5BX54FRugrpJ",

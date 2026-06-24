@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DKdeWwAqyKRJ",
+      "label": "Auguste Durand",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Auguste_Durand_-_A._Li%C3%A9bert_-_btv1b8417501n.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+      "label": "publisher",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "label": "human",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "label": "male",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DKdeWwAqyKRJ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DKdeWwAqyKRJ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DKdeWwAqyKRJ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+      "property": "occupation"
+    }
+  ]
+}

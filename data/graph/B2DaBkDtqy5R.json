@@ -37,6 +37,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "label": "Journal des demoiselles",
+      "class": "Organisation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
       "label": "Royal Conservatory of Antwerp",
       "class": "Organisation",
@@ -100,6 +106,11 @@
       "property": "country"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+      "property": ""
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
       "property": "country"
@@ -130,9 +141,19 @@
       "property": "country"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "property": "instance_of"
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2osPtS3ax4Hc",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hpUpv7QsMNuH",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8XggxUT6Zokh",
+      "property": ""
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8XggxUT6Zokh",

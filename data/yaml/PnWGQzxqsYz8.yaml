@@ -1,0 +1,49 @@
+metadata:
+  class: Manifestation
+  label: Polka sur le Val D'Andorre d'Halevy
+  aliases: null
+  description: null
+  base_name: Polka sur le Val D'Andorre d'Halevy
+  filename: Polka sur le Val D'Andorre d'Halevy.md
+  id: PnWGQzxqsYz8
+  n_id: 449462810242294936059
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU
+    label: polka
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    label: Journal des demoiselles
+  contributor:
+  - value: '[[Alexandre Fessy]]'
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  has_version:
+  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88621
+    holding_institution: '[[Royal Conservatory of Brussels]]'
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+    external_source: null
+  title:
+  - 'Polka sur le Val D''Andorre d''Halevy: pour piano'
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  based_on:
+  - value: '[[Le val d''Andorre]]'
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/PnWGQzxqsYz8.json
+content:
+  markdown_content: ''

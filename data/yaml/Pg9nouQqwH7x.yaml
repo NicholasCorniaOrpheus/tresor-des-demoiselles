@@ -61,12 +61,12 @@ statements:
     label: exoticism
 assets:
   local_asset_path: ./assets/RCA-12971503
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971503/20260608141705109_0004.jpg
   IIIF_manifest: null
   jpg:
   - 20260608141705109_0004.jpg
   - 20260608141705109_0005.jpg
   - 20260608141705109_0006.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Pg9nouQqwH7x.json
 content:
   markdown_content: ''

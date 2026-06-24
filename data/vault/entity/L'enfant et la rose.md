@@ -34,4 +34,5 @@ language:
 depicts:
 based_on:
 about:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971523/20260608141705109_0007.jpg
 ---

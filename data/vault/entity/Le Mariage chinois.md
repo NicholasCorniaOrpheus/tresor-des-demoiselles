@@ -34,4 +34,5 @@ about:
 language:
   - "[[French]]"
 based_on:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p42/orp-plant-lemaria-20143702p42-fs-00001.jpg
 ---

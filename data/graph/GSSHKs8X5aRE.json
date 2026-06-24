@@ -37,12 +37,6 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
-      "label": "lyricist",
-      "class": "Concept",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
-    },
-    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM",
       "label": "operetta",
       "class": "Concept",
@@ -112,11 +106,6 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GSSHKs8X5aRE",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
-      "property": "contributor"
-    },
-    {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GSSHKs8X5aRE",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
       "property": "has_version"
     },
@@ -151,9 +140,9 @@
       "property": "location"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bbp23eR4DnZs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
-      "property": "occupation"
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
+      "property": ""
     }
   ]
 }

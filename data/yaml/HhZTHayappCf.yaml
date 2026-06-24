@@ -54,10 +54,22 @@ statements:
     label: French
 assets:
   local_asset_path: ./assets/OI-20143702p45
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p45/orp-henri-captivi-20143702p45-fs-00001.jpg
   IIIF_manifest: null
   jpg:
   - orp-henri-captivi-20143702p45-fs-00001.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/HhZTHayappCf.json
 content:
-  markdown_content: ''
+  markdown_content: "### Lyrics\n\nPrends, petit oiseau, \nce que je te donne\ndit\
+    \ l’enfant à son prisonnier,\ndu gateau pour ta faim mignonne,\navec le sucre\
+    \ qui foisonne,\net du frais plantin printanier.\n\nAh! répond tout en peine,\n\
+    Ah! répond tout en peine\nun regard attristé:\nJ’ai mon grain dans la plaine,\n\
+    rendez-moi \nah! rendez-moi ma liberté.\n\nJe sais des chansons \nqu’il te faut\
+    \ apprendre,\ndit l’enfant à son prisonnier,\ndes chansons, que par la voix tendre,\n\
+    il me sera si doux d’entendre,\nsous l’azur du ciel printanier.\n\nAh! répond\
+    \ tout en peine,\nAh! répond tout en peine\nun regard attristé:\nJ’ai mon grain\
+    \ dans la plaine,\nrendez-moi \nah! rendez-moi ma liberté.\n\nLes jours seront\
+    \ beaux \nles nuits seront belles\ndit l’enfant à son prisonnier,\nj’apporte au\
+    \ sommeil de tes ailes,\ndes fleurs et des mousses nouvelles\nqu’embaume un parfum\
+    \ printanier.\n\nAh! répond tout en peine,\nAh! répond tout en peine\nun regard\
+    \ attristé:\nJ’ai mon grain dans la plaine,\nrendez-moi \nah! rendez-moi ma liberté."

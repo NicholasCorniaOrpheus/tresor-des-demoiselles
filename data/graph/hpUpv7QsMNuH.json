@@ -17,6 +17,12 @@
       "label": "Belgium",
       "class": "Place",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "label": "Journal des demoiselles",
+      "class": "Organisation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg"
     }
   ],
   "links": [
@@ -29,6 +35,16 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hpUpv7QsMNuH",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
       "property": "country"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hpUpv7QsMNuH",
+      "property": ""
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+      "property": ""
     }
   ]
 }

@@ -7,10 +7,40 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
+      "label": "L'emploi de ma journée",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p25/orp-clapi-l'emplo-20143702p25-fs-00001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
+      "label": "Fantaisie sur le Carillonneur",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p22/orp-burgm-fantais-20143702p22-ps-00001.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk",
       "label": "national library",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "label": "Songe de Bonheur",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p32/orp-ettli-songede-20143702p32-ps-00001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "label": "Un Loi Somptuaire. opérette en deux actes",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
+      "label": "En écoutant avec son coeur",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p26/orp-pierr-enécout-20143702p26-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
@@ -21,6 +51,12 @@
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gDmz3Fec5GTc",
       "label": "Magasin des demoiselles (1886)",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bv7PDGtc5dE9",
+      "label": "3me sonatine. musique de Mlle H. Wild",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
@@ -43,7 +79,37 @@
       "property": "country"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XwYiW33wT56o",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2Qk3wiPP6j39",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ScUaW5x7afcg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gDmz3Fec5GTc",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bv7PDGtc5dE9",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
       "property": "has_version"
     },

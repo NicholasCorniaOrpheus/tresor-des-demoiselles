@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "label": "Un Loi Somptuaire. opérette en deux actes",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "label": "Paris",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "label": "piano",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+      "label": "French",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "label": "composer",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM",
+      "label": "operetta",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "label": "Bibliothèque nationale de France",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "label": "Journal des demoiselles",
+      "class": "Organisation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "property": "part_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "has_version"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "instrumentation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwbDdEzfpcoh",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+      "property": "language"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+      "property": "location"
+    }
+  ]
+}

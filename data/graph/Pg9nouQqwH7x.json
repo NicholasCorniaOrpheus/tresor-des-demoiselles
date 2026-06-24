@@ -4,7 +4,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pg9nouQqwH7x",
       "label": "Une orientale: mélodie",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971503/20260608141705109_0004.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
@@ -170,11 +170,6 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bdE6MYos7APn",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
       "property": "occupation"
-    },
-    {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "property": "instance_of"
     }
   ]
 }

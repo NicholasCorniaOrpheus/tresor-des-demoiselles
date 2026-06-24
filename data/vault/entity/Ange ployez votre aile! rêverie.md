@@ -2,7 +2,7 @@
 class: Manifestation
 label: Ange ployez votre aile! rêverie
 aliases:
-image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499/20260608141705109_0001.jpg
 description:
 local_asset_path: ./assets/RCA-12971499
 instance_of:

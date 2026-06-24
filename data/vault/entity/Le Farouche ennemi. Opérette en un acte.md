@@ -16,7 +16,7 @@ contributor:
   - value: "[[Jules Pillevestre]]"
     role: "[[composer]]"
   - value: "[[Élisa Adam-Boisgontier]]"
-    role: "[[lyricist]]"
+    role: "[[librettist]]"
 has_version:
   - permalink: https://mdz-nbn-resolving.de/details:bsb10360013
     publication_date: 1866-01-01

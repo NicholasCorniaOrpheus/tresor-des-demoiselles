@@ -27,4 +27,5 @@ based_on:
 about:
 language:
   - "[[French]]"
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p44/orp-talex-thalie-20143702p44-ps-00001.jpg
 ---

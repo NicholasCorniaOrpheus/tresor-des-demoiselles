@@ -9,8 +9,9 @@ metadata:
   n_id: 485652487271220534565
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
-    label: Royal Conservatory of Antwerp
+  - '[[conservatory]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
+    label: public library
   described_by_source: null
   inception:
   - value: 1898-01-01

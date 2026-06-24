@@ -1,0 +1,33 @@
+metadata:
+  class: Work
+  description: null
+  aliases:
+  - La jeunesse d'Henri V d' Angleterre
+  label: La gioventù di Enrico Quinto
+  base_name: La gioventù di Enrico Quinto
+  filename: La gioventù di Enrico Quinto.md
+  id: 8U2RhpZWfPcM
+  n_id: 133230906684343307758
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp
+    label: dramatico-musical work
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q136822375
+  form_of_creative_work:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
+    label: opera
+  contributor:
+  - value: '[[Ferdinand Hérold]]'
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  based_on: null
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/8U2RhpZWfPcM.json
+content:
+  markdown_content: ''

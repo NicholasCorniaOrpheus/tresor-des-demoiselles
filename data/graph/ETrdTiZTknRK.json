@@ -4,13 +4,19 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ETrdTiZTknRK",
       "label": "Le Livre du coeur",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p34/orp-delis-lelivre-20143702p34-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
       "label": "Brussels",
       "class": "Place",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "label": "Magasin des demoiselles",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
@@ -84,6 +90,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ETrdTiZTknRK",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
       "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ETrdTiZTknRK",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB",
+      "property": "part_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ETrdTiZTknRK",

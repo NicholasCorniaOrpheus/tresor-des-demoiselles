@@ -1,0 +1,33 @@
+metadata:
+  class: Agent
+  label: Jean-Baptiste Weckerlin
+  aliases: null
+  description: null
+  base_name: Jean-Baptiste Weckerlin
+  filename: Jean-Baptiste Weckerlin.md
+  id: 2yrMbZSDVHNx
+  n_id: 20218886147341497057
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+    label: male
+  identifier:
+  - http://www.wikidata.org/entity/Q934876
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+    label: composer
+  - '[[writer]]'
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/6/60/Jean-Baptiste_Weckerlin_par_Truchelut.png
+  IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/2yrMbZSDVHNx.json
+content:
+  markdown_content: ''

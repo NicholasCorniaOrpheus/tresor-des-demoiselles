@@ -48,6 +48,7 @@ statements:
     label: Journal des demoiselles
 assets:
   local_asset_path: ./assets/OI-20144531
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20144531/20144531_177.jpg
   IIIF_manifest: null
   jpg:
   - 20144531_001.jpg
@@ -1725,7 +1726,6 @@ assets:
   - 20144531_416.xml
   - 20144531_417.xml
   - 20144531_418.xml
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/6XQw6vXJb4qt.json
 content:
   markdown_content: ''

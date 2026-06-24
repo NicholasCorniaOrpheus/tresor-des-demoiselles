@@ -31,4 +31,5 @@ holding_institution: "[[Orpheus Instituut]]"
 depicts:
 based_on:
 about:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20144506/20144506_247.jpg
 ---

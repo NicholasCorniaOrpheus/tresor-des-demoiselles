@@ -7,6 +7,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+      "label": "Royal Conservatory of Brussels",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HjSMhbA3nqG8",
       "label": "type of library",
       "class": "Concept",
@@ -15,6 +21,12 @@
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7LoWAKaDbbUb",
       "label": "Biblioteca civica di Verona",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+      "label": "Royal Conservatory of Antwerp",
       "class": "Organisation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
     },
@@ -32,7 +44,17 @@
       "property": "instance_of"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
+      "property": "instance_of"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7LoWAKaDbbUb",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
       "property": "instance_of"
     },

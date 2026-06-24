@@ -1,0 +1,58 @@
+metadata:
+  class: Manifestation
+  label: 3me sonatine. musique de Mlle H. Wild
+  aliases: null
+  description: null
+  base_name: 3me sonatine. musique de Mlle H. Wild
+  filename: 3me sonatine. musique de Mlle H. Wild.md
+  id: Bv7PDGtc5dE9
+  n_id: 204582951609686691469
+statements:
+  instance_of:
+  - '[[piano sonata]]'
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    publication_date: 1876-01-01
+    volume: 44
+    label: Journal des demoiselles
+  contributor:
+  - value: '[[Hortense Wild]]'
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  has_version:
+  - permalink: https://catalogue.bnf.fr/ark:/12148/cb433379188
+    note: 3 sonatines for piano, Op. 20
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB
+      label: Bibliothèque nationale de France
+    publication_date: 1872-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    publisher: '[[Auguste Durand]]'
+  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89100
+    holding_institution: '[[Royal Conservatory of Brussels]]'
+    publication_date: 1890-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    external_source: null
+  title:
+  - 3me sonatine. musique de Mlle H. Wild
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language: null
+  based_on: null
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Bv7PDGtc5dE9.json
+content:
+  markdown_content: ''

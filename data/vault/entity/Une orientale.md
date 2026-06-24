@@ -34,6 +34,7 @@ depicts:
 based_on:
 about:
   - "[[exoticism]]"
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971503/20260608141705109_0004.jpg
 ---
 
 

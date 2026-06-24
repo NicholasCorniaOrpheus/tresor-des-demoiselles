@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC",
+      "label": "conservatory",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    }
+  ],
+  "links": []
+}

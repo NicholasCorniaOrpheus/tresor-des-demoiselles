@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p34){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p34/orp-delis-lelivre-20143702p34-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Le Livre du coeur
@@ -71,6 +71,9 @@
     - [song](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU)
 
 ???+ abstract "part of"
+    - [Magasin des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB)
+        * volume: 9
+        * publication date: 1852-01-01
     - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
         * publication date: 1853-01-01
 
@@ -101,6 +104,51 @@
     - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
 
 
+
+## Notes
+### Lyrics
+
+Livre saint!... le premier qu’épelle à son aurore
+L’enfant au doux regard.
+Livre grand!... le dernier que relit et qu’implore
+L’oeil mourant du vieillard.
+Toi seul as des accents plus purs que l’harmonie
+Du langage mortel
+Et toi seul fais parler comme son bon génie
+La terre avec le ciel.
+
+Livre plein de mystères, 
+De calme et de bonheur
+Le livre de prières
+C’est le livre du coeur.
+
+ Livre saint!... qu’aux soupirs de la brise et de l’onde.
+On trouve encore plus doux
+Livre grand! qu’aux éclairs de la foudre qui grond 
+On ne lit qu’à genoux
+Toi seul loin du pays, toi seul loin d’une mère
+Nous parles de retour
+Et seul tu nous fais croire en ce monde éphémère
+A l’éternel séjour.
+
+Livre plein de mystères, 
+De calme et de bonheur
+Le livre de prières
+C’est le livre du coeur.
+
+Livre saint!... tes desirs ont la douceur des rèves
+Et le parfum des fleurs
+Livre grand tes regrets ont le calme des grèves
+Et le charme des pleurs
+Toi seul près du berceau que notre amour surveille
+Tu nous parles d’espoir
+Et seul près de la tombe où notre ami sommeille
+Tu nous dis au revoir.
+
+Livre plein de mystères, 
+De calme et de bonheur
+Le livre de prières
+C’est le livre du coeur.
 
 
 

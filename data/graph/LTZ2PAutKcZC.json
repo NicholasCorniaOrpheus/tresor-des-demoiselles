@@ -7,8 +7,20 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/98ui7xFiSD8t",
+      "label": "La vallée de chevreuse. suite de valses",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
       "label": "Songe de Bonheur",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p32/orp-ettli-songede-20143702p32-ps-00001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8PAPGoxTCgLt",
+      "label": "Les fées du lac. valse brillante pour piano",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
@@ -28,7 +40,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ao5Ame5q39g9",
       "label": "Le Corbeille de roses",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p41/orp-sawan-lecorbe-20143702p41-ps-00001.jpg"
     }
   ],
   "links": [
@@ -43,7 +55,17 @@
       "property": "subclass_of"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/98ui7xFiSD8t",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
+      "property": "instance_of"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL2CYehsnjpj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8PAPGoxTCgLt",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
       "property": "instance_of"
     },

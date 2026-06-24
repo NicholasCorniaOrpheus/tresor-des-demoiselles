@@ -1,0 +1,33 @@
+metadata:
+  class: Agent
+  label: Octave Fouque
+  aliases: null
+  description: null
+  base_name: Octave Fouque
+  filename: Octave Fouque.md
+  id: jrncQaEniubd
+  n_id: 863732792554987841684
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+    label: male
+  identifier:
+  - http://www.wikidata.org/entity/Q18197626
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+    label: composer
+  - '[[writer]]'
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/d/db/Octave_Fouque_par_D%C3%A9li%C3%A9%2C_d%C3%A9tail.jpg
+  IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/jrncQaEniubd.json
+content:
+  markdown_content: ''

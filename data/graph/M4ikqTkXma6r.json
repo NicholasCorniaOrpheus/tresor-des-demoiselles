@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r",
+      "label": "Édouard Gérard",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+      "label": "publisher",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "label": "human",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "label": "male",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+      "property": "occupation"
+    }
+  ]
+}

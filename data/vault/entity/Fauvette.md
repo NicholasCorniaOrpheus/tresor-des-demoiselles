@@ -8,6 +8,9 @@ instance_of:
   - "[[song]]"
 has_part:
 part_of:
+  - value: "[[Magasin des demoiselles]]"
+    volume: 8
+    publication_date: 1852-01-01
   - value: "[[Journal des demoiselles]]"
     volume: 23
     publication_date: 1856-01-01
@@ -35,4 +38,5 @@ about:
 language:
   - "[[French]]"
 based_on:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p29/orp-dufau-fauvett-20143702p29-fs-00001.jpg
 ---

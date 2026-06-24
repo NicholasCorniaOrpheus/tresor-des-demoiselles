@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p25){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p25/orp-clapi-l'emplo-20143702p25-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: L'emploi de ma journée
@@ -81,6 +81,24 @@
 
 ???+ abstract "has version"
     - 
+        * permalink: [c:lvd:15287383](https://anet.be/record/opacdkvc/c:lvd:15287383)
+        * holding institution: [Royal Conservatory of Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs)
+        * publisher: [Joseph Meynne](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE)
+        * place of publication: [Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2)
+    - 
+        * permalink: [183654](https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=183654)
+        * holding institution: [[Royal Conservatory of Brussels]]
+        * note: Part of Le Mélomane, journal de chant No. 54, vol. 3
+        * publication date: 1852-01-01
+        * publisher: [[Gustave Jacqmain]]
+        * place of publication: [Ghent](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE)
+    - 
+        * permalink: [cb42913217h](http://ark.bnf.fr/ark:/12148/cb42913217h)
+        * holding institution: [Bibliothèque nationale de France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB)
+        * publication date: 1851-01-01
+        * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
+        * publisher: [[Joseph Meissonnier]]
+    - 
         * permalink: [22186](https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186)
         * holding institution: [Orpheus Instituut](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT)
         * place of publication: [Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2)
@@ -99,6 +117,48 @@
     - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
 
 
+
+## Notes
+### Lyrics
+
+En m’éveillant, j’ai souri, j’ai prié…
+J’ai dit bonjour à ma volière
+J’ai partagé deux baisers, par moité.
+Un pour ma soeur, l’autre à ma mère.
+A la lecture, au travail, au devoir,
+J’ai consacré la matinée…
+Sans, pour cela, négliger mon miroir…
+Je n’ai pas perdu ma journée.
+Le tems marche…
+Le tems marche ah ah
+Le tems marche, et l’on veillit…
+Dam. à quinze ans, à quinze ans, l’on raisonne!
+Chaque jour que Dieu nous donne
+Il faut le mettre à profit.
+
+Pour des rubans j’ai choisi des couleurs…
+J’ai déchiffré valse et quadrille…
+J’ai dessiné des oiseaux et des fleurs,
+Et puis, enfin, j’ai pris l’aiguille
+C’était la fête au village voisin;
+Là, je me suis bien promenée…
+J’ai rencontré deux pauvres en chemin…
+Je n’ai pas perdu ma journée.
+Le tems marche
+Le tems marche ah! ah!...
+Le tems marche et l’on vieillit…
+
+Mais, j’oubliais au salon ce matin,
+Je fus, d’abord, toute interdite…
+Près de maman je trouvai mon cousin,
+Qui nous fesait une visite.
+D’un bon ménage on parlait… j’ai rougi…
+Car, après tout, je suis l’ainée!...
+Je crois que j’ai découvert un mari
+Je n’ai pas perdu ma journée.
+Le tems marche
+Le tems marche ah! ah!...
+Le tems marche et l’on vieillit…
 
 
 

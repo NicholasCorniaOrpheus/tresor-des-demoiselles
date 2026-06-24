@@ -4,7 +4,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WPYDAMp8mTS3",
       "label": "Chansonette de l'opéra Le caïd",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971554/20260608141705109_0021.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
@@ -142,11 +142,6 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
       "property": "occupation"
-    },
-    {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "property": "instance_of"
     }
   ]
 }

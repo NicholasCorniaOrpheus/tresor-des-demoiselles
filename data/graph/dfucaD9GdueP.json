@@ -25,8 +25,26 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL",
+      "label": "aria",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5GQCpP8JBfZH",
+      "label": "piano sonata",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/d3Jyp9sKuWUF",
       "label": "serenade",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd",
+      "label": "programme music",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
@@ -84,7 +102,22 @@
       "property": "instance_of"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5GQCpP8JBfZH",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+      "property": "instance_of"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/d3Jyp9sKuWUF",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
       "property": "instance_of"
     },

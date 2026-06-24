@@ -1,0 +1,32 @@
+metadata:
+  class: Agent
+  label: Édouard Gérard
+  aliases: null
+  description: null
+  base_name: Édouard Gérard
+  filename: Édouard Gérard.md
+  id: M4ikqTkXma6r
+  n_id: 393064995896719690749
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+    label: male
+  identifier:
+  - http://www.wikidata.org/entity/Q95234898
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs
+    label: publisher
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/M4ikqTkXma6r.json
+content:
+  markdown_content: ''

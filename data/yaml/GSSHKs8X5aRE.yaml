@@ -26,9 +26,7 @@ statements:
       label: composer
     label: Jules Pillevestre
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bbp23eR4DnZs
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
-      label: lyricist
+    role: '[[librettist]]'
     label: Élisa Adam-Boisgontier
   has_version:
   - permalink: https://mdz-nbn-resolving.de/details:bsb10360013

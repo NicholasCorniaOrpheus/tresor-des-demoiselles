@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP.",
+      "label": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP.",
+      "class": "External",
+      "image": NaN
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "label": "Journal des demoiselles",
+      "class": "Organisation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP.",
+      "property": ""
+    }
+  ]
+}

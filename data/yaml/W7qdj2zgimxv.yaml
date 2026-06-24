@@ -54,7 +54,7 @@ statements:
   based_on: null
   about: null
 assets:
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499/20260608141705109_0001.jpg
   local_asset_path: ./assets/RCA-12971499
   IIIF_manifest: null
   jpg:

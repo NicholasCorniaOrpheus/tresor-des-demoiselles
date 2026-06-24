@@ -33,4 +33,5 @@ based_on:
 about:
 language:
   - "[[French]]"
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-13279473/20260608134000426_0001.jpg
 ---

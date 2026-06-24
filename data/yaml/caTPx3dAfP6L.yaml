@@ -1,0 +1,50 @@
+metadata:
+  class: Manifestation
+  label: Renouveau. bluette
+  aliases: null
+  description: null
+  base_name: Renouveau. bluette
+  filename: Renouveau. bluette.md
+  id: caTPx3dAfP6L
+  n_id: 713366895151171384266
+statements:
+  instance_of: null
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    publication_date: 1889-01-01
+    volume: 57
+    label: Journal des demoiselles
+  contributor:
+  - value: '[[Octave Fouque]]'
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  has_version:
+  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88115
+    holding_institution: '[[Royal Conservatory of Brussels]]'
+    publication_date: 1889-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    external_source: null
+    note: Lyrics by Ch. Arley
+  title:
+  - 'Renouveau : bluette'
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+    label: French
+  based_on: null
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/caTPx3dAfP6L.json
+content:
+  markdown_content: ''

@@ -1,0 +1,29 @@
+metadata:
+  class: Organisation
+  label: null
+  aliases: null
+  description: null
+  base_name: International Music Score Library Project
+  filename: International Music Score Library Project.md
+  id: gAK3b5Jh5UVf
+  n_id: 787168613494226231992
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS
+    label: digital library
+  described_by_source: null
+  inception: null
+  location: null
+  dissolved: null
+  contributor: null
+  official_website:
+  - https://imslp.org/
+  identifier:
+  - http://www.wikidata.org/entity/Q523660
+  country: null
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/gAK3b5Jh5UVf.json
+content:
+  markdown_content: ''

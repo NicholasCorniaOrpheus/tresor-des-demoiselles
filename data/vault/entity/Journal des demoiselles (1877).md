@@ -9,7 +9,7 @@ instance_of:
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
-    volume: 6
+    volume: 45
     publication_date: 1877-01-01
 contributor:
 has_version:

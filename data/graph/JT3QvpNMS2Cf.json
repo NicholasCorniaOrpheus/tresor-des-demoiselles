@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
+      "label": "Ferdinand Hérold",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Fotoreproductie_van_een_portret_van_Ferdinand_H%C3%A9rold_door_Eugen_Felix_Herold_%28titel_op_object%29_Bruckmann%27s_Portrait-Collection_%28serietitel_op_object%29%2C_RP-F-2001-7-878-5_%28cropped%29.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "label": "composer",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "label": "human",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "label": "male",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    }
+  ]
+}

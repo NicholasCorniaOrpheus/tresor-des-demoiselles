@@ -44,10 +44,10 @@ statements:
   based_on: null
 assets:
   local_asset_path: ./assets/OI-20143702p43
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p43/orp-scola-ninon-20143702p43-ps-00001.jpg
   IIIF_manifest: null
   jpg:
   - orp-scola-ninon-20143702p43-ps-00001.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/L66sykV3wKxG.json
 content:
   markdown_content: ''

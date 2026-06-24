@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku",
+      "label": "Chevreuse",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
+      "label": "France",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
+      "property": "country"
+    }
+  ]
+}

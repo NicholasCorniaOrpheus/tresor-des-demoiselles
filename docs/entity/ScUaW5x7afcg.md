@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p26){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p26/orp-pierr-enécout-20143702p26-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: En écoutant avec son coeur
@@ -71,6 +71,9 @@
     - [romance](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aph6QHtmL78s)
 
 ???+ abstract "part of"
+    - [Magasin des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB)
+        * volume: 9
+        * publication date: 1852-01-01
     - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
         * publication date: 1853-04-01
 
@@ -81,6 +84,19 @@
         * role: [lyricist](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa)
 
 ???+ abstract "has version"
+    - 
+        * permalink: [c:lvd:14436621](https://anet.be/record/opacdkvc/c:lvd:14436621)
+        * holding institution: [Royal Conservatory of Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs)
+        * note: dedicated to the Trésor des demoiselles' subscribers.
+        * publication date: 1853-01-01
+        * publisher: [Joseph Meynne](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE)
+        * place of publication: [Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2)
+    - 
+        * permalink: [cb42940871v](http://ark.bnf.fr/ark:/12148/cb42940871v)
+        * holding institution: [Bibliothèque nationale de France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB)
+        * publication date: 1861-01-01
+        * publisher: [[Édouard Gérard]]
+        * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
     - 
         * permalink: [22186](https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186)
         * holding institution: [Orpheus Instituut](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT)
@@ -101,6 +117,45 @@
     - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
 
 
+
+## Notes
+### Lyrics
+
+Quand la brise des cieux
+écartant la charmille
+Au bouton du rosier
+rend l’azur qui scintille
+Savez-vous bien la jeune fille,
+Ce qu’on entend dire à la fleur,
+En écoutant avec son coeur?
+“Vous dont les soins m’ouvrent la vie,
+Rien n’est perdu, rien ne s’oublie…
+Donnez, donnez! un jour viendra
+Où mon parfum vous le rendra!”
+
+Quand l’enfant réveillé, 
+frêle souffle éphémère,
+appelle par ses cris
+son ange de la terre,
+Savez-vous bien, la pauvre mère,
+Ce qu’on entend pour son bonheur
+En écoutant avec son coeur?
+“Vous dont les soins m’ouvrent la vie,
+Rien n’est perdu, rien ne s’oublie…
+Donnez, donnez! un jour viendra
+Où mon amour vous le rendra!”
+
+Et quand l'humble détresse
+ou la douleur profonde,
+S’abrite à vos genoux 
+contre le sort qui gronde,
+Sachez de même, heureux du monde,
+Ce qu’on entend Dire au Seigneur,
+En écoutant avec son coeur?
+“De vos bienfaits semez la vie!
+Rien n’est perdu, rien ne s’oublie…
+Donnez, donnez! un jour viendra
+Où votre Dieu vous le rendra!”
 
 
 

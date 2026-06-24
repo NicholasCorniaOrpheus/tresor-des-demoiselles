@@ -3,7 +3,7 @@ class: Manifestation
 label: Mandoline. Sérénade.
 aliases:
 description:
-local_asset_path: ./assets/OI-20143702p301
+local_asset_path: ./assets/OI-20143702p31
 instance_of:
   - "[[song]]"
 has_part:
@@ -22,7 +22,7 @@ has_version:
     publication_date: 1856-01-01
     place_of_publication:
       - "[[Paris]]"
-    note: "au Docteur Lecadre, probaly [Adolphe Aimé Lecadre](http://www.wikidata.org/entity/Q105833783)."
+    note: au Docteur Lecadre, probaly [Adolphe Aimé Lecadre](http://www.wikidata.org/entity/Q105833783).
 title: "Fauvette: Chansonette."
 instrumentation:
   - value: "[[piano]]"
@@ -31,5 +31,6 @@ depicts:
 about:
 language:
 based_on:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p31/orp-delio-mandoli-20143702p31-ps-00001.jpg
 ---
 

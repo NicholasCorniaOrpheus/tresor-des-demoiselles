@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p40){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p40/orp-rauis-lepinso-20143702p40-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Le Pinson
@@ -111,6 +111,48 @@
     - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
 
 
+
+## Notes
+### Lyrics 
+
+Tu vivais dans les bois
+ta charmante patrie,
+la ramure fleurie
+aimait ta jeune voix;
+tu déployais ton aile
+dans un air embaumé
+et revenais fidèle
+au nid accoutumé
+une telle existence
+c’était trop de bonheur
+car tu fus sans défense
+surpris par l'oiseleur.
+
+Adieu l’air parfumé,
+les champs pleins de lumière,
+la fraicheur printanière 
+du bosquet embaumé;
+plus de fleurs et plus d’ombre,
+plus de soleil plus d’air,
+une prison bien sombre
+au grillage de fer,
+le mortel esclavage
+après la liberté,
+l’espace d’une cage
+après l’immensité.
+
+Si tu luttais parfois
+ta colère touchante,
+se brisait impuissante,
+contre un morceau de bois.
+alors douce victime,
+Dieu dut s'en-irriter, 
+l’homme commit un crime
+pour te faire chanter!
+il brula ta paupière
+pauvre petit Pinson,
+et depuis pour lui plaire
+tu lui dis ta chanson.
 
 
 

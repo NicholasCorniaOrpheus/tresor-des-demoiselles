@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p36){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p36/orp-henri-dieulev-20143702p36-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Dieu le voit
@@ -98,6 +98,45 @@
     - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
 
 
+
+## Notes
+### Lyrics
+
+Le petit nid d’oiseau 
+plus faible qu’un roseau
+tremble et penche sur la branche!
+à le voir suspendu 
+sur la cime de l’abime
+on le croirait perdu! perdu!
+
+pour lui; ne craignez rien!
+pour lui; ne craignez rien
+car, si petit qu’il soit 
+Dieu le voit!
+
+Le petit rosier nain
+caché dans le ravin,
+mince et grèle il chancelle!
+un rien peut le flétrir!
+le passage d’un orage
+doit le fair mourir mourir?
+
+pour lui; ne craignez rien!
+pour lui; ne craignez rien
+car, si petit qu’il soit 
+Dieu le voit!
+
+Le petit ange blond
+dans son lit tout mignon,
+s’il s’agite vite vite
+sa mère est dans l’effroi
+que d’alarmes, que de larmes!
+jeune mère pourquoi? pourquoi?
+
+pour lui; ne craignez rien!
+pour lui; ne craignez rien
+car, si petit qu’il soit 
+Dieu le voit!
 
 
 

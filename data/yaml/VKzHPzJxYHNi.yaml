@@ -1,0 +1,32 @@
+metadata:
+  class: Agent
+  label: Victor Massé
+  aliases: null
+  description: null
+  base_name: Victor Massé
+  filename: Victor Massé.md
+  id: VKzHPzJxYHNi
+  n_id: 563681260037432076319
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+    label: male
+  identifier:
+  - http://www.wikidata.org/entity/Q1382004
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+    label: composer
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Victor_Mass%C3%A9_by_Erwin_fr%C3%A8res.png
+  IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/VKzHPzJxYHNi.json
+content:
+  markdown_content: ''

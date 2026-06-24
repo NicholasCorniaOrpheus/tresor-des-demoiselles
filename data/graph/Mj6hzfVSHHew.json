@@ -7,10 +7,22 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HcCqx9kcHttd",
+      "label": "Pavane. Musique de Mlle H. Wild",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P3xwqK2mHjC7",
       "label": "schottische",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fuQNwtNrhyNk",
+      "label": "Danse villageoise. air de danse antique",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aRNbPTwmsbtP",
@@ -39,7 +51,17 @@
   ],
   "links": [
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HcCqx9kcHttd",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
+      "property": "instance_of"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P3xwqK2mHjC7",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fuQNwtNrhyNk",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
       "property": "instance_of"
     },

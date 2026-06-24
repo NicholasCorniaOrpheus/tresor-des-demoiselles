@@ -4,7 +4,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XRGgDS2XwCto",
       "label": "Parles bas! Chansonette",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971526/20260608141705109_0011.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
@@ -165,11 +165,6 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
       "property": "occupation"
-    },
-    {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
-      "property": "instance_of"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5BX54FRugrpJ",

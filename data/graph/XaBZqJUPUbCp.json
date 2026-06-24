@@ -7,8 +7,26 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
+      "label": "La gioventù di Enrico Quinto",
+      "class": "Work",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox",
+      "label": "Le val d'Andorre",
+      "class": "Work",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/C2iCicFyAfex",
       "label": "Le Caïd",
+      "class": "Work",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+      "label": "Le Lac des fées",
       "class": "Work",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
     },
@@ -27,7 +45,22 @@
   ],
   "links": [
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+      "property": "instance_of"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/C2iCicFyAfex",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
       "property": "instance_of"
     },

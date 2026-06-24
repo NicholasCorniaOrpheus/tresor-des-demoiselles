@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gAK3b5Jh5UVf",
+      "label": "International Music Score Library Project",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS",
+      "label": "digital library",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gAK3b5Jh5UVf",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS",
+      "property": "instance_of"
+    }
+  ]
+}

@@ -28,4 +28,5 @@ depicts:
 about:
 language:
 based_on:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p27/orp-revel-emilie-20143702p28/orp-pilet-lesluti-20143702p28-fs-00001.jpg
 ---

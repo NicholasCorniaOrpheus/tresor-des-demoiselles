@@ -16,6 +16,6 @@ sex_or_gender: "[[female]]"
 identifier:
   - http://www.wikidata.org/entity/Q54894949
 occupation:
-  - "[[lyricist]]"
+  - "[[librettist]]"
 country_of_citizenship: "[[France]]"
 ---

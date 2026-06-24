@@ -37,6 +37,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
+      "label": "Hortense Wild",
+      "class": "Agent",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YKxiqAW7Evgt",
       "label": "Florine Mouvielle",
       "class": "Agent",
@@ -96,6 +102,11 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+      "property": "sex_or_gender"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
       "property": "sex_or_gender"
     },

@@ -10,7 +10,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bGHNgXsPckvg",
       "label": "Les Fauvettes",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p18/20143702p18_001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
@@ -29,6 +29,12 @@
       "label": "male",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "label": "Un concert chez les demoiselles de Saint-Cyr",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     }
   ],
   "links": [
@@ -53,7 +59,17 @@
       "property": "contributor"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VcpJBubpN5Jf",
+      "property": "contributor"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bGHNgXsPckvg",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     }

@@ -10,7 +10,7 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7sLxino2QMBv",
       "label": "La Pervenche",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p35/orp-lenbi-laperve-20143702p35-ps-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VqKwz7CTAa94",
@@ -34,13 +34,19 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gyh3ExubqN2H",
       "label": "L'Aubépine",
       "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p30/orp-bosch-l'aubép-20143702p30-ps-00001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
+      "label": "Polka sur le Val D'Andorre d'Halevy",
+      "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AgTowXcdYL6T",
       "label": "Thalie",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p44/orp-talex-thalie-20143702p44-ps-00001.jpg"
     }
   ],
   "links": [
@@ -66,6 +72,11 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gyh3ExubqN2H",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU",
       "property": "instance_of"
     },

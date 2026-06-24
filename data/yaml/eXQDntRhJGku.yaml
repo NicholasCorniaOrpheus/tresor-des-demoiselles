@@ -1,0 +1,21 @@
+metadata:
+  class: Place
+  label: Chevreuse
+  aliases: null
+  description: commune in Yvelines, France
+  base_name: Chevreuse
+  filename: Chevreuse.md
+  id: eXQDntRhJGku
+  n_id: 753532408390103045745
+statements:
+  identifier:
+  - http://www.wikidata.org/entity/Q399366
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
+    label: France
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/eXQDntRhJGku.json
+content:
+  markdown_content: ''

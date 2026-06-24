@@ -4,10 +4,10 @@
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/bGHNgXsPckvg.json){ .md-button }
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/bGHNgXsPckvg.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/bGHNgXsPckvg.csv){ .md-button }
-[:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/ORP-20143702p18){ .md-button }
+[:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p18){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p18/20143702p18_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Les Fauvettes
@@ -83,6 +83,18 @@
 
 ???+ abstract "has version"
     - 
+        * permalink: [c:lvd:14382572](https://anet.be/record/opacdkvc/c:lvd:14382572)
+        * holding institution: [Royal Conservatory of Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs)
+        * publisher: [Joseph Meynne](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE)
+        * place of publication: [Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2)
+        * note: Part of the periodical Le mélodie, vol. 29
+    - 
+        * permalink: [181935](https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=181935)
+        * holding institution: [[Royal Conservatory of Brussels]]
+        * publication date: 1852-01-01
+        * place of publication: [Ghent](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE)
+        * publisher: [[Gustave Jacqmain]]
+    - 
         * permalink: [c:lvd:14382572](https://anet.be/record/opacap/c:lvd:14382572)
         * holding institution: [Royal Conservatory of Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs)
         * place of publication: [Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2)
@@ -130,8 +142,8 @@
 <script>
 window.entityAssets = {
     "base_github_url": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/" ,
-    "local_path": "assets/ORP-20143702p18/",
-    "images": ["orp-bord\u00e8-lesfauv-20143702p18-fs-00001.jpg", "orp-bord\u00e8-lesfauv-20143702p18-fs-00002.jpg", "orp-bord\u00e8-lesfauv-20143702p18-fs-00003.jpg"],
+    "local_path": "assets/OI-20143702p18/",
+    "images": ["20143702p18_001.jpg", "20143702p18_002.jpg", "20143702p18_003.jpg"],
     "tei": [],
     "iiif": ""
 };

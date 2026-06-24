@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: mythical character
+  base_name: mythical character
+  filename: mythical character.md
+  id: i35bPNVVTFXP
+  n_id: 825820802356531460508
+statements:
+  instance_of:
+  - '[[type of fictional character]]'
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q4271324
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/i35bPNVVTFXP.json
+content:
+  markdown_content: ''

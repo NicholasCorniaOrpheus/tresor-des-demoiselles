@@ -1,0 +1,34 @@
+metadata:
+  class: Agent
+  label: Joseph Meissonnier
+  aliases: null
+  description: null
+  base_name: Joseph Meissonnier
+  filename: Joseph Meissonnier.md
+  id: 8HSKpjkZAxrE
+  n_id: 129400320069749283528
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+    label: male
+  identifier:
+  - http://www.wikidata.org/entity/Q28919939
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+    label: composer
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs
+    label: publisher
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/8HSKpjkZAxrE.json
+content:
+  markdown_content: ''

@@ -21,115 +21,8 @@
               "icon": "lucide-table",
               "title": "manifestation_list"
             }
-          },
-          {
-            "id": "2466cf640fd36955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Le Farouche ennemi. Opérette en un acte.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Le Farouche ennemi. Opérette en un acte"
-            }
-          },
-          {
-            "id": "fe99ab636f512e1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity/Journal des demoiselles (1836).md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Journal des demoiselles (1836)"
-            }
-          },
-          {
-            "id": "992104e8dd99ba4f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "70c95982f2b20ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity/Ange ployez votre aile! rêverie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ange ployez votre aile! rêverie"
-            }
-          },
-          {
-            "id": "665ab545f521c1a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity/Journal des demoiselles.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Journal des demoiselles"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Jour",
+                "query": "file: Lasse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,53 +184,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "665ab545f521c1a6",
+  "active": "a021b60216f25b74",
   "lastOpenFiles": [
-    "entity/Trésor des demoiselles.md",
-    "entity/Adrien Talexy.md",
-    "entity/Magasin des demoiselles.md",
-    "entity/Louise Jeanne Cécile Ruelens.md",
-    "entity/Jeanne-Justine Fouqueau de Pussy.md",
-    "entity/Agents of Change.md",
+    "entity/Journal des demoiselles (1853).md",
     "entity/manifestation_list.base",
-    "entity/Ange ployez votre aile! rêverie.md",
-    "entity/Parles bas! Chansonette.md",
-    "Le Farouche ennemi. Opérette en un acte.md",
-    "entity/Quadrille. Parisina.md",
-    "Journal des demoiselles (1849).md",
+    "entity/Marie Lasseveur.md",
+    "entity/Le Livre du coeur.md",
+    "entity/Journal des demoiselles (1848).md",
+    "entity/Journal des demoiselles (1851).md",
+    "entity/Journal des demoiselles (1844).md",
+    "Juliette Dillon.md",
+    "music critic.md",
+    "entity/Le Bouquet.md",
+    "entity/Songe de Bonheur.md",
+    "Un concert chez les demoiselles de Saint-Cyr.md",
+    "International Music Score Library Project.md",
+    "entity/En écoutant avec son coeur.md",
+    "entity/Fauvette.md",
+    "entity/Fantaisie sur le Carillonneur.md",
+    "Édouard Gérard.md",
+    "entity/L'emploi de ma journée.md",
+    "Joseph Meissonnier.md",
+    "entity/Journal des demoiselles (1836).md",
+    "Pascal Nacher.md",
+    "Gustave Jacqmain.md",
+    "entity/Les Fauvettes.md",
+    "entity/Mandoline. Sérénade..md",
+    "Un Loi Somptuaire. opérette en deux actes.md",
+    "Fromental Halévy.md",
+    "assets/OI-20143702p18/20143702p18_003.jpg",
+    "assets/OI-20143702p18/20143702p18_002.jpg",
+    "assets/OI-20143702p18/20143702p18_001.jpg",
+    "assets/OI-20143702p18",
+    "assets/RCB-88151/IMSLP250564-SIBLEY1802.24274.9db4-39087011142348concert.pdf",
+    "assets/RCB-88151/Unconfirmed 540822.crdownload",
+    "assets/RCB-88151",
     "assets/figures/journal_plate_6_1838.jpg",
     "assets/figures/Unconfirmed 271586.crdownload",
     "assets/figures/journal_plate_239_1849.jpg",
     "assets/figures/Unconfirmed 278263.crdownload",
-    "entity/Journal des demoiselles (1836).md",
     "assets/figures/journal_plate_194_1839.jpg",
     "assets/figures/Unconfirmed 606295.crdownload",
     "assets/figures/journal_plate_6_1839.jpg",
     "assets/figures/Unconfirmed 622159.crdownload",
     "assets/figures/journal_plate_146_1836.jpg",
     "assets/figures/Unconfirmed 548428.crdownload",
-    "entity/Journal des demoiselles (1875).md",
     "assets/figures/journal_plate_40_1847.jpg",
-    "assets/figures/journal_plate_40_18.jpg",
-    "assets/figures/Unconfirmed 163550.crdownload",
-    "assets/figures/journal_plate_414_1875.jpg",
-    "assets/figures/Unconfirmed 207141.crdownload",
-    "entity/Journal des demoiselles (1876).md",
-    "assets/figures/journal_plate_390_1876.jpg",
-    "assets/figures/Unconfirmed 645775.crdownload",
-    "entity/Journal des demoiselles (1877).md",
-    "assets/figures/journal_plate_467_1877.jpg",
-    "assets/figures/Unconfirmed 731067.crdownload",
-    "entity/Journal des demoiselles.md",
-    "Journal des demoiselles (1866).md",
-    "Journal des demoiselles (1848).md",
-    "Élisa Adam-Boisgontier.md",
-    "Jules Pillevestre.md",
-    "chamber opera.md",
-    "operetta.md",
-    "entity/Journal des demoiselles (1837).md",
-    "entity/Harvard University.md",
-    "entity/Trésor des demoiselles (1857).md",
-    "Gerritsen Women's History Collection of Aletta H. Jacobs.md"
+    "assets/figures/journal_plate_40_18.jpg"
   ]
 }

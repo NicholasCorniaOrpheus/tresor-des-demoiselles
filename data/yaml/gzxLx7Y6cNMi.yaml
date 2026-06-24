@@ -13,6 +13,10 @@ statements:
     label: song
   has_part: null
   part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+    volume: 9
+    publication_date: 1852-01-01
+    label: Magasin des demoiselles
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
     publication_date: 1853-01-01
     label: Trésor des demoiselles
@@ -55,11 +59,24 @@ statements:
     label: French
 assets:
   local_asset_path: ./assets/OI-20143702p33
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p33/orp-talbo-lebouqu-20143702p33-fs-00001.jpg
   IIIF_manifest: null
   jpg:
   - orp-talbo-lebouqu-20143702p33-fs-00001.jpg
   - orp-talbo-lebouqu-20143702p33-fs-00002.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/gzxLx7Y6cNMi.json
 content:
-  markdown_content: ''
+  markdown_content: "### Lyrics\n\nPour composer un bouquet,\njeunes filles si gentilles,\n\
+    Pour composer un bouquet,\nPrenez un brin de muguet\nPuis choisissez une rose,\n\
+    Et sans vouloir autre chose\nDe votre élégante main,\nCueillez deux brins de jasmins\n\
+    \nC’est le plus joli bouquet,\nJeunes filles, si gentilles\nC’est le plus joli\
+    \ bouquet,\nPour orner votre corset,\nah ah ah ah\n\nRose veut dire beauté, \n\
+    Jeunes filles si gentilles,\nRose veut dire beauté,\nEt muguet simplicité;\nLes\
+    \ parfums dont on s’enivre,\nEt que le jasmin nous livre\nsont un emblème charmant\n\
+    des vertus et du talent\n\nC’est le plus joli bouquet,\nJeunes filles, si gentilles\n\
+    C’est le plus joli bouquet,\nPour orner votre corset,\nah ah ah ah\n\nTalent,\
+    \ vertus et beauté, \njeunes filles si gentilles,\nTalent, vertus et beauté\n\
+    veulent la simplicité\nOui, ces fleurs que l’on admire,\nQu’avec bonheur on respire,\n\
+    Jeunes filles ornez vous\nde leurs parfums les plus doux\n\nC’est là le plus beau\
+    \ bouquet,\nJeunes filles si gentilles,\nc’est là le plus beau bouquet,\nDon charmant\
+    \ que Dieu vous fait!\nah! ah! ah! ah!"

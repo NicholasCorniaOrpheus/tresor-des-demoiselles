@@ -1,0 +1,34 @@
+metadata:
+  class: Agent
+  label: null
+  aliases:
+  - Agathe-Anaïs-Juliette Godillon
+  description: null
+  base_name: Juliette Dillon
+  filename: Juliette Dillon.md
+  id: KFESriHnhBta
+  n_id: 355595718550337165999
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
+  date_of_birth: null
+  described_by_source: null
+  date_of_death: null
+  place_of_birth: null
+  place_of_death: null
+  sex_or_gender: null
+  identifier: null
+  occupation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+    label: composer
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
+    label: editor
+  - '[[music critic]]'
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/8/89/Juliette_Dillon_d%C3%A9tail.jpg
+  IIIF_manifest: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/KFESriHnhBta.json
+content:
+  markdown_content: Writer of the editorial column _Éducation musicale_ in collaboration
+    with https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV.

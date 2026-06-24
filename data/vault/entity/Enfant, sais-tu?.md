@@ -33,4 +33,5 @@ about:
 language:
   - "[[French]]"
 based_on:
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p38/orp-ikelm-enfant,-20143702p38-fs-00001.jpg
 ---

@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p22){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p22/orp-burgm-fantais-20143702p22-ps-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Fantaisie sur le Carillonneur
@@ -71,6 +71,9 @@
     - [fantasia](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dkFoW9KcT58b)
 
 ???+ abstract "part of"
+    - [Magasin des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB)
+        * volume: 9
+        * publication date: 1852-01-01
     - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
 
 ???+ abstract "contributor"
@@ -78,6 +81,17 @@
         * role: [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)
 
 ???+ abstract "has version"
+    - 
+        * permalink: [c:lvd:6722999](https://anet.be/record/opacdkvc/c:lvd:6722999)
+        * holding institution: [Royal Conservatory of Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs)
+        * place of publication: [Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2)
+        * publisher: [[Pascal Nacher]]
+    - 
+        * permalink: [cb42884316z](http://ark.bnf.fr/ark:/12148/cb42884316z)
+        * holding institution: [Bibliothèque nationale de France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB)
+        * note: Piano four-hands version. Second edition.
+        * publication date: 1862-01-01
+        * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
     - 
         * permalink: [22186](https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186)
         * holding institution: [Orpheus Instituut](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT)

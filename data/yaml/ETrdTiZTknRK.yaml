@@ -13,6 +13,10 @@ statements:
     label: song
   has_part: null
   part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+    volume: 9
+    publication_date: 1852-01-01
+    label: Magasin des demoiselles
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
     publication_date: 1853-01-01
     label: Trésor des demoiselles
@@ -56,11 +60,26 @@ statements:
     label: French
 assets:
   local_asset_path: ./assets/OI-20143702p34
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p34/orp-delis-lelivre-20143702p34-fs-00001.jpg
   IIIF_manifest: null
   jpg:
   - orp-delis-lelivre-20143702p34-fs-00001.jpg
   - orp-delis-lelivre-20143702p34-fs-00002.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ETrdTiZTknRK.json
 content:
-  markdown_content: ''
+  markdown_content: "### Lyrics\n\nLivre saint!... le premier qu’épelle à son aurore\n\
+    L’enfant au doux regard.\nLivre grand!... le dernier que relit et qu’implore\n\
+    L’oeil mourant du vieillard.\nToi seul as des accents plus purs que l’harmonie\n\
+    Du langage mortel\nEt toi seul fais parler comme son bon génie\nLa terre avec\
+    \ le ciel.\n\nLivre plein de mystères, \nDe calme et de bonheur\nLe livre de prières\n\
+    C’est le livre du coeur.\n\n Livre saint!... qu’aux soupirs de la brise et de\
+    \ l’onde.\nOn trouve encore plus doux\nLivre grand! qu’aux éclairs de la foudre\
+    \ qui grond \nOn ne lit qu’à genoux\nToi seul loin du pays, toi seul loin d’une\
+    \ mère\nNous parles de retour\nEt seul tu nous fais croire en ce monde éphémère\n\
+    A l’éternel séjour.\n\nLivre plein de mystères, \nDe calme et de bonheur\nLe livre\
+    \ de prières\nC’est le livre du coeur.\n\nLivre saint!... tes desirs ont la douceur\
+    \ des rèves\nEt le parfum des fleurs\nLivre grand tes regrets ont le calme des\
+    \ grèves\nEt le charme des pleurs\nToi seul près du berceau que notre amour surveille\n\
+    Tu nous parles d’espoir\nEt seul près de la tombe où notre ami sommeille\nTu nous\
+    \ dis au revoir.\n\nLivre plein de mystères, \nDe calme et de bonheur\nLe livre\
+    \ de prières\nC’est le livre du coeur."

@@ -71,11 +71,21 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p40
   IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p40/orp-rauis-lepinso-20143702p40-fs-00001.jpg
   jpg:
   - orp-rauis-lepinso-20143702p40-fs-00001.jpg
   - orp-rauis-lepinso-20143702p40-fs-00002.jpg
   - orp-rauis-lepinso-20143702p40-fs-00003.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/G2DfGMPf6jS5.json
 content:
-  markdown_content: ''
+  markdown_content: "### Lyrics \n\nTu vivais dans les bois\nta charmante patrie,\n\
+    la ramure fleurie\naimait ta jeune voix;\ntu déployais ton aile\ndans un air embaumé\n\
+    et revenais fidèle\nau nid accoutumé\nune telle existence\nc’était trop de bonheur\n\
+    car tu fus sans défense\nsurpris par l'oiseleur.\n\nAdieu l’air parfumé,\nles\
+    \ champs pleins de lumière,\nla fraicheur printanière \ndu bosquet embaumé;\n\
+    plus de fleurs et plus d’ombre,\nplus de soleil plus d’air,\nune prison bien sombre\n\
+    au grillage de fer,\nle mortel esclavage\naprès la liberté,\nl’espace d’une cage\n\
+    après l’immensité.\n\nSi tu luttais parfois\nta colère touchante,\nse brisait\
+    \ impuissante,\ncontre un morceau de bois.\nalors douce victime,\nDieu dut s'en-irriter,\
+    \ \nl’homme commit un crime\npour te faire chanter!\nil brula ta paupière\npauvre\
+    \ petit Pinson,\net depuis pour lui plaire\ntu lui dis ta chanson."

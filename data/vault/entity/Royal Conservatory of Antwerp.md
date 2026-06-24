@@ -3,7 +3,9 @@ class: Organisation
 label: Royal Conservatory of Antwerp
 aliases:
 description:
-instance_of: "[[Royal Conservatory of Antwerp]]"
+instance_of:
+  - "[[conservatory]]"
+  - "[[public library]]"
 described_by_source:
 inception:
   - value: 1898-01-01

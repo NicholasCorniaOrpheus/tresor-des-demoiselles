@@ -1,0 +1,48 @@
+metadata:
+  class: Manifestation
+  label: Pavane. Musique de Mlle H. Wild
+  aliases: null
+  description: null
+  base_name: Pavane. Musique de Mlle H. Wild
+  filename: Pavane. Musique de Mlle H. Wild.md
+  id: HcCqx9kcHttd
+  n_id: 321916489285287101801
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
+    label: classical dance music
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    label: Journal des demoiselles
+  contributor:
+  - value: '[[Hortense Wild]]'
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  has_version:
+  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89102
+    holding_institution: '[[Royal Conservatory of Brussels]]'
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    external_source: null
+  title:
+  - Pavane. Musique de Mlle H. Wild
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about:
+  - '[[medievalism]]'
+  - '[[early music]]'
+  language: null
+  based_on: null
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/HcCqx9kcHttd.json
+content:
+  markdown_content: ''

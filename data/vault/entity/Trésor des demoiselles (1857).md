@@ -29,4 +29,5 @@ about:
 based_on:
   - value: "[[Journal des demoiselles]]"
     note: Reprint of vol. 25 of 1857 probably using the same printing plates of the original Parisian edition.
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20144531/20144531_177.jpg
 ---

@@ -13,6 +13,10 @@ statements:
     label: fantasia
   has_part: null
   part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+    volume: 9
+    publication_date: 1852-01-01
+    label: Magasin des demoiselles
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
     label: Trésor des demoiselles
   contributor:
@@ -22,6 +26,23 @@ statements:
       label: composer
     label: Friedrich Burgmüller
   has_version:
+  - permalink: https://anet.be/record/opacdkvc/c:lvd:6722999
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+      label: Royal Conservatory of Antwerp
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+    publisher: '[[Pascal Nacher]]'
+  - permalink: http://ark.bnf.fr/ark:/12148/cb42884316z
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB
+      label: Bibliothèque nationale de France
+    note: Piano four-hands version. Second edition.
+    publication_date: 1862-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
   - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
     holding_institution:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
@@ -46,13 +67,13 @@ statements:
   language: null
 assets:
   local_asset_path: ./assets/OI-20143702p22
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p22/orp-burgm-fantais-20143702p22-ps-00001.jpg
   IIIF_manifest: null
   jpg:
   - orp-burgm-fantais-20143702p22-ps-00001.jpg
   - orp-burgm-fantais-20143702p22-ps-00002.jpg
   - orp-burgm-fantais-20143702p22-ps-00003.jpg
   - orp-burgm-fantais-20143702p22-ps-00004.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/2Qk3wiPP6j39.json
 content:
   markdown_content: ''

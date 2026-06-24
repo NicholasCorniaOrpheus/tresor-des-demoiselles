@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  description: null
+  aliases:
+  - ondine
+  label: undine
+  base_name: undine
+  filename: undine.md
+  id: CvRtXZCnhvKH
+  n_id: 225336445010721734628
+statements:
+  instance_of:
+  - '[[mythical character]]'
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q192032
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/CvRtXZCnhvKH.json
+content:
+  markdown_content: ''

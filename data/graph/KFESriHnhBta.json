@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "label": "Juliette Dillon",
+      "class": "Agent",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Juliette_Dillon_d%C3%A9tail.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "label": "composer",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+      "label": "editor",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "label": "human",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV.",
+      "label": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV.",
+      "class": "External",
+      "image": NaN
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+      "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
+      "property": "occupation"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/56siTBrXNeNV.",
+      "property": ""
+    }
+  ]
+}

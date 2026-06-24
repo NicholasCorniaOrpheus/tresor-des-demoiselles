@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p33){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p33/orp-talbo-lebouqu-20143702p33-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Le Bouquet
@@ -71,6 +71,9 @@
     - [song](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU)
 
 ???+ abstract "part of"
+    - [Magasin des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB)
+        * volume: 9
+        * publication date: 1852-01-01
     - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
         * publication date: 1853-01-01
 
@@ -100,6 +103,54 @@
     - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
 
 
+
+## Notes
+### Lyrics
+
+Pour composer un bouquet,
+jeunes filles si gentilles,
+Pour composer un bouquet,
+Prenez un brin de muguet
+Puis choisissez une rose,
+Et sans vouloir autre chose
+De votre élégante main,
+Cueillez deux brins de jasmins
+
+C’est le plus joli bouquet,
+Jeunes filles, si gentilles
+C’est le plus joli bouquet,
+Pour orner votre corset,
+ah ah ah ah
+
+Rose veut dire beauté, 
+Jeunes filles si gentilles,
+Rose veut dire beauté,
+Et muguet simplicité;
+Les parfums dont on s’enivre,
+Et que le jasmin nous livre
+sont un emblème charmant
+des vertus et du talent
+
+C’est le plus joli bouquet,
+Jeunes filles, si gentilles
+C’est le plus joli bouquet,
+Pour orner votre corset,
+ah ah ah ah
+
+Talent, vertus et beauté, 
+jeunes filles si gentilles,
+Talent, vertus et beauté
+veulent la simplicité
+Oui, ces fleurs que l’on admire,
+Qu’avec bonheur on respire,
+Jeunes filles ornez vous
+de leurs parfums les plus doux
+
+C’est là le plus beau bouquet,
+Jeunes filles si gentilles,
+c’est là le plus beau bouquet,
+Don charmant que Dieu vous fait!
+ah! ah! ah! ah!
 
 
 

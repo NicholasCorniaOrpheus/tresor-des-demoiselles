@@ -1,0 +1,47 @@
+metadata:
+  class: Manifestation
+  label: Cracoviana. pour le piano
+  aliases: null
+  description: null
+  base_name: Cracoviana. pour le piano
+  filename: Cracoviana. pour le piano.md
+  id: T3eDQEfcZJYp
+  n_id: 516489452450578501237
+statements:
+  instance_of: null
+  has_part: null
+  part_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+    publication_date: 1889-01-01
+    volume: 51
+    label: Journal des demoiselles
+  contributor:
+  - value: '[[Octave Fouque]]'
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  has_version:
+  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88113
+    holding_institution: '[[Royal Conservatory of Brussels]]'
+    publication_date: 1889-01-01
+    place_of_publication:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      label: Paris
+    external_source: null
+  title:
+  - 'Cracoviana: pour le piano'
+  instrumentation:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+    quantity: 1
+    label: piano
+  depicts: null
+  about: null
+  language: null
+  based_on: null
+assets:
+  local_asset_path: null
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/T3eDQEfcZJYp.json
+content:
+  markdown_content: ''

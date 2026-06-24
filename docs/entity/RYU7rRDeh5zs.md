@@ -67,7 +67,8 @@
 </script>
 ## Statements
 ???+ abstract "instance of"
-    - [Royal Conservatory of Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs)
+    - [[conservatory]]
+    - [public library](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J)
 
 ???+ abstract "inception"
     - 1898-01-01

@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p29){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p29/orp-dufau-fauvett-20143702p29-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Fauvette
@@ -71,6 +71,9 @@
     - [song](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU)
 
 ???+ abstract "part of"
+    - [Magasin des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB)
+        * volume: 8
+        * publication date: 1852-01-01
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
         * volume: 23
         * publication date: 1856-01-01

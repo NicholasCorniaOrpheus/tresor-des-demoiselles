@@ -7,7 +7,7 @@
 [:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p32){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p32/orp-ettli-songede-20143702p32-ps-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Songe de Bonheur
@@ -71,6 +71,9 @@
     - [waltz](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC)
 
 ???+ abstract "part of"
+    - [Magasin des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB)
+        * volume: 9
+        * publication date: 1852-01-01
     - [Trésor des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN)
         * publication date: 1853-06-01
 
@@ -79,6 +82,19 @@
         * role: [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)
 
 ???+ abstract "has version"
+    - 
+        * permalink: [cb42940871v](http://ark.bnf.fr/ark:/12148/cb42940871v)
+        * holding institution: [Bibliothèque nationale de France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB)
+        * publication date: 1861-01-01
+        * publisher: [[Édouard Gérard]]
+        * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
+    - 
+        * permalink: [Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile)](https://imslp.org/wiki/Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile))
+        * holding institution: [[International Music Score Library Project]]
+        * publication date: 1853-01-01
+        * note: Part of Magasin des demoiselles, vol. 9
+        * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
+        * external source: [IMSLP479520-PMLP777286-Ettling_-_Op59_Songe_de_bonheur_-_pf-BDH.pdf](https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP479520-PMLP777286-Ettling_-_Op59_Songe_de_bonheur_-_pf-BDH.pdf)
     - 
         * holding institution: [Orpheus Instituut](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT)
         * permalink: [22186](https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186)

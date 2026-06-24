@@ -43,6 +43,7 @@ statements:
 assets:
   IIIF_manifest: null
   local_asset_path: ./assets/OI-20144506
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20144506/20144506_247.jpg
   jpg:
   - 20144506_001.jpg
   - 20144506_002.jpg
@@ -468,7 +469,6 @@ assets:
   - 20144506_422.jpg
   - 20144506_423.jpg
   - 20144506_424.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ASrkWEECtVfe.json
 content:
   markdown_content: ''

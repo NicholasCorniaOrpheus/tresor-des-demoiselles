@@ -3,7 +3,7 @@ class: Manifestation
 label: Les Fauvettes
 aliases:
 description:
-local_asset_path: ./assets/ORP-20143702p18
+local_asset_path: ./assets/OI-20143702p18
 instance_of:
   - "[[duet]]"
 has_part:
@@ -17,6 +17,16 @@ contributor:
   - value: "[[Édouard Plouvier]]"
     role: "[[lyricist]]"
 has_version:
+  - permalink: https://anet.be/record/opacdkvc/c:lvd:14382572
+    holding_institution: "[[Royal Conservatory of Antwerp]]"
+    publisher: "[[Joseph Meynne]]"
+    place_of_publication: ["[[Brussels]]"]
+    note: Part of the periodical Le mélodie, vol. 29
+  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=181935
+    holding_institution: "[[Royal Conservatory of Brussels]]"
+    publication_date: 1852-01-01
+    place_of_publication: ["[[Ghent]]"]
+    publisher: "[[Gustave Jacqmain]]"
   - permalink: https://anet.be/record/opacap/c:lvd:14382572
     holding_institution: "[[Royal Conservatory of Antwerp]]"
     place_of_publication: "[[Brussels]]"
@@ -43,4 +53,5 @@ based_on:
 about:
 language:
   - "[[French]]"
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p18/20143702p18_001.jpg
 ---

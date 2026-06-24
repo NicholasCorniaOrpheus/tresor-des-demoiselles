@@ -51,12 +51,22 @@ statements:
     label: French
 assets:
   local_asset_path: ./assets/OI-20143702p36
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p36/orp-henri-dieulev-20143702p36-fs-00001.jpg
   IIIF_manifest: null
   jpg:
   - orp-henri-dieulev-20143702p36-fs-00001.jpg
   - orp-henri-dieulev-20143702p36-fs-00002.jpg
   - orp-henri-dieulev-20143702p36-fs-00003.jpg
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/gRR8aAYdEX54.json
 content:
-  markdown_content: ''
+  markdown_content: "### Lyrics\n\nLe petit nid d’oiseau \nplus faible qu’un roseau\n\
+    tremble et penche sur la branche!\nà le voir suspendu \nsur la cime de l’abime\n\
+    on le croirait perdu! perdu!\n\npour lui; ne craignez rien!\npour lui; ne craignez\
+    \ rien\ncar, si petit qu’il soit \nDieu le voit!\n\nLe petit rosier nain\ncaché\
+    \ dans le ravin,\nmince et grèle il chancelle!\nun rien peut le flétrir!\nle passage\
+    \ d’un orage\ndoit le fair mourir mourir?\n\npour lui; ne craignez rien!\npour\
+    \ lui; ne craignez rien\ncar, si petit qu’il soit \nDieu le voit!\n\nLe petit\
+    \ ange blond\ndans son lit tout mignon,\ns’il s’agite vite vite\nsa mère est dans\
+    \ l’effroi\nque d’alarmes, que de larmes!\njeune mère pourquoi? pourquoi?\n\n\
+    pour lui; ne craignez rien!\npour lui; ne craignez rien\ncar, si petit qu’il soit\
+    \ \nDieu le voit!"
