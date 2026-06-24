@@ -25,7 +25,7 @@ statements:
   contributor: null
   official_website: null
 assets:
-  image: ''
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
   IIIF_manifest: null
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/6iccGpXVqGeL.json
 content:

@@ -54,7 +54,7 @@ statements:
 assets:
   local_asset_path: null
   IIIF_manifest: null
-  image: ''
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/FqEYDTDQHpZZ.json
 content:
   markdown_content: Excerpt from the first act of the [Ferdinand Hérold](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf)'s

@@ -21,7 +21,7 @@ statements:
   - http://www.wikidata.org/entity/Q126896682
   occupation: null
 assets:
-  image: ''
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
   IIIF_manifest: null
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Ewn4kBPzhWzy.json
 content:
