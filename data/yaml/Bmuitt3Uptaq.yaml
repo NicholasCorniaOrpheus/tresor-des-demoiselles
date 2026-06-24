@@ -17,7 +17,7 @@ statements:
   - http://www.wikidata.org/entity/Q36180
 assets:
   IIIF_manifest: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  image: ''
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Bmuitt3Uptaq.json
 content:
   markdown_content: ''

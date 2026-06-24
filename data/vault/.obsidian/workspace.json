@@ -21,8 +21,33 @@
               "icon": "lucide-table",
               "title": "manifestation_list"
             }
+          },
+          {
+            "id": "5ab174b3152d721b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entity/Juliette Dillon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Juliette Dillon"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Lasse",
+                "query": "file: Dillon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +100,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,8 +209,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a021b60216f25b74",
+  "active": "5ab174b3152d721b",
   "lastOpenFiles": [
+    "entity/Marie Lasseveur.md",
+    "entity/Juliette Dillon.md",
+    "manifestation_list.base",
     "entities.base",
     "entity/Alexandre Scola.md",
     "entity/city.md",
@@ -197,9 +226,7 @@
     "entity/Louis Bordèse.md",
     "entity/International Music Score Library Project.md",
     "entity/Gerritsen Women's History Collection of Aletta H. Jacobs.md",
-    "manifestation_list.base",
     "entity/Journal des demoiselles (1853).md",
-    "entity/Marie Lasseveur.md",
     "entity/Le Livre du coeur.md",
     "entity/Journal des demoiselles (1848).md",
     "entity/Journal des demoiselles (1851).md",

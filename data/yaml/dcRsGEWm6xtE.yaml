@@ -16,10 +16,11 @@ statements:
   identifier:
   - http://www.wikidata.org/entity/Q1296
   instance_of:
-  - '[[city]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Kd5wMW8fYWBe
+    label: city
 assets:
   IIIF_manifest: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+  image: ''
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/dcRsGEWm6xtE.json
 content:
   markdown_content: ''

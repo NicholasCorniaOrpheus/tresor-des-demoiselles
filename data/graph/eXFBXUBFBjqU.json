@@ -4,16 +4,27 @@
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXFBXUBFBjqU",
       "label": "Germany",
       "class": "Place",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+      "image": ""
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq",
+      "label": "country",
+      "class": "Concept",
+      "image": ""
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
       "label": "Munich Digitization Center",
       "class": "Organisation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+      "image": ""
     }
   ],
   "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXFBXUBFBjqU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq",
+      "property": "instance_of"
+    },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXFBXUBFBjqU",

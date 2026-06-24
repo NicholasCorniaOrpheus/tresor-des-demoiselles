@@ -6,7 +6,7 @@
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/eXFBXUBFBjqU.csv){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Place
     - label: Germany
@@ -70,7 +70,7 @@
     - [Q183](http://www.wikidata.org/entity/Q183)
 
 ???+ abstract "instance of"
-    - [[country]]
+    - [country](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq)
 
 
 

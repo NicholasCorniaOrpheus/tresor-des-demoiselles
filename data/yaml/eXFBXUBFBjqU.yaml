@@ -12,10 +12,11 @@ statements:
   - http://www.wikidata.org/entity/Q183
   country: null
   instance_of:
-  - '[[country]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
+    label: country
 assets:
   IIIF_manifest: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+  image: ''
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/eXFBXUBFBjqU.json
 content:
   markdown_content: ''

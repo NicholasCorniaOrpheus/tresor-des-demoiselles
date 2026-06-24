@@ -63,11 +63,11 @@ statements:
 assets:
   local_asset_path: null
   IIIF_manifest: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  image: ''
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/SUrWQhaKnmHL.json
 content:
-  markdown_content: '- Instrumental https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FJbVhQcQoVGQ
+  markdown_content: '- Instrumental [piano](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8)
+    [overture](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FJbVhQcQoVGQ)
 
     1. **Introduction Choeur**
 

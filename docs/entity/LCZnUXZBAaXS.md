@@ -6,7 +6,7 @@
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/LCZnUXZBAaXS.csv){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Place
     - label: France
@@ -71,7 +71,7 @@
     - [Q142](http://wikidata.org/entity/Q142)
 
 ???+ abstract "instance of"
-    - [[country]]
+    - [country](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq)
 
 
 

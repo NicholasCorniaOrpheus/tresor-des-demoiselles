@@ -39,7 +39,7 @@ statements:
 assets:
   local_asset_path: null
   IIIF_manifest: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  image: ''
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/m7PhAFWpDJeW.json
 content:
   markdown_content: ''
