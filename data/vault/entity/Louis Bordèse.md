@@ -1,7 +1,8 @@
 ---
 class: Agent
-label:
+label: Louis Bordèse
 aliases:
+  - Louis Bordese
 description:
 instance_of:
   - "[[human]]"

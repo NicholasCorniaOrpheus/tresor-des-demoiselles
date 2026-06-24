@@ -5,6 +5,7 @@ aliases:
   - François Masini
 description:
 instance_of:
+  - "[[human]]"
 occupation:
   - value: "[[composer]]"
 date_of_birth:

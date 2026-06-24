@@ -2,7 +2,7 @@ metadata:
   class: Concept
   description: null
   aliases: null
-  label: null
+  label: language
   base_name: language
   filename: language.md
   id: dqFtJQZDwkjb

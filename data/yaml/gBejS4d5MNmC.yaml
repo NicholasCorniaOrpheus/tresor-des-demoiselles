@@ -8,7 +8,9 @@ metadata:
   id: gBejS4d5MNmC
   n_id: 787655764151801091904
 statements:
-  instance_of: null
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
   date_of_birth: null
   described_by_source:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2

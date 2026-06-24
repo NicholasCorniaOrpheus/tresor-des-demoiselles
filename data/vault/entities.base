@@ -1,0 +1,45 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "entity"
+    order:
+      - file.name
+      - label
+      - identifier
+      - instance_of
+    sort: []
+  - type: table
+    name: manifestations
+    filters:
+      and:
+        - class == "Manifestation"
+    order:
+      - file.name
+  - type: table
+    name: agents
+    filters:
+      and:
+        - class == "Agent"
+  - type: table
+    name: organisations
+    filters:
+      and:
+        - class == "Organisation"
+  - type: table
+    name: works
+    filters:
+      and:
+        - class == "Work"
+  - type: table
+    name: concepts
+    filters:
+      and:
+        - class == "Concept"
+  - type: table
+    name: digital_manifestations
+    filters:
+      and:
+        - class == "Manifestation"
+        - "!image.isEmpty()"

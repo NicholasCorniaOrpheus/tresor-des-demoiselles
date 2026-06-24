@@ -16,8 +16,11 @@ statements:
     volume: 45
     label: Journal des demoiselles
   contributor:
-  - value: '[[Achille de Lauzières]]'
-    role: '[[librettist]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A
+    role:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz
+      label: librettist
+    label: Achille de Lauzières
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VcpJBubpN5Jf
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
@@ -25,14 +28,18 @@ statements:
     label: Louis Bordèse
   has_version:
   - permalink: https://imslp.org/wiki/Un_concert_chez_les_demoiselles_de_Saint-Cyr_(Bord%C3%A8se%2C_Luigi)
-    holding_institution: '[[International Music Score Library Project]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gAK3b5Jh5UVf
+      label: International Music Score Library Project
     publication_date: 1877-01-01
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
       label: Paris
     external_source: https://ks15.imslp.org/files/imglnks/usimg/5/5a/IMSLP250564-SIBLEY1802.24274.9db4-39087011142348concert.pdf
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88151
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     publication_date: 1877-01-01
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
@@ -60,7 +67,7 @@ assets:
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/SUrWQhaKnmHL.json
 content:
   markdown_content: '- Instrumental https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    [[overture]]
+    https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FJbVhQcQoVGQ
 
     1. **Introduction Choeur**
 

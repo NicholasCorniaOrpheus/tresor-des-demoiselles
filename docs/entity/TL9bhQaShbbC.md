@@ -1,4 +1,4 @@
-# None (TL9bhQaShbbC)
+# Canada (TL9bhQaShbbC)
 
 
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/TL9bhQaShbbC.json){ .md-button }
@@ -9,6 +9,7 @@
 <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Place
+    - label: Canada
     - id: TL9bhQaShbbC
     <div style="clear:both;"></div>
 
@@ -67,6 +68,9 @@
 ## Statements
 ???+ abstract "identifier"
     - [Q16](http://www.wikidata.org/entity/Q16)
+
+???+ abstract "instance of"
+    - [[country]]
 
 
 

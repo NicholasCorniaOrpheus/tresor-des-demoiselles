@@ -5,4 +5,6 @@ label: Brussels
 aliases:
 description:
 country:
+instance_of:
+  - "[[city]]"
 ---

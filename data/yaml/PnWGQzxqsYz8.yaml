@@ -16,13 +16,16 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
     label: Journal des demoiselles
   contributor:
-  - value: '[[Alexandre Fessy]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gSpQjJMRbo9y
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Alexandre Fessy
   has_version:
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88621
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
       label: Brussels
@@ -39,7 +42,8 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
     label: French
   based_on:
-  - value: '[[Le val d''Andorre]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox
+    label: Le val d'Andorre
 assets:
   local_asset_path: null
   IIIF_manifest: null

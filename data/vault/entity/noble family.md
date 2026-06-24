@@ -5,7 +5,7 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: noble family
 identifier:
   - http://www.wikidata.org/entity/Q13417114
 ---

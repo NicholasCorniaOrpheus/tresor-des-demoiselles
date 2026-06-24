@@ -73,6 +73,9 @@
 ???+ abstract "country"
     - [France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS)
 
+???+ abstract "instance of"
+    - [[city]]
+
 
 
 

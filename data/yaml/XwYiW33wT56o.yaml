@@ -38,10 +38,14 @@ statements:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
       label: Brussels
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=183654
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     note: Part of Le Mélomane, journal de chant No. 54, vol. 3
     publication_date: 1852-01-01
-    publisher: '[[Gustave Jacqmain]]'
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LJtUagnxHJ9B
+      label: Gustave Jacqmain
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE
       label: Ghent
@@ -53,7 +57,9 @@ statements:
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
       label: Paris
-    publisher: '[[Joseph Meissonnier]]'
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8HSKpjkZAxrE
+      label: Joseph Meissonnier
   - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
     holding_institution:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT

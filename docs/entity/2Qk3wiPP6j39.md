@@ -85,7 +85,7 @@
         * permalink: [c:lvd:6722999](https://anet.be/record/opacdkvc/c:lvd:6722999)
         * holding institution: [Royal Conservatory of Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs)
         * place of publication: [Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2)
-        * publisher: [[Pascal Nacher]]
+        * publisher: [Pascal Nacher](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWSTBQTKP4Bb)
     - 
         * permalink: [cb42884316z](http://ark.bnf.fr/ark:/12148/cb42884316z)
         * holding institution: [Bibliothèque nationale de France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB)

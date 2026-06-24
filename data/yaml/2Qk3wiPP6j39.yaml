@@ -33,7 +33,9 @@ statements:
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
       label: Brussels
-    publisher: '[[Pascal Nacher]]'
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YWSTBQTKP4Bb
+      label: Pascal Nacher
   - permalink: http://ark.bnf.fr/ark:/12148/cb42884316z
     holding_institution:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB

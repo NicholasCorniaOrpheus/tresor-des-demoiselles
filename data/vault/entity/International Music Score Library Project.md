@@ -1,7 +1,8 @@
 ---
 class: Organisation
-label:
+label: International Music Score Library Project
 aliases:
+  - IMSLP
 description:
 instance_of:
   - "[[digital library]]"

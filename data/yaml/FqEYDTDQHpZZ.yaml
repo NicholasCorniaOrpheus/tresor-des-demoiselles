@@ -9,7 +9,8 @@ metadata:
   n_id: 285361847974345653070
 statements:
   instance_of:
-  - '[[aria]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL
+    label: aria
   has_part: null
   part_of:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
@@ -17,13 +18,16 @@ statements:
     volume: 50
     label: Journal des demoiselles
   contributor:
-  - value: '[[Hortense Wild]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Hortense Wild
   has_version:
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=157420
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     publication_date: 1882-01-01
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
@@ -45,12 +49,13 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
     label: French
   based_on:
-  - value: '[[La gioventù di Enrico Quinto]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM
+    label: La gioventù di Enrico Quinto
 assets:
   local_asset_path: null
   IIIF_manifest: null
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/FqEYDTDQHpZZ.json
 content:
-  markdown_content: Excerpt from the first act of the [[Ferdinand Hérold]]'s opera
-    inspired by the Shakespearean play [Henry V](https://www.wikidata.org/wiki/Q495954).
+  markdown_content: Excerpt from the first act of the https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf's
+    opera inspired by the Shakespearean play [Henry V](https://www.wikidata.org/wiki/Q495954).

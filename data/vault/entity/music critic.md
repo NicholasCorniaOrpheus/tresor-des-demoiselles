@@ -6,7 +6,7 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: music critic
 identifier:
   - http://www.wikidata.org/entity/Q1350157
 ---

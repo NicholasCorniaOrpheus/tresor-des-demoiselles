@@ -5,6 +5,7 @@ aliases:
 description:
 local_asset_path:
 instance_of:
+  - "[[programme music]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"

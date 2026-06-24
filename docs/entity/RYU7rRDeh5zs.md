@@ -67,7 +67,7 @@
 </script>
 ## Statements
 ???+ abstract "instance of"
-    - [[conservatory]]
+    - [conservatory](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC)
     - [public library](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J)
 
 ???+ abstract "inception"

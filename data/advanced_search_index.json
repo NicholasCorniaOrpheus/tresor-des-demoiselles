@@ -3,7 +3,6 @@
         "location": "/entity/7TU8upyA98qe",
         "properties": {
             "label": [
-                "La Prière. Dédiée à S.M. la reine des français",
                 "La Prière. Dédiée à S.M. la reine des français"
             ],
             "class": [
@@ -95,6 +94,9 @@
             ],
             "description": [
                 null
+            ],
+            "instance of": [
+                "[[city]]"
             ],
             "place": [
                 null
@@ -251,7 +253,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
+                    "label": "periodical"
+                }
             ],
             "date": [
                 {
@@ -353,6 +358,9 @@
             "description": [
                 null
             ],
+            "instance of": [
+                "[[city]]"
+            ],
             "place": [
                 {
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
@@ -421,8 +429,8 @@
         "location": "/entity/FiFAWv3HUTn6",
         "properties": {
             "label": [
-                "Le Mariage chinois",
-                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay."
+                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay.",
+                "Le Mariage chinois"
             ],
             "class": [
                 "Manifestation"
@@ -501,7 +509,6 @@
         "location": "/entity/WPYDAMp8mTS3",
         "properties": {
             "label": [
-                "Chansonette de l'opéra Le caïd",
                 "Chansonette de l'opéra Le caïd"
             ],
             "class": [
@@ -675,7 +682,7 @@
         "location": "/entity/kc8mMg6XAXbn",
         "properties": {
             "label": [
-                null
+                "piano four hands"
             ],
             "class": [
                 "Concept"
@@ -813,7 +820,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd",
+                    "label": "programme music"
+                }
             ],
             "part of": [
                 {
@@ -825,11 +835,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Octave Fouque]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Octave Fouque"
                 }
             ],
             "instrumentation": [
@@ -869,7 +880,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 null
@@ -939,7 +953,10 @@
                 null
             ],
             "instance of": [
-                "[[mythical character]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i35bPNVVTFXP",
+                    "label": "mythical character"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
@@ -1029,8 +1046,8 @@
         "location": "/entity/TQGEMMv5q4tY",
         "properties": {
             "label": [
-                "Chanson russe",
-                "Chanson russe: Romance sans paroles."
+                "Chanson russe: Romance sans paroles.",
+                "Chanson russe"
             ],
             "class": [
                 "Manifestation"
@@ -1090,7 +1107,6 @@
         "location": "/entity/bGHNgXsPckvg",
         "properties": {
             "label": [
-                "Les Fauvettes",
                 "Les Fauvettes"
             ],
             "class": [
@@ -1170,7 +1186,7 @@
         "location": "/entity/fPQHFdTsWu9q",
         "properties": {
             "label": [
-                null
+                "La mélodie"
             ],
             "class": [
                 "Organisation"
@@ -1229,7 +1245,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+                    "label": "dramatico-musical work"
+                }
             ],
             "contributor": [
                 {
@@ -1323,8 +1342,8 @@
         "location": "/entity/ASrkWEECtVfe",
         "properties": {
             "label": [
-                "Trésor des demoiselles (1859)",
-                "Trésor des demoiselles. Vingt-septième Année."
+                "Trésor des demoiselles. Vingt-septième Année.",
+                "Trésor des demoiselles (1859)"
             ],
             "class": [
                 "Manifestation"
@@ -1402,6 +1421,9 @@
             "description": [
                 null
             ],
+            "instance of": [
+                "[[country]]"
+            ],
             "place": [
                 null
             ],
@@ -1411,10 +1433,32 @@
         }
     },
     {
+        "location": "/entity/Kd5wMW8fYWBe",
+        "properties": {
+            "label": [
+                "city"
+            ],
+            "class": [
+                "Concept"
+            ],
+            "aliases": [
+                null
+            ],
+            "description": [
+                null
+            ],
+            "instance of": [
+                null
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/XwYiW33wT56o",
         "properties": {
             "label": [
-                "L'emploi de ma journée",
                 "L'emploi de ma journée"
             ],
             "class": [
@@ -1544,7 +1588,10 @@
                 null
             ],
             "instance of": [
-                "[[aria]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL",
+                    "label": "aria"
+                }
             ],
             "part of": [
                 {
@@ -1556,11 +1603,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Hortense Wild]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Hortense Wild"
                 }
             ],
             "instrumentation": [
@@ -1583,7 +1631,8 @@
             ],
             "based_on": [
                 {
-                    "value": "[[La gioventù di Enrico Quinto]]"
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
+                    "label": "La gioventù di Enrico Quinto"
                 }
             ],
             "about": [
@@ -1598,7 +1647,7 @@
         "location": "/entity/aph6QHtmL78s",
         "properties": {
             "label": [
-                null
+                "romance"
             ],
             "class": [
                 "Concept"
@@ -1652,7 +1701,10 @@
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                     "label": "composer"
                 },
-                "[[writer]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bmuitt3Uptaq",
+                    "label": "writer"
+                }
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/6/60/Jean-Baptiste_Weckerlin_par_Truchelut.png"
@@ -1742,8 +1794,8 @@
         "location": "/entity/fn9jfuL3Esgu",
         "properties": {
             "label": [
-                "Journal des demoiselles (1836)",
-                null
+                null,
+                "Journal des demoiselles (1836)"
             ],
             "class": [
                 "Manifestation"
@@ -1795,7 +1847,7 @@
         "location": "/entity/EKZ4UEKdoJmP",
         "properties": {
             "label": [
-                null
+                "physician"
             ],
             "class": [
                 "Concept"
@@ -1866,11 +1918,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Ferdinand Hérold]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Ferdinand Hérold"
                 }
             ],
             "based_on": [
@@ -1891,7 +1944,6 @@
         "location": "/entity/L66sykV3wKxG",
         "properties": {
             "label": [
-                "Ninon. Schottich",
                 "Ninon. Schottich"
             ],
             "class": [
@@ -1952,7 +2004,6 @@
         "location": "/entity/2Qk3wiPP6j39",
         "properties": {
             "label": [
-                "Fantaisie sur le Carillonneur",
                 "Fantaisie sur le Carillonneur"
             ],
             "class": [
@@ -2031,6 +2082,9 @@
             "description": [
                 "commune in Yvelines, France"
             ],
+            "instance of": [
+                "[[city]]"
+            ],
             "place": [
                 {
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
@@ -2084,7 +2138,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 null
@@ -2150,7 +2207,6 @@
         "location": "/entity/HcCqx9kcHttd",
         "properties": {
             "label": [
-                "Pavane. Musique de Mlle H. Wild",
                 "Pavane. Musique de Mlle H. Wild"
             ],
             "class": [
@@ -2176,11 +2232,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Hortense Wild]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Hortense Wild"
                 }
             ],
             "instrumentation": [
@@ -2197,8 +2254,14 @@
                 null
             ],
             "about": [
-                "[[medievalism]]",
-                "[[early music]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KBhDjToyQTEi",
+                    "label": "medievalism"
+                },
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VnjPFmovn4vN",
+                    "label": "early music"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
@@ -2209,7 +2272,7 @@
         "location": "/entity/dqFtJQZDwkjb",
         "properties": {
             "label": [
-                null
+                "language"
             ],
             "class": [
                 "Concept"
@@ -2232,7 +2295,7 @@
         "location": "/entity/CvXTTAGDV8To",
         "properties": {
             "label": [
-                null
+                "clergyman"
             ],
             "class": [
                 "Concept"
@@ -2486,11 +2549,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Fromental Halévy]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Fromental Halévy"
                 }
             ],
             "based_on": [
@@ -2511,8 +2575,8 @@
         "location": "/entity/98ui7xFiSD8t",
         "properties": {
             "label": [
-                "La vallée de chevreuse. suite de valses",
-                "La vallée de chevreuse : suite de valses"
+                "La vallée de chevreuse : suite de valses",
+                "La vallée de chevreuse. suite de valses"
             ],
             "class": [
                 "Manifestation"
@@ -2539,11 +2603,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Hortense Wild]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Hortense Wild"
                 }
             ],
             "instrumentation": [
@@ -2560,7 +2625,10 @@
                 null
             ],
             "about": [
-                "[[landscape]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2z8JMC92FAK6",
+                    "label": "landscape"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
@@ -2694,7 +2762,7 @@
         "location": "/entity/YRK5MZJvXEBP",
         "properties": {
             "label": [
-                null
+                "Gerritsen Women's History Collection of Aletta H. Jacobs"
             ],
             "class": [
                 "Organisation"
@@ -2882,8 +2950,8 @@
         "location": "/entity/A4CGKMgQ6e5R",
         "properties": {
             "label": [
-                "Journal des demoiselles (1862)",
-                null
+                null,
+                "Journal des demoiselles (1862)"
             ],
             "class": [
                 "Manifestation"
@@ -2935,7 +3003,7 @@
         "location": "/entity/Rbyhy2fEYa2g",
         "properties": {
             "label": [
-                null
+                "duet"
             ],
             "class": [
                 "Concept"
@@ -3067,8 +3135,8 @@
         "location": "/entity/7sLxino2QMBv",
         "properties": {
             "label": [
-                "La Pervenche",
-                "La Pervenche. Polka des Demoiselles"
+                "La Pervenche. Polka des Demoiselles",
+                "La Pervenche"
             ],
             "class": [
                 "Manifestation"
@@ -3127,7 +3195,7 @@
         "location": "/entity/WnBSn3vmYiYL",
         "properties": {
             "label": [
-                null
+                "aria"
             ],
             "class": [
                 "Concept"
@@ -3214,8 +3282,8 @@
         "location": "/entity/U3dAsUoxKKnK",
         "properties": {
             "label": [
-                "Histoire d'une Fleur",
-                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano."
+                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano.",
+                "Histoire d'une Fleur"
             ],
             "class": [
                 "Manifestation"
@@ -3299,7 +3367,7 @@
         "location": "/entity/NwTUKgXApENs",
         "properties": {
             "label": [
-                null
+                "opera"
             ],
             "class": [
                 "Concept"
@@ -3311,7 +3379,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+                    "label": "type of musical work"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
@@ -3401,7 +3472,6 @@
         "location": "/entity/W7qdj2zgimxv",
         "properties": {
             "label": [
-                "Ange ployez votre aile! rêverie",
                 "Ange ployez votre aile! rêverie"
             ],
             "class": [
@@ -3503,7 +3573,7 @@
         "location": "/entity/2tShtkMed9AE",
         "properties": {
             "label": [
-                null
+                "music critic"
             ],
             "class": [
                 "Concept"
@@ -3545,7 +3615,10 @@
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
                     "label": "public library"
                 },
-                "[[conservatory]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC",
+                    "label": "conservatory"
+                }
             ],
             "date": [
                 null,
@@ -3620,7 +3693,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 {
@@ -3662,11 +3738,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Daniel François Esprit Auber]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RkUgaRZ6zs57",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Daniel François Esprit Auber"
                 }
             ],
             "based_on": [
@@ -3687,13 +3764,13 @@
         "location": "/entity/gAK3b5Jh5UVf",
         "properties": {
             "label": [
-                null
+                "International Music Score Library Project"
             ],
             "class": [
                 "Organisation"
             ],
             "aliases": [
-                null
+                "IMSLP"
             ],
             "description": [
                 null
@@ -3750,8 +3827,8 @@
         "location": "/entity/TL2CYehsnjpj",
         "properties": {
             "label": [
-                "Songe de Bonheur",
-                "Songe de Bonheur. Suite de Valses. N. 1-3"
+                "Songe de Bonheur. Suite de Valses. N. 1-3",
+                "Songe de Bonheur"
             ],
             "class": [
                 "Manifestation"
@@ -3816,7 +3893,6 @@
         "location": "/entity/NwbDdEzfpcoh",
         "properties": {
             "label": [
-                "Un Loi Somptuaire. opérette en deux actes",
                 "Un Loi Somptuaire. opérette en deux actes"
             ],
             "class": [
@@ -3844,15 +3920,20 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Paul Dubourg]]",
-                    "role": "[[librettist]]"
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4Z9bCRmwDbS7",
+                    "role": {
+                        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+                        "label": "librettist"
+                    },
+                    "label": "Paul Dubourg"
                 },
                 {
-                    "value": "[[Victor Massé]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VKzHPzJxYHNi",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Victor Massé"
                 }
             ],
             "instrumentation": [
@@ -3883,8 +3964,8 @@
         "location": "/entity/3JDQaYB6Tv2h",
         "properties": {
             "label": [
-                "Fauvette",
-                "Fauvette: Chansonette."
+                "Fauvette: Chansonette.",
+                "Fauvette"
             ],
             "class": [
                 "Manifestation"
@@ -3974,7 +4055,6 @@
         "location": "/entity/Pg9nouQqwH7x",
         "properties": {
             "label": [
-                "Une orientale: mélodie",
                 "Une orientale: mélodie"
             ],
             "class": [
@@ -4184,8 +4264,8 @@
         "location": "/entity/8PAPGoxTCgLt",
         "properties": {
             "label": [
-                "Les fées du lac. valse brillante pour piano",
-                "Les fées du lac : valse brillante pour piano"
+                "Les fées du lac : valse brillante pour piano",
+                "Les fées du lac. valse brillante pour piano"
             ],
             "class": [
                 "Manifestation"
@@ -4212,11 +4292,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Léon Vasseur]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ui6pfXfmqxPM",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Léon Vasseur"
                 }
             ],
             "instrumentation": [
@@ -4230,10 +4311,16 @@
                 null
             ],
             "based_on": [
-                "[[Le Lac des fées]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+                    "label": "Le Lac des fées"
+                }
             ],
             "about": [
-                "[[mythology]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RixYXzFHfhqy",
+                    "label": "mythology"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
@@ -4244,8 +4331,8 @@
         "location": "/entity/S77HJUbgUuKq",
         "properties": {
             "label": [
-                "Le Voyageurs de nuit",
-                "Le Voyageurs de nuit: Chansonette"
+                "Le Voyageurs de nuit: Chansonette",
+                "Le Voyageurs de nuit"
             ],
             "class": [
                 "Manifestation"
@@ -4326,7 +4413,7 @@
         "location": "/entity/4MqfuoGuN6Ra",
         "properties": {
             "label": [
-                null
+                "Remiehleki"
             ],
             "class": [
                 "Agent"
@@ -4495,7 +4582,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 null
@@ -4515,7 +4605,7 @@
         "location": "/entity/HjSMhbA3nqG8",
         "properties": {
             "label": [
-                null
+                "type of library"
             ],
             "class": [
                 "Concept"
@@ -4538,7 +4628,6 @@
         "location": "/entity/PB4vr6chWqRK",
         "properties": {
             "label": [
-                "Sans toi. Romance",
                 "Sans toi. Romance"
             ],
             "class": [
@@ -4628,8 +4717,8 @@
         "location": "/entity/Q5YfCM4bBtmP",
         "properties": {
             "label": [
-                "Quadrille. Parisina",
-                "Deux Madones. Romance"
+                "Deux Madones. Romance",
+                "Quadrille. Parisina"
             ],
             "class": [
                 "Manifestation"
@@ -4843,7 +4932,7 @@
         "location": "/entity/VAvBZjyK4s8B",
         "properties": {
             "label": [
-                null
+                "Italy"
             ],
             "class": [
                 "Place"
@@ -4853,6 +4942,9 @@
             ],
             "description": [
                 null
+            ],
+            "instance of": [
+                "[[country]]"
             ],
             "place": [
                 null
@@ -4954,7 +5046,6 @@
         "location": "/entity/VqKwz7CTAa94",
         "properties": {
             "label": [
-                "Vole Vite",
                 "Vole Vite"
             ],
             "class": [
@@ -5015,7 +5106,6 @@
         "location": "/entity/Dny65A3KJPvG",
         "properties": {
             "label": [
-                "Deux Madones. Romance",
                 "Deux Madones. Romance"
             ],
             "class": [
@@ -5105,7 +5195,6 @@
         "location": "/entity/KWMc2MyB5896",
         "properties": {
             "label": [
-                "La brune Thérèse",
                 "La brune Thérèse"
             ],
             "class": [
@@ -5209,7 +5298,6 @@
         "location": "/entity/bXeCi7hg9Gqt",
         "properties": {
             "label": [
-                "L'enfant et la rose: mélodie",
                 "L'enfant et la rose: mélodie"
             ],
             "class": [
@@ -5296,8 +5384,8 @@
         "location": "/entity/G2DfGMPf6jS5",
         "properties": {
             "label": [
-                "Le Pinson",
-                "Le Pinson ou le bien pour le mal"
+                "Le Pinson ou le bien pour le mal",
+                "Le Pinson"
             ],
             "class": [
                 "Manifestation"
@@ -5371,7 +5459,7 @@
         "location": "/entity/k84Wz2Lp88Er",
         "properties": {
             "label": [
-                null
+                "music educator"
             ],
             "class": [
                 "Concept"
@@ -5397,7 +5485,6 @@
         "location": "/entity/XRGgDS2XwCto",
         "properties": {
             "label": [
-                "Parles bas! Chansonette",
                 "Parles bas! Chansonette"
             ],
             "class": [
@@ -5481,7 +5568,6 @@
         "location": "/entity/GSSHKs8X5aRE",
         "properties": {
             "label": [
-                "Le Farouche ennemi. Opérette en un acte",
                 "Le Farouche ennemi. Opérette en un acte"
             ],
             "class": [
@@ -5522,7 +5608,10 @@
                 },
                 {
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bbp23eR4DnZs",
-                    "role": "[[librettist]]",
+                    "role": {
+                        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+                        "label": "librettist"
+                    },
                     "label": "Élisa Adam-Boisgontier"
                 }
             ],
@@ -5666,7 +5755,7 @@
         "location": "/entity/LWCE9BBAwpmz",
         "properties": {
             "label": [
-                null
+                "noble family"
             ],
             "class": [
                 "Concept"
@@ -5689,7 +5778,6 @@
         "location": "/entity/hs4rWBqGPmab",
         "properties": {
             "label": [
-                "Emilie. Schottich",
                 "Emilie. Schottich"
             ],
             "class": [
@@ -5758,7 +5846,7 @@
         "location": "/entity/Mj6hzfVSHHew",
         "properties": {
             "label": [
-                null
+                "classical dance music"
             ],
             "class": [
                 "Concept"
@@ -5770,7 +5858,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+                    "label": "type of musical work"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
@@ -5935,7 +6026,10 @@
                 null
             ],
             "instance of": [
-                "[[type of fictional character]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GVQ2Jm6uRJuh",
+                    "label": "type of fictional character"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
@@ -6101,7 +6195,7 @@
         "location": "/entity/TL9bhQaShbbC",
         "properties": {
             "label": [
-                null
+                "Canada"
             ],
             "class": [
                 "Place"
@@ -6111,6 +6205,9 @@
             ],
             "description": [
                 null
+            ],
+            "instance of": [
+                "[[country]]"
             ],
             "place": [
                 null
@@ -6177,7 +6274,7 @@
         "location": "/entity/7LoWAKaDbbUb",
         "properties": {
             "label": [
-                null
+                "Biblioteca civica di Verona"
             ],
             "class": [
                 "Organisation"
@@ -6308,8 +6405,8 @@
         "location": "/entity/caTPx3dAfP6L",
         "properties": {
             "label": [
-                "Renouveau. bluette",
-                "Renouveau : bluette"
+                "Renouveau : bluette",
+                "Renouveau. bluette"
             ],
             "class": [
                 "Manifestation"
@@ -6333,11 +6430,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Octave Fouque]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Octave Fouque"
                 }
             ],
             "instrumentation": [
@@ -6368,7 +6466,7 @@
         "location": "/entity/cifmNoRzoHNK",
         "properties": {
             "label": [
-                null
+                "type of musical group"
             ],
             "class": [
                 "Concept"
@@ -6391,7 +6489,6 @@
         "location": "/entity/dJRZgT58Xf8A",
         "properties": {
             "label": [
-                "Le soir: mélodie transcrite pour soprano",
                 "Le soir: mélodie transcrite pour soprano"
             ],
             "class": [
@@ -6634,7 +6731,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+                    "label": "type of musical work"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
@@ -6879,7 +6979,10 @@
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3yS9agtba9rA",
                     "label": "translator"
                 },
-                "[[librettist]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+                    "label": "librettist"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
@@ -7087,6 +7190,9 @@
             "description": [
                 null
             ],
+            "instance of": [
+                "[[country]]"
+            ],
             "place": [
                 null
             ],
@@ -7259,7 +7365,10 @@
                 }
             ],
             "occupation": [
-                "[[librettist]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+                    "label": "librettist"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
@@ -7372,13 +7481,13 @@
         "location": "/entity/VcpJBubpN5Jf",
         "properties": {
             "label": [
-                null
+                "Louis Bordèse"
             ],
             "class": [
                 "Agent"
             ],
             "aliases": [
-                null
+                "Louis Bordese"
             ],
             "description": [
                 null
@@ -7524,8 +7633,8 @@
         "location": "/entity/HjpKbBQc7gas",
         "properties": {
             "label": [
-                "Journal des demoiselles (1877)",
-                null
+                null,
+                "Journal des demoiselles (1877)"
             ],
             "class": [
                 "Manifestation"
@@ -7589,7 +7698,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+                    "label": "occupation"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
@@ -7600,7 +7712,7 @@
         "location": "/entity/VnjPFmovn4vN",
         "properties": {
             "label": [
-                null
+                "early music"
             ],
             "class": [
                 "Concept"
@@ -7623,7 +7735,6 @@
         "location": "/entity/fZckAh7Xyvr6",
         "properties": {
             "label": [
-                "Enfant, sais-tu?",
                 "Enfant, sais-tu?"
             ],
             "class": [
@@ -7700,7 +7811,6 @@
         "location": "/entity/ScUaW5x7afcg",
         "properties": {
             "label": [
-                "En écoutant avec son coeur",
                 "En écoutant avec son coeur"
             ],
             "class": [
@@ -7873,8 +7983,8 @@
         "location": "/entity/fuQNwtNrhyNk",
         "properties": {
             "label": [
-                "Danse villageoise. air de danse antique",
-                "Danse villageoise : air de danse antique"
+                "Danse villageoise : air de danse antique",
+                "Danse villageoise. air de danse antique"
             ],
             "class": [
                 "Manifestation"
@@ -7901,11 +8011,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Hortense Wild]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Hortense Wild"
                 }
             ],
             "instrumentation": [
@@ -7919,7 +8030,10 @@
                 null
             ],
             "based_on": [
-                "[[Le Lac des fées]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4",
+                    "label": "Le Lac des fées"
+                }
             ],
             "about": [
                 null
@@ -7981,6 +8095,9 @@
             ],
             "description": [
                 null
+            ],
+            "instance of": [
+                "[[country]]"
             ],
             "place": [
                 null
@@ -8070,7 +8187,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
+                    "label": "periodical"
+                }
             ],
             "date": [
                 {
@@ -8327,7 +8447,6 @@
         "location": "/entity/SFGi6gHQvH4j",
         "properties": {
             "label": [
-                "L'Elisir d'amore. Quadrille",
                 "L'Elisir d'amore. Quadrille"
             ],
             "class": [
@@ -8431,7 +8550,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ",
+                    "label": "occupation"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
@@ -8474,7 +8596,10 @@
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
                     "label": "editor"
                 },
-                "[[music critic]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE",
+                    "label": "music critic"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
@@ -8600,7 +8725,10 @@
                 null
             ],
             "instance of": [
-                "[[conservatory]]",
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC",
+                    "label": "conservatory"
+                },
                 {
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
                     "label": "public library"
@@ -8684,8 +8812,8 @@
         "location": "/entity/6XQw6vXJb4qt",
         "properties": {
             "label": [
-                "Trésor des demoiselles (1857)",
-                "Trésor des demoiselles. Vingt-cinquième Année."
+                "Trésor des demoiselles. Vingt-cinquième Année.",
+                "Trésor des demoiselles (1857)"
             ],
             "class": [
                 "Manifestation"
@@ -8895,7 +9023,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 null
@@ -9017,7 +9148,6 @@
         "location": "/entity/ZoDppeZsnymZ",
         "properties": {
             "label": [
-                "Ondine",
                 "Ondine"
             ],
             "class": [
@@ -9030,7 +9160,10 @@
                 null
             ],
             "instance of": [
-                "[[programme music]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd",
+                    "label": "programme music"
+                }
             ],
             "part of": [
                 {
@@ -9042,11 +9175,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Hortense Wild]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Hortense Wild"
                 }
             ],
             "instrumentation": [
@@ -9063,7 +9197,10 @@
                 null
             ],
             "about": [
-                "[[mythology]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RixYXzFHfhqy",
+                    "label": "mythology"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
@@ -9162,7 +9299,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 null
@@ -9307,7 +9447,7 @@
         "location": "/entity/LCZnUXZBAaXS",
         "properties": {
             "label": [
-                null
+                "France"
             ],
             "class": [
                 "Place"
@@ -9318,6 +9458,9 @@
             ],
             "description": [
                 null
+            ],
+            "instance of": [
+                "[[country]]"
             ],
             "place": [
                 null
@@ -9353,7 +9496,10 @@
                 }
             ],
             "occupation": [
-                "[[librettist]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+                    "label": "librettist"
+                }
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
@@ -9376,7 +9522,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 null
@@ -9396,7 +9545,7 @@
         "location": "/entity/G5aFCqnqarZS",
         "properties": {
             "label": [
-                null
+                "digital library"
             ],
             "class": [
                 "Concept"
@@ -9483,11 +9632,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Alexandre Fessy]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gSpQjJMRbo9y",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Alexandre Fessy"
                 }
             ],
             "instrumentation": [
@@ -9505,7 +9655,8 @@
             ],
             "based_on": [
                 {
-                    "value": "[[Le val d'Andorre]]"
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox",
+                    "label": "Le val d'Andorre"
                 }
             ],
             "about": [
@@ -9563,6 +9714,29 @@
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+            ]
+        }
+    },
+    {
+        "location": "/entity/Aut3aeGdqhKq",
+        "properties": {
+            "label": [
+                "country"
+            ],
+            "class": [
+                "Concept"
+            ],
+            "aliases": [
+                null
+            ],
+            "description": [
+                null
+            ],
+            "instance of": [
+                null
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
             ]
         }
     },
@@ -9633,8 +9807,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Achille de Lauzières]]",
-                    "role": "[[librettist]]"
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A",
+                    "role": {
+                        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+                        "label": "librettist"
+                    },
+                    "label": "Achille de Lauzières"
                 },
                 {
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VcpJBubpN5Jf",
@@ -9690,7 +9868,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 {
@@ -9796,7 +9977,6 @@
         "location": "/entity/Bv7PDGtc5dE9",
         "properties": {
             "label": [
-                "3me sonatine. musique de Mlle H. Wild",
                 "3me sonatine. musique de Mlle H. Wild"
             ],
             "class": [
@@ -9809,7 +9989,10 @@
                 null
             ],
             "instance of": [
-                "[[piano sonata]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5GQCpP8JBfZH",
+                    "label": "piano sonata"
+                }
             ],
             "part of": [
                 {
@@ -9821,11 +10004,12 @@
             ],
             "contributor": [
                 {
-                    "value": "[[Hortense Wild]]",
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
                     "role": {
                         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                         "label": "composer"
-                    }
+                    },
+                    "label": "Hortense Wild"
                 }
             ],
             "instrumentation": [
@@ -9853,7 +10037,7 @@
         "location": "/entity/XP2eoc3jqCp2",
         "properties": {
             "label": [
-                null
+                "Wikidata"
             ],
             "class": [
                 "Concept"
@@ -9876,8 +10060,8 @@
         "location": "/entity/Ao5Ame5q39g9",
         "properties": {
             "label": [
-                "Le Corbeille de roses",
-                "Le Corbeille de roses. Valse brillante"
+                "Le Corbeille de roses. Valse brillante",
+                "Le Corbeille de roses"
             ],
             "class": [
                 "Manifestation"
@@ -10131,7 +10315,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 null
@@ -10151,7 +10338,6 @@
         "location": "/entity/SW5eHBJmrm62",
         "properties": {
             "label": [
-                "L'etoile qui brille",
                 "L'etoile qui brille"
             ],
             "class": [
@@ -10514,7 +10700,7 @@
         "location": "/entity/KFESriHnhBta",
         "properties": {
             "label": [
-                null
+                "Juliette Dillon"
             ],
             "class": [
                 "Agent"
@@ -10543,7 +10729,10 @@
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK",
                     "label": "editor"
                 },
-                "[[music critic]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE",
+                    "label": "music critic"
+                }
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/8/89/Juliette_Dillon_d%C3%A9tail.jpg"
@@ -10616,17 +10805,6 @@
         }
     },
     {
-        "location": "/entity/WzQFP4VxZS6r",
-        "properties": {
-            "class": [
-                "Agent"
-            ],
-            "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
-            ]
-        }
-    },
-    {
         "location": "/entity/ZxvgXLzDfsvr",
         "properties": {
             "label": [
@@ -10683,7 +10861,7 @@
         "location": "/entity/GVQ2Jm6uRJuh",
         "properties": {
             "label": [
-                null
+                "type of fictional character"
             ],
             "class": [
                 "Concept"
@@ -10718,7 +10896,10 @@
                 null
             ],
             "instance of": [
-                null
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+                    "label": "human"
+                }
             ],
             "gender": [
                 null
@@ -10806,7 +10987,6 @@
         "location": "/entity/LXFHHQhGBzwC",
         "properties": {
             "label": [
-                "Espoir en Dieu: chants du crépuscule",
                 "Espoir en Dieu: chants du crépuscule"
             ],
             "class": [
@@ -10991,7 +11171,6 @@
         "location": "/entity/C6UXNXKkBERA",
         "properties": {
             "label": [
-                "Vole! Vole! Hirondelle",
                 "Vole! Vole! Hirondelle"
             ],
             "class": [
@@ -11073,7 +11252,7 @@
         "location": "/entity/eXFBXUBFBjqU",
         "properties": {
             "label": [
-                null
+                "Germany"
             ],
             "class": [
                 "Place"
@@ -11083,6 +11262,9 @@
             ],
             "description": [
                 null
+            ],
+            "instance of": [
+                "[[country]]"
             ],
             "place": [
                 null
@@ -11351,7 +11533,7 @@
         "location": "/entity/XaBZqJUPUbCp",
         "properties": {
             "label": [
-                null
+                "dramatico-musical work"
             ],
             "class": [
                 "Concept"
@@ -11414,7 +11596,6 @@
         "location": "/entity/ReUSHfcDfYkz",
         "properties": {
             "label": [
-                "Herminie. Mazurka",
                 "Herminie. Mazurka"
             ],
             "class": [
@@ -11483,8 +11664,8 @@
         "location": "/entity/AgTowXcdYL6T",
         "properties": {
             "label": [
-                "Thalie",
-                "Thalie: Polka mazurka."
+                "Thalie: Polka mazurka.",
+                "Thalie"
             ],
             "class": [
                 "Manifestation"
@@ -11681,6 +11862,9 @@
             "description": [
                 null
             ],
+            "instance of": [
+                "[[city]]"
+            ],
             "place": [
                 {
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
@@ -11776,7 +11960,7 @@
         "location": "/entity/KBhDjToyQTEi",
         "properties": {
             "label": [
-                null
+                "medievalism"
             ],
             "class": [
                 "Concept"
@@ -11867,7 +12051,10 @@
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
                     "label": "composer"
                 },
-                "[[writer]]"
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bmuitt3Uptaq",
+                    "label": "writer"
+                }
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/d/db/Octave_Fouque_par_D%C3%A9li%C3%A9%2C_d%C3%A9tail.jpg"

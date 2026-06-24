@@ -2,7 +2,7 @@ metadata:
   class: Concept
   description: null
   aliases: null
-  label: null
+  label: physician
   base_name: physician
   filename: physician.md
   id: EKZ4UEKdoJmP

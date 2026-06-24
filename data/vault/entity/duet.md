@@ -6,6 +6,6 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: duet
 identifier: http://www.wikidata.org/entity/Q109940
 ---

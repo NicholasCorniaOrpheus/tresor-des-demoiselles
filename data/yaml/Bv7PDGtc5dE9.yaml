@@ -9,7 +9,8 @@ metadata:
   n_id: 204582951609686691469
 statements:
   instance_of:
-  - '[[piano sonata]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5GQCpP8JBfZH
+    label: piano sonata
   has_part: null
   part_of:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
@@ -17,10 +18,11 @@ statements:
     volume: 44
     label: Journal des demoiselles
   contributor:
-  - value: '[[Hortense Wild]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Hortense Wild
   has_version:
   - permalink: https://catalogue.bnf.fr/ark:/12148/cb433379188
     note: 3 sonatines for piano, Op. 20
@@ -31,9 +33,13 @@ statements:
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
       label: Paris
-    publisher: '[[Auguste Durand]]'
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DKdeWwAqyKRJ
+      label: Auguste Durand
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89100
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     publication_date: 1890-01-01
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d

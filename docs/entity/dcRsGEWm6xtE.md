@@ -73,6 +73,9 @@
 ???+ abstract "identifier"
     - [Q1296](http://www.wikidata.org/entity/Q1296)
 
+???+ abstract "instance of"
+    - [[city]]
+
 
 
 

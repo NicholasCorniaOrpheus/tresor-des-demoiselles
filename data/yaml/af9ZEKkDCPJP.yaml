@@ -8,7 +8,9 @@ metadata:
   id: af9ZEKkDCPJP
   n_id: 673791968446031399865
 statements:
-  instance_of: null
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp
+    label: dramatico-musical work
   subclass_of: null
   described_by_source: null
   identifier: null

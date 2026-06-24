@@ -5,6 +5,7 @@ label: Journal des demoiselles
 aliases:
 description:
 instance_of:
+  - "[[periodical]]"
 described_by_source:
   - "[[Agents of Change]]"
 inception:

@@ -32,12 +32,16 @@ statements:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB
       label: Bibliothèque nationale de France
     publication_date: 1861-01-01
-    publisher: '[[Édouard Gérard]]'
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r
+      label: Édouard Gérard
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
       label: Paris
   - permalink: https://imslp.org/wiki/Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile)
-    holding_institution: '[[International Music Score Library Project]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gAK3b5Jh5UVf
+      label: International Music Score Library Project
     publication_date: 1853-01-01
     note: Part of Magasin des demoiselles, vol. 9
     place_of_publication:

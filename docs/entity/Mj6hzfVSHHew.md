@@ -1,4 +1,4 @@
-# None (Mj6hzfVSHHew)
+# classical dance music (Mj6hzfVSHHew)
 
 
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/Mj6hzfVSHHew.json){ .md-button }
@@ -9,6 +9,7 @@
 <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Concept
+    - label: classical dance music
     - id: Mj6hzfVSHHew
     <div style="clear:both;"></div>
 
@@ -65,6 +66,9 @@
   window.entityGraphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Mj6hzfVSHHew.json";
 </script>
 ## Statements
+???+ abstract "instance of"
+    - [type of musical work](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP)
+
 ???+ abstract "identifier"
     - [Q118738876](http://www.wikidata.org/entity/Q118738876)
 

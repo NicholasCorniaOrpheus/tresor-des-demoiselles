@@ -5,4 +5,6 @@ country:
 label: Belgium
 aliases:
 description:
+instance_of:
+  - "[[country]]"
 ---

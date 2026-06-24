@@ -86,11 +86,11 @@
         * permalink: [cb42940871v](http://ark.bnf.fr/ark:/12148/cb42940871v)
         * holding institution: [Bibliothèque nationale de France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB)
         * publication date: 1861-01-01
-        * publisher: [[Édouard Gérard]]
+        * publisher: [Édouard Gérard](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r)
         * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
     - 
         * permalink: [Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile)](https://imslp.org/wiki/Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile))
-        * holding institution: [[International Music Score Library Project]]
+        * holding institution: [International Music Score Library Project](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gAK3b5Jh5UVf)
         * publication date: 1853-01-01
         * note: Part of Magasin des demoiselles, vol. 9
         * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)

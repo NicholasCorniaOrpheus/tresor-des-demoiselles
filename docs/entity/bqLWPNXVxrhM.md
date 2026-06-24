@@ -74,8 +74,7 @@
     - [male](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD)
 
 ???+ abstract "identifier"
-    - 
-        * http: //www.wikidata.org/entity/Q126896703
+    - [Q126896703](http: //www.wikidata.org/entity/Q126896703)
 
 ???+ abstract "occupation"
     - [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)

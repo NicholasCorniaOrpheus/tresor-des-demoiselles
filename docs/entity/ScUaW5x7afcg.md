@@ -95,7 +95,7 @@
         * permalink: [cb42940871v](http://ark.bnf.fr/ark:/12148/cb42940871v)
         * holding institution: [Bibliothèque nationale de France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB)
         * publication date: 1861-01-01
-        * publisher: [[Édouard Gérard]]
+        * publisher: [Édouard Gérard](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r)
         * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
     - 
         * permalink: [22186](https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186)

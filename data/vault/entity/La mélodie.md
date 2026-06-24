@@ -1,6 +1,6 @@
 ---
 class: Organisation
-label:
+label: La mélodie
 aliases:
 description:
 instance_of:

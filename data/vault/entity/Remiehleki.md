@@ -1,6 +1,6 @@
 ---
 class: Agent
-label:
+label: Remiehleki
 aliases:
 description:
 instance_of:

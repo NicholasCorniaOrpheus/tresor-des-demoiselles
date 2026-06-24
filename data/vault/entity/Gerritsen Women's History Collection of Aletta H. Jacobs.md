@@ -1,6 +1,6 @@
 ---
 class: Organisation
-label:
+label: Gerritsen Women's History Collection of Aletta H. Jacobs
 aliases:
 description:
 instance_of:

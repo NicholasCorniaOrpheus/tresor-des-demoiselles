@@ -1,6 +1,6 @@
 ---
 class: Agent
-label:
+label: Juliette Dillon
 aliases:
   - Agathe-Anaïs-Juliette Godillon
 description:

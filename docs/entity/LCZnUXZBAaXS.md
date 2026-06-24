@@ -1,4 +1,4 @@
-# None (LCZnUXZBAaXS)
+# France (LCZnUXZBAaXS)
 
 
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/LCZnUXZBAaXS.json){ .md-button }
@@ -9,6 +9,7 @@
 <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Place
+    - label: France
     - aliases: Frankrijk; Francia
     - id: LCZnUXZBAaXS
     <div style="clear:both;"></div>
@@ -68,6 +69,9 @@
 ## Statements
 ???+ abstract "identifier"
     - [Q142](http://wikidata.org/entity/Q142)
+
+???+ abstract "instance of"
+    - [[country]]
 
 
 

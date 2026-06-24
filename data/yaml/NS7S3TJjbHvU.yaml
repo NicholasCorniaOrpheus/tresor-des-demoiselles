@@ -10,7 +10,9 @@ metadata:
 statements:
   identifier:
   - http://wikidata.org/entity/Q40163826
-  instance_of: null
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+    label: periodical
   described_by_source:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP
     label: Agents of Change

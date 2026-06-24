@@ -20,10 +20,11 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
     label: opera
   contributor:
-  - value: '[[Ferdinand Hérold]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Ferdinand Hérold
   based_on: null
 assets:
   IIIF_manifest: null

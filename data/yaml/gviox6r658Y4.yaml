@@ -19,10 +19,11 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
     label: opera
   contributor:
-  - value: '[[Daniel François Esprit Auber]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RkUgaRZ6zs57
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Daniel François Esprit Auber
   based_on: null
 assets:
   IIIF_manifest: null

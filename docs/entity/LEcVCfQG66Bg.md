@@ -70,6 +70,9 @@
 ???+ abstract "identifier"
     - [Q30](http://www.wikidata.org/entity/Q30)
 
+???+ abstract "instance of"
+    - [[country]]
+
 
 
 

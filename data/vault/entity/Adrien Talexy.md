@@ -4,6 +4,7 @@ label: Adrien Talexy
 aliases:
 description:
 instance_of:
+  - "[[human]]"
 date_of_birth:
 described_by_source:
 image: https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Adrien_Talexy_1850.jpg

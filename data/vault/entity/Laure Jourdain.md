@@ -4,6 +4,7 @@ label: Laure Jourdain
 aliases:
 description:
 instance_of:
+  - "[[human]]"
 date_of_birth:
 described_by_source:
 image:

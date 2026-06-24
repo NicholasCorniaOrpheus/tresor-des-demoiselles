@@ -69,6 +69,9 @@
 ???+ abstract "identifier"
     - [Q40163826](http://wikidata.org/entity/Q40163826)
 
+???+ abstract "instance of"
+    - [periodical](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW)
+
 ???+ abstract "described by source"
     - [Agents of Change](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP)
 

@@ -1,4 +1,4 @@
-# None (kc8mMg6XAXbn)
+# piano four hands (kc8mMg6XAXbn)
 
 
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/kc8mMg6XAXbn.json){ .md-button }
@@ -9,6 +9,7 @@
 <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Concept
+    - label: piano four hands
     - id: kc8mMg6XAXbn
     <div style="clear:both;"></div>
 

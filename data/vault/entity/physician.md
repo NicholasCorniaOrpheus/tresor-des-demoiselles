@@ -6,7 +6,7 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: physician
 identifier:
   - http://www.wikidata.org/entity/Q39631
 ---

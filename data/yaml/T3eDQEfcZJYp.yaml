@@ -8,7 +8,9 @@ metadata:
   id: T3eDQEfcZJYp
   n_id: 516489452450578501237
 statements:
-  instance_of: null
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd
+    label: programme music
   has_part: null
   part_of:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
@@ -16,13 +18,16 @@ statements:
     volume: 51
     label: Journal des demoiselles
   contributor:
-  - value: '[[Octave Fouque]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Octave Fouque
   has_version:
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88113
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     publication_date: 1889-01-01
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d

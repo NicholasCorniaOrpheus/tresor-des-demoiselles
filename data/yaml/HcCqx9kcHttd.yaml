@@ -16,13 +16,16 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
     label: Journal des demoiselles
   contributor:
-  - value: '[[Hortense Wild]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Hortense Wild
   has_version:
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89102
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
       label: Paris
@@ -35,8 +38,10 @@ statements:
     label: piano
   depicts: null
   about:
-  - '[[medievalism]]'
-  - '[[early music]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KBhDjToyQTEi
+    label: medievalism
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VnjPFmovn4vN
+    label: early music
   language: null
   based_on: null
 assets:

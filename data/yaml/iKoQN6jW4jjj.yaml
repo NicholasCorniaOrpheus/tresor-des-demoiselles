@@ -11,7 +11,8 @@ statements:
   instance_of:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
     label: public library
-  - '[[conservatory]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC
+    label: conservatory
   described_by_source: null
   inception: null
   location:

@@ -6,7 +6,7 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: music educator
 identifier:
   - http://www.wikidata.org/entity/Q16145150
 ---

@@ -1,6 +1,6 @@
 ---
 class: Organisation
-label:
+label: Biblioteca civica di Verona
 aliases:
 description:
 instance_of:

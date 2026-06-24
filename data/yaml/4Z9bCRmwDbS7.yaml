@@ -22,7 +22,8 @@ statements:
   identifier:
   - http://www.wikidata.org/entity/Q140330128
   occupation:
-  - '[[librettist]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz
+    label: librettist
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
   IIIF_manifest: null

@@ -19,10 +19,11 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
     label: opera
   contributor:
-  - value: '[[Fromental Halévy]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Fromental Halévy
   based_on: null
 assets:
   IIIF_manifest: null

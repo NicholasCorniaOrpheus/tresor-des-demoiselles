@@ -1,6 +1,6 @@
 metadata:
   class: Place
-  label: null
+  label: Germany
   aliases: null
   description: null
   base_name: Germany
@@ -11,6 +11,8 @@ statements:
   identifier:
   - http://www.wikidata.org/entity/Q183
   country: null
+  instance_of:
+  - '[[country]]'
 assets:
   IIIF_manifest: null
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png

@@ -1,7 +1,8 @@
 metadata:
   class: Organisation
-  label: null
-  aliases: null
+  label: International Music Score Library Project
+  aliases:
+  - IMSLP
   description: null
   base_name: International Music Score Library Project
   filename: International Music Score Library Project.md

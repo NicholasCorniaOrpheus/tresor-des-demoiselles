@@ -9,7 +9,8 @@ metadata:
   n_id: 485652487271220534565
 statements:
   instance_of:
-  - '[[conservatory]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC
+    label: conservatory
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
     label: public library
   described_by_source: null

@@ -18,13 +18,16 @@ statements:
     volume: 47
     label: Journal des demoiselles
   contributor:
-  - value: '[[Hortense Wild]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Hortense Wild
   has_version:
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89103
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     publication_date: 1879-01-01
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
@@ -37,9 +40,11 @@ statements:
     quantity: 1
     label: piano
   depicts:
-  - '[[Chevreuse]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku
+    label: Chevreuse
   about:
-  - '[[landscape]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2z8JMC92FAK6
+    label: landscape
   language: null
   based_on: null
 assets:

@@ -78,12 +78,12 @@
 ???+ abstract "occupation"
     - [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)
     - [editor](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK)
-    - [[music critic]]
+    - [music critic](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE)
 
 
 
 ## Notes
-Editor and main writer of the editorial columns _Revue musicale_ and _Éducation musicale_, the latter in collaboration with the composer and virtuosa [[Juliette Dillon]].
+Editor and main writer of the editorial columns _Revue musicale_ and _Éducation musicale_, the latter in collaboration with the composer and virtuosa https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta.
 
 According to our sources, it seems that she started her column in 1853.
 

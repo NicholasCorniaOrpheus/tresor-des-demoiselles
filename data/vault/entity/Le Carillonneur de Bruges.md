@@ -1,6 +1,7 @@
 ---
 class: Work
 instance_of:
+  - "[[dramatico-musical work]]"
 subclass_of:
 described_by_source:
 description:

@@ -7,4 +7,6 @@ identifier:
   - http://www.wikidata.org/entity/Q399366
 country:
   - "[[France]]"
+instance_of:
+  - "[[city]]"
 ---

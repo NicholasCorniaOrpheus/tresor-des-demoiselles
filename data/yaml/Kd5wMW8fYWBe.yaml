@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  description: null
+  aliases: null
+  label: city
+  base_name: city
+  filename: city.md
+  id: Kd5wMW8fYWBe
+  n_id: 363506463021271167549
+statements:
+  instance_of: null
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q515
+assets:
+  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Kd5wMW8fYWBe.json
+content:
+  markdown_content: ''

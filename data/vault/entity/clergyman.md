@@ -6,7 +6,7 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: clergyman
 identifier:
   - http://www.wikidata.org/entity/Q3315492
 ---

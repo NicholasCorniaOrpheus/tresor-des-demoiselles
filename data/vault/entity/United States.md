@@ -9,4 +9,6 @@ description:
 identifier:
   - http://www.wikidata.org/entity/Q30
 country:
+instance_of:
+  - "[[country]]"
 ---

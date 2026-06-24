@@ -14,7 +14,7 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "entity/manifestation_list.base",
+                "file": "manifestation_list.base",
                 "viewName": "Table"
               },
               "pinned": true,
@@ -75,12 +75,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "57a3305bd8dc3d6b",
@@ -186,8 +185,20 @@
   },
   "active": "a021b60216f25b74",
   "lastOpenFiles": [
+    "entities.base",
+    "entity/Alexandre Scola.md",
+    "entity/city.md",
+    "entity/country.md",
+    "entity/Untitled.md",
+    "entity/type of musical group.md",
+    "entity/type of library.md",
+    "entity/type of fictional character.md",
+    "entity/Remiehleki.md",
+    "entity/Louis Bordèse.md",
+    "entity/International Music Score Library Project.md",
+    "entity/Gerritsen Women's History Collection of Aletta H. Jacobs.md",
+    "manifestation_list.base",
     "entity/Journal des demoiselles (1853).md",
-    "entity/manifestation_list.base",
     "entity/Marie Lasseveur.md",
     "entity/Le Livre du coeur.md",
     "entity/Journal des demoiselles (1848).md",
@@ -201,17 +212,6 @@
     "International Music Score Library Project.md",
     "entity/En écoutant avec son coeur.md",
     "entity/Fauvette.md",
-    "entity/Fantaisie sur le Carillonneur.md",
-    "Édouard Gérard.md",
-    "entity/L'emploi de ma journée.md",
-    "Joseph Meissonnier.md",
-    "entity/Journal des demoiselles (1836).md",
-    "Pascal Nacher.md",
-    "Gustave Jacqmain.md",
-    "entity/Les Fauvettes.md",
-    "entity/Mandoline. Sérénade..md",
-    "Un Loi Somptuaire. opérette en deux actes.md",
-    "Fromental Halévy.md",
     "assets/OI-20143702p18/20143702p18_003.jpg",
     "assets/OI-20143702p18/20143702p18_002.jpg",
     "assets/OI-20143702p18/20143702p18_001.jpg",
@@ -228,7 +228,6 @@
     "assets/figures/journal_plate_6_1839.jpg",
     "assets/figures/Unconfirmed 622159.crdownload",
     "assets/figures/journal_plate_146_1836.jpg",
-    "assets/figures/Unconfirmed 548428.crdownload",
     "assets/figures/journal_plate_40_1847.jpg",
     "assets/figures/journal_plate_40_18.jpg"
   ]

@@ -6,6 +6,6 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: romance
 identifier: http://wikidata.org/entity/Q599510
 ---

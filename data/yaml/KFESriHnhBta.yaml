@@ -1,6 +1,6 @@
 metadata:
   class: Agent
-  label: null
+  label: Juliette Dillon
   aliases:
   - Agathe-Anaïs-Juliette Godillon
   description: null
@@ -24,7 +24,8 @@ statements:
     label: composer
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
     label: editor
-  - '[[music critic]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE
+    label: music critic
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/8/89/Juliette_Dillon_d%C3%A9tail.jpg
   IIIF_manifest: null

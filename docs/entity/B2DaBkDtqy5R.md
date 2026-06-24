@@ -69,6 +69,9 @@
 ???+ abstract "identifier"
     - [Q31](http://wikidata.org/entity/Q31)
 
+???+ abstract "instance of"
+    - [[country]]
+
 
 
 

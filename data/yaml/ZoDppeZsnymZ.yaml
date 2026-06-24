@@ -9,7 +9,8 @@ metadata:
   n_id: 656079479601758135188
 statements:
   instance_of:
-  - '[[programme music]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd
+    label: programme music
   has_part: null
   part_of:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
@@ -17,13 +18,16 @@ statements:
     volume: 58
     label: Journal des demoiselles
   contributor:
-  - value: '[[Hortense Wild]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Hortense Wild
   has_version:
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88119
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     publication_date: 1890-01-01
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
@@ -36,9 +40,11 @@ statements:
     quantity: 1
     label: piano
   depicts:
-  - '[[undine]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CvRtXZCnhvKH
+    label: undine
   about:
-  - '[[mythology]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RixYXzFHfhqy
+    label: mythology
   language: null
   based_on: null
 assets:

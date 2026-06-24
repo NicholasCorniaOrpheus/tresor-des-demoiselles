@@ -1,7 +1,8 @@
 metadata:
   class: Agent
-  label: null
-  aliases: null
+  label: Louis Bordèse
+  aliases:
+  - Louis Bordese
   description: null
   base_name: Louis Bordèse
   filename: Louis Bordèse.md

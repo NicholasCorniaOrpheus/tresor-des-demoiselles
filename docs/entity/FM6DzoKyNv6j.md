@@ -66,6 +66,9 @@
   window.entityGraphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/FM6DzoKyNv6j.json";
 </script>
 ## Statements
+???+ abstract "instance of"
+    - [occupation](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ)
+
 ???+ abstract "identifier"
     - [Q28008298](http://www.wikidata.org/entity/Q28008298)
 

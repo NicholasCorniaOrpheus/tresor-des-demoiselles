@@ -8,4 +8,6 @@ aliases:
   - Gent
 description:
 identifier: http://www.wikidata.org/entity/Q1296
+instance_of:
+  - "[[city]]"
 ---

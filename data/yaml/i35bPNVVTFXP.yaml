@@ -9,7 +9,8 @@ metadata:
   n_id: 825820802356531460508
 statements:
   instance_of:
-  - '[[type of fictional character]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GVQ2Jm6uRJuh
+    label: type of fictional character
   subclass_of: null
   described_by_source: null
   identifier:

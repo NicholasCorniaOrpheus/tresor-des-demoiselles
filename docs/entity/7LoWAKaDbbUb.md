@@ -1,4 +1,4 @@
-# None (7LoWAKaDbbUb)
+# Biblioteca civica di Verona (7LoWAKaDbbUb)
 
 
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/7LoWAKaDbbUb.json){ .md-button }
@@ -9,6 +9,7 @@
 <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Organisation
+    - label: Biblioteca civica di Verona
     - id: 7LoWAKaDbbUb
     <div style="clear:both;"></div>
 

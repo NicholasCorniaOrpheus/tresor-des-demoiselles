@@ -26,7 +26,8 @@ statements:
     label: composer
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
     label: editor
-  - '[[music critic]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE
+    label: music critic
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
   IIIF_manifest: null
@@ -34,7 +35,7 @@ assets:
 content:
   markdown_content: 'Editor and main writer of the editorial columns _Revue musicale_
     and _Éducation musicale_, the latter in collaboration with the composer and virtuosa
-    [[Juliette Dillon]].
+    https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta.
 
 
     According to our sources, it seems that she started her column in 1853.'

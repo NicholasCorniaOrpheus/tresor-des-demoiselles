@@ -90,10 +90,10 @@
         * note: Part of the periodical Le mélodie, vol. 29
     - 
         * permalink: [181935](https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=181935)
-        * holding institution: [[Royal Conservatory of Brussels]]
+        * holding institution: [Royal Conservatory of Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj)
         * publication date: 1852-01-01
         * place of publication: [Ghent](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE)
-        * publisher: [[Gustave Jacqmain]]
+        * publisher: [Gustave Jacqmain](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LJtUagnxHJ9B)
     - 
         * permalink: [c:lvd:14382572](https://anet.be/record/opacap/c:lvd:14382572)
         * holding institution: [Royal Conservatory of Antwerp](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs)

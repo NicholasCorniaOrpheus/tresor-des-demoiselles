@@ -42,12 +42,16 @@ statements:
       label: Brussels
     note: Part of the periodical Le mélodie, vol. 29
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=181935
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     publication_date: 1852-01-01
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE
       label: Ghent
-    publisher: '[[Gustave Jacqmain]]'
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LJtUagnxHJ9B
+      label: Gustave Jacqmain
   - permalink: https://anet.be/record/opacap/c:lvd:14382572
     holding_institution:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs

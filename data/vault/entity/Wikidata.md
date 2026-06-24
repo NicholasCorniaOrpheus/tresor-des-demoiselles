@@ -5,6 +5,6 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: Wikidata
 identifier: http://www.wikidata.org/entity/Q2013
 ---

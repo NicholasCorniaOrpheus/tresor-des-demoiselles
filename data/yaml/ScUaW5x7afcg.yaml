@@ -49,7 +49,9 @@ statements:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB
       label: Bibliothèque nationale de France
     publication_date: 1861-01-01
-    publisher: '[[Édouard Gérard]]'
+    publisher:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r
+      label: Édouard Gérard
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
       label: Paris

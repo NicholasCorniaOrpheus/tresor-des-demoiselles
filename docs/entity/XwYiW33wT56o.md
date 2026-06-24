@@ -87,17 +87,17 @@
         * place of publication: [Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2)
     - 
         * permalink: [183654](https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=183654)
-        * holding institution: [[Royal Conservatory of Brussels]]
+        * holding institution: [Royal Conservatory of Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj)
         * note: Part of Le Mélomane, journal de chant No. 54, vol. 3
         * publication date: 1852-01-01
-        * publisher: [[Gustave Jacqmain]]
+        * publisher: [Gustave Jacqmain](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LJtUagnxHJ9B)
         * place of publication: [Ghent](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE)
     - 
         * permalink: [cb42913217h](http://ark.bnf.fr/ark:/12148/cb42913217h)
         * holding institution: [Bibliothèque nationale de France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB)
         * publication date: 1851-01-01
         * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
-        * publisher: [[Joseph Meissonnier]]
+        * publisher: [Joseph Meissonnier](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8HSKpjkZAxrE)
     - 
         * permalink: [22186](https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186)
         * holding institution: [Orpheus Instituut](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT)

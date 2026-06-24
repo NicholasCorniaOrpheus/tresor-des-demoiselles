@@ -6,7 +6,7 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: piano four hands
 identifier:
   - http://www.wikidata.org/entity/Q227484
 ---

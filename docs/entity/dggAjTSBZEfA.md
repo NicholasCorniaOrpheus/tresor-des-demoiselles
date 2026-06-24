@@ -69,6 +69,9 @@
 ???+ abstract "identifier"
     - [Q55](http://wikidata.org/entity/Q55)
 
+???+ abstract "instance of"
+    - [[country]]
+
 
 
 

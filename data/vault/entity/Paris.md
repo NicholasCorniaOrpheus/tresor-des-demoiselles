@@ -8,4 +8,6 @@ aliases:
   - Parigi
   - Parijs
 description:
+instance_of:
+  - "[[city]]"
 ---

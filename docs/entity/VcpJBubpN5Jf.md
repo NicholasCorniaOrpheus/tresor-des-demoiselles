@@ -1,4 +1,4 @@
-# None (VcpJBubpN5Jf)
+# Louis Bordèse (VcpJBubpN5Jf)
 
 
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/VcpJBubpN5Jf.json){ .md-button }
@@ -9,6 +9,8 @@
 <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Agent
+    - label: Louis Bordèse
+    - aliases: Louis Bordese
     - id: VcpJBubpN5Jf
     <div style="clear:both;"></div>
 

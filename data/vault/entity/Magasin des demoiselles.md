@@ -4,6 +4,7 @@ label: Magasin des demoiselles
 aliases:
 description:
 instance_of:
+  - "[[periodical]]"
 described_by_source: "[[Agents of Change]]"
 inception:
   - value: 1844-01-01

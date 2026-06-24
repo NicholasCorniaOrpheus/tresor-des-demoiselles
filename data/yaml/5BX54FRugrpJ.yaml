@@ -9,7 +9,9 @@ metadata:
   id: 5BX54FRugrpJ
   n_id: 65350530716451168385
 statements:
-  instance_of: null
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
   occupation:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
     label: composer

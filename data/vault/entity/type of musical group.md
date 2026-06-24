@@ -5,7 +5,7 @@ subclass_of:
 described_by_source:
 description:
 aliases:
-label:
+label: type of musical group
 identifier:
   - http://www.wikidata.org/entity/Q105756498
 ---

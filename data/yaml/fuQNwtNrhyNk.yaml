@@ -18,13 +18,16 @@ statements:
     volume: 52
     label: Journal des demoiselles
   contributor:
-  - value: '[[Hortense Wild]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
     role:
       value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
       label: composer
+    label: Hortense Wild
   has_version:
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88118
-    holding_institution: '[[Royal Conservatory of Brussels]]'
+    holding_institution:
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+      label: Royal Conservatory of Brussels
     publication_date: 1884-01-01
     place_of_publication:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
@@ -40,7 +43,8 @@ statements:
   about: null
   language: null
   based_on:
-  - '[[Le Lac des fées]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4
+    label: Le Lac des fées
 assets:
   local_asset_path: null
   IIIF_manifest: null

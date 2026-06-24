@@ -8,7 +8,9 @@ metadata:
   id: mFC9uMqxqNkK
   n_id: 892114523713696634882
 statements:
-  instance_of: null
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+    label: human
   date_of_birth: null
   described_by_source: null
   date_of_death: null

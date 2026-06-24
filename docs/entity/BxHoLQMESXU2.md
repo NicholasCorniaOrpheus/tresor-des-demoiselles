@@ -69,6 +69,9 @@
 ???+ abstract "identifier"
     - [Q239](http://wikidata.org/entity/Q239)
 
+???+ abstract "instance of"
+    - [[city]]
+
 
 
 

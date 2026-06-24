@@ -24,7 +24,8 @@ statements:
   occupation:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
     label: composer
-  - '[[writer]]'
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bmuitt3Uptaq
+    label: writer
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/d/db/Octave_Fouque_par_D%C3%A9li%C3%A9%2C_d%C3%A9tail.jpg
   IIIF_manifest: null
