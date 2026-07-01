@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Chillax-Medium';
-  src: url('../assets/fonts/Chillax-Medium.woff2') format('truetype');
+  src: url('https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/assets/fonts/Chillax-Medium.woff2') format('woff2');
   font-weight: 500;
   font-display: swap;
   font-style: normal;
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'Chillax-Semibold';
-  src: url('..assets/fonts/Chillax-Semibold.woff2') format('truetype');
+  src: url('https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/assets/fonts/Chillax-Semibold.woff2') format('woff2');
   font-weight: 600;
   font-display: swap;
   font-style: normal;
@@ -33,7 +33,7 @@ body, .md-typeset {
 /* Standard Markdown Headings */
 .md-typeset h1, .md-typeset h2, .md-typeset h3 {
     color: #1a1d1a; 
-    font-family: "Chillax Medium"
+    font-family: "Chillax-Medium"
 }
 
 /* Standard Material Buttons */

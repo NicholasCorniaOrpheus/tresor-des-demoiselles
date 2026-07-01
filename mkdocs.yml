@@ -1,5 +1,6 @@
 site_name: Trésor des Demoiselles
 site_author: Nicholas Cornia
+site_url: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles
 repo_url: https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles
 nav:
   - Home: index.md
@@ -34,6 +35,7 @@ theme:
 
   font:
       text: Crimson Pro
+      text: Chillax-Medium
   palette:
     - scheme: default
       primary: custom
