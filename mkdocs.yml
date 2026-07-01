@@ -35,7 +35,6 @@ theme:
 
   font:
       text: Crimson Pro
-      text: Chillax-Medium
   palette:
     - scheme: default
       primary: custom
