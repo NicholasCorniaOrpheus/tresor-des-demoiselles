@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Chillax-Medium';
-  src: url('../assets/fonts/Chillax-Medium.ttf') format('truetype');
+  src: url('../assets/fonts/Chillax-Medium.woff2') format('truetype');
   font-weight: 500;
   font-display: swap;
   font-style: normal;
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'Chillax-Semibold';
-  src: url('../assets/fonts/Chillax-Medium.ttf') format('truetype');
+  src: url('..assets/fonts/Chillax-Semibold.woff2') format('truetype');
   font-weight: 600;
   font-display: swap;
   font-style: normal;
