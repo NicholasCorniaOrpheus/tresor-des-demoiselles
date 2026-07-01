@@ -21,33 +21,8 @@
               "icon": "lucide-table",
               "title": "manifestation_list"
             }
-          },
-          {
-            "id": "5ab174b3152d721b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity/Juliette Dillon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Juliette Dillon"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +184,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5ab174b3152d721b",
+  "active": "a021b60216f25b74",
   "lastOpenFiles": [
-    "entity/Marie Lasseveur.md",
     "entity/Juliette Dillon.md",
+    "entity/Marie Lasseveur.md",
     "manifestation_list.base",
     "entities.base",
     "entity/Alexandre Scola.md",

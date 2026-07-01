@@ -1,0 +1,243 @@
+/* Custom fonts */
+
+@font-face {
+  font-family: 'Chillax-Medium';
+  src: url('../assets/fonts/Chillax-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chillax-Semibold';
+  src: url('../assets/fonts/Chillax-Medium.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+
+
+/* Main colors */
+:root {
+  /* basic foreground and background color of body */
+  --md-primary-fg-color: #792B4F;
+  --md-primary-bg-color: #f9fbfa;
+
+}
+
+body, .md-typeset {
+    font-size: 1.0rem; /* Adjust this value to make it larger */
+    line-height: 1.6;
+}
+
+/* Standard Markdown Headings */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+    color: #1a1d1a; 
+    font-family: "Chillax Medium"
+}
+
+/* Standard Material Buttons */
+.md-typeset .md-button:hover {
+    background-color: #8e1a4a; /* Your 'Agent' color */
+    border-color: #8e1a4a;
+    color: #ffffff;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.md-typeset .md-button:active {
+    background-color: #8e1a4a; /* Your 'Agent' color */
+    border-color: #8e1a4a;
+    color: #8e1a4a;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+
+/* Container for the TEI content */
+#TEI {
+    background-color: #f9fbfa; /* Page background */
+    padding: 2em;
+    font-family: 'Sofia Sans', sans-serif; /* Using your site font */
+    line-height: 1.6;
+    color: #1a1d1a;
+}
+
+/* Standard Links (Anchors) */
+.md-typeset a {
+    color: #792B4F; 
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+/* Hover effects for links */
+.md-typeset a:hover {
+    color: #2B423C; /* Using your 'Organisation' color */
+    border-bottom: 1px solid #792B4F;
+}
+
+/* Specific TEI Element Styles */
+tei-div {
+    display: block; /* Elements act as blocks [4] */
+    margin-bottom: 1em;
+}
+
+tei-p {
+    display: block;
+    margin: 1em 0; /* Standard paragraph margins [4] */
+    text-align: justify;
+}
+
+tei-head {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: var(--md-primary-fg-color); /* Matches your Material theme primary color */
+    margin-top: 1.2em;
+}
+
+/* Hide the TEI Header by default as it contains metadata [5, 6] */
+tei-teiHeader {
+    display: none;
+}
+
+/* Highlighted or important text */
+tei-hi {
+    background-color: #792B4F; /* Pale yellow background for highlights */
+    font-style: italic;
+}
+
+/* Custom Admonition styling to match your theme palettes */
+.md-typeset .admonition {
+    border-left: .2rem solid var(--md-primary-fg-color);
+    background-color: var(--md-default-bg-color);
+}
+
+:root {
+  /* Using 'Agent' color for info/note admonitions */
+  --md-admonition-fg-color--note: #E4EADF;
+  --md-admonition-bg-color--note: #E4EADF; /* 10% transparency */
+
+  /* Using 'Manifestation' color for warnings/abstracts */
+  --md-admonition-fg-color--abstract: #E4EADF;
+  --md-admonition-bg-color--abstract: #E4EADF;
+}
+
+
+/* Ensure the title also scales or stays slightly distinct */
+.md-typeset .admonition-title, 
+.md-typeset summary {
+    font-size: 1.0rem;
+    font-weight: 700;
+}
+
+/* Applying the border and title background */
+.md-typeset .admonition.note, 
+.md-typeset details.note {
+  border-color: var(--md-admonition-fg-color--note);
+}
+.md-typeset .note > .admonition-title, 
+.md-typeset .note > summary {
+  background-color: var(--md-admonition-bg-color--note);
+  border-left: .2rem solid var(--md-admonition-fg-color--note);
+}
+
+.md-typeset .admonition.abstract, 
+.md-typeset details.abstract {
+  border-color: var(--md-admonition-fg-color--abstract);
+}
+.md-typeset .abstract > .admonition-title, 
+.md-typeset .abstract > summary {
+  background-color: var(--md-admonition-bg-color--abstract);
+  border-left: .2rem solid var(--md-admonition-fg-color--abstract);
+}
+
+
+/*D3.js */
+
+#d3-graph-container {
+    width: 100%;
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+/* Ensure the SVG scales correctly */
+#d3-graph-container svg {
+    display: block;
+    max-width: 100%;
+}
+
+/* Specific styling for node labels if added later */
+.node-label {
+    font-size: 12px;
+    fill: var(--md-default-fg-color);
+}
+
+.edge-label{
+    font-size: 10px;
+    fill: var(--md-default-fg-color);
+}
+
+/* Layout for Controls */
+#controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background: var(--md-default-bg-color);
+}
+
+#search {
+    padding: 8px;
+    width: 300px;
+    border: 1px solid var(--md-primary-fg-color);
+    border-radius: 4px;
+}
+
+/* Legend Styling */
+.legend {
+    display: flex;
+    gap: 15px;
+    font-size: 0.9rem;
+}
+.legend-item { display: flex; align-items: center; gap: 5px; }
+.legend-circle { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
+
+/* Modal Backdrop */
+.modal-backdrop {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.6);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Modal Content */
+.modal {
+    background: var(--md-default-bg-color);
+    padding: 2em;
+    border-radius: 8px;
+    max-width: 400px;
+    text-align: center;
+    position: relative;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+}
+
+.modal img { margin-bottom: 1em; border-radius: 4px; }
+
+.close {
+    position: absolute;
+    top: 10px; right: 15px;
+    font-size: 1.5rem;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+/* D3 Elements */
+.node-label {
+    font-size: 14px;
+    pointer-events: none;
+    fill: var(--md-default-fg-color);
+}

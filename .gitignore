@@ -10,7 +10,6 @@ wheels/
 .venv
 
 # keep temporary files out of commit
-docs/
 site/
 data/config/credentials.json
 
