@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,University of Leuven,['KU Leuven'],,University of Leuven,University of Leuven.md,hpUpv7QsMNuH,821623994667663319662,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a,university,,,,,,,,,
+Organisation,University of Leuven,['KU Leuven'],,University of Leuven,University of Leuven.md,hpUpv7QsMNuH,821623994667663319662,described_by_source,,,,,,,,,,,
+Organisation,University of Leuven,['KU Leuven'],,University of Leuven,University of Leuven.md,hpUpv7QsMNuH,821623994667663319662,inception,,,,,,,,,,,
+Organisation,University of Leuven,['KU Leuven'],,University of Leuven,University of Leuven.md,hpUpv7QsMNuH,821623994667663319662,location,,,,,,,,,,,
+Organisation,University of Leuven,['KU Leuven'],,University of Leuven,University of Leuven.md,hpUpv7QsMNuH,821623994667663319662,dissolved,,,,,,,,,,,
+Organisation,University of Leuven,['KU Leuven'],,University of Leuven,University of Leuven.md,hpUpv7QsMNuH,821623994667663319662,contributor,,,,,,,,,,,
+Organisation,University of Leuven,['KU Leuven'],,University of Leuven,University of Leuven.md,hpUpv7QsMNuH,821623994667663319662,official_website,,,,,,,,https://kuleuven.limo.libis.be/,,,
+Organisation,University of Leuven,['KU Leuven'],,University of Leuven,University of Leuven.md,hpUpv7QsMNuH,821623994667663319662,identifier,,,,,,,,,http://www.wikidata.org/entity/Q833670,,
+Organisation,University of Leuven,['KU Leuven'],,University of Leuven,University of Leuven.md,hpUpv7QsMNuH,821623994667663319662,country,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium

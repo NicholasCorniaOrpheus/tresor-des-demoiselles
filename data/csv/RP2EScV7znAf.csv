@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,pseudonym,pseudonym,pseudonym.md,RP2EScV7znAf,482229782750392510579,instance_of,,,,
+Concept,,,pseudonym,pseudonym,pseudonym.md,RP2EScV7znAf,482229782750392510579,subclass_of,,,,
+Concept,,,pseudonym,pseudonym,pseudonym.md,RP2EScV7znAf,482229782750392510579,described_by_source,,,,
+Concept,,,pseudonym,pseudonym,pseudonym.md,RP2EScV7znAf,482229782750392510579,identifier,,,,http://www.wikidata.org/entity/Q61002

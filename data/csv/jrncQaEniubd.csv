@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,date_of_birth,,,,,,,,,,,,
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,described_by_source,,,,,,,,,,,,
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,date_of_death,,,,,,,,,,,,
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,place_of_birth,,,,,,,,,,,,
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,place_of_death,,,,,,,,,,,,
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q18197626,,
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer
+Agent,Octave Fouque,,,Octave Fouque,Octave Fouque.md,jrncQaEniubd,863732792554987841684,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bmuitt3Uptaq,writer

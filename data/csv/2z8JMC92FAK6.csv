@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['paysage'],landscape,landscape,landscape.md,2z8JMC92FAK6,20313795690063128332,instance_of,,,,
+Concept,,['paysage'],landscape,landscape,landscape.md,2z8JMC92FAK6,20313795690063128332,subclass_of,,,,
+Concept,,['paysage'],landscape,landscape,landscape.md,2z8JMC92FAK6,20313795690063128332,described_by_source,,,,
+Concept,,['paysage'],landscape,landscape,landscape.md,2z8JMC92FAK6,20313795690063128332,identifier,,,,http://www.wikidata.org/entity/Q107425

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,occupation_value,occupation_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value
+Agent,Eugeen Edward Stroobant,['Eugeen Stroobant'],,Eugeen Edward Stroobant,Eugeen Edward Stroobant.md,YWYUY7mvkVNd,629407429933659994040,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Eugeen Edward Stroobant,['Eugeen Stroobant'],,Eugeen Edward Stroobant,Eugeen Edward Stroobant.md,YWYUY7mvkVNd,629407429933659994040,occupation,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist,,,,,,,,
+Agent,Eugeen Edward Stroobant,['Eugeen Stroobant'],,Eugeen Edward Stroobant,Eugeen Edward Stroobant.md,YWYUY7mvkVNd,629407429933659994040,date_of_birth,,,,,,,,,,,,
+Agent,Eugeen Edward Stroobant,['Eugeen Stroobant'],,Eugeen Edward Stroobant,Eugeen Edward Stroobant.md,YWYUY7mvkVNd,629407429933659994040,described_by_source,,,,,,,,,,,,
+Agent,Eugeen Edward Stroobant,['Eugeen Stroobant'],,Eugeen Edward Stroobant,Eugeen Edward Stroobant.md,YWYUY7mvkVNd,629407429933659994040,date_of_death,,,,,,,,,,,,
+Agent,Eugeen Edward Stroobant,['Eugeen Stroobant'],,Eugeen Edward Stroobant,Eugeen Edward Stroobant.md,YWYUY7mvkVNd,629407429933659994040,place_of_birth,,,,,,,,,,,,
+Agent,Eugeen Edward Stroobant,['Eugeen Stroobant'],,Eugeen Edward Stroobant,Eugeen Edward Stroobant.md,YWYUY7mvkVNd,629407429933659994040,place_of_death,,,,,,,,,,,,
+Agent,Eugeen Edward Stroobant,['Eugeen Stroobant'],,Eugeen Edward Stroobant,Eugeen Edward Stroobant.md,YWYUY7mvkVNd,629407429933659994040,sex_or_gender,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,
+Agent,Eugeen Edward Stroobant,['Eugeen Stroobant'],,Eugeen Edward Stroobant,Eugeen Edward Stroobant.md,YWYUY7mvkVNd,629407429933659994040,identifier,,,,,,,,,,,,http://www.wikidata.org/entity/Q56036071

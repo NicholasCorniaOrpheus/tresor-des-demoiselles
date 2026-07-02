@@ -1,0 +1,8 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value,form_of_creative_work_value,form_of_creative_work_label,contributor_value,contributor_role,contributor_label,based_on_value
+Work,,"[""Parisina d'Este""]",Parisina,Parisina,Parisina.md,UabpPirExmof,548333230265211457405,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp,dramatico-musical work,,,,,,,,,
+Work,,"[""Parisina d'Este""]",Parisina,Parisina,Parisina.md,UabpPirExmof,548333230265211457405,subclass_of,,,,,,,,,,,
+Work,,"[""Parisina d'Este""]",Parisina,Parisina,Parisina.md,UabpPirExmof,548333230265211457405,described_by_source,,,,,,,,,,,
+Work,,"[""Parisina d'Este""]",Parisina,Parisina,Parisina.md,UabpPirExmof,548333230265211457405,identifier,,,,,http://www.wikidata.org/entity/Q652926,,,,,,
+Work,,"[""Parisina d'Este""]",Parisina,Parisina,Parisina.md,UabpPirExmof,548333230265211457405,form_of_creative_work,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs,opera,,,,
+Work,,"[""Parisina d'Este""]",Parisina,Parisina,Parisina.md,UabpPirExmof,548333230265211457405,contributor,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm,"{'value': 'https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5', 'label': 'composer'}",Gaetano Donizetti,
+Work,,"[""Parisina d'Este""]",Parisina,Parisina,Parisina.md,UabpPirExmof,548333230265211457405,based_on,,,,,,,,,,,

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Narcisse Bousquet,,,Narcisse Bousquet,Narcisse Bousquet.md,TyP7T2zkXYhF,535943317309628581084,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Narcisse Bousquet,,,Narcisse Bousquet,Narcisse Bousquet.md,TyP7T2zkXYhF,535943317309628581084,date_of_birth,,,,,,,,,,,,
+Agent,Narcisse Bousquet,,,Narcisse Bousquet,Narcisse Bousquet.md,TyP7T2zkXYhF,535943317309628581084,described_by_source,,,,,,,,,,,,
+Agent,Narcisse Bousquet,,,Narcisse Bousquet,Narcisse Bousquet.md,TyP7T2zkXYhF,535943317309628581084,date_of_death,,,,,,,,,,,,
+Agent,Narcisse Bousquet,,,Narcisse Bousquet,Narcisse Bousquet.md,TyP7T2zkXYhF,535943317309628581084,place_of_birth,,,,,,,,,,,,
+Agent,Narcisse Bousquet,,,Narcisse Bousquet,Narcisse Bousquet.md,TyP7T2zkXYhF,535943317309628581084,place_of_death,,,,,,,,,,,,
+Agent,Narcisse Bousquet,,,Narcisse Bousquet,Narcisse Bousquet.md,TyP7T2zkXYhF,535943317309628581084,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Narcisse Bousquet,,,Narcisse Bousquet,Narcisse Bousquet.md,TyP7T2zkXYhF,535943317309628581084,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q116868205,,
+Agent,Narcisse Bousquet,,,Narcisse Bousquet,Narcisse Bousquet.md,TyP7T2zkXYhF,535943317309628581084,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

@@ -1,13 +1,20 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://www.wikidata.org/entity/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:Vrznz6W5khox-assertion-krE4ct8qX62P a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:SuU5RRaXHL2Z ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Vrznz6W5khox .
+
 tdd:Vrznz6W5khox a rdfs:Resource ;
-    rdfs:label "Le val d'Andorre" ;
-    dcterms:type bf:Work ;
+    <> tdd:SuU5RRaXHL2Z ;
+    dcterms:identifier ns1:Q3662242 ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
     ns1:P7937 tdd:NwTUKgXApENs .
 

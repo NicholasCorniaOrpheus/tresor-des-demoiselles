@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['conservatoire'],conservatory,conservatory,conservatory.md,3ZezRAF7fMBC,32093871076294140592,instance_of,,,,
+Concept,,['conservatoire'],conservatory,conservatory,conservatory.md,3ZezRAF7fMBC,32093871076294140592,subclass_of,,,,
+Concept,,['conservatoire'],conservatory,conservatory,conservatory.md,3ZezRAF7fMBC,32093871076294140592,described_by_source,,,,
+Concept,,['conservatoire'],conservatory,conservatory,conservatory.md,3ZezRAF7fMBC,32093871076294140592,identifier,,,,http://www.wikidata.org/entity/Q184644

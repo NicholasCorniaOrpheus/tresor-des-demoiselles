@@ -25,6 +25,5 @@ statements:
 assets:
   image: https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Adrien_Talexy_1850.jpg
   IIIF_manifest: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/PiqNkd3hzjnY.json
 content:
   markdown_content: ''

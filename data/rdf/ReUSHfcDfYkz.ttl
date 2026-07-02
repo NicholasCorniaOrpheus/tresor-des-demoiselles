@@ -1,11 +1,55 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:ReUSHfcDfYkz-assertion-DejsE8AizWNj a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ReUSHfcDfYkz ;
+    schema:datePublished "1857-01-01"^^xsd:date .
+
+tdd:ReUSHfcDfYkz-assertion-QiAVWwmMBS9d a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ReUSHfcDfYkz ;
+    schema:datePublished "1857-01-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:ReUSHfcDfYkz-assertion-USh2zRUUrL2A a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ReUSHfcDfYkz .
+
+tdd:ReUSHfcDfYkz-assertion-Xk7vDrc9fVYj a rdf:Statement ;
+    bf:heldBy tdd:7LoWAKaDbbUb ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ReUSHfcDfYkz ;
+    schema:datePublished "1857-01-01"^^xsd:date ;
+    schema:url <http://id.sbn.it/bid/MUS0256990> .
+
+tdd:ReUSHfcDfYkz-assertion-jRhkKJqqvv8k a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:mFC9uMqxqNkK ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ReUSHfcDfYkz .
+
+tdd:ReUSHfcDfYkz-assertion-nPt8jsNiTXH7 a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:inAaJFhDYvcx ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ReUSHfcDfYkz .
 
 tdd:ReUSHfcDfYkz a rdfs:Resource ;
-    rdfs:label "Herminie. Mazurka" ;
+    <> tdd:NS7S3TJjbHvU,
+        tdd:inAaJFhDYvcx,
+        tdd:mFC9uMqxqNkK ;
     dcterms:title "Herminie. Mazurka" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:aRNbPTwmsbtP .
 

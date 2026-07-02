@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,type of musical instrument,type of musical instrument,type of musical instrument.md,e2BQmjur6FrK,742952096246536076708,instance_of,,,,
+Concept,,,type of musical instrument,type of musical instrument,type of musical instrument.md,e2BQmjur6FrK,742952096246536076708,subclass_of,,,,
+Concept,,,type of musical instrument,type of musical instrument,type of musical instrument.md,e2BQmjur6FrK,742952096246536076708,described_by_source,,,,
+Concept,,,type of musical instrument,type of musical instrument,type of musical instrument.md,e2BQmjur6FrK,742952096246536076708,identifier,,,,http://www.wikidata.org/entity/Q110295396

@@ -1,0 +1,4 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,country_value,country_label,identifier_value,instance_of_value,instance_of_label
+Place,Ghent,"['Gand', 'Gent']",,Ghent,Ghent.md,dcRsGEWm6xtE,734717200977129141990,country,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium,,,
+Place,Ghent,"['Gand', 'Gent']",,Ghent,Ghent.md,dcRsGEWm6xtE,734717200977129141990,identifier,,,http://www.wikidata.org/entity/Q1296,,
+Place,Ghent,"['Gand', 'Gent']",,Ghent,Ghent.md,dcRsGEWm6xtE,734717200977129141990,instance_of,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Kd5wMW8fYWBe,city

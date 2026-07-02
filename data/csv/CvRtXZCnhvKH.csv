@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['ondine'],undine,undine,undine.md,CvRtXZCnhvKH,225336445010721734628,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i35bPNVVTFXP,mythical character,,,
+Concept,,['ondine'],undine,undine,undine.md,CvRtXZCnhvKH,225336445010721734628,subclass_of,,,,,
+Concept,,['ondine'],undine,undine,undine.md,CvRtXZCnhvKH,225336445010721734628,described_by_source,,,,,
+Concept,,['ondine'],undine,undine,undine.md,CvRtXZCnhvKH,225336445010721734628,identifier,,,,,http://www.wikidata.org/entity/Q192032

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,classical dance music,classical dance music,classical dance music.md,Mj6hzfVSHHew,406955326902224693462,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,classical dance music,classical dance music,classical dance music.md,Mj6hzfVSHHew,406955326902224693462,subclass_of,,,,,
+Concept,,,classical dance music,classical dance music,classical dance music.md,Mj6hzfVSHHew,406955326902224693462,described_by_source,,,,,
+Concept,,,classical dance music,classical dance music,classical dance music.md,Mj6hzfVSHHew,406955326902224693462,identifier,,,,,http://www.wikidata.org/entity/Q118738876

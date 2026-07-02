@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,type of fictional character,type of fictional character,type of fictional character.md,GVQ2Jm6uRJuh,298817263371010291122,instance_of,,,,
+Concept,,,type of fictional character,type of fictional character,type of fictional character.md,GVQ2Jm6uRJuh,298817263371010291122,subclass_of,,,,
+Concept,,,type of fictional character,type of fictional character,type of fictional character.md,GVQ2Jm6uRJuh,298817263371010291122,described_by_source,,,,
+Concept,,,type of fictional character,type of fictional character,type of fictional character.md,GVQ2Jm6uRJuh,298817263371010291122,identifier,,,,http://www.wikidata.org/entity/Q112265308

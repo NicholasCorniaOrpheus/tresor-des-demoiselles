@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,medievalism,medievalism,medievalism.md,KBhDjToyQTEi,354317611937697132709,instance_of,,,,
+Concept,,,medievalism,medievalism,medievalism.md,KBhDjToyQTEi,354317611937697132709,subclass_of,,,,
+Concept,,,medievalism,medievalism,medievalism.md,KBhDjToyQTEi,354317611937697132709,described_by_source,,,,
+Concept,,,medievalism,medievalism,medievalism.md,KBhDjToyQTEi,354317611937697132709,identifier,,,,http://www.wikidata.org/entity/Q12348939

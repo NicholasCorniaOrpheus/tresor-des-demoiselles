@@ -1,11 +1,67 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:2Qk3wiPP6j39-assertion-9Ue5b4ZPvkxR a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate <> ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:datePublished "1852-01-01"^^xsd:date .
+
+tdd:2Qk3wiPP6j39-assertion-9wqSFhheDWp6 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:2Qk3wiPP6j39 .
+
+tdd:2Qk3wiPP6j39-assertion-HLVEY4HCMcrv a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:url <https://anet.be/record/opacdkvc/c:lvd:6722999> .
+
+tdd:2Qk3wiPP6j39-assertion-KM2DtQpBMUAP a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:2Qk3wiPP6j39 .
+
+tdd:2Qk3wiPP6j39-assertion-KMLezWn7VCUQ a rdf:Statement ;
+    bf:Note "Piano four-hands version. Second edition." ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:datePublished "1862-01-01"^^xsd:date ;
+    schema:url <http://ark.bnf.fr/ark:/12148/cb42884316z> .
+
+tdd:2Qk3wiPP6j39-assertion-YKhytfG7ikq9 a rdf:Statement ;
+    rdf:object tdd:af9ZEKkDCPJP ;
+    rdf:predicate <> ;
+    rdf:subject tdd:2Qk3wiPP6j39 .
+
+tdd:2Qk3wiPP6j39-assertion-cZhzw4zPQQLx a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:kXFWowftH5UQ ;
+    rdf:predicate <> ;
+    rdf:subject tdd:2Qk3wiPP6j39 .
+
+tdd:2Qk3wiPP6j39-assertion-iUqdoJuJazmz a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
 tdd:2Qk3wiPP6j39 a rdfs:Resource ;
-    rdfs:label "Fantaisie sur le Carillonneur" ;
+    <> tdd:HuT8aF2rGmzB,
+        tdd:VWaxuELqVfKN,
+        tdd:af9ZEKkDCPJP,
+        tdd:kXFWowftH5UQ ;
     dcterms:title "Fantaisie sur le Carillonneur" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:dkFoW9KcT58b .
 

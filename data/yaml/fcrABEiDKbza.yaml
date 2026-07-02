@@ -19,7 +19,6 @@ statements:
     label: Wikidata
 assets:
   IIIF_manifest: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/fcrABEiDKbza.json
+  image: []
 content:
   markdown_content: ''

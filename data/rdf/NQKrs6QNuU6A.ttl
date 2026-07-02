@@ -1,12 +1,30 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:NQKrs6QNuU6A-assertion-TZFJ2LM5LJvf a rdf:Statement ;
+    rdf:object tdd:PGagqrY8C5Aa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NQKrs6QNuU6A .
+
+tdd:NQKrs6QNuU6A-assertion-b5x2nckV8KBd a rdf:Statement ;
+    rdf:object tdd:Mgp8YUwRv3Jz ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NQKrs6QNuU6A .
+
+tdd:NQKrs6QNuU6A-assertion-miw3UR3bPWZv a rdf:Statement ;
+    rdf:object tdd:3yS9agtba9rA ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NQKrs6QNuU6A .
+
 tdd:NQKrs6QNuU6A a rdfs:Resource ;
-    rdfs:label "Achille de Lauzières" ;
-    dcterms:type dcterms:Agent ;
+    <> tdd:3yS9agtba9rA,
+        tdd:Mgp8YUwRv3Jz,
+        tdd:PGagqrY8C5Aa ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q28779257> ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD .
 

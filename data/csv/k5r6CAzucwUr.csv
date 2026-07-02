@@ -1,0 +1,8 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value,form_of_creative_work_value,form_of_creative_work_label,contributor_value,contributor_role,contributor_label,based_on_value
+Work,,,L'elisir d'amore,L'elisir d'amore,L'elisir d'amore.md,k5r6CAzucwUr,868099231250241298047,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp,dramatico-musical work,,,,,,,,,
+Work,,,L'elisir d'amore,L'elisir d'amore,L'elisir d'amore.md,k5r6CAzucwUr,868099231250241298047,subclass_of,,,,,,,,,,,
+Work,,,L'elisir d'amore,L'elisir d'amore,L'elisir d'amore.md,k5r6CAzucwUr,868099231250241298047,described_by_source,,,,,,,,,,,
+Work,,,L'elisir d'amore,L'elisir d'amore,L'elisir d'amore.md,k5r6CAzucwUr,868099231250241298047,identifier,,,,,http://www.wikidata.org/entity/Q332536,,,,,,
+Work,,,L'elisir d'amore,L'elisir d'amore,L'elisir d'amore.md,k5r6CAzucwUr,868099231250241298047,form_of_creative_work,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs,opera,,,,
+Work,,,L'elisir d'amore,L'elisir d'amore,L'elisir d'amore.md,k5r6CAzucwUr,868099231250241298047,contributor,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PBr2jjFrFXnm,"{'value': 'https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5', 'label': 'composer'}",Gaetano Donizetti,
+Work,,,L'elisir d'amore,L'elisir d'amore,L'elisir d'amore.md,k5r6CAzucwUr,868099231250241298047,based_on,,,,,,,,,,,

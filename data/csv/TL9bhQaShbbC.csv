@@ -1,0 +1,4 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,country_value,instance_of_value,instance_of_label
+Place,Canada,,,Canada,Canada.md,TL9bhQaShbbC,522462311703205352227,identifier,http://www.wikidata.org/entity/Q16,,,
+Place,Canada,,,Canada,Canada.md,TL9bhQaShbbC,522462311703205352227,country,,,,
+Place,Canada,,,Canada,Canada.md,TL9bhQaShbbC,522462311703205352227,instance_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq,country

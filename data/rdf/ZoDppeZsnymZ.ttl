@@ -1,14 +1,42 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://www.wikidata.org/entity/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:ZoDppeZsnymZ-assertion-CsvtSgLvxQSu a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ZoDppeZsnymZ ;
+    schema:datePublished "1890-01-01"^^xsd:date .
+
+tdd:ZoDppeZsnymZ-assertion-Tm3KjhiBYSfT a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ZoDppeZsnymZ ;
+    schema:datePublished "1890-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88119> .
+
+tdd:ZoDppeZsnymZ-assertion-Wv4byAfNTDLP a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:26TsCae57TVa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ZoDppeZsnymZ .
+
+tdd:ZoDppeZsnymZ-assertion-ndQEnjMhneBJ a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ZoDppeZsnymZ .
 
 tdd:ZoDppeZsnymZ a rdfs:Resource ;
-    rdfs:label "Ondine" ;
+    <> tdd:26TsCae57TVa,
+        tdd:NS7S3TJjbHvU ;
     dcterms:title "Ondine" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:FNU55ruFFYjd ;
     ns1:P180 tdd:CvRtXZCnhvKH ;
     schema:about tdd:RixYXzFHfhqy .

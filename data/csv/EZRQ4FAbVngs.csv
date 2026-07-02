@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Charles-Henri Plantade,,,Charles-Henri Plantade,Charles-Henri Plantade.md,EZRQ4FAbVngs,259002371418923370862,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Charles-Henri Plantade,,,Charles-Henri Plantade,Charles-Henri Plantade.md,EZRQ4FAbVngs,259002371418923370862,date_of_birth,,,,,,,,,,,,
+Agent,Charles-Henri Plantade,,,Charles-Henri Plantade,Charles-Henri Plantade.md,EZRQ4FAbVngs,259002371418923370862,described_by_source,,,,,,,,,,,,
+Agent,Charles-Henri Plantade,,,Charles-Henri Plantade,Charles-Henri Plantade.md,EZRQ4FAbVngs,259002371418923370862,date_of_death,,,,,,,,,,,,
+Agent,Charles-Henri Plantade,,,Charles-Henri Plantade,Charles-Henri Plantade.md,EZRQ4FAbVngs,259002371418923370862,place_of_birth,,,,,,,,,,,,
+Agent,Charles-Henri Plantade,,,Charles-Henri Plantade,Charles-Henri Plantade.md,EZRQ4FAbVngs,259002371418923370862,place_of_death,,,,,,,,,,,,
+Agent,Charles-Henri Plantade,,,Charles-Henri Plantade,Charles-Henri Plantade.md,EZRQ4FAbVngs,259002371418923370862,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Charles-Henri Plantade,,,Charles-Henri Plantade,Charles-Henri Plantade.md,EZRQ4FAbVngs,259002371418923370862,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q2958126,,
+Agent,Charles-Henri Plantade,,,Charles-Henri Plantade,Charles-Henri Plantade.md,EZRQ4FAbVngs,259002371418923370862,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

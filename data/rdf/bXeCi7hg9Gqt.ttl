@@ -1,12 +1,57 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:bXeCi7hg9Gqt-assertion-5SrYusfP8cdT a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-assertion-ABRHvFhCeNCy a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-assertion-E9EDhoyqv6rY a rdf:Statement ;
+    bf:Note "Hommage à Madame la Baronne de Peellaert" ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    rdf:predicate <> ;
+    rdf:subject tdd:bXeCi7hg9Gqt ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971523> .
+
+tdd:bXeCi7hg9Gqt-assertion-GjpWQJ4WPcHu a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:oTMkeVga9UZA ;
+    rdf:predicate <> ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-assertion-Gpbjt5nCU53z a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:RjYJceWjXaJJ ;
+    rdf:predicate <> ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-assertion-L7BBVg8AvS22 a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:YWYUY7mvkVNd ;
+    rdf:predicate <> ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-assertion-iGkbwQa78PMR a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
 tdd:bXeCi7hg9Gqt a rdfs:Resource ;
-    rdfs:label "L'enfant et la rose: mélodie" ;
+    <> tdd:RjYJceWjXaJJ,
+        tdd:VWaxuELqVfKN,
+        tdd:YWYUY7mvkVNd,
+        tdd:oTMkeVga9UZA ;
     dcterms:title "L'enfant et la rose: mélodie" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,city,city,city.md,Kd5wMW8fYWBe,363506463021271167549,instance_of,,,,
+Concept,,,city,city,city.md,Kd5wMW8fYWBe,363506463021271167549,subclass_of,,,,
+Concept,,,city,city,city.md,Kd5wMW8fYWBe,363506463021271167549,described_by_source,,,,
+Concept,,,city,city,city.md,Kd5wMW8fYWBe,363506463021271167549,identifier,,,,http://www.wikidata.org/entity/Q515

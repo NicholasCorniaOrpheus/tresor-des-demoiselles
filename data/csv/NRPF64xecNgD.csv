@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,date_of_birth,,,,,,,,,,,,
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,described_by_source,,,,,,,,,,,,
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,date_of_death,,,,,,,,,,,,
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,place_of_birth,,,,,,,,,,,,
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,place_of_death,,,,,,,,,,,,
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q466987,,
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist
+Agent,Marceline Desbordes-Valmore,,,Marceline Desbordes-Valmore,Marceline Desbordes-Valmore.md,NRPF64xecNgD,421179601685530661900,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS,poet

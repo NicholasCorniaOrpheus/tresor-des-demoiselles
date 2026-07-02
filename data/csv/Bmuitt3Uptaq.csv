@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,writer,writer,writer.md,Bmuitt3Uptaq,201619013476622454773,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ,occupation,,,
+Concept,,,writer,writer,writer.md,Bmuitt3Uptaq,201619013476622454773,subclass_of,,,,,
+Concept,,,writer,writer,writer.md,Bmuitt3Uptaq,201619013476622454773,described_by_source,,,,,
+Concept,,,writer,writer,writer.md,Bmuitt3Uptaq,201619013476622454773,identifier,,,,,http://www.wikidata.org/entity/Q36180

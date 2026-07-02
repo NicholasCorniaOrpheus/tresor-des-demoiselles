@@ -1,11 +1,41 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:LiRnHQgHVwqd-assertion-2qMnb6jLdHzZ a rdf:Statement ;
+    bf:Note "dedicated to M.me C. Houillon" ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LiRnHQgHVwqd ;
+    schema:datePublished "1855-11-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:LiRnHQgHVwqd-assertion-8FP3tRcJhCY2 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LiRnHQgHVwqd .
+
+tdd:LiRnHQgHVwqd-assertion-R8t9sRQhkvNi a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LiRnHQgHVwqd ;
+    schema:datePublished "1855-11-01"^^xsd:date .
+
+tdd:LiRnHQgHVwqd-assertion-S9rWgL8SgiVR a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:dzhMAzwriP43 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LiRnHQgHVwqd .
 
 tdd:LiRnHQgHVwqd a rdfs:Resource ;
-    rdfs:label "Les lutins de Bretagne" ;
+    <> tdd:NS7S3TJjbHvU,
+        tdd:dzhMAzwriP43 ;
     dcterms:title "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:HKt9yvCZmpw6 .
 

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Antoine Louis Clapisson,,,Antoine Louis Clapisson,Antoine Louis Clapisson.md,mscfQWWqDRcw,905303445212915321177,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Antoine Louis Clapisson,,,Antoine Louis Clapisson,Antoine Louis Clapisson.md,mscfQWWqDRcw,905303445212915321177,date_of_birth,,,,,,,,,,,,
+Agent,Antoine Louis Clapisson,,,Antoine Louis Clapisson,Antoine Louis Clapisson.md,mscfQWWqDRcw,905303445212915321177,described_by_source,,,,,,,,,,,,
+Agent,Antoine Louis Clapisson,,,Antoine Louis Clapisson,Antoine Louis Clapisson.md,mscfQWWqDRcw,905303445212915321177,date_of_death,,,,,,,,,,,,
+Agent,Antoine Louis Clapisson,,,Antoine Louis Clapisson,Antoine Louis Clapisson.md,mscfQWWqDRcw,905303445212915321177,place_of_birth,,,,,,,,,,,,
+Agent,Antoine Louis Clapisson,,,Antoine Louis Clapisson,Antoine Louis Clapisson.md,mscfQWWqDRcw,905303445212915321177,place_of_death,,,,,,,,,,,,
+Agent,Antoine Louis Clapisson,,,Antoine Louis Clapisson,Antoine Louis Clapisson.md,mscfQWWqDRcw,905303445212915321177,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Antoine Louis Clapisson,,,Antoine Louis Clapisson,Antoine Louis Clapisson.md,mscfQWWqDRcw,905303445212915321177,identifier,,,,,,,,,,http://wikidata.org/entity/Q1871594,,
+Agent,Antoine Louis Clapisson,,,Antoine Louis Clapisson,Antoine Louis Clapisson.md,mscfQWWqDRcw,905303445212915321177,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

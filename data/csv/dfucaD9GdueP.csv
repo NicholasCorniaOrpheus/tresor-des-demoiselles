@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['type of composition'],type of musical work,type of musical work,type of musical work.md,dfucaD9GdueP,735979505609816392764,instance_of,,,,
+Concept,,['type of composition'],type of musical work,type of musical work,type of musical work.md,dfucaD9GdueP,735979505609816392764,subclass_of,,,,
+Concept,,['type of composition'],type of musical work,type of musical work,type of musical work.md,dfucaD9GdueP,735979505609816392764,described_by_source,,,,
+Concept,,['type of composition'],type of musical work,type of musical work,type of musical work.md,dfucaD9GdueP,735979505609816392764,identifier,,,,http://www.wikidata.org/entity/Q107487333

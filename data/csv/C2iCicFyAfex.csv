@@ -1,0 +1,8 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value,form_of_creative_work_value,form_of_creative_work_label,contributor_value,contributor_role,contributor_label,based_on_value
+Work,,,Le Caïd,Le Caïd,Le Caïd.md,C2iCicFyAfex,206614251070597609065,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp,dramatico-musical work,,,,,,,,,
+Work,,,Le Caïd,Le Caïd,Le Caïd.md,C2iCicFyAfex,206614251070597609065,subclass_of,,,,,,,,,,,
+Work,,,Le Caïd,Le Caïd,Le Caïd.md,C2iCicFyAfex,206614251070597609065,described_by_source,,,,,,,,,,,
+Work,,,Le Caïd,Le Caïd,Le Caïd.md,C2iCicFyAfex,206614251070597609065,identifier,,,,,http://www.wikidata.org/entity/Q8773631,,,,,,
+Work,,,Le Caïd,Le Caïd,Le Caïd.md,C2iCicFyAfex,206614251070597609065,form_of_creative_work,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs,opera,,,,
+Work,,,Le Caïd,Le Caïd,Le Caïd.md,C2iCicFyAfex,206614251070597609065,contributor,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/55xUpX4b9uvf,"{'value': 'https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5', 'label': 'composer'}",Ambroise Thomas,
+Work,,,Le Caïd,Le Caïd,Le Caïd.md,C2iCicFyAfex,206614251070597609065,based_on,,,,,,,,,,,

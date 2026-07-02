@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,serenade,serenade,serenade.md,d3Jyp9sKuWUF,722726371777913955712,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,serenade,serenade,serenade.md,d3Jyp9sKuWUF,722726371777913955712,subclass_of,,,,,
+Concept,,,serenade,serenade,serenade.md,d3Jyp9sKuWUF,722726371777913955712,described_by_source,,,,,
+Concept,,,serenade,serenade,serenade.md,d3Jyp9sKuWUF,722726371777913955712,identifier,,,,,http://www.wikidata.org/entity/Q215911

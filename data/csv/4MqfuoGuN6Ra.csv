@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,identifier_value,occupation_value,occupation_label
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RP2EScV7znAf,pseudonym,,,,,,,,,
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,date_of_birth,,,,,,,,,,,
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,described_by_source,,,,,,,,,,,
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,date_of_death,,,,,,,,,,,
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,place_of_birth,,,,,,,,,,,
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,place_of_death,,,,,,,,,,,
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,sex_or_gender,,,,,,,,,,,
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,identifier,,,,,,,,,http://www.wikidata.org/entity/Q140289067,,
+Agent,Remiehleki,,,Remiehleki,Remiehleki.md,4MqfuoGuN6Ra,48453175926560772929,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Alexandre Scola,['A. Scola'],,Alexandre Scola,Alexandre Scola.md,bqLWPNXVxrhM,698117751137002919455,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Alexandre Scola,['A. Scola'],,Alexandre Scola,Alexandre Scola.md,bqLWPNXVxrhM,698117751137002919455,date_of_birth,,,,,,,,,,,,
+Agent,Alexandre Scola,['A. Scola'],,Alexandre Scola,Alexandre Scola.md,bqLWPNXVxrhM,698117751137002919455,described_by_source,,,,,,,,,,,,
+Agent,Alexandre Scola,['A. Scola'],,Alexandre Scola,Alexandre Scola.md,bqLWPNXVxrhM,698117751137002919455,date_of_death,,,,,,,,,,,,
+Agent,Alexandre Scola,['A. Scola'],,Alexandre Scola,Alexandre Scola.md,bqLWPNXVxrhM,698117751137002919455,place_of_birth,,,,,,,,,,,,
+Agent,Alexandre Scola,['A. Scola'],,Alexandre Scola,Alexandre Scola.md,bqLWPNXVxrhM,698117751137002919455,place_of_death,,,,,,,,,,,,
+Agent,Alexandre Scola,['A. Scola'],,Alexandre Scola,Alexandre Scola.md,bqLWPNXVxrhM,698117751137002919455,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Alexandre Scola,['A. Scola'],,Alexandre Scola,Alexandre Scola.md,bqLWPNXVxrhM,698117751137002919455,identifier,,,,,,,,,,http: //www.wikidata.org/entity/Q126896703,,
+Agent,Alexandre Scola,['A. Scola'],,Alexandre Scola,Alexandre Scola.md,bqLWPNXVxrhM,698117751137002919455,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

@@ -1,15 +1,20 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
-@prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:S2Htsbzzq7aP-assertion-Dkeu8T6DNWzB a rdf:Statement ;
+    rdf:object "2015-01-01"^^xsd:date ;
+    rdf:predicate <> ;
+    rdf:subject tdd:S2Htsbzzq7aP .
+
+tdd:S2Htsbzzq7aP-assertion-W33fCPkPJLJp a rdf:Statement ;
+    rdf:object "2021-01-01"^^xsd:date ;
+    rdf:predicate <> ;
+    rdf:subject tdd:S2Htsbzzq7aP .
 
 tdd:S2Htsbzzq7aP a rdfs:Resource ;
-    rdfs:label "Agents of Change. Women Editors and Socio-Cultural Transformation in Europe 1710-1920" ;
-    dc:description "Agents of Change: Women Editors and Socio-Cultural Transformation in Europe, 1710-1920″ (acronym WeChangEd) was an ERC Starting Grant project directed by Marianne Van Remoortel and based at the Department of Literary Studies, Ghent University, Belgium." ;
-    dcterms:type bf:Organization ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
-    skos:altLabel "WeChangeEd" .
+    wdt:P856 <https://www.wechanged.ugent.be/> .
 

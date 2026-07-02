@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Munich Digitization Center,['MDZ'],,Munich Digitization Center,Munich Digitization Center.md,PSaEANSLWUfh,442247297981066628801,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS,digital library,,,,,,,,,
+Organisation,Munich Digitization Center,['MDZ'],,Munich Digitization Center,Munich Digitization Center.md,PSaEANSLWUfh,442247297981066628801,described_by_source,,,,,,,,,,,
+Organisation,Munich Digitization Center,['MDZ'],,Munich Digitization Center,Munich Digitization Center.md,PSaEANSLWUfh,442247297981066628801,inception,,,,,,,,,,,
+Organisation,Munich Digitization Center,['MDZ'],,Munich Digitization Center,Munich Digitization Center.md,PSaEANSLWUfh,442247297981066628801,location,,,,,,,,,,,
+Organisation,Munich Digitization Center,['MDZ'],,Munich Digitization Center,Munich Digitization Center.md,PSaEANSLWUfh,442247297981066628801,dissolved,,,,,,,,,,,
+Organisation,Munich Digitization Center,['MDZ'],,Munich Digitization Center,Munich Digitization Center.md,PSaEANSLWUfh,442247297981066628801,contributor,,,,,,,,,,,
+Organisation,Munich Digitization Center,['MDZ'],,Munich Digitization Center,Munich Digitization Center.md,PSaEANSLWUfh,442247297981066628801,official_website,,,,,,,,https://www.digitale-sammlungen.de/,,,
+Organisation,Munich Digitization Center,['MDZ'],,Munich Digitization Center,Munich Digitization Center.md,PSaEANSLWUfh,442247297981066628801,identifier,,,,,,,,,http://www.wikidata.org/entity/Q1645155,,
+Organisation,Munich Digitization Center,['MDZ'],,Munich Digitization Center,Munich Digitization Center.md,PSaEANSLWUfh,442247297981066628801,country,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXFBXUBFBjqU,Germany

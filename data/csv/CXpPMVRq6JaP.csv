@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,occupation_value,occupation_label
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,identifier,http://www.wikidata.org/entity/Q3136065,,,,,,,,,,
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,instance_of,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,date_of_birth,,,,,,,,,,,
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,described_by_source,,,,,,,,,,,
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,date_of_death,,,,,,,,,,,
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,place_of_birth,,,,,,,,,,,
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,place_of_death,,,,,,,,,,,
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,sex_or_gender,,,,,,,,,,,
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist
+Agent,Hippolyte Guérin,,,Hippolyte Guérin,Hippolyte Guérin.md,CXpPMVRq6JaP,217152510888317167143,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS,poet

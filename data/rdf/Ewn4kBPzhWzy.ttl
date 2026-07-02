@@ -4,7 +4,6 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Ewn4kBPzhWzy a rdfs:Resource ;
-    rdfs:label "George Sawanoff" ;
-    dcterms:type dcterms:Agent ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q126896682> ;
     wdt:P31 tdd:TudsDJnQvonk .
 

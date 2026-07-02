@@ -1,12 +1,16 @@
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:WZhiseJ2xo5P-assertion-bucrDdkf7wS5 a rdf:Statement ;
+    rdf:object tdd:PGagqrY8C5Aa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:WZhiseJ2xo5P .
+
 tdd:WZhiseJ2xo5P a rdfs:Resource ;
-    rdfs:label "Georges de Nevers" ;
-    dcterms:type dcterms:Agent ;
+    <> tdd:PGagqrY8C5Aa ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD .
 

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,early music,early music,early music.md,VnjPFmovn4vN,573361540564776801332,instance_of,,,,
+Concept,,,early music,early music,early music.md,VnjPFmovn4vN,573361540564776801332,subclass_of,,,,
+Concept,,,early music,early music,early music.md,VnjPFmovn4vN,573361540564776801332,described_by_source,,,,
+Concept,,,early music,early music,early music.md,VnjPFmovn4vN,573361540564776801332,identifier,,,,http://www.wikidata.org/entity/Q436016

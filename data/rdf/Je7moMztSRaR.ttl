@@ -1,10 +1,16 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
+tdd:Je7moMztSRaR-assertion-o2cHbGkPVwSR a rdf:Statement ;
+    rdf:object tdd:PGagqrY8C5Aa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Je7moMztSRaR .
+
 tdd:Je7moMztSRaR a rdfs:Resource ;
-    rdfs:label "Émile Barateau" ;
-    dcterms:type dcterms:Agent ;
+    <> tdd:PGagqrY8C5Aa ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q55836686> ;
     schema:gender tdd:hkA3uvTGSDnD .
 

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,mythology,mythology,mythology.md,RixYXzFHfhqy,489453411239179843390,instance_of,,,,
+Concept,,,mythology,mythology,mythology.md,RixYXzFHfhqy,489453411239179843390,subclass_of,,,,
+Concept,,,mythology,mythology,mythology.md,RixYXzFHfhqy,489453411239179843390,described_by_source,,,,
+Concept,,,mythology,mythology,mythology.md,RixYXzFHfhqy,489453411239179843390,identifier,,,,http://www.wikidata.org/entity/Q9134

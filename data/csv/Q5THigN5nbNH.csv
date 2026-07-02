@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,identifier_value,occupation_value,occupation_label
+Agent,Dupuy,,,Dupuy,Dupuy.md,Q5THigN5nbNH,455236435138792070622,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,
+Agent,Dupuy,,,Dupuy,Dupuy.md,Q5THigN5nbNH,455236435138792070622,date_of_birth,,,,,,,,,,,
+Agent,Dupuy,,,Dupuy,Dupuy.md,Q5THigN5nbNH,455236435138792070622,described_by_source,,,,,,,,,,,
+Agent,Dupuy,,,Dupuy,Dupuy.md,Q5THigN5nbNH,455236435138792070622,date_of_death,,,,,,,,,,,
+Agent,Dupuy,,,Dupuy,Dupuy.md,Q5THigN5nbNH,455236435138792070622,place_of_birth,,,,,,,,,,,
+Agent,Dupuy,,,Dupuy,Dupuy.md,Q5THigN5nbNH,455236435138792070622,place_of_death,,,,,,,,,,,
+Agent,Dupuy,,,Dupuy,Dupuy.md,Q5THigN5nbNH,455236435138792070622,sex_or_gender,,,,,,,,,,,
+Agent,Dupuy,,,Dupuy,Dupuy.md,Q5THigN5nbNH,455236435138792070622,identifier,,,,,,,,,,,
+Agent,Dupuy,,,Dupuy,Dupuy.md,Q5THigN5nbNH,455236435138792070622,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs,publisher

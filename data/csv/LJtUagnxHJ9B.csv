@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Gustave Jacqmain,,,Gustave Jacqmain,Gustave Jacqmain.md,LJtUagnxHJ9B,377559265520966878821,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Gustave Jacqmain,,,Gustave Jacqmain,Gustave Jacqmain.md,LJtUagnxHJ9B,377559265520966878821,date_of_birth,,,,,,,,,,,,
+Agent,Gustave Jacqmain,,,Gustave Jacqmain,Gustave Jacqmain.md,LJtUagnxHJ9B,377559265520966878821,described_by_source,,,,,,,,,,,,
+Agent,Gustave Jacqmain,,,Gustave Jacqmain,Gustave Jacqmain.md,LJtUagnxHJ9B,377559265520966878821,date_of_death,,,,,,,,,,,,
+Agent,Gustave Jacqmain,,,Gustave Jacqmain,Gustave Jacqmain.md,LJtUagnxHJ9B,377559265520966878821,place_of_birth,,,,,,,,,,,,
+Agent,Gustave Jacqmain,,,Gustave Jacqmain,Gustave Jacqmain.md,LJtUagnxHJ9B,377559265520966878821,place_of_death,,,,,,,,,,,,
+Agent,Gustave Jacqmain,,,Gustave Jacqmain,Gustave Jacqmain.md,LJtUagnxHJ9B,377559265520966878821,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Gustave Jacqmain,,,Gustave Jacqmain,Gustave Jacqmain.md,LJtUagnxHJ9B,377559265520966878821,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q112597693,,
+Agent,Gustave Jacqmain,,,Gustave Jacqmain,Gustave Jacqmain.md,LJtUagnxHJ9B,377559265520966878821,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs,publisher

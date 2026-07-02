@@ -1,11 +1,41 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:caTPx3dAfP6L-assertion-BUbUraZqvbyu a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:caTPx3dAfP6L ;
+    schema:datePublished "1889-01-01"^^xsd:date .
+
+tdd:caTPx3dAfP6L-assertion-Gk2gNsJHKorm a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:caTPx3dAfP6L .
+
+tdd:caTPx3dAfP6L-assertion-Ld8KrqwXscGi a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:jrncQaEniubd ;
+    rdf:predicate <> ;
+    rdf:subject tdd:caTPx3dAfP6L .
+
+tdd:caTPx3dAfP6L-assertion-V3j9GEfYD2zh a rdf:Statement ;
+    bf:Note "Lyrics by Ch. Arley" ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:caTPx3dAfP6L ;
+    schema:datePublished "1889-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88115> .
 
 tdd:caTPx3dAfP6L a rdfs:Resource ;
-    rdfs:label "Renouveau. bluette" ;
+    <> tdd:NS7S3TJjbHvU,
+        tdd:jrncQaEniubd ;
     dcterms:title "Renouveau : bluette" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P870 tdd:fcrABEiDKbza .
 

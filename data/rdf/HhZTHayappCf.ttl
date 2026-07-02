@@ -1,12 +1,52 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:HhZTHayappCf-assertion-9DRWeYE59nT3 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:AouufLb7bx5R ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HhZTHayappCf .
+
+tdd:HhZTHayappCf-assertion-Laonyyp6FZ2r a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP]> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HhZTHayappCf .
+
+tdd:HhZTHayappCf-assertion-M5MfkdRPCyQz a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HhZTHayappCf .
+
+tdd:HhZTHayappCf-assertion-c27paEngDYa4 a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HhZTHayappCf ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:HhZTHayappCf-assertion-joCR947oSKSn a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HhZTHayappCf ;
+    schema:datePublished "1853-01-01"^^xsd:date .
+
+tdd:HhZTHayappCf-assertion-kgwJa3EVUPYy a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HhZTHayappCf .
 
 tdd:HhZTHayappCf a rdfs:Resource ;
-    rdfs:label "Captivité" ;
+    <> tdd:AouufLb7bx5R,
+        <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP]>,
+        tdd:VWaxuELqVfKN ;
     dcterms:title "Captivité: Mélodie." ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

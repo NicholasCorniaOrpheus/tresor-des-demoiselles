@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,location_label,dissolved_value,contributor_value,official_website_value,identifier_value,country_value
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J,public library,,,,,,,,,
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC,conservatory,,,,,,,,,
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,described_by_source,,,,,,,,,,,
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,inception,,,,,,,,,,,
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,location,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2,Brussels,,,,,
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,dissolved,,,,,,,,,,,
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,contributor,,,,,,,,,,,
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,official_website,,,,,,,,,https://catalog.b-bc.org/,,
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q336968,
+Organisation,Royal Conservatory of Brussels,,,Royal Conservatory of Brussels,Royal Conservatory of Brussels.md,iKoQN6jW4jjj,831878868846029046734,country,,,,,,,,,,,

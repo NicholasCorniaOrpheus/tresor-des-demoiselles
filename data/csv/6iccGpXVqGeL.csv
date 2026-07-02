@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,instance_of_value,instance_of_label,described_by_source_value,described_by_source_label,inception_value,location_value,country_value,country_label,dissolved_value,contributor_value,official_website_value
+Organisation,Ghent University,,,Ghent University,Ghent University.md,6iccGpXVqGeL,97244700092216032167,identifier,http://wikidata.org/entity/Q1137665,,,,,,,,,,,
+Organisation,Ghent University,,,Ghent University,Ghent University.md,6iccGpXVqGeL,97244700092216032167,instance_of,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a,university,,,,,,,,,
+Organisation,Ghent University,,,Ghent University,Ghent University.md,6iccGpXVqGeL,97244700092216032167,described_by_source,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2,Wikidata,,,,,,,
+Organisation,Ghent University,,,Ghent University,Ghent University.md,6iccGpXVqGeL,97244700092216032167,inception,,,,,,,,,,,,
+Organisation,Ghent University,,,Ghent University,Ghent University.md,6iccGpXVqGeL,97244700092216032167,location,,,,,,,,,,,,
+Organisation,Ghent University,,,Ghent University,Ghent University.md,6iccGpXVqGeL,97244700092216032167,country,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium,,,
+Organisation,Ghent University,,,Ghent University,Ghent University.md,6iccGpXVqGeL,97244700092216032167,dissolved,,,,,,,,,,,,
+Organisation,Ghent University,,,Ghent University,Ghent University.md,6iccGpXVqGeL,97244700092216032167,contributor,,,,,,,,,,,,
+Organisation,Ghent University,,,Ghent University,Ghent University.md,6iccGpXVqGeL,97244700092216032167,official_website,,,,,,,,,,,,

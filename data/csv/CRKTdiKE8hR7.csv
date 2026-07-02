@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Frédéric de Courcy,,,Frédéric de Courcy,Frédéric de Courcy.md,CRKTdiKE8hR7,214796595939732667532,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Frédéric de Courcy,,,Frédéric de Courcy,Frédéric de Courcy.md,CRKTdiKE8hR7,214796595939732667532,date_of_birth,,,,,,,,,,,,
+Agent,Frédéric de Courcy,,,Frédéric de Courcy,Frédéric de Courcy.md,CRKTdiKE8hR7,214796595939732667532,described_by_source,,,,,,,,,,,,
+Agent,Frédéric de Courcy,,,Frédéric de Courcy,Frédéric de Courcy.md,CRKTdiKE8hR7,214796595939732667532,date_of_death,,,,,,,,,,,,
+Agent,Frédéric de Courcy,,,Frédéric de Courcy,Frédéric de Courcy.md,CRKTdiKE8hR7,214796595939732667532,place_of_birth,,,,,,,,,,,,
+Agent,Frédéric de Courcy,,,Frédéric de Courcy,Frédéric de Courcy.md,CRKTdiKE8hR7,214796595939732667532,place_of_death,,,,,,,,,,,,
+Agent,Frédéric de Courcy,,,Frédéric de Courcy,Frédéric de Courcy.md,CRKTdiKE8hR7,214796595939732667532,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Frédéric de Courcy,,,Frédéric de Courcy,Frédéric de Courcy.md,CRKTdiKE8hR7,214796595939732667532,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q3090302,,
+Agent,Frédéric de Courcy,,,Frédéric de Courcy,Frédéric de Courcy.md,CRKTdiKE8hR7,214796595939732667532,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist

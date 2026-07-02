@@ -1,12 +1,11 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:GpjEsTdNqATu a rdfs:Resource ;
-    rdfs:label "University of Toronto" ;
-    dcterms:type bf:Organization ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q180865> ;
     wdt:P17 tdd:TL9bhQaShbbC ;
-    wdt:P31 tdd:MBm7WVmvSg7a .
+    wdt:P31 tdd:MBm7WVmvSg7a ;
+    wdt:P856 <https://librarysearch.library.utoronto.ca/> .
 

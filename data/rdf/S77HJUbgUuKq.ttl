@@ -1,12 +1,60 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:S77HJUbgUuKq-assertion-8wPAakvQxJ2h a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:XudZsfnJCkRh ;
+    rdf:predicate <> ;
+    rdf:subject tdd:S77HJUbgUuKq .
+
+tdd:S77HJUbgUuKq-assertion-H76aeBUCas84 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:S77HJUbgUuKq ;
+    schema:datePublished "1839-01-01"^^xsd:date .
+
+tdd:S77HJUbgUuKq-assertion-LuPCMHdA7XLm a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:5KtRTRb3rbmX ;
+    rdf:predicate <> ;
+    rdf:subject tdd:S77HJUbgUuKq .
+
+tdd:S77HJUbgUuKq-assertion-TYtKhnPtnqwg a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:S77HJUbgUuKq .
+
+tdd:S77HJUbgUuKq-assertion-UHNPs4Lndq3D a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:S77HJUbgUuKq ;
+    schema:datePublished "1839-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
+
+tdd:S77HJUbgUuKq-assertion-iMiTNevj49zc a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:S77HJUbgUuKq .
+
+tdd:S77HJUbgUuKq-assertion-mEksVbrxr6fu a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:S77HJUbgUuKq .
 
 tdd:S77HJUbgUuKq a rdfs:Resource ;
-    rdfs:label "Le Voyageurs de nuit" ;
+    <> tdd:5KtRTRb3rbmX,
+        tdd:NS7S3TJjbHvU,
+        tdd:XudZsfnJCkRh ;
     dcterms:title "Le Voyageurs de nuit: Chansonette" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

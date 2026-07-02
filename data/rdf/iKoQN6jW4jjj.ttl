@@ -1,12 +1,18 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:iKoQN6jW4jjj-assertion-diBskUjFgsvX a rdf:Statement ;
+    rdf:object tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:iKoQN6jW4jjj .
+
 tdd:iKoQN6jW4jjj a rdfs:Resource ;
-    rdfs:label "Royal Conservatory of Brussels" ;
-    dcterms:type bf:Organization ;
+    <> tdd:BxHoLQMESXU2 ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q336968> ;
     wdt:P31 tdd:3ZezRAF7fMBC,
-        tdd:TKzN8Z8ZP45J .
+        tdd:TKzN8Z8ZP45J ;
+    wdt:P856 <https://catalog.b-bc.org/> .
 

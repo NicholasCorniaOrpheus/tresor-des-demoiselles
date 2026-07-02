@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,exoticism,exoticism,exoticism.md,BCSvsKmuf8u3,189501758154487923382,instance_of,,,,
+Concept,,,exoticism,exoticism,exoticism.md,BCSvsKmuf8u3,189501758154487923382,subclass_of,,,,
+Concept,,,exoticism,exoticism,exoticism.md,BCSvsKmuf8u3,189501758154487923382,described_by_source,,,,
+Concept,,,exoticism,exoticism,exoticism.md,BCSvsKmuf8u3,189501758154487923382,identifier,,,,http://www.wikidata.org/entity/Q368949

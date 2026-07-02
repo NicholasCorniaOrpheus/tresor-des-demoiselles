@@ -1,0 +1,3 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,country_value,country_label,identifier_value
+Place,Antwerp,"['Antwerpen', 'Anvers']",,Antwerp,Antwerp.md,CnfhMurv8zu8,222527854265610412203,country,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium,
+Place,Antwerp,"['Antwerpen', 'Anvers']",,Antwerp,Antwerp.md,CnfhMurv8zu8,222527854265610412203,identifier,,,http://www.wikidata.org/entity/Q12892

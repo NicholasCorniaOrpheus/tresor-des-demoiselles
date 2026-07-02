@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Joseph Vimeux,,,Joseph Vimeux,Joseph Vimeux.md,fVVUZGiGyTJr,773477643728998273992,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Joseph Vimeux,,,Joseph Vimeux,Joseph Vimeux.md,fVVUZGiGyTJr,773477643728998273992,date_of_birth,,,,,,,,,,,,
+Agent,Joseph Vimeux,,,Joseph Vimeux,Joseph Vimeux.md,fVVUZGiGyTJr,773477643728998273992,described_by_source,,,,,,,,,,,,
+Agent,Joseph Vimeux,,,Joseph Vimeux,Joseph Vimeux.md,fVVUZGiGyTJr,773477643728998273992,date_of_death,,,,,,,,,,,,
+Agent,Joseph Vimeux,,,Joseph Vimeux,Joseph Vimeux.md,fVVUZGiGyTJr,773477643728998273992,place_of_birth,,,,,,,,,,,,
+Agent,Joseph Vimeux,,,Joseph Vimeux,Joseph Vimeux.md,fVVUZGiGyTJr,773477643728998273992,place_of_death,,,,,,,,,,,,
+Agent,Joseph Vimeux,,,Joseph Vimeux,Joseph Vimeux.md,fVVUZGiGyTJr,773477643728998273992,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Joseph Vimeux,,,Joseph Vimeux,Joseph Vimeux.md,fVVUZGiGyTJr,773477643728998273992,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q110890323,,
+Agent,Joseph Vimeux,,,Joseph Vimeux,Joseph Vimeux.md,fVVUZGiGyTJr,773477643728998273992,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

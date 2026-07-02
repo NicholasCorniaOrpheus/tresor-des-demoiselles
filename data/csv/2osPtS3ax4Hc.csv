@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,location_label,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Royal Library of Belgium,,,Royal Library of Belgium,Royal Library of Belgium.md,2osPtS3ax4Hc,16605160132612162543,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk,national library,,,,,,,,,,
+Organisation,Royal Library of Belgium,,,Royal Library of Belgium,Royal Library of Belgium.md,2osPtS3ax4Hc,16605160132612162543,described_by_source,,,,,,,,,,,,
+Organisation,Royal Library of Belgium,,,Royal Library of Belgium,Royal Library of Belgium.md,2osPtS3ax4Hc,16605160132612162543,inception,,,,,,,,,,,,
+Organisation,Royal Library of Belgium,,,Royal Library of Belgium,Royal Library of Belgium.md,2osPtS3ax4Hc,16605160132612162543,location,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2,Brussels,,,,,,
+Organisation,Royal Library of Belgium,,,Royal Library of Belgium,Royal Library of Belgium.md,2osPtS3ax4Hc,16605160132612162543,dissolved,,,,,,,,,,,,
+Organisation,Royal Library of Belgium,,,Royal Library of Belgium,Royal Library of Belgium.md,2osPtS3ax4Hc,16605160132612162543,contributor,,,,,,,,,,,,
+Organisation,Royal Library of Belgium,,,Royal Library of Belgium,Royal Library of Belgium.md,2osPtS3ax4Hc,16605160132612162543,official_website,,,,,,,,,https://www.kbr.be/,,,
+Organisation,Royal Library of Belgium,,,Royal Library of Belgium,Royal Library of Belgium.md,2osPtS3ax4Hc,16605160132612162543,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q383931,,
+Organisation,Royal Library of Belgium,,,Royal Library of Belgium,Royal Library of Belgium.md,2osPtS3ax4Hc,16605160132612162543,country,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium

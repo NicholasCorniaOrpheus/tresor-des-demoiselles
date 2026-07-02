@@ -1,15 +1,20 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix ns1: <http://www.wikidata.org/entity/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:UabpPirExmof-assertion-DqxwcjT38ACN a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PBr2jjFrFXnm ;
+    rdf:predicate <> ;
+    rdf:subject tdd:UabpPirExmof .
+
 tdd:UabpPirExmof a rdfs:Resource ;
-    rdfs:label "Parisina" ;
-    dcterms:type bf:Work ;
+    <> tdd:PBr2jjFrFXnm ;
+    dcterms:identifier ns1:Q652926 ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
-    skos:altLabel "Parisina d'Este" ;
     ns1:P7937 tdd:NwTUKgXApENs .
 

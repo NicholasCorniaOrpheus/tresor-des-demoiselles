@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Elisa Bosch,,,Elisa Bosch,Elisa Bosch.md,7iBtPDhpSi6a,117723608793008130401,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Elisa Bosch,,,Elisa Bosch,Elisa Bosch.md,7iBtPDhpSi6a,117723608793008130401,date_of_birth,,,,,,,,,,,,
+Agent,Elisa Bosch,,,Elisa Bosch,Elisa Bosch.md,7iBtPDhpSi6a,117723608793008130401,described_by_source,,,,,,,,,,,,
+Agent,Elisa Bosch,,,Elisa Bosch,Elisa Bosch.md,7iBtPDhpSi6a,117723608793008130401,date_of_death,,,,,,,,,,,,
+Agent,Elisa Bosch,,,Elisa Bosch,Elisa Bosch.md,7iBtPDhpSi6a,117723608793008130401,place_of_birth,,,,,,,,,,,,
+Agent,Elisa Bosch,,,Elisa Bosch,Elisa Bosch.md,7iBtPDhpSi6a,117723608793008130401,place_of_death,,,,,,,,,,,,
+Agent,Elisa Bosch,,,Elisa Bosch,Elisa Bosch.md,7iBtPDhpSi6a,117723608793008130401,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,
+Agent,Elisa Bosch,,,Elisa Bosch,Elisa Bosch.md,7iBtPDhpSi6a,117723608793008130401,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q110996848,,
+Agent,Elisa Bosch,,,Elisa Bosch,Elisa Bosch.md,7iBtPDhpSi6a,117723608793008130401,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

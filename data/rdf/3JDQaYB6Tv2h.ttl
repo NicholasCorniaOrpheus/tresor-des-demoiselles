@@ -1,12 +1,67 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:3JDQaYB6Tv2h-assertion-3Dm8ps856zGu a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:3JDQaYB6Tv2h ;
+    schema:datePublished "1856-01-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:3JDQaYB6Tv2h-assertion-5XwAHzhgvr9A a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:8vWQXZ7da2WS ;
+    rdf:predicate <> ;
+    rdf:subject tdd:3JDQaYB6Tv2h .
+
+tdd:3JDQaYB6Tv2h-assertion-6eybJxHrndVj a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:3JDQaYB6Tv2h .
+
+tdd:3JDQaYB6Tv2h-assertion-9BZt6xWgChnC a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PzUabvHd5rR3 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:3JDQaYB6Tv2h .
+
+tdd:3JDQaYB6Tv2h-assertion-AHTrEAbGQnUN a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate <> ;
+    rdf:subject tdd:3JDQaYB6Tv2h ;
+    schema:datePublished "1852-01-01"^^xsd:date .
+
+tdd:3JDQaYB6Tv2h-assertion-XXNwkFV3RrA7 a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:UcHT4D7idom9 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:3JDQaYB6Tv2h .
+
+tdd:3JDQaYB6Tv2h-assertion-Y8ENWzVGJvG2 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:3JDQaYB6Tv2h ;
+    schema:datePublished "1856-01-01"^^xsd:date .
+
+tdd:3JDQaYB6Tv2h-assertion-aZTgiUszzvJe a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:3JDQaYB6Tv2h .
 
 tdd:3JDQaYB6Tv2h a rdfs:Resource ;
-    rdfs:label "Fauvette" ;
+    <> tdd:8vWQXZ7da2WS,
+        tdd:HuT8aF2rGmzB,
+        tdd:NS7S3TJjbHvU,
+        tdd:PzUabvHd5rR3,
+        tdd:UcHT4D7idom9 ;
     dcterms:title "Fauvette: Chansonette." ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

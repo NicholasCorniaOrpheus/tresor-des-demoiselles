@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,described_by_source_label,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,François de Coninck,,,François de Coninck,François de Coninck.md,gBejS4d5MNmC,787655764151801091904,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,François de Coninck,,,François de Coninck,François de Coninck.md,gBejS4d5MNmC,787655764151801091904,date_of_birth,,,,,,,,,,,,,
+Agent,François de Coninck,,,François de Coninck,François de Coninck.md,gBejS4d5MNmC,787655764151801091904,described_by_source,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2,Wikidata,,,,,,,,
+Agent,François de Coninck,,,François de Coninck,François de Coninck.md,gBejS4d5MNmC,787655764151801091904,date_of_death,,,,,,,,,,,,,
+Agent,François de Coninck,,,François de Coninck,François de Coninck.md,gBejS4d5MNmC,787655764151801091904,place_of_birth,,,,,,,,,,,,,
+Agent,François de Coninck,,,François de Coninck,François de Coninck.md,gBejS4d5MNmC,787655764151801091904,place_of_death,,,,,,,,,,,,,
+Agent,François de Coninck,,,François de Coninck,François de Coninck.md,gBejS4d5MNmC,787655764151801091904,sex_or_gender,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,François de Coninck,,,François de Coninck,François de Coninck.md,gBejS4d5MNmC,787655764151801091904,identifier,,,,,,,,,,,http://www.wikidata.org/entity/Q27942745,,
+Agent,François de Coninck,,,François de Coninck,François de Coninck.md,gBejS4d5MNmC,787655764151801091904,occupation,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

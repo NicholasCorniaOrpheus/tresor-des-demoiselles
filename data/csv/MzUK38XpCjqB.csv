@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Bibliothèque nationale de France,BnF,,Bibliothèque nationale de France,Bibliothèque nationale de France.md,MzUK38XpCjqB,412522999014522832323,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk,national library,,,,,,,,,
+Organisation,Bibliothèque nationale de France,BnF,,Bibliothèque nationale de France,Bibliothèque nationale de France.md,MzUK38XpCjqB,412522999014522832323,described_by_source,,,,,,,,,,,
+Organisation,Bibliothèque nationale de France,BnF,,Bibliothèque nationale de France,Bibliothèque nationale de France.md,MzUK38XpCjqB,412522999014522832323,inception,,,,,,,,,,,
+Organisation,Bibliothèque nationale de France,BnF,,Bibliothèque nationale de France,Bibliothèque nationale de France.md,MzUK38XpCjqB,412522999014522832323,location,,,,,,,,,,,
+Organisation,Bibliothèque nationale de France,BnF,,Bibliothèque nationale de France,Bibliothèque nationale de France.md,MzUK38XpCjqB,412522999014522832323,dissolved,,,,,,,,,,,
+Organisation,Bibliothèque nationale de France,BnF,,Bibliothèque nationale de France,Bibliothèque nationale de France.md,MzUK38XpCjqB,412522999014522832323,contributor,,,,,,,,,,,
+Organisation,Bibliothèque nationale de France,BnF,,Bibliothèque nationale de France,Bibliothèque nationale de France.md,MzUK38XpCjqB,412522999014522832323,official_website,,,,,,,,https://data.bnf.fr/,,,
+Organisation,Bibliothèque nationale de France,BnF,,Bibliothèque nationale de France,Bibliothèque nationale de France.md,MzUK38XpCjqB,412522999014522832323,identifier,,,,,,,,,http://www.wikidata.org/entity/Q193563,,
+Organisation,Bibliothèque nationale de France,BnF,,Bibliothèque nationale de France,Bibliothèque nationale de France.md,MzUK38XpCjqB,412522999014522832323,country,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS,France

@@ -27,6 +27,5 @@ statements:
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/f/fb/L%C3%A9on-Vasseur.jpg
   IIIF_manifest: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Ui6pfXfmqxPM.json
 content:
   markdown_content: ''

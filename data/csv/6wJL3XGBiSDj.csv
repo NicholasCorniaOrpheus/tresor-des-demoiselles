@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Matteo Carcassi,,,Matteo Carcassi,Matteo Carcassi.md,6wJL3XGBiSDj,101834998213521244484,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Matteo Carcassi,,,Matteo Carcassi,Matteo Carcassi.md,6wJL3XGBiSDj,101834998213521244484,date_of_birth,,,,,,,,,,,,
+Agent,Matteo Carcassi,,,Matteo Carcassi,Matteo Carcassi.md,6wJL3XGBiSDj,101834998213521244484,described_by_source,,,,,,,,,,,,
+Agent,Matteo Carcassi,,,Matteo Carcassi,Matteo Carcassi.md,6wJL3XGBiSDj,101834998213521244484,date_of_death,,,,,,,,,,,,
+Agent,Matteo Carcassi,,,Matteo Carcassi,Matteo Carcassi.md,6wJL3XGBiSDj,101834998213521244484,place_of_birth,,,,,,,,,,,,
+Agent,Matteo Carcassi,,,Matteo Carcassi,Matteo Carcassi.md,6wJL3XGBiSDj,101834998213521244484,place_of_death,,,,,,,,,,,,
+Agent,Matteo Carcassi,,,Matteo Carcassi,Matteo Carcassi.md,6wJL3XGBiSDj,101834998213521244484,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Matteo Carcassi,,,Matteo Carcassi,Matteo Carcassi.md,6wJL3XGBiSDj,101834998213521244484,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q469912,,
+Agent,Matteo Carcassi,,,Matteo Carcassi,Matteo Carcassi.md,6wJL3XGBiSDj,101834998213521244484,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

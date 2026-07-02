@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,identifier_value,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,described_by_source_label
+Concept,,,French,French,French.md,fcrABEiDKbza,776143208949055140089,identifier,http://wikidata.org/entity/Q150,,,,,
+Concept,,,French,French,French.md,fcrABEiDKbza,776143208949055140089,instance_of,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dqFtJQZDwkjb,language,,,
+Concept,,,French,French,French.md,fcrABEiDKbza,776143208949055140089,subclass_of,,,,,,
+Concept,,,French,French,French.md,fcrABEiDKbza,776143208949055140089,described_by_source,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2,Wikidata

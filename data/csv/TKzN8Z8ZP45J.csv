@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,public library,public library,public library.md,TKzN8Z8ZP45J,522409987209997036258,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HjSMhbA3nqG8,type of library,,,
+Concept,,,public library,public library,public library.md,TKzN8Z8ZP45J,522409987209997036258,subclass_of,,,,,
+Concept,,,public library,public library,public library.md,TKzN8Z8ZP45J,522409987209997036258,described_by_source,,,,,
+Concept,,,public library,public library,public library.md,TKzN8Z8ZP45J,522409987209997036258,identifier,,,,,http://www.wikidata.org/entity/Q28564

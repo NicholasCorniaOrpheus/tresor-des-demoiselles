@@ -1,14 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:SuU5RRaXHL2Z-assertion-KeL5ipqbieCa a rdf:Statement ;
+    rdf:object tdd:9Y8pKvFMJST5 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SuU5RRaXHL2Z .
+
 tdd:SuU5RRaXHL2Z a rdfs:Resource ;
-    rdfs:label "Fromental Halévy" ;
-    dcterms:type dcterms:Agent ;
+    <> tdd:9Y8pKvFMJST5 ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q313917> ;
     wdt:P31 tdd:TudsDJnQvonk ;
-    skos:altLabel "Fromental Halevy" ;
     schema:gender tdd:hkA3uvTGSDnD .
 

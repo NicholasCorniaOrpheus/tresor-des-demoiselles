@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Clara Pilet-Comettant,,,Clara Pilet-Comettant,Clara Pilet-Comettant.md,dzhMAzwriP43,742780204580513892562,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Clara Pilet-Comettant,,,Clara Pilet-Comettant,Clara Pilet-Comettant.md,dzhMAzwriP43,742780204580513892562,date_of_birth,,,,,,,,,,,,
+Agent,Clara Pilet-Comettant,,,Clara Pilet-Comettant,Clara Pilet-Comettant.md,dzhMAzwriP43,742780204580513892562,described_by_source,,,,,,,,,,,,
+Agent,Clara Pilet-Comettant,,,Clara Pilet-Comettant,Clara Pilet-Comettant.md,dzhMAzwriP43,742780204580513892562,date_of_death,,,,,,,,,,,,
+Agent,Clara Pilet-Comettant,,,Clara Pilet-Comettant,Clara Pilet-Comettant.md,dzhMAzwriP43,742780204580513892562,place_of_birth,,,,,,,,,,,,
+Agent,Clara Pilet-Comettant,,,Clara Pilet-Comettant,Clara Pilet-Comettant.md,dzhMAzwriP43,742780204580513892562,place_of_death,,,,,,,,,,,,
+Agent,Clara Pilet-Comettant,,,Clara Pilet-Comettant,Clara Pilet-Comettant.md,dzhMAzwriP43,742780204580513892562,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,
+Agent,Clara Pilet-Comettant,,,Clara Pilet-Comettant,Clara Pilet-Comettant.md,dzhMAzwriP43,742780204580513892562,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q126722628,,
+Agent,Clara Pilet-Comettant,,,Clara Pilet-Comettant,Clara Pilet-Comettant.md,dzhMAzwriP43,742780204580513892562,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

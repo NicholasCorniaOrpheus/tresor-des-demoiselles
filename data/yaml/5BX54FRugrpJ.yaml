@@ -28,6 +28,5 @@ statements:
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Francesco_Masini.jpg
   IIIF_manifest: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/5BX54FRugrpJ.json
 content:
   markdown_content: ''

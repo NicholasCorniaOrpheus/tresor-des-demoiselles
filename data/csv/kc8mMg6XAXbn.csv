@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,piano four hands,piano four hands,piano four hands.md,kc8mMg6XAXbn,879059867451851909033,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cifmNoRzoHNK,type of musical group,,,
+Concept,,,piano four hands,piano four hands,piano four hands.md,kc8mMg6XAXbn,879059867451851909033,subclass_of,,,,,
+Concept,,,piano four hands,piano four hands,piano four hands.md,kc8mMg6XAXbn,879059867451851909033,described_by_source,,,,,
+Concept,,,piano four hands,piano four hands,piano four hands.md,kc8mMg6XAXbn,879059867451851909033,identifier,,,,,http://www.wikidata.org/entity/Q227484

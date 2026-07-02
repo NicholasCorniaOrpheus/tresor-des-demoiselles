@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,voice,voice,voice.md,cyw32uWwiuUQ,721869170272909956550,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/e2BQmjur6FrK,type of musical instrument,,,
+Concept,,,voice,voice,voice.md,cyw32uWwiuUQ,721869170272909956550,subclass_of,,,,,
+Concept,,,voice,voice,voice.md,cyw32uWwiuUQ,721869170272909956550,described_by_source,,,,,
+Concept,,,voice,voice,voice.md,cyw32uWwiuUQ,721869170272909956550,identifier,,,,,http://www.wikidata.org/entity/Q17172850

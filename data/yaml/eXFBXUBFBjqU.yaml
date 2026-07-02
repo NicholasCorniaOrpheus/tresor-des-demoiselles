@@ -16,7 +16,6 @@ statements:
     label: country
 assets:
   IIIF_manifest: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/eXFBXUBFBjqU.json
+  image: []
 content:
   markdown_content: ''

@@ -1,11 +1,47 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:hs4rWBqGPmab-assertion-5zbwZQAWzaE2 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:hs4rWBqGPmab .
+
+tdd:hs4rWBqGPmab-assertion-8NjpdN8tFpvQ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:QKKdeXjo8w7N ;
+    rdf:predicate <> ;
+    rdf:subject tdd:hs4rWBqGPmab .
+
+tdd:hs4rWBqGPmab-assertion-HPsdb6F42cTh a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:TyP7T2zkXYhF ;
+    rdf:predicate <> ;
+    rdf:subject tdd:hs4rWBqGPmab .
+
+tdd:hs4rWBqGPmab-assertion-MaesSGHBpYfZ a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:hs4rWBqGPmab ;
+    schema:datePublished "1855-11-01"^^xsd:date .
+
+tdd:hs4rWBqGPmab-assertion-XxEnMdjjrcUX a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:hs4rWBqGPmab ;
+    schema:datePublished "1855-11-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
 tdd:hs4rWBqGPmab a rdfs:Resource ;
-    rdfs:label "Emilie. Schottich" ;
+    <> tdd:NS7S3TJjbHvU,
+        tdd:QKKdeXjo8w7N,
+        tdd:TyP7T2zkXYhF ;
     dcterms:title "Emilie. Schottich" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:P3xwqK2mHjC7 .
 

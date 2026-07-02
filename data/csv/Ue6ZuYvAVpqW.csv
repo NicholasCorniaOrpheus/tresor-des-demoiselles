@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,identifier_value,instance_of_value,subclass_of_value,described_by_source_value
+Concept,,,periodical,periodical,periodical.md,Ue6ZuYvAVpqW,549595558063296081898,identifier,http://wikidata.org/entity/Q1002697,,,
+Concept,,,periodical,periodical,periodical.md,Ue6ZuYvAVpqW,549595558063296081898,instance_of,,,,
+Concept,,,periodical,periodical,periodical.md,Ue6ZuYvAVpqW,549595558063296081898,subclass_of,,,,
+Concept,,,periodical,periodical,periodical.md,Ue6ZuYvAVpqW,549595558063296081898,described_by_source,,,,

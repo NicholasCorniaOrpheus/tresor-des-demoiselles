@@ -1,12 +1,38 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:NS7S3TJjbHvU-assertion-2rrvSyF6CsTe a rdf:Statement ;
+    rdf:object "1922-01-01"^^xsd:date ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NS7S3TJjbHvU .
+
+tdd:NS7S3TJjbHvU-assertion-6gJ2wvZHpbeN a rdf:Statement ;
+    rdf:object tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NS7S3TJjbHvU ;
+    schema:address "Boulevard des Italiens, 1" .
+
+tdd:NS7S3TJjbHvU-assertion-Aa9A8bpsmqUT a rdf:Statement ;
+    bf:Role tdd:nQTxNAy4WtLK ;
+    rdf:object tdd:VahNSkW7JbTC ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NS7S3TJjbHvU .
+
+tdd:NS7S3TJjbHvU-assertion-aiTUsqWfsjUN a rdf:Statement ;
+    rdf:object "1833-02-01"^^xsd:date ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NS7S3TJjbHvU .
 
 tdd:NS7S3TJjbHvU a rdfs:Resource ;
-    rdfs:label "Journal des demoiselles" ;
-    dcterms:type bf:Organization ;
+    <> tdd:7VQdaj7JW86d,
+        tdd:VahNSkW7JbTC ;
+    dcterms:identifier wdt:Q40163826 ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P17 tdd:LCZnUXZBAaXS ;
     wdt:P31 tdd:Ue6ZuYvAVpqW .

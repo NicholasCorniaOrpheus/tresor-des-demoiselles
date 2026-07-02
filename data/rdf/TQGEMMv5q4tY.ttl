@@ -1,11 +1,40 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:TQGEMMv5q4tY-assertion-VDFw7fVuignt a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:TQGEMMv5q4tY ;
+    schema:datePublished "1856-11-01"^^xsd:date .
+
+tdd:TQGEMMv5q4tY-assertion-WWfatqqDDVuv a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:TQGEMMv5q4tY ;
+    schema:datePublished "1856-01-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:TQGEMMv5q4tY-assertion-eebuiXvd64so a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:4MqfuoGuN6Ra ;
+    rdf:predicate <> ;
+    rdf:subject tdd:TQGEMMv5q4tY .
+
+tdd:TQGEMMv5q4tY-assertion-hq8r8vdGmZvx a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:TQGEMMv5q4tY .
 
 tdd:TQGEMMv5q4tY a rdfs:Resource ;
-    rdfs:label "Chanson russe" ;
+    <> tdd:4MqfuoGuN6Ra,
+        tdd:NS7S3TJjbHvU ;
     dcterms:title "Chanson russe: Romance sans paroles." ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:aph6QHtmL78s .
 

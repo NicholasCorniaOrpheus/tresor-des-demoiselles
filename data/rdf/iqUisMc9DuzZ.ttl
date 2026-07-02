@@ -1,15 +1,23 @@
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:iqUisMc9DuzZ-assertion-Gpru5vB2aiZW a rdf:Statement ;
+    rdf:object tdd:PGagqrY8C5Aa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:iqUisMc9DuzZ .
+
+tdd:iqUisMc9DuzZ-assertion-Vr2hvfYo4Vqm a rdf:Statement ;
+    rdf:object tdd:WQ8cfnsehv7L ;
+    rdf:predicate <> ;
+    rdf:subject tdd:iqUisMc9DuzZ .
+
 tdd:iqUisMc9DuzZ a rdfs:Resource ;
-    rdfs:label "Louis Meyrargues" ;
-    dcterms:type dcterms:Agent ;
+    <> tdd:PGagqrY8C5Aa,
+        tdd:WQ8cfnsehv7L ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
     wdt:P31 tdd:TudsDJnQvonk ;
-    skos:altLabel "Louis Mairargue" ;
     schema:gender tdd:hkA3uvTGSDnD .
 

@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,date_of_birth,,,,,,,,,,,,
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,described_by_source,,,,,,,,,,,,
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,date_of_death,,,,,,,,,,,,
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,place_of_birth,,,,,,,,,,,,
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,place_of_death,,,,,,,,,,,,
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q28919939,,
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer
+Agent,Joseph Meissonnier,,,Joseph Meissonnier,Joseph Meissonnier.md,8HSKpjkZAxrE,129400320069749283528,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs,publisher

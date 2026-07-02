@@ -1,12 +1,50 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:LXFHHQhGBzwC-assertion-K9bmMsRhtaar a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:i2BmdHj6e6Q9 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LXFHHQhGBzwC .
+
+tdd:LXFHHQhGBzwC-assertion-PTf6PV5TaHjY a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LXFHHQhGBzwC .
+
+tdd:LXFHHQhGBzwC-assertion-VA7JAdCPkSeU a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LXFHHQhGBzwC ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971543> .
+
+tdd:LXFHHQhGBzwC-assertion-bVLfEHUCCE7T a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:ctiBvfKCHD9m ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LXFHHQhGBzwC .
+
+tdd:LXFHHQhGBzwC-assertion-cATXosXsYBN3 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LXFHHQhGBzwC .
+
+tdd:LXFHHQhGBzwC-assertion-htrhJDhFQE5o a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:LXFHHQhGBzwC .
+
 tdd:LXFHHQhGBzwC a rdfs:Resource ;
-    rdfs:label "Espoir en Dieu: chants du crépuscule" ;
+    <> tdd:VWaxuELqVfKN,
+        tdd:ctiBvfKCHD9m,
+        tdd:i2BmdHj6e6Q9 ;
     dcterms:title "Espoir en Dieu: chants du crépuscule" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

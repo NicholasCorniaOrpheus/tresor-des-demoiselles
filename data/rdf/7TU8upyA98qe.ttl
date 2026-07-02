@@ -1,12 +1,60 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:7TU8upyA98qe-assertion-2q3iDPf7myFf a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7TU8upyA98qe .
+
+tdd:7TU8upyA98qe-assertion-4FBYSA3A8mxW a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:d3bH5kZvxqbQ ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7TU8upyA98qe .
+
+tdd:7TU8upyA98qe-assertion-At4gJGtk5TYH a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:fVVUZGiGyTJr ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7TU8upyA98qe .
+
+tdd:7TU8upyA98qe-assertion-B3c9DoT7KQKP a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359987> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7TU8upyA98qe ;
+    schema:datePublished "1836-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359987> .
+
+tdd:7TU8upyA98qe-assertion-DjeaDyTAcNsT a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7TU8upyA98qe .
+
+tdd:7TU8upyA98qe-assertion-ESJPKJxydQ7P a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7TU8upyA98qe ;
+    schema:datePublished "1836-01-01"^^xsd:date .
+
+tdd:7TU8upyA98qe-assertion-fU7NF99DMSZL a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7TU8upyA98qe .
 
 tdd:7TU8upyA98qe a rdfs:Resource ;
-    rdfs:label "La Prière. Dédiée à S.M. la reine des français" ;
+    <> tdd:NS7S3TJjbHvU,
+        tdd:d3bH5kZvxqbQ,
+        tdd:fVVUZGiGyTJr ;
     dcterms:title "La Prière. Dédiée à S.M. la reine des français" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Auguste Marquerie,,,Auguste Marquerie,Auguste Marquerie.md,ek3Kt26Yt2sh,758106139575963933870,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Auguste Marquerie,,,Auguste Marquerie,Auguste Marquerie.md,ek3Kt26Yt2sh,758106139575963933870,date_of_birth,,,,,,,,,,,,
+Agent,Auguste Marquerie,,,Auguste Marquerie,Auguste Marquerie.md,ek3Kt26Yt2sh,758106139575963933870,described_by_source,,,,,,,,,,,,
+Agent,Auguste Marquerie,,,Auguste Marquerie,Auguste Marquerie.md,ek3Kt26Yt2sh,758106139575963933870,date_of_death,,,,,,,,,,,,
+Agent,Auguste Marquerie,,,Auguste Marquerie,Auguste Marquerie.md,ek3Kt26Yt2sh,758106139575963933870,place_of_birth,,,,,,,,,,,,
+Agent,Auguste Marquerie,,,Auguste Marquerie,Auguste Marquerie.md,ek3Kt26Yt2sh,758106139575963933870,place_of_death,,,,,,,,,,,,
+Agent,Auguste Marquerie,,,Auguste Marquerie,Auguste Marquerie.md,ek3Kt26Yt2sh,758106139575963933870,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Auguste Marquerie,,,Auguste Marquerie,Auguste Marquerie.md,ek3Kt26Yt2sh,758106139575963933870,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q108805874,,
+Agent,Auguste Marquerie,,,Auguste Marquerie,Auguste Marquerie.md,ek3Kt26Yt2sh,758106139575963933870,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

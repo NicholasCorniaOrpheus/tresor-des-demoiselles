@@ -1,12 +1,38 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:AgTowXcdYL6T-assertion-4fZx3oGR8axJ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PiqNkd3hzjnY ;
+    rdf:predicate <> ;
+    rdf:subject tdd:AgTowXcdYL6T .
+
+tdd:AgTowXcdYL6T-assertion-CaEfw4ou7eDL a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:AgTowXcdYL6T .
+
+tdd:AgTowXcdYL6T-assertion-P8cNJr9LcucY a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:AgTowXcdYL6T ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:AgTowXcdYL6T-assertion-PZHL4cD6sXQ3 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:AgTowXcdYL6T .
+
 tdd:AgTowXcdYL6T a rdfs:Resource ;
-    rdfs:label "Thalie" ;
+    <> tdd:PiqNkd3hzjnY,
+        tdd:VWaxuELqVfKN ;
     dcterms:title "Thalie: Polka mazurka." ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:U66A6PCCFAfU,
         tdd:aRNbPTwmsbtP ;
     wdt:P870 tdd:fcrABEiDKbza .

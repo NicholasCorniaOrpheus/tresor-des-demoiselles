@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value
+Agent,Louis Antoine Jullien,,,Louis Antoine Jullien,Louis Antoine Jullien.md,CaRovnpexber,218095266665873690643,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,
+Agent,Louis Antoine Jullien,,,Louis Antoine Jullien,Louis Antoine Jullien.md,CaRovnpexber,218095266665873690643,date_of_birth,,,,,,,,,,,
+Agent,Louis Antoine Jullien,,,Louis Antoine Jullien,Louis Antoine Jullien.md,CaRovnpexber,218095266665873690643,described_by_source,,,,,,,,,,,
+Agent,Louis Antoine Jullien,,,Louis Antoine Jullien,Louis Antoine Jullien.md,CaRovnpexber,218095266665873690643,date_of_death,,,,,,,,,,,
+Agent,Louis Antoine Jullien,,,Louis Antoine Jullien,Louis Antoine Jullien.md,CaRovnpexber,218095266665873690643,place_of_birth,,,,,,,,,,,
+Agent,Louis Antoine Jullien,,,Louis Antoine Jullien,Louis Antoine Jullien.md,CaRovnpexber,218095266665873690643,place_of_death,,,,,,,,,,,
+Agent,Louis Antoine Jullien,,,Louis Antoine Jullien,Louis Antoine Jullien.md,CaRovnpexber,218095266665873690643,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,
+Agent,Louis Antoine Jullien,,,Louis Antoine Jullien,Louis Antoine Jullien.md,CaRovnpexber,218095266665873690643,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q660539,
+Agent,Louis Antoine Jullien,,,Louis Antoine Jullien,Louis Antoine Jullien.md,CaRovnpexber,218095266665873690643,occupation,,,,,,,,,,,

@@ -1,10 +1,28 @@
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:bk8xqxzLgPA8-assertion-UD6qV6pxUnqb a rdf:Statement ;
+    bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k999675n> ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://gallica.bnf.fr/iiif/ark:/12148/bpt6k999675n/manifest.json> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:bk8xqxzLgPA8 ;
+    schema:datePublished "1887-01-01"^^xsd:date ;
+    schema:url <http://catalogue.bnf.fr/ark:/12148/cb32810582s> .
+
+tdd:bk8xqxzLgPA8-assertion-cqeUdmJnzxWg a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate <> ;
+    rdf:subject tdd:bk8xqxzLgPA8 ;
+    schema:datePublished "1887-01-01"^^xsd:date .
 
 tdd:bk8xqxzLgPA8 a rdfs:Resource ;
-    rdfs:label "Magasin des demoiselles (1887)" ;
-    dcterms:type dcterms:PhysicalResource ;
+    <> tdd:HuT8aF2rGmzB ;
     wdt:P31 tdd:Ue6ZuYvAVpqW .
 

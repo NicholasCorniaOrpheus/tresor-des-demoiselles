@@ -1,12 +1,52 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:FqEYDTDQHpZZ-assertion-6V3KrRbxtA2r a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:FqEYDTDQHpZZ .
+
+tdd:FqEYDTDQHpZZ-assertion-8PtpRTUNc2Z6 a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:FqEYDTDQHpZZ ;
+    schema:datePublished "1882-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=157420> .
+
+tdd:FqEYDTDQHpZZ-assertion-8oibqE2urqK2 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:FqEYDTDQHpZZ ;
+    schema:datePublished "1882-01-01"^^xsd:date .
+
+tdd:FqEYDTDQHpZZ-assertion-DZj2KgP9n76Y a rdf:Statement ;
+    rdf:object tdd:8U2RhpZWfPcM ;
+    rdf:predicate <> ;
+    rdf:subject tdd:FqEYDTDQHpZZ .
+
+tdd:FqEYDTDQHpZZ-assertion-LXoW3S7HvgW2 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:26TsCae57TVa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:FqEYDTDQHpZZ .
+
+tdd:FqEYDTDQHpZZ-assertion-o6TLJNPVzcMQ a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:FqEYDTDQHpZZ .
 
 tdd:FqEYDTDQHpZZ a rdfs:Resource ;
-    rdfs:label "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\"" ;
+    <> tdd:26TsCae57TVa,
+        tdd:8U2RhpZWfPcM,
+        tdd:NS7S3TJjbHvU ;
     dcterms:title "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:WnBSn3vmYiYL ;
     wdt:P870 tdd:fcrABEiDKbza .
 

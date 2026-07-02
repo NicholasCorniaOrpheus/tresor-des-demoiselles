@@ -15,7 +15,10 @@
     ],
     "country": null,
     "instance_of": [
-      "[[country]]"
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq",
+        "label": "country"
+      }
     ]
   }
 }

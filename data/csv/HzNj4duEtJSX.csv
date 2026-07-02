@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Harvard University,,,Harvard University,Harvard University.md,HzNj4duEtJSX,329943967932770121071,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a,university,,,,,,,,,
+Organisation,Harvard University,,,Harvard University,Harvard University.md,HzNj4duEtJSX,329943967932770121071,described_by_source,,,,,,,,,,,
+Organisation,Harvard University,,,Harvard University,Harvard University.md,HzNj4duEtJSX,329943967932770121071,inception,,,,,,,,,,,
+Organisation,Harvard University,,,Harvard University,Harvard University.md,HzNj4duEtJSX,329943967932770121071,location,,,,,,,,,,,
+Organisation,Harvard University,,,Harvard University,Harvard University.md,HzNj4duEtJSX,329943967932770121071,dissolved,,,,,,,,,,,
+Organisation,Harvard University,,,Harvard University,Harvard University.md,HzNj4duEtJSX,329943967932770121071,contributor,,,,,,,,,,,
+Organisation,Harvard University,,,Harvard University,Harvard University.md,HzNj4duEtJSX,329943967932770121071,official_website,,,,,,,,https://hollis.harvard.edu/,,,
+Organisation,Harvard University,,,Harvard University,Harvard University.md,HzNj4duEtJSX,329943967932770121071,identifier,,,,,,,,,http://www.wikidata.org/entity/Q13371,,
+Organisation,Harvard University,,,Harvard University,Harvard University.md,HzNj4duEtJSX,329943967932770121071,country,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LEcVCfQG66Bg,United States

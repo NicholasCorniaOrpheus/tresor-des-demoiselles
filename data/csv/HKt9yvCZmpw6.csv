@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,subclass_of_label,described_by_source_value,identifier_value
+Concept,,,quadrille,quadrille,quadrille.md,HKt9yvCZmpw6,316011527441407810927,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,,
+Concept,,,quadrille,quadrille,quadrille.md,HKt9yvCZmpw6,316011527441407810927,subclass_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew,classical dance music,,
+Concept,,,quadrille,quadrille,quadrille.md,HKt9yvCZmpw6,316011527441407810927,described_by_source,,,,,,
+Concept,,,quadrille,quadrille,quadrille.md,HKt9yvCZmpw6,316011527441407810927,identifier,,,,,,http://www.wikidata.org/entity/Q107364106

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,identifier_value,occupation_value,occupation_label
+Agent,J. Sommereau,,,J. Sommereau,J. Sommereau.md,8vWQXZ7da2WS,142821482728823385156,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,
+Agent,J. Sommereau,,,J. Sommereau,J. Sommereau.md,8vWQXZ7da2WS,142821482728823385156,date_of_birth,,,,,,,,,,,
+Agent,J. Sommereau,,,J. Sommereau,J. Sommereau.md,8vWQXZ7da2WS,142821482728823385156,described_by_source,,,,,,,,,,,
+Agent,J. Sommereau,,,J. Sommereau,J. Sommereau.md,8vWQXZ7da2WS,142821482728823385156,date_of_death,,,,,,,,,,,
+Agent,J. Sommereau,,,J. Sommereau,J. Sommereau.md,8vWQXZ7da2WS,142821482728823385156,place_of_birth,,,,,,,,,,,
+Agent,J. Sommereau,,,J. Sommereau,J. Sommereau.md,8vWQXZ7da2WS,142821482728823385156,place_of_death,,,,,,,,,,,
+Agent,J. Sommereau,,,J. Sommereau,J. Sommereau.md,8vWQXZ7da2WS,142821482728823385156,sex_or_gender,,,,,,,,,,,
+Agent,J. Sommereau,,,J. Sommereau,J. Sommereau.md,8vWQXZ7da2WS,142821482728823385156,identifier,,,,,,,,,,,
+Agent,J. Sommereau,,,J. Sommereau,J. Sommereau.md,8vWQXZ7da2WS,142821482728823385156,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,contributor_role,contributor_label,official_website_value,identifier_value,country_value,country_label
+Organisation,La mélodie,,,La mélodie,La mélodie.md,fPQHFdTsWu9q,771272426233161451886,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW,periodical,,,,,,,,,,,
+Organisation,La mélodie,,,La mélodie,La mélodie.md,fPQHFdTsWu9q,771272426233161451886,described_by_source,,,,,,,,,,,,,
+Organisation,La mélodie,,,La mélodie,La mélodie.md,fPQHFdTsWu9q,771272426233161451886,inception,,,,,,,,,,,,,
+Organisation,La mélodie,,,La mélodie,La mélodie.md,fPQHFdTsWu9q,771272426233161451886,location,,,,,,,,,,,,,
+Organisation,La mélodie,,,La mélodie,La mélodie.md,fPQHFdTsWu9q,771272426233161451886,dissolved,,,,,,,,,,,,,
+Organisation,La mélodie,,,La mélodie,La mélodie.md,fPQHFdTsWu9q,771272426233161451886,contributor,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE,"{'value': 'https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs', 'label': 'publisher'}",Joseph Meynne,,,,
+Organisation,La mélodie,,,La mélodie,La mélodie.md,fPQHFdTsWu9q,771272426233161451886,official_website,,,,,,,,,,,,,
+Organisation,La mélodie,,,La mélodie,La mélodie.md,fPQHFdTsWu9q,771272426233161451886,identifier,,,,,,,,,,,https://anet.be/record/opacap/c:lvd:13165961,,
+Organisation,La mélodie,,,La mélodie,La mélodie.md,fPQHFdTsWu9q,771272426233161451886,country,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium

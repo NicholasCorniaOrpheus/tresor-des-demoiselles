@@ -1,0 +1,4 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,country_value,instance_of_value,instance_of_label
+Place,Brussels,,,Brussels,Brussels.md,BxHoLQMESXU2,205373221131698217465,identifier,http://wikidata.org/entity/Q239,,,
+Place,Brussels,,,Brussels,Brussels.md,BxHoLQMESXU2,205373221131698217465,country,,,,
+Place,Brussels,,,Brussels,Brussels.md,BxHoLQMESXU2,205373221131698217465,instance_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Kd5wMW8fYWBe,city

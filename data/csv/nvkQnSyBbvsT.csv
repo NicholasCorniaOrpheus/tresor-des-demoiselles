@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,location_label,country_value,country_label,dissolved_value,contributor_value,official_website_value,identifier_value
+Organisation,Orpheus Instituut,['Orpheus Institute'],,Orpheus Instituut,Orpheus Instituut.md,nvkQnSyBbvsT,927074628245022976603,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BSaTuCVugahJ,research institute,,,,,,,,,,
+Organisation,Orpheus Instituut,['Orpheus Institute'],,Orpheus Instituut,Orpheus Instituut.md,nvkQnSyBbvsT,927074628245022976603,described_by_source,,,,,,,,,,,,
+Organisation,Orpheus Instituut,['Orpheus Institute'],,Orpheus Instituut,Orpheus Instituut.md,nvkQnSyBbvsT,927074628245022976603,inception,,,,,,,,,,,,
+Organisation,Orpheus Instituut,['Orpheus Institute'],,Orpheus Instituut,Orpheus Instituut.md,nvkQnSyBbvsT,927074628245022976603,location,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dcRsGEWm6xtE,Ghent,,,,,,
+Organisation,Orpheus Instituut,['Orpheus Institute'],,Orpheus Instituut,Orpheus Instituut.md,nvkQnSyBbvsT,927074628245022976603,country,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium,,,,
+Organisation,Orpheus Instituut,['Orpheus Institute'],,Orpheus Instituut,Orpheus Instituut.md,nvkQnSyBbvsT,927074628245022976603,dissolved,,,,,,,,,,,,
+Organisation,Orpheus Instituut,['Orpheus Institute'],,Orpheus Instituut,Orpheus Instituut.md,nvkQnSyBbvsT,927074628245022976603,contributor,,,,,,,,,,,,
+Organisation,Orpheus Instituut,['Orpheus Institute'],,Orpheus Instituut,Orpheus Instituut.md,nvkQnSyBbvsT,927074628245022976603,official_website,,,,,,,,,,,https://cat.orpheusinstituut.be/,
+Organisation,Orpheus Instituut,['Orpheus Institute'],,Orpheus Instituut,Orpheus Instituut.md,nvkQnSyBbvsT,927074628245022976603,identifier,,,,,,,,,,,,http://www.wikidata.org/entity/Q2289519

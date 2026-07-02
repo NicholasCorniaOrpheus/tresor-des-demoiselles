@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Adolphe Aimé Lecadre,,,Adolphe Aimé Lecadre,Adolphe Aimé Lecadre.md,GtHJaJBarc2K,307101382982513290475,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Adolphe Aimé Lecadre,,,Adolphe Aimé Lecadre,Adolphe Aimé Lecadre.md,GtHJaJBarc2K,307101382982513290475,date_of_birth,,,,,,,,,,,,
+Agent,Adolphe Aimé Lecadre,,,Adolphe Aimé Lecadre,Adolphe Aimé Lecadre.md,GtHJaJBarc2K,307101382982513290475,described_by_source,,,,,,,,,,,,
+Agent,Adolphe Aimé Lecadre,,,Adolphe Aimé Lecadre,Adolphe Aimé Lecadre.md,GtHJaJBarc2K,307101382982513290475,date_of_death,,,,,,,,,,,,
+Agent,Adolphe Aimé Lecadre,,,Adolphe Aimé Lecadre,Adolphe Aimé Lecadre.md,GtHJaJBarc2K,307101382982513290475,place_of_birth,,,,,,,,,,,,
+Agent,Adolphe Aimé Lecadre,,,Adolphe Aimé Lecadre,Adolphe Aimé Lecadre.md,GtHJaJBarc2K,307101382982513290475,place_of_death,,,,,,,,,,,,
+Agent,Adolphe Aimé Lecadre,,,Adolphe Aimé Lecadre,Adolphe Aimé Lecadre.md,GtHJaJBarc2K,307101382982513290475,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Adolphe Aimé Lecadre,,,Adolphe Aimé Lecadre,Adolphe Aimé Lecadre.md,GtHJaJBarc2K,307101382982513290475,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q105833783,,
+Agent,Adolphe Aimé Lecadre,,,Adolphe Aimé Lecadre,Adolphe Aimé Lecadre.md,GtHJaJBarc2K,307101382982513290475,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/EKZ4UEKdoJmP,physician

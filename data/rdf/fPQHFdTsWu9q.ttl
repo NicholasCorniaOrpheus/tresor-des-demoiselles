@@ -1,12 +1,19 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:fPQHFdTsWu9q-assertion-WSAYsJapcY85 a rdf:Statement ;
+    bf:Role tdd:Tk5wRTQJ7aUs ;
+    rdf:object tdd:4k5EPcbvKbQE ;
+    rdf:predicate <> ;
+    rdf:subject tdd:fPQHFdTsWu9q .
+
 tdd:fPQHFdTsWu9q a rdfs:Resource ;
-    rdfs:label "La mélodie" ;
-    dcterms:type bf:Organization ;
+    <> tdd:4k5EPcbvKbQE ;
+    dcterms:identifier <https://anet.be/record/opacap/c:lvd:13165961> ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:Ue6ZuYvAVpqW .
 

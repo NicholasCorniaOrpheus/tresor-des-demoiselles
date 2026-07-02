@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,occupation_value,occupation_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value
+Agent,Émile Barateau,,,Émile Barateau,Émile Barateau.md,Je7moMztSRaR,343244235640912408244,instance_of,,,,,,,,,,,
+Agent,Émile Barateau,,,Émile Barateau,Émile Barateau.md,Je7moMztSRaR,343244235640912408244,occupation,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist,,,,,,,,
+Agent,Émile Barateau,,,Émile Barateau,Émile Barateau.md,Je7moMztSRaR,343244235640912408244,date_of_birth,,,,,,,,,,,
+Agent,Émile Barateau,,,Émile Barateau,Émile Barateau.md,Je7moMztSRaR,343244235640912408244,described_by_source,,,,,,,,,,,
+Agent,Émile Barateau,,,Émile Barateau,Émile Barateau.md,Je7moMztSRaR,343244235640912408244,date_of_death,,,,,,,,,,,
+Agent,Émile Barateau,,,Émile Barateau,Émile Barateau.md,Je7moMztSRaR,343244235640912408244,place_of_birth,,,,,,,,,,,
+Agent,Émile Barateau,,,Émile Barateau,Émile Barateau.md,Je7moMztSRaR,343244235640912408244,place_of_death,,,,,,,,,,,
+Agent,Émile Barateau,,,Émile Barateau,Émile Barateau.md,Je7moMztSRaR,343244235640912408244,sex_or_gender,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,
+Agent,Émile Barateau,,,Émile Barateau,Émile Barateau.md,Je7moMztSRaR,343244235640912408244,identifier,,,,,,,,,,,http://www.wikidata.org/entity/Q55836686

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,"country dance derived from polka, of continental European origin",,schottische,schottische,schottische.md,P3xwqK2mHjC7,434064908239951994459,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew,classical dance music,,,
+Concept,"country dance derived from polka, of continental European origin",,schottische,schottische,schottische.md,P3xwqK2mHjC7,434064908239951994459,subclass_of,,,,,
+Concept,"country dance derived from polka, of continental European origin",,schottische,schottische,schottische.md,P3xwqK2mHjC7,434064908239951994459,described_by_source,,,,,
+Concept,"country dance derived from polka, of continental European origin",,schottische,schottische,schottische.md,P3xwqK2mHjC7,434064908239951994459,identifier,,,,,http://www.wikidata.org/entity/Q329385

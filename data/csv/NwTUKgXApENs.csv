@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,opera,opera,opera.md,NwTUKgXApENs,432067482689105229967,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,opera,opera,opera.md,NwTUKgXApENs,432067482689105229967,subclass_of,,,,,
+Concept,,,opera,opera,opera.md,NwTUKgXApENs,432067482689105229967,described_by_source,,,,,
+Concept,,,opera,opera,opera.md,NwTUKgXApENs,432067482689105229967,identifier,,,,,http://www.wikidata.org/entity/Q1344

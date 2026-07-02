@@ -1,12 +1,56 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:Q5YfCM4bBtmP-assertion-7SSsjreNGcdb a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Q5YfCM4bBtmP ;
+    schema:datePublished "1838-01-01"^^xsd:date ;
+    schema:url <https://www.digitale-sammlungen.de/en/view/bsb10359989> .
+
+tdd:Q5YfCM4bBtmP-assertion-BtB4y2xurWT9 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Q5YfCM4bBtmP ;
+    schema:datePublished "1838-01-01"^^xsd:date .
+
+tdd:Q5YfCM4bBtmP-assertion-LvJePEjpSYEx a rdf:Statement ;
+    rdf:object tdd:UabpPirExmof ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Q5YfCM4bBtmP .
+
+tdd:Q5YfCM4bBtmP-assertion-RUUYRN9YnhDm a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Q5YfCM4bBtmP .
+
+tdd:Q5YfCM4bBtmP-assertion-VcqwwQL8RGeF a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PBr2jjFrFXnm ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Q5YfCM4bBtmP .
+
+tdd:Q5YfCM4bBtmP-assertion-hWtuo8Y8RTXi a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:3v4q5PWHnZcN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Q5YfCM4bBtmP .
 
 tdd:Q5YfCM4bBtmP a rdfs:Resource ;
-    rdfs:label "Quadrille. Parisina" ;
+    <> tdd:3v4q5PWHnZcN,
+        tdd:NS7S3TJjbHvU,
+        tdd:PBr2jjFrFXnm,
+        tdd:UabpPirExmof ;
     dcterms:title "Deux Madones. Romance" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:HKt9yvCZmpw6 ;
     wdt:P870 tdd:fcrABEiDKbza .
 

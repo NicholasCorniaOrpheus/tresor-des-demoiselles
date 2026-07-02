@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,date_of_birth,,,,,,,,,,,,
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,described_by_source,,,,,,,,,,,,
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,date_of_death,,,,,,,,,,,,
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,place_of_birth,,,,,,,,,,,,
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,place_of_death,,,,,,,,,,,,
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q28779257,,
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3yS9agtba9rA,translator
+Agent,Achille de Lauzières,,,Achille de Lauzières,Achille de Lauzières.md,NQKrs6QNuU6A,420796150546311366635,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz,librettist

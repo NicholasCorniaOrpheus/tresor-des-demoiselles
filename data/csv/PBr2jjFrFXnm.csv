@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Gaetano Donizetti,,,Gaetano Donizetti,Gaetano Donizetti.md,PBr2jjFrFXnm,436917149476152028222,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Gaetano Donizetti,,,Gaetano Donizetti,Gaetano Donizetti.md,PBr2jjFrFXnm,436917149476152028222,date_of_birth,,,,,,,,,,,,
+Agent,Gaetano Donizetti,,,Gaetano Donizetti,Gaetano Donizetti.md,PBr2jjFrFXnm,436917149476152028222,described_by_source,,,,,,,,,,,,
+Agent,Gaetano Donizetti,,,Gaetano Donizetti,Gaetano Donizetti.md,PBr2jjFrFXnm,436917149476152028222,date_of_death,,,,,,,,,,,,
+Agent,Gaetano Donizetti,,,Gaetano Donizetti,Gaetano Donizetti.md,PBr2jjFrFXnm,436917149476152028222,place_of_birth,,,,,,,,,,,,
+Agent,Gaetano Donizetti,,,Gaetano Donizetti,Gaetano Donizetti.md,PBr2jjFrFXnm,436917149476152028222,place_of_death,,,,,,,,,,,,
+Agent,Gaetano Donizetti,,,Gaetano Donizetti,Gaetano Donizetti.md,PBr2jjFrFXnm,436917149476152028222,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Gaetano Donizetti,,,Gaetano Donizetti,Gaetano Donizetti.md,PBr2jjFrFXnm,436917149476152028222,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q101698,,
+Agent,Gaetano Donizetti,,,Gaetano Donizetti,Gaetano Donizetti.md,PBr2jjFrFXnm,436917149476152028222,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

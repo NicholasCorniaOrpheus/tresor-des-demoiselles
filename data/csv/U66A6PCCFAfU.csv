@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,subclass_of_label,described_by_source_value,identifier_value
+Concept,,,polka,polka,polka.md,U66A6PCCFAfU,538007836371959109467,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,,
+Concept,,,polka,polka,polka.md,U66A6PCCFAfU,538007836371959109467,subclass_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew,classical dance music,,
+Concept,,,polka,polka,polka.md,U66A6PCCFAfU,538007836371959109467,described_by_source,,,,,,
+Concept,,,polka,polka,polka.md,U66A6PCCFAfU,538007836371959109467,identifier,,,,,,http://www.wikidata.org/entity/Q11821889

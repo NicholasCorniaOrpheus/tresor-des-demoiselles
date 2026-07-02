@@ -1,11 +1,61 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:SUrWQhaKnmHL-assertion-53FijPehuYEo a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SUrWQhaKnmHL ;
+    schema:datePublished "1877-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88151> .
+
+tdd:SUrWQhaKnmHL-assertion-D6qx9oJ8X9Bq a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SUrWQhaKnmHL .
+
+tdd:SUrWQhaKnmHL-assertion-DkRrd9gBKwku a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SUrWQhaKnmHL .
+
+tdd:SUrWQhaKnmHL-assertion-Gwcy5CVwrrN8 a rdf:Statement ;
+    bf:electronicLocator <https://ks15.imslp.org/files/imglnks/usimg/5/5a/IMSLP250564-SIBLEY1802.24274.9db4-39087011142348concert.pdf> ;
+    bf:heldBy tdd:gAK3b5Jh5UVf ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SUrWQhaKnmHL ;
+    schema:datePublished "1877-01-01"^^xsd:date ;
+    schema:url <https://imslp.org/wiki/Un_concert_chez_les_demoiselles_de_Saint-Cyr_(Bord%C3%A8se%2C_Luigi)> .
+
+tdd:SUrWQhaKnmHL-assertion-ZtNnMAZXhKT2 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:VcpJBubpN5Jf ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SUrWQhaKnmHL .
+
+tdd:SUrWQhaKnmHL-assertion-dj5JUy2z8fyT a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SUrWQhaKnmHL ;
+    schema:datePublished "1877-01-01"^^xsd:date .
+
+tdd:SUrWQhaKnmHL-assertion-hBaKbvc2wxTH a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:NQKrs6QNuU6A ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SUrWQhaKnmHL .
 
 tdd:SUrWQhaKnmHL a rdfs:Resource ;
-    rdfs:label "Un concert chez les demoiselles de Saint-Cyr" ;
+    <> tdd:NQKrs6QNuU6A,
+        tdd:NS7S3TJjbHvU,
+        tdd:VcpJBubpN5Jf ;
     dcterms:title "Un concert chez les demoiselles de Saint-Cyr: opérette en un acte" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P870 tdd:fcrABEiDKbza .
 

@@ -1,12 +1,50 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:KWMc2MyB5896-assertion-4TwFskvckwxX a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:KWMc2MyB5896 .
+
+tdd:KWMc2MyB5896-assertion-BFcoH3aE5Hz6 a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:KWMc2MyB5896 ;
+    schema:url <https://anet.be/record/opacap/c:lvd:13279473> .
+
+tdd:KWMc2MyB5896-assertion-GZga8ZZCMKz9 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:KWMc2MyB5896 .
+
+tdd:KWMc2MyB5896-assertion-J4icfZKWda9A a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:KWMc2MyB5896 .
+
+tdd:KWMc2MyB5896-assertion-NoNuQfPXvgq2 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:3At93rnWJp3u ;
+    rdf:predicate <> ;
+    rdf:subject tdd:KWMc2MyB5896 .
+
+tdd:KWMc2MyB5896-assertion-b7itS2Z2fEhX a rdf:Statement ;
+    bf:Role tdd:3At93rnWJp3u ;
+    rdf:object tdd:PGagqrY8C5Aa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:KWMc2MyB5896 .
+
 tdd:KWMc2MyB5896 a rdfs:Resource ;
-    rdfs:label "La brune Thérèse" ;
+    <> tdd:3At93rnWJp3u,
+        tdd:PGagqrY8C5Aa,
+        tdd:VWaxuELqVfKN ;
     dcterms:title "La brune Thérèse" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,dramatico-musical work,dramatico-musical work,dramatico-musical work.md,XaBZqJUPUbCp,610086873411126611518,instance_of,,,,
+Concept,,,dramatico-musical work,dramatico-musical work,dramatico-musical work.md,XaBZqJUPUbCp,610086873411126611518,subclass_of,,,,
+Concept,,,dramatico-musical work,dramatico-musical work,dramatico-musical work.md,XaBZqJUPUbCp,610086873411126611518,described_by_source,,,,
+Concept,,,dramatico-musical work,dramatico-musical work,dramatico-musical work.md,XaBZqJUPUbCp,610086873411126611518,identifier,,,,http://www.wikidata.org/entity/Q58483083

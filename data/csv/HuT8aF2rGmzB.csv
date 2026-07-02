@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,described_by_source_label,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Magasin des demoiselles,,,Magasin des demoiselles,Magasin des demoiselles.md,HuT8aF2rGmzB,328161716426853765096,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW,periodical,,,,,,,,,,
+Organisation,Magasin des demoiselles,,,Magasin des demoiselles,Magasin des demoiselles.md,HuT8aF2rGmzB,328161716426853765096,described_by_source,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP,Agents of Change,,,,,,,,
+Organisation,Magasin des demoiselles,,,Magasin des demoiselles,Magasin des demoiselles.md,HuT8aF2rGmzB,328161716426853765096,inception,,,,,1844-01-01,,,,,,,
+Organisation,Magasin des demoiselles,,,Magasin des demoiselles,Magasin des demoiselles.md,HuT8aF2rGmzB,328161716426853765096,location,,,,,,,,,,,,
+Organisation,Magasin des demoiselles,,,Magasin des demoiselles,Magasin des demoiselles.md,HuT8aF2rGmzB,328161716426853765096,dissolved,,,,,,,1896-01-01,,,,,
+Organisation,Magasin des demoiselles,,,Magasin des demoiselles,Magasin des demoiselles.md,HuT8aF2rGmzB,328161716426853765096,contributor,,,,,,,,,,,,
+Organisation,Magasin des demoiselles,,,Magasin des demoiselles,Magasin des demoiselles.md,HuT8aF2rGmzB,328161716426853765096,official_website,,,,,,,,,,,,
+Organisation,Magasin des demoiselles,,,Magasin des demoiselles,Magasin des demoiselles.md,HuT8aF2rGmzB,328161716426853765096,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q88566529,,
+Organisation,Magasin des demoiselles,,,Magasin des demoiselles,Magasin des demoiselles.md,HuT8aF2rGmzB,328161716426853765096,country,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS,France

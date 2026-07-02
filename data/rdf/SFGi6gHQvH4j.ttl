@@ -1,11 +1,49 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:SFGi6gHQvH4j-assertion-96XorCD7UkSZ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PBr2jjFrFXnm ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SFGi6gHQvH4j .
+
+tdd:SFGi6gHQvH4j-assertion-FQhuZhSgtDAm a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SFGi6gHQvH4j ;
+    schema:datePublished "1839-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
+
+tdd:SFGi6gHQvH4j-assertion-JbhsvwLAURLa a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SFGi6gHQvH4j ;
+    schema:datePublished "1839-01-01"^^xsd:date .
+
+tdd:SFGi6gHQvH4j-assertion-WJTjFZNuauUa a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:CaRovnpexber ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SFGi6gHQvH4j .
+
+tdd:SFGi6gHQvH4j-assertion-aNZcFQmNZ9Lo a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SFGi6gHQvH4j .
 
 tdd:SFGi6gHQvH4j a rdfs:Resource ;
-    rdfs:label "L'Elisir d'amore. Quadrille" ;
+    <> tdd:CaRovnpexber,
+        tdd:NS7S3TJjbHvU,
+        tdd:PBr2jjFrFXnm ;
     dcterms:title "L'Elisir d'amore. Quadrille" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:HKt9yvCZmpw6 .
 

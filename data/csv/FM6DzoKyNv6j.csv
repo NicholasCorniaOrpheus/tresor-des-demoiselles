@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,dedicatee,dedicatee,dedicatee.md,FM6DzoKyNv6j,275172074504200080593,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ,occupation,,,
+Concept,,,dedicatee,dedicatee,dedicatee.md,FM6DzoKyNv6j,275172074504200080593,subclass_of,,,,,
+Concept,,,dedicatee,dedicatee,dedicatee.md,FM6DzoKyNv6j,275172074504200080593,described_by_source,,,,,
+Concept,,,dedicatee,dedicatee,dedicatee.md,FM6DzoKyNv6j,275172074504200080593,identifier,,,,,http://www.wikidata.org/entity/Q28008298

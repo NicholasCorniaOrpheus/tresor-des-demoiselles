@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['ouverture'],overture,overture,overture.md,FJbVhQcQoVGQ,274271915760858631594,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,['ouverture'],overture,overture,overture.md,FJbVhQcQoVGQ,274271915760858631594,subclass_of,,,,,
+Concept,,['ouverture'],overture,overture,overture.md,FJbVhQcQoVGQ,274271915760858631594,described_by_source,,,,,
+Concept,,['ouverture'],overture,overture,overture.md,FJbVhQcQoVGQ,274271915760858631594,identifier,,,,,http://www.wikidata.org/entity/Q202287

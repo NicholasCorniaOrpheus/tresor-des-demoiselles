@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Auguste Durand,"['Durand, Schœnewerk & Cie', 'Durand & Cie']",,Auguste Durand,Auguste Durand.md,DKdeWwAqyKRJ,233375834636493862666,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Auguste Durand,"['Durand, Schœnewerk & Cie', 'Durand & Cie']",,Auguste Durand,Auguste Durand.md,DKdeWwAqyKRJ,233375834636493862666,date_of_birth,,,,,,,,,,,,
+Agent,Auguste Durand,"['Durand, Schœnewerk & Cie', 'Durand & Cie']",,Auguste Durand,Auguste Durand.md,DKdeWwAqyKRJ,233375834636493862666,described_by_source,,,,,,,,,,,,
+Agent,Auguste Durand,"['Durand, Schœnewerk & Cie', 'Durand & Cie']",,Auguste Durand,Auguste Durand.md,DKdeWwAqyKRJ,233375834636493862666,date_of_death,,,,,,,,,,,,
+Agent,Auguste Durand,"['Durand, Schœnewerk & Cie', 'Durand & Cie']",,Auguste Durand,Auguste Durand.md,DKdeWwAqyKRJ,233375834636493862666,place_of_birth,,,,,,,,,,,,
+Agent,Auguste Durand,"['Durand, Schœnewerk & Cie', 'Durand & Cie']",,Auguste Durand,Auguste Durand.md,DKdeWwAqyKRJ,233375834636493862666,place_of_death,,,,,,,,,,,,
+Agent,Auguste Durand,"['Durand, Schœnewerk & Cie', 'Durand & Cie']",,Auguste Durand,Auguste Durand.md,DKdeWwAqyKRJ,233375834636493862666,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Auguste Durand,"['Durand, Schœnewerk & Cie', 'Durand & Cie']",,Auguste Durand,Auguste Durand.md,DKdeWwAqyKRJ,233375834636493862666,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q2871185,,
+Agent,Auguste Durand,"['Durand, Schœnewerk & Cie', 'Durand & Cie']",,Auguste Durand,Auguste Durand.md,DKdeWwAqyKRJ,233375834636493862666,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs,publisher

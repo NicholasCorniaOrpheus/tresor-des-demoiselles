@@ -1,10 +1,22 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:ctiBvfKCHD9m-assertion-B3rzq94LAtZs a rdf:Statement ;
+    rdf:object tdd:PGagqrY8C5Aa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ctiBvfKCHD9m .
+
+tdd:ctiBvfKCHD9m-assertion-g4FMsiHW4rKu a rdf:Statement ;
+    rdf:object tdd:NMBbPvkj3yAS ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ctiBvfKCHD9m .
+
 tdd:ctiBvfKCHD9m a rdfs:Resource ;
-    rdfs:label "Victor Hugo" ;
-    dcterms:type dcterms:Agent ;
+    <> tdd:NMBbPvkj3yAS,
+        tdd:PGagqrY8C5Aa ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q535> ;
     wdt:P31 tdd:TudsDJnQvonk .
 

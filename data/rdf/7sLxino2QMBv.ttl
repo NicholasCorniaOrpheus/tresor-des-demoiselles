@@ -1,11 +1,40 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:7sLxino2QMBv-assertion-BJ2WHRq2a6uT a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7sLxino2QMBv .
+
+tdd:7sLxino2QMBv-assertion-Jhm5YYRtrdCN a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7sLxino2QMBv ;
+    schema:datePublished "1853-01-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:7sLxino2QMBv-assertion-m76wwCP358uq a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7sLxino2QMBv ;
+    schema:datePublished "1853-01-01"^^xsd:date .
+
+tdd:7sLxino2QMBv-assertion-m8N2V79kRxrP a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:FiYhQVAhpR5M ;
+    rdf:predicate <> ;
+    rdf:subject tdd:7sLxino2QMBv .
 
 tdd:7sLxino2QMBv a rdfs:Resource ;
-    rdfs:label "La Pervenche" ;
+    <> tdd:FiYhQVAhpR5M,
+        tdd:VWaxuELqVfKN ;
     dcterms:title "La Pervenche. Polka des Demoiselles" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:U66A6PCCFAfU .
 

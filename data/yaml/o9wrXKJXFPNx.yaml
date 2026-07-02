@@ -27,6 +27,5 @@ statements:
 assets:
   image: https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Louis-Pierre_Deff%C3%A8s_-_E.Delon,_Toulouse_1890_BNF_Gallica.jpg
   IIIF_manifest: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/o9wrXKJXFPNx.json
 content:
   markdown_content: ''

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,romance,romance,romance.md,aph6QHtmL78s,677250526110008481841,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,romance,romance,romance.md,aph6QHtmL78s,677250526110008481841,subclass_of,,,,,
+Concept,,,romance,romance,romance.md,aph6QHtmL78s,677250526110008481841,described_by_source,,,,,
+Concept,,,romance,romance,romance.md,aph6QHtmL78s,677250526110008481841,identifier,,,,,http://wikidata.org/entity/Q599510

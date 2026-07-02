@@ -1,12 +1,22 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:HuT8aF2rGmzB-assertion-7CezdChxnS4d a rdf:Statement ;
+    rdf:object "1896-01-01"^^xsd:date ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HuT8aF2rGmzB .
+
+tdd:HuT8aF2rGmzB-assertion-hETE8T4ZfmHo a rdf:Statement ;
+    rdf:object "1844-01-01"^^xsd:date ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HuT8aF2rGmzB .
 
 tdd:HuT8aF2rGmzB a rdfs:Resource ;
-    rdfs:label "Magasin des demoiselles" ;
-    dcterms:type bf:Organization ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q88566529> ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P17 tdd:LCZnUXZBAaXS ;
     wdt:P31 tdd:Ue6ZuYvAVpqW .

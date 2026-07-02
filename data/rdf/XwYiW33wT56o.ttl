@@ -1,12 +1,75 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:XwYiW33wT56o-assertion-3SQPwwtRwrpJ a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:XwYiW33wT56o ;
+    schema:url <https://anet.be/record/opacdkvc/c:lvd:15287383> .
+
+tdd:XwYiW33wT56o-assertion-B2ftdLe2jKSb a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:mscfQWWqDRcw ;
+    rdf:predicate <> ;
+    rdf:subject tdd:XwYiW33wT56o .
+
+tdd:XwYiW33wT56o-assertion-B9y8zzd7D2hC a rdf:Statement ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:XwYiW33wT56o ;
+    schema:datePublished "1851-01-01"^^xsd:date ;
+    schema:url <http://ark.bnf.fr/ark:/12148/cb42913217h> .
+
+tdd:XwYiW33wT56o-assertion-DTuWLAhRRj2h a rdf:Statement ;
+    bf:Note "Part of Le Mélomane, journal de chant No. 54, vol. 3" ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:dcRsGEWm6xtE ;
+    rdf:predicate <> ;
+    rdf:subject tdd:XwYiW33wT56o ;
+    schema:datePublished "1852-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=183654> .
+
+tdd:XwYiW33wT56o-assertion-HfrcqVzLsBLd a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:XwYiW33wT56o .
+
+tdd:XwYiW33wT56o-assertion-MW3XwUENGBLS a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:CRKTdiKE8hR7 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:XwYiW33wT56o .
+
+tdd:XwYiW33wT56o-assertion-SMPKcuGdZGWo a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:XwYiW33wT56o .
+
+tdd:XwYiW33wT56o-assertion-ci4JLsA2sPEd a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:XwYiW33wT56o .
+
+tdd:XwYiW33wT56o-assertion-ck8XFzo6NsUp a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:XwYiW33wT56o ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
 tdd:XwYiW33wT56o a rdfs:Resource ;
-    rdfs:label "L'emploi de ma journée" ;
+    <> tdd:CRKTdiKE8hR7,
+        tdd:VWaxuELqVfKN,
+        tdd:mscfQWWqDRcw ;
     dcterms:title "L'emploi de ma journée" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

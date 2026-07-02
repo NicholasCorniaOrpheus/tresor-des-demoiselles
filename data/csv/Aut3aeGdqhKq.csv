@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,country,country,country.md,Aut3aeGdqhKq,183868647375764041865,instance_of,,,,
+Concept,,,country,country,country.md,Aut3aeGdqhKq,183868647375764041865,subclass_of,,,,
+Concept,,,country,country,country.md,Aut3aeGdqhKq,183868647375764041865,described_by_source,,,,
+Concept,,,country,country,country.md,Aut3aeGdqhKq,183868647375764041865,identifier,,,,http://www.wikidata.org/entity/Q6256

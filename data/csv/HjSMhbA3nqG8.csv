@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,type of library,type of library,type of library.md,HjSMhbA3nqG8,324536494603906292691,instance_of,,,,
+Concept,,,type of library,type of library,type of library.md,HjSMhbA3nqG8,324536494603906292691,subclass_of,,,,
+Concept,,,type of library,type of library,type of library.md,HjSMhbA3nqG8,324536494603906292691,described_by_source,,,,
+Concept,,,type of library,type of library,type of library.md,HjSMhbA3nqG8,324536494603906292691,identifier,,,,http://www.wikidata.org/entity/Q25397890

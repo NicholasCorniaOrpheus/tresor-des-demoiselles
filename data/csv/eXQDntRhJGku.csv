@@ -1,0 +1,4 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,country_value,country_label,instance_of_value,instance_of_label
+Place,Chevreuse,,"commune in Yvelines, France",Chevreuse,Chevreuse.md,eXQDntRhJGku,753532408390103045745,identifier,http://www.wikidata.org/entity/Q399366,,,,
+Place,Chevreuse,,"commune in Yvelines, France",Chevreuse,Chevreuse.md,eXQDntRhJGku,753532408390103045745,country,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS,France,,
+Place,Chevreuse,,"commune in Yvelines, France",Chevreuse,Chevreuse.md,eXQDntRhJGku,753532408390103045745,instance_of,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Kd5wMW8fYWBe,city

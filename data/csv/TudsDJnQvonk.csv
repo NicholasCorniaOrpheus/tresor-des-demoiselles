@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,human,human,human.md,TudsDJnQvonk,534588980506840455996,instance_of,,,,
+Concept,,,human,human,human.md,TudsDJnQvonk,534588980506840455996,subclass_of,,,,
+Concept,,,human,human,human.md,TudsDJnQvonk,534588980506840455996,described_by_source,,,,
+Concept,,,human,human,human.md,TudsDJnQvonk,534588980506840455996,identifier,,,,http://www.wikidata.org/entity/Q5

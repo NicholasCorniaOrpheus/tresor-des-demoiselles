@@ -5,8 +5,7 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:CaRovnpexber a rdfs:Resource ;
-    rdfs:label "Louis Antoine Jullien" ;
-    dcterms:type dcterms:Agent ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q660539> ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD .
 

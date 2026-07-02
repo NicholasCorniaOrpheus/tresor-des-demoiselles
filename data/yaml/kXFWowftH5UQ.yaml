@@ -26,6 +26,5 @@ statements:
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/1/1d/Friedrich_Burgm%C3%BCller.jpg
   IIIF_manifest: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/kXFWowftH5UQ.json
 content:
   markdown_content: ''

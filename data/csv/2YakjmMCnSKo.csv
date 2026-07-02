@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,date_of_birth,,,,,,,,,,,,
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,described_by_source,,,,,,,,,,,,
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,date_of_death,,,,,,,,,,,,
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,place_of_birth,,,,,,,,,,,,
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,place_of_death,,,,,,,,,,,,
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q1287601,,
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist
+Agent,Édouard Plouvier,,,Édouard Plouvier,Édouard Plouvier.md,2YakjmMCnSKo,11069008387968120531,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS,poet

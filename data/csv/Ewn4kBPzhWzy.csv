@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,identifier_value,occupation_value
+Agent,George Sawanoff,,,George Sawanoff,George Sawanoff.md,Ewn4kBPzhWzy,267098334895676698369,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,
+Agent,George Sawanoff,,,George Sawanoff,George Sawanoff.md,Ewn4kBPzhWzy,267098334895676698369,date_of_birth,,,,,,,,,,
+Agent,George Sawanoff,,,George Sawanoff,George Sawanoff.md,Ewn4kBPzhWzy,267098334895676698369,described_by_source,,,,,,,,,,
+Agent,George Sawanoff,,,George Sawanoff,George Sawanoff.md,Ewn4kBPzhWzy,267098334895676698369,date_of_death,,,,,,,,,,
+Agent,George Sawanoff,,,George Sawanoff,George Sawanoff.md,Ewn4kBPzhWzy,267098334895676698369,place_of_birth,,,,,,,,,,
+Agent,George Sawanoff,,,George Sawanoff,George Sawanoff.md,Ewn4kBPzhWzy,267098334895676698369,place_of_death,,,,,,,,,,
+Agent,George Sawanoff,,,George Sawanoff,George Sawanoff.md,Ewn4kBPzhWzy,267098334895676698369,sex_or_gender,,,,,,,,,,
+Agent,George Sawanoff,,,George Sawanoff,George Sawanoff.md,Ewn4kBPzhWzy,267098334895676698369,identifier,,,,,,,,,http://www.wikidata.org/entity/Q126896682,
+Agent,George Sawanoff,,,George Sawanoff,George Sawanoff.md,Ewn4kBPzhWzy,267098334895676698369,occupation,,,,,,,,,,

@@ -1,11 +1,29 @@
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:9g6aJgeHzqPk-assertion-A2HWYLzXVSkr a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:9g6aJgeHzqPk ;
+    schema:datePublished "1844-01-01"^^xsd:date .
+
+tdd:9g6aJgeHzqPk-assertion-Rqm5PqqZyiEn a rdf:Statement ;
+    bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1844." ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemois00pari> ;
+    bf:heldBy tdd:GpjEsTdNqATu ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:9g6aJgeHzqPk ;
+    schema:datePublished "1844-01-01"^^xsd:date ;
+    schema:url <https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/1bcgp01/alma991106287992806196> .
 
 tdd:9g6aJgeHzqPk a rdfs:Resource ;
-    rdfs:label "Journal des demoiselles (1844)" ;
-    dcterms:type dcterms:PhysicalResource ;
+    <> tdd:NS7S3TJjbHvU ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,research institute,research institute,research institute.md,BSaTuCVugahJ,194618031563378501026,instance_of,,,,
+Concept,,,research institute,research institute,research institute.md,BSaTuCVugahJ,194618031563378501026,subclass_of,,,,
+Concept,,,research institute,research institute,research institute.md,BSaTuCVugahJ,194618031563378501026,described_by_source,,,,
+Concept,,,research institute,research institute,research institute.md,BSaTuCVugahJ,194618031563378501026,identifier,,,,http://www.wikidata.org/entity/Q31855

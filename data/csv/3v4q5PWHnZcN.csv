@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Louis Gomion,,,Louis Gomion,Louis Gomion.md,3v4q5PWHnZcN,39479579825028018890,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Louis Gomion,,,Louis Gomion,Louis Gomion.md,3v4q5PWHnZcN,39479579825028018890,date_of_birth,,,,,,,,,,,,
+Agent,Louis Gomion,,,Louis Gomion,Louis Gomion.md,3v4q5PWHnZcN,39479579825028018890,described_by_source,,,,,,,,,,,,
+Agent,Louis Gomion,,,Louis Gomion,Louis Gomion.md,3v4q5PWHnZcN,39479579825028018890,date_of_death,,,,,,,,,,,,
+Agent,Louis Gomion,,,Louis Gomion,Louis Gomion.md,3v4q5PWHnZcN,39479579825028018890,place_of_birth,,,,,,,,,,,,
+Agent,Louis Gomion,,,Louis Gomion,Louis Gomion.md,3v4q5PWHnZcN,39479579825028018890,place_of_death,,,,,,,,,,,,
+Agent,Louis Gomion,,,Louis Gomion,Louis Gomion.md,3v4q5PWHnZcN,39479579825028018890,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Louis Gomion,,,Louis Gomion,Louis Gomion.md,3v4q5PWHnZcN,39479579825028018890,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q126679011,,
+Agent,Louis Gomion,,,Louis Gomion,Louis Gomion.md,3v4q5PWHnZcN,39479579825028018890,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

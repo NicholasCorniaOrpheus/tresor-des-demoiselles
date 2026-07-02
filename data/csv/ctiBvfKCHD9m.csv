@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,identifier_value,occupation_value,occupation_label
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,date_of_birth,,,,,,,,,,,
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,described_by_source,,,,,,,,,,,
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,date_of_death,,,,,,,,,,,
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,place_of_birth,,,,,,,,,,,
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,place_of_death,,,,,,,,,,,
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,sex_or_gender,,,,,,,,,,,
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,identifier,,,,,,,,,http://www.wikidata.org/entity/Q535,,
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist
+Agent,Victor Hugo,,,Victor Hugo,Victor Hugo.md,ctiBvfKCHD9m,719977427210904506605,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS,poet

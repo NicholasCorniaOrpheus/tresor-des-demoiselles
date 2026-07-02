@@ -23,8 +23,8 @@ class_mapping_path = "./mappings/yaml_classes2lod.csv"
 print("Serialize in JSON format...")
 json_serialization.yaml_metadata_to_json()
 
-# print("Serialization in CSV format...")
-# csv_serialization.flatten_json_entities_to_csv()
+print("Serialization in CSV format...")
+csv_serialization.flatten_json_entities_to_csv()
 
 print("Serializing in RDF format...")
 yaml_dir = Path(yaml_dir)

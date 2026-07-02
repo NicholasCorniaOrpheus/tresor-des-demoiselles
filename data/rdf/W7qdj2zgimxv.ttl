@@ -1,12 +1,50 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:W7qdj2zgimxv-assertion-4cDjUbdoeJN2 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:W7qdj2zgimxv .
+
+tdd:W7qdj2zgimxv-assertion-7ny9KCdGquT3 a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:Je7moMztSRaR ;
+    rdf:predicate <> ;
+    rdf:subject tdd:W7qdj2zgimxv .
+
+tdd:W7qdj2zgimxv-assertion-DRv6ByBLizuu a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:5BX54FRugrpJ ;
+    rdf:predicate <> ;
+    rdf:subject tdd:W7qdj2zgimxv .
+
+tdd:W7qdj2zgimxv-assertion-EMwcF5zt5uDT a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:W7qdj2zgimxv .
+
+tdd:W7qdj2zgimxv-assertion-SgxtycMPmPZm a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:W7qdj2zgimxv .
+
+tdd:W7qdj2zgimxv-assertion-fipzTwb8Nxbv a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:W7qdj2zgimxv ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971499> .
+
 tdd:W7qdj2zgimxv a rdfs:Resource ;
-    rdfs:label "Ange ployez votre aile! rêverie" ;
+    <> tdd:5BX54FRugrpJ,
+        tdd:Je7moMztSRaR,
+        tdd:VWaxuELqVfKN ;
     dcterms:title "Ange ployez votre aile! rêverie" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

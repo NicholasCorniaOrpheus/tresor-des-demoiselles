@@ -15,7 +15,7 @@ contributor:
   - value: "[[Victor Lefèvre]]"
     role: "[[lyricist]]"
 has_version:
-  - permalink: "https: //cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186"
+  - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
     holding_institution: "[[Orpheus Instituut]]"
     publication_date: 1853-01-01
     place_of_publication: "[[Brussels]]"

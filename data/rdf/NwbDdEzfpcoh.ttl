@@ -1,12 +1,58 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:NwbDdEzfpcoh-assertion-2GGQgyuMYtyG a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:VKzHPzJxYHNi ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NwbDdEzfpcoh .
+
+tdd:NwbDdEzfpcoh-assertion-N2EmSzfNv45h a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NwbDdEzfpcoh ;
+    schema:datePublished "1874-01-01"^^xsd:date .
+
+tdd:NwbDdEzfpcoh-assertion-Sbah5nw7Bfdz a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NwbDdEzfpcoh .
+
+tdd:NwbDdEzfpcoh-assertion-aSWPkpvxftcw a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:4Z9bCRmwDbS7 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NwbDdEzfpcoh .
+
+tdd:NwbDdEzfpcoh-assertion-dUq7qpVxSZFW a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NwbDdEzfpcoh ;
+    schema:datePublished "1874-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=70336> .
+
+tdd:NwbDdEzfpcoh-assertion-nHVqueiaWUDN a rdf:Statement ;
+    bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:NwbDdEzfpcoh ;
+    schema:datePublished "1878-01-01"^^xsd:date ;
+    schema:url <https://catalogue.bnf.fr/ark:/12148/cb43140041g> .
 
 tdd:NwbDdEzfpcoh a rdfs:Resource ;
-    rdfs:label "Un Loi Somptuaire. opérette en deux actes" ;
+    <> tdd:4Z9bCRmwDbS7,
+        tdd:NS7S3TJjbHvU,
+        tdd:VKzHPzJxYHNi ;
     dcterms:title "Un Loi Somptuaire. opérette en deux actes" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:bogx9ECia7TM ;
     wdt:P870 tdd:fcrABEiDKbza .
 

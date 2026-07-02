@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Victor Mabille,,,Victor Mabille,Victor Mabille.md,Pfj3svCdi9rS,447009749966917896837,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Victor Mabille,,,Victor Mabille,Victor Mabille.md,Pfj3svCdi9rS,447009749966917896837,date_of_birth,,,,,,,,,,,,
+Agent,Victor Mabille,,,Victor Mabille,Victor Mabille.md,Pfj3svCdi9rS,447009749966917896837,described_by_source,,,,,,,,,,,,
+Agent,Victor Mabille,,,Victor Mabille,Victor Mabille.md,Pfj3svCdi9rS,447009749966917896837,date_of_death,,,,,,,,,,,,
+Agent,Victor Mabille,,,Victor Mabille,Victor Mabille.md,Pfj3svCdi9rS,447009749966917896837,place_of_birth,,,,,,,,,,,,
+Agent,Victor Mabille,,,Victor Mabille,Victor Mabille.md,Pfj3svCdi9rS,447009749966917896837,place_of_death,,,,,,,,,,,,
+Agent,Victor Mabille,,,Victor Mabille,Victor Mabille.md,Pfj3svCdi9rS,447009749966917896837,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Victor Mabille,,,Victor Mabille,Victor Mabille.md,Pfj3svCdi9rS,447009749966917896837,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q130773936,,
+Agent,Victor Mabille,,,Victor Mabille,Victor Mabille.md,Pfj3svCdi9rS,447009749966917896837,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist

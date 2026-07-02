@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Paul Dubourg,,,Paul Dubourg,Paul Dubourg.md,4Z9bCRmwDbS7,52542990821349206411,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Paul Dubourg,,,Paul Dubourg,Paul Dubourg.md,4Z9bCRmwDbS7,52542990821349206411,date_of_birth,,,,,,,,,,,,
+Agent,Paul Dubourg,,,Paul Dubourg,Paul Dubourg.md,4Z9bCRmwDbS7,52542990821349206411,described_by_source,,,,,,,,,,,,
+Agent,Paul Dubourg,,,Paul Dubourg,Paul Dubourg.md,4Z9bCRmwDbS7,52542990821349206411,date_of_death,,,,,,,,,,,,
+Agent,Paul Dubourg,,,Paul Dubourg,Paul Dubourg.md,4Z9bCRmwDbS7,52542990821349206411,place_of_birth,,,,,,,,,,,,
+Agent,Paul Dubourg,,,Paul Dubourg,Paul Dubourg.md,4Z9bCRmwDbS7,52542990821349206411,place_of_death,,,,,,,,,,,,
+Agent,Paul Dubourg,,,Paul Dubourg,Paul Dubourg.md,4Z9bCRmwDbS7,52542990821349206411,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Paul Dubourg,,,Paul Dubourg,Paul Dubourg.md,4Z9bCRmwDbS7,52542990821349206411,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q140330128,,
+Agent,Paul Dubourg,,,Paul Dubourg,Paul Dubourg.md,4Z9bCRmwDbS7,52542990821349206411,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz,librettist

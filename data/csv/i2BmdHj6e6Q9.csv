@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,identifier_value,occupation_value,occupation_label
+Agent,Johannes Verhulst,,,Johannes Verhulst,Johannes Verhulst.md,i2BmdHj6e6Q9,825498019293643570312,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,
+Agent,Johannes Verhulst,,,Johannes Verhulst,Johannes Verhulst.md,i2BmdHj6e6Q9,825498019293643570312,date_of_birth,,,,,,,,,,,
+Agent,Johannes Verhulst,,,Johannes Verhulst,Johannes Verhulst.md,i2BmdHj6e6Q9,825498019293643570312,described_by_source,,,,,,,,,,,
+Agent,Johannes Verhulst,,,Johannes Verhulst,Johannes Verhulst.md,i2BmdHj6e6Q9,825498019293643570312,date_of_death,,,,,,,,,,,
+Agent,Johannes Verhulst,,,Johannes Verhulst,Johannes Verhulst.md,i2BmdHj6e6Q9,825498019293643570312,place_of_birth,,,,,,,,,,,
+Agent,Johannes Verhulst,,,Johannes Verhulst,Johannes Verhulst.md,i2BmdHj6e6Q9,825498019293643570312,place_of_death,,,,,,,,,,,
+Agent,Johannes Verhulst,,,Johannes Verhulst,Johannes Verhulst.md,i2BmdHj6e6Q9,825498019293643570312,sex_or_gender,,,,,,,,,,,
+Agent,Johannes Verhulst,,,Johannes Verhulst,Johannes Verhulst.md,i2BmdHj6e6Q9,825498019293643570312,identifier,,,,,,,,,http://www.wikidata.org/entity/Q964611,,
+Agent,Johannes Verhulst,,,Johannes Verhulst,Johannes Verhulst.md,i2BmdHj6e6Q9,825498019293643570312,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

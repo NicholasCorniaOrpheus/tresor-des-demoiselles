@@ -28,7 +28,6 @@ statements:
   based_on: null
 assets:
   IIIF_manifest: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/UabpPirExmof.json
+  image: []
 content:
   markdown_content: ''

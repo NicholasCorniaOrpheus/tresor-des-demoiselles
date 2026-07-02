@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,Ghent University,university,university.md,MBm7WVmvSg7a,395614123650352442405,instance_of,,,,
+Concept,,,Ghent University,university,university.md,MBm7WVmvSg7a,395614123650352442405,subclass_of,,,,
+Concept,,,Ghent University,university,university.md,MBm7WVmvSg7a,395614123650352442405,described_by_source,,,,
+Concept,,,Ghent University,university,university.md,MBm7WVmvSg7a,395614123650352442405,identifier,,,,http://www.wikidata.org/entity/Q3918

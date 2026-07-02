@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,Wikidata,Wikidata,Wikidata.md,XP2eoc3jqCp2,606047897446001610294,instance_of,,,,
+Concept,,,Wikidata,Wikidata,Wikidata.md,XP2eoc3jqCp2,606047897446001610294,subclass_of,,,,
+Concept,,,Wikidata,Wikidata,Wikidata.md,XP2eoc3jqCp2,606047897446001610294,described_by_source,,,,
+Concept,,,Wikidata,Wikidata,Wikidata.md,XP2eoc3jqCp2,606047897446001610294,identifier,,,,http://www.wikidata.org/entity/Q2013

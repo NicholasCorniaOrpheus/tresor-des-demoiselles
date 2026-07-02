@@ -1,15 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:DKdeWwAqyKRJ-assertion-NFBoRTpTbygn a rdf:Statement ;
+    rdf:object tdd:Tk5wRTQJ7aUs ;
+    rdf:predicate <> ;
+    rdf:subject tdd:DKdeWwAqyKRJ .
+
 tdd:DKdeWwAqyKRJ a rdfs:Resource ;
-    rdfs:label "Auguste Durand" ;
-    dcterms:type dcterms:Agent ;
+    <> tdd:Tk5wRTQJ7aUs ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q2871185> ;
     wdt:P31 tdd:TudsDJnQvonk ;
-    skos:altLabel "Durand & Cie",
-        "Durand, Schœnewerk & Cie" ;
     schema:gender tdd:hkA3uvTGSDnD .
 

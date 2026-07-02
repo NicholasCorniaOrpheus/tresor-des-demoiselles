@@ -68,8 +68,13 @@
 </div>
 
 <script>
-  {# Access the graph URL #}
-  window.entityGraphUrl = "{{ assets.graph }}";
+  {# Access the graph URL - handle None/null from Python #}
+  {% if assets and assets.graph and assets.graph != "None" and assets.graph != "null" %}
+    window.entityGraphUrl = "{{ assets.graph }}";
+  {% else %}
+    window.entityGraphUrl = "";
+  {% endif %}
+  console.log("Entity graph URL:", window.entityGraphUrl);
 </script>
 {%- endif -%}
 

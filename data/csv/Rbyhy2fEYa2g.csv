@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,duet,duet,duet.md,Rbyhy2fEYa2g,486926581164492393362,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,duet,duet,duet.md,Rbyhy2fEYa2g,486926581164492393362,subclass_of,,,,,
+Concept,,,duet,duet,duet.md,Rbyhy2fEYa2g,486926581164492393362,described_by_source,,,,,
+Concept,,,duet,duet,duet.md,Rbyhy2fEYa2g,486926581164492393362,identifier,,,,,http://www.wikidata.org/entity/Q109940

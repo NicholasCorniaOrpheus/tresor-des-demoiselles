@@ -1,14 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:VcpJBubpN5Jf-assertion-UUUSAw5MrdKi a rdf:Statement ;
+    rdf:object tdd:9Y8pKvFMJST5 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:VcpJBubpN5Jf .
+
 tdd:VcpJBubpN5Jf a rdfs:Resource ;
-    rdfs:label "Louis Bordèse" ;
-    dcterms:type dcterms:Agent ;
+    <> tdd:9Y8pKvFMJST5 ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q50019789> ;
     wdt:P31 tdd:TudsDJnQvonk ;
-    skos:altLabel "Louis Bordese" ;
     schema:gender tdd:hkA3uvTGSDnD .
 

@@ -1,0 +1,4 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,country_value,instance_of_value,instance_of_label
+Place,Germany,,,Germany,Germany.md,eXFBXUBFBjqU,753474992218913880167,identifier,http://www.wikidata.org/entity/Q183,,,
+Place,Germany,,,Germany,Germany.md,eXFBXUBFBjqU,753474992218913880167,country,,,,
+Place,Germany,,,Germany,Germany.md,eXFBXUBFBjqU,753474992218913880167,instance_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq,country

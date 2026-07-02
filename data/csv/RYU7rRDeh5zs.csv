@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,country_value,country_label,dissolved_value,contributor_value,official_website_value,identifier_value
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC,conservatory,,,,,,,,,
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J,public library,,,,,,,,,
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,described_by_source,,,,,,,,,,,
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,inception,,,,1898-01-01,,,,,,,
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,location,,,,,,,,,,,
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,country,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium,,,,
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,dissolved,,,,,,,,,,,
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,contributor,,,,,,,,,,,
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,official_website,,,,,,,,,,https://anet.be/desktop/apcon,
+Organisation,Royal Conservatory of Antwerp,,,Royal Conservatory of Antwerp,Royal Conservatory of Antwerp.md,RYU7rRDeh5zs,485652487271220534565,identifier,,,,,,,,,,,http://www.wikidata.org/entity/Q2665388

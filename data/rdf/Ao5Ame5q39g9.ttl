@@ -1,11 +1,40 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:Ao5Ame5q39g9-assertion-9Q8zRVCd4Z44 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Ao5Ame5q39g9 ;
+    schema:datePublished "1856-03-01"^^xsd:date .
+
+tdd:Ao5Ame5q39g9-assertion-TvwXfzUv4VW8 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:Ewn4kBPzhWzy ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Ao5Ame5q39g9 .
+
+tdd:Ao5Ame5q39g9-assertion-Vp5rhfiQ42vW a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Ao5Ame5q39g9 ;
+    schema:datePublished "1856-03-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:Ao5Ame5q39g9-assertion-bZXVQnJjAvQG a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Ao5Ame5q39g9 .
 
 tdd:Ao5Ame5q39g9 a rdfs:Resource ;
-    rdfs:label "Le Corbeille de roses" ;
+    <> tdd:Ewn4kBPzhWzy,
+        tdd:NS7S3TJjbHvU ;
     dcterms:title "Le Corbeille de roses. Valse brillante" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:LTZ2PAutKcZC .
 

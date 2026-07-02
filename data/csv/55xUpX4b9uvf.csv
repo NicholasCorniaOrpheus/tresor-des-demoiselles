@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,described_by_source_label,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Ambroise Thomas,,,Ambroise Thomas,Ambroise Thomas.md,55xUpX4b9uvf,63339766698609582727,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Ambroise Thomas,,,Ambroise Thomas,Ambroise Thomas.md,55xUpX4b9uvf,63339766698609582727,date_of_birth,,,,,,,,,,,,,
+Agent,Ambroise Thomas,,,Ambroise Thomas,Ambroise Thomas.md,55xUpX4b9uvf,63339766698609582727,described_by_source,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2,Wikidata,,,,,,,,
+Agent,Ambroise Thomas,,,Ambroise Thomas,Ambroise Thomas.md,55xUpX4b9uvf,63339766698609582727,date_of_death,,,,,,,,,,,,,
+Agent,Ambroise Thomas,,,Ambroise Thomas,Ambroise Thomas.md,55xUpX4b9uvf,63339766698609582727,place_of_birth,,,,,,,,,,,,,
+Agent,Ambroise Thomas,,,Ambroise Thomas,Ambroise Thomas.md,55xUpX4b9uvf,63339766698609582727,place_of_death,,,,,,,,,,,,,
+Agent,Ambroise Thomas,,,Ambroise Thomas,Ambroise Thomas.md,55xUpX4b9uvf,63339766698609582727,sex_or_gender,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Ambroise Thomas,,,Ambroise Thomas,Ambroise Thomas.md,55xUpX4b9uvf,63339766698609582727,identifier,,,,,,,,,,,http://www.wikidata.org/entity/Q297717,,
+Agent,Ambroise Thomas,,,Ambroise Thomas,Ambroise Thomas.md,55xUpX4b9uvf,63339766698609582727,occupation,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

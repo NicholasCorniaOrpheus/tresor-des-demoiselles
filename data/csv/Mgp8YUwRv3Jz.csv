@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,librettist,librettist,librettist.md,Mgp8YUwRv3Jz,406132259958839954318,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ,occupation,,,
+Concept,,,librettist,librettist,librettist.md,Mgp8YUwRv3Jz,406132259958839954318,subclass_of,,,,,
+Concept,,,librettist,librettist,librettist.md,Mgp8YUwRv3Jz,406132259958839954318,described_by_source,,,,,
+Concept,,,librettist,librettist,librettist.md,Mgp8YUwRv3Jz,406132259958839954318,identifier,,,,,http://www.wikidata.org/entity/Q8178443

@@ -1,12 +1,78 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:ScUaW5x7afcg-assertion-6fcmDt8XC5TK a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ScUaW5x7afcg .
+
+tdd:ScUaW5x7afcg-assertion-EpYHZ7S2Cq5w a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:CXpPMVRq6JaP ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ScUaW5x7afcg .
+
+tdd:ScUaW5x7afcg-assertion-Q7TExPUui2DB a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ScUaW5x7afcg ;
+    schema:datePublished "1853-04-01"^^xsd:date .
+
+tdd:ScUaW5x7afcg-assertion-Qec7TG886DMK a rdf:Statement ;
+    bf:Note "aux Abonnés du Trésor des Demoiselles." ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ScUaW5x7afcg ;
+    schema:datePublished "1853-04-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:ScUaW5x7afcg-assertion-UWLXtzgotNdd a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:o9wrXKJXFPNx ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ScUaW5x7afcg .
+
+tdd:ScUaW5x7afcg-assertion-WWgri3XnRNYt a rdf:Statement ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ScUaW5x7afcg ;
+    schema:datePublished "1861-01-01"^^xsd:date ;
+    schema:url <http://ark.bnf.fr/ark:/12148/cb42940871v> .
+
+tdd:ScUaW5x7afcg-assertion-bgfaoR2nzeUw a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ScUaW5x7afcg ;
+    schema:datePublished "1852-01-01"^^xsd:date .
+
+tdd:ScUaW5x7afcg-assertion-ixfYXqv8HCYu a rdf:Statement ;
+    bf:Note "dedicated to the Trésor des demoiselles' subscribers." ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ScUaW5x7afcg ;
+    schema:datePublished "1853-01-01"^^xsd:date ;
+    schema:url <https://anet.be/record/opacdkvc/c:lvd:14436621> .
+
+tdd:ScUaW5x7afcg-assertion-nYfzPNgx6kj9 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ScUaW5x7afcg .
 
 tdd:ScUaW5x7afcg a rdfs:Resource ;
-    rdfs:label "En écoutant avec son coeur" ;
+    <> tdd:CXpPMVRq6JaP,
+        tdd:HuT8aF2rGmzB,
+        tdd:VWaxuELqVfKN,
+        tdd:o9wrXKJXFPNx ;
     dcterms:title "En écoutant avec son coeur" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:aph6QHtmL78s ;
     wdt:P870 tdd:fcrABEiDKbza .
 

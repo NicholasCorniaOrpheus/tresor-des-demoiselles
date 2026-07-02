@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,male,male,male.md,hkA3uvTGSDnD,820056520373040841562,instance_of,,,,
+Concept,,,male,male,male.md,hkA3uvTGSDnD,820056520373040841562,subclass_of,,,,
+Concept,,,male,male,male.md,hkA3uvTGSDnD,820056520373040841562,described_by_source,,,,
+Concept,,,male,male,male.md,hkA3uvTGSDnD,820056520373040841562,identifier,,,,http://www.wikidata.org/entity/Q6581097

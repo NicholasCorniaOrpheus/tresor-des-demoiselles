@@ -1,0 +1,4 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,country_value,instance_of_value,instance_of_label
+Place,United States,"['USA', 'US', 'United States of America']",,United States,United States.md,LEcVCfQG66Bg,376009577177307442157,identifier,http://www.wikidata.org/entity/Q30,,,
+Place,United States,"['USA', 'US', 'United States of America']",,United States,United States.md,LEcVCfQG66Bg,376009577177307442157,country,,,,
+Place,United States,"['USA', 'US', 'United States of America']",,United States,United States.md,LEcVCfQG66Bg,376009577177307442157,instance_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq,country

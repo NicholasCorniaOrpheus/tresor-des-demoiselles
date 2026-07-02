@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Paul Henrion,,,Paul Henrion,Paul Henrion.md,AouufLb7bx5R,181708379475098018225,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Paul Henrion,,,Paul Henrion,Paul Henrion.md,AouufLb7bx5R,181708379475098018225,date_of_birth,,,,,,,,,,,,
+Agent,Paul Henrion,,,Paul Henrion,Paul Henrion.md,AouufLb7bx5R,181708379475098018225,described_by_source,,,,,,,,,,,,
+Agent,Paul Henrion,,,Paul Henrion,Paul Henrion.md,AouufLb7bx5R,181708379475098018225,date_of_death,,,,,,,,,,,,
+Agent,Paul Henrion,,,Paul Henrion,Paul Henrion.md,AouufLb7bx5R,181708379475098018225,place_of_birth,,,,,,,,,,,,
+Agent,Paul Henrion,,,Paul Henrion,Paul Henrion.md,AouufLb7bx5R,181708379475098018225,place_of_death,,,,,,,,,,,,
+Agent,Paul Henrion,,,Paul Henrion,Paul Henrion.md,AouufLb7bx5R,181708379475098018225,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Paul Henrion,,,Paul Henrion,Paul Henrion.md,AouufLb7bx5R,181708379475098018225,identifier,,,,,,,,,,http://wikidata.org/entity/Q2390789,,
+Agent,Paul Henrion,,,Paul Henrion,Paul Henrion.md,AouufLb7bx5R,181708379475098018225,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

@@ -1,11 +1,10 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:G9FZhC6pNp69 a rdfs:Resource ;
-    rdfs:label "Internet Archive" ;
-    dcterms:type bf:Organization ;
-    wdt:P31 tdd:G5aFCqnqarZS .
+    dcterms:identifier <http://www.wikidata.org/entity/Q461> ;
+    wdt:P31 tdd:G5aFCqnqarZS ;
+    wdt:P856 <https://archive.org/> .
 

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Jules Pillevestre,['Jules Pillevesse'],,Jules Pillevestre,Jules Pillevestre.md,jMzRtWT8BzJg,853308872372833535543,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Jules Pillevestre,['Jules Pillevesse'],,Jules Pillevestre,Jules Pillevestre.md,jMzRtWT8BzJg,853308872372833535543,date_of_birth,,,,,,,,,,,,
+Agent,Jules Pillevestre,['Jules Pillevesse'],,Jules Pillevestre,Jules Pillevestre.md,jMzRtWT8BzJg,853308872372833535543,described_by_source,,,,,,,,,,,,
+Agent,Jules Pillevestre,['Jules Pillevesse'],,Jules Pillevestre,Jules Pillevestre.md,jMzRtWT8BzJg,853308872372833535543,date_of_death,,,,,,,,,,,,
+Agent,Jules Pillevestre,['Jules Pillevesse'],,Jules Pillevestre,Jules Pillevestre.md,jMzRtWT8BzJg,853308872372833535543,place_of_birth,,,,,,,,,,,,
+Agent,Jules Pillevestre,['Jules Pillevesse'],,Jules Pillevestre,Jules Pillevestre.md,jMzRtWT8BzJg,853308872372833535543,place_of_death,,,,,,,,,,,,
+Agent,Jules Pillevestre,['Jules Pillevesse'],,Jules Pillevestre,Jules Pillevestre.md,jMzRtWT8BzJg,853308872372833535543,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Jules Pillevestre,['Jules Pillevesse'],,Jules Pillevestre,Jules Pillevestre.md,jMzRtWT8BzJg,853308872372833535543,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q16647507,,
+Agent,Jules Pillevestre,['Jules Pillevesse'],,Jules Pillevestre,Jules Pillevestre.md,jMzRtWT8BzJg,853308872372833535543,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Alfred Lebigre,['Duquesne'],,Alfred Lebigre,Alfred Lebigre.md,FiYhQVAhpR5M,282942965402603695477,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Alfred Lebigre,['Duquesne'],,Alfred Lebigre,Alfred Lebigre.md,FiYhQVAhpR5M,282942965402603695477,date_of_birth,,,,,,,,,,,,
+Agent,Alfred Lebigre,['Duquesne'],,Alfred Lebigre,Alfred Lebigre.md,FiYhQVAhpR5M,282942965402603695477,described_by_source,,,,,,,,,,,,
+Agent,Alfred Lebigre,['Duquesne'],,Alfred Lebigre,Alfred Lebigre.md,FiYhQVAhpR5M,282942965402603695477,date_of_death,,,,,,,,,,,,
+Agent,Alfred Lebigre,['Duquesne'],,Alfred Lebigre,Alfred Lebigre.md,FiYhQVAhpR5M,282942965402603695477,place_of_birth,,,,,,,,,,,,
+Agent,Alfred Lebigre,['Duquesne'],,Alfred Lebigre,Alfred Lebigre.md,FiYhQVAhpR5M,282942965402603695477,place_of_death,,,,,,,,,,,,
+Agent,Alfred Lebigre,['Duquesne'],,Alfred Lebigre,Alfred Lebigre.md,FiYhQVAhpR5M,282942965402603695477,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Alfred Lebigre,['Duquesne'],,Alfred Lebigre,Alfred Lebigre.md,FiYhQVAhpR5M,282942965402603695477,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q126722766,,
+Agent,Alfred Lebigre,['Duquesne'],,Alfred Lebigre,Alfred Lebigre.md,FiYhQVAhpR5M,282942965402603695477,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Florine Mouvielle,,,Florine Mouvielle,Florine Mouvielle.md,YKxiqAW7Evgt,625579091709382715285,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Florine Mouvielle,,,Florine Mouvielle,Florine Mouvielle.md,YKxiqAW7Evgt,625579091709382715285,date_of_birth,,,,,,,,,,,,
+Agent,Florine Mouvielle,,,Florine Mouvielle,Florine Mouvielle.md,YKxiqAW7Evgt,625579091709382715285,described_by_source,,,,,,,,,,,,
+Agent,Florine Mouvielle,,,Florine Mouvielle,Florine Mouvielle.md,YKxiqAW7Evgt,625579091709382715285,date_of_death,,,,,,,,,,,,
+Agent,Florine Mouvielle,,,Florine Mouvielle,Florine Mouvielle.md,YKxiqAW7Evgt,625579091709382715285,place_of_birth,,,,,,,,,,,,
+Agent,Florine Mouvielle,,,Florine Mouvielle,Florine Mouvielle.md,YKxiqAW7Evgt,625579091709382715285,place_of_death,,,,,,,,,,,,
+Agent,Florine Mouvielle,,,Florine Mouvielle,Florine Mouvielle.md,YKxiqAW7Evgt,625579091709382715285,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,
+Agent,Florine Mouvielle,,,Florine Mouvielle,Florine Mouvielle.md,YKxiqAW7Evgt,625579091709382715285,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q126722520,,
+Agent,Florine Mouvielle,,,Florine Mouvielle,Florine Mouvielle.md,YKxiqAW7Evgt,625579091709382715285,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

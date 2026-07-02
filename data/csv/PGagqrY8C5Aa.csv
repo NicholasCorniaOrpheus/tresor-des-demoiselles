@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,lyricist,lyricist,lyricist.md,PGagqrY8C5Aa,438629939029365456305,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ,occupation,,,
+Concept,,,lyricist,lyricist,lyricist.md,PGagqrY8C5Aa,438629939029365456305,subclass_of,,,,,
+Concept,,,lyricist,lyricist,lyricist.md,PGagqrY8C5Aa,438629939029365456305,described_by_source,,,,,
+Concept,,,lyricist,lyricist,lyricist.md,PGagqrY8C5Aa,438629939029365456305,identifier,,,,,http://www.wikidata.org/entity/Q8178443

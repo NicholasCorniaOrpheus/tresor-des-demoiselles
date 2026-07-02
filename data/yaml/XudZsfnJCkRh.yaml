@@ -29,6 +29,5 @@ statements:
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/b/b6/Amable_Tastu_by_Constance_Mayer.jpg
   IIIF_manifest: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/XudZsfnJCkRh.json
 content:
   markdown_content: ''

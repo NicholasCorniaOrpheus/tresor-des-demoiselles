@@ -1,12 +1,50 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:gRR8aAYdEX54-assertion-E8bC4AMU8oyb a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:c5Sr2gJUocsM ;
+    rdf:predicate <> ;
+    rdf:subject tdd:gRR8aAYdEX54 .
+
+tdd:gRR8aAYdEX54-assertion-HAWuJheLoLx2 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:gRR8aAYdEX54 .
+
+tdd:gRR8aAYdEX54-assertion-NDNSWF8sSWaN a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:gRR8aAYdEX54 .
+
+tdd:gRR8aAYdEX54-assertion-mP6BhcK7Tj4D a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:gRR8aAYdEX54 ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:gRR8aAYdEX54-assertion-moUtjCM3yeA4 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:AouufLb7bx5R ;
+    rdf:predicate <> ;
+    rdf:subject tdd:gRR8aAYdEX54 .
+
+tdd:gRR8aAYdEX54-assertion-ncHobXqwzig9 a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:gRR8aAYdEX54 .
+
 tdd:gRR8aAYdEX54 a rdfs:Resource ;
-    rdfs:label "Dieu le voit" ;
+    <> tdd:AouufLb7bx5R,
+        tdd:VWaxuELqVfKN,
+        tdd:c5Sr2gJUocsM ;
     dcterms:title "Dieu le voit: Mélodie" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

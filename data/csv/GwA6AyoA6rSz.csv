@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,date_of_birth,,,,,,,,,,,,
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,described_by_source,,,,,,,,,,,,
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,date_of_death,,,,,,,,,,,,
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,place_of_birth,,,,,,,,,,,,
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,place_of_death,,,,,,,,,,,,
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q3060238,,
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist
+Agent,Eugène de Lonlay,,,Eugène de Lonlay,Eugène de Lonlay.md,GwA6AyoA6rSz,308141640034732006319,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS,poet

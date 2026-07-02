@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,occupation,occupation,occupation.md,mQD8LFQ4A2HJ,895378998996612466792,instance_of,,,,
+Concept,,,occupation,occupation,occupation.md,mQD8LFQ4A2HJ,895378998996612466792,subclass_of,,,,
+Concept,,,occupation,occupation,occupation.md,mQD8LFQ4A2HJ,895378998996612466792,described_by_source,,,,
+Concept,,,occupation,occupation,occupation.md,mQD8LFQ4A2HJ,895378998996612466792,identifier,,,,http://www.wikidata.org/entity/Q12737077

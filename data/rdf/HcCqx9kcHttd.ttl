@@ -1,13 +1,38 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:HcCqx9kcHttd-assertion-3XYpwce7gTjm a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:26TsCae57TVa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HcCqx9kcHttd .
+
+tdd:HcCqx9kcHttd-assertion-EYBmfcTUpCFx a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HcCqx9kcHttd ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89102> .
+
+tdd:HcCqx9kcHttd-assertion-Xbf7hybrVTcG a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HcCqx9kcHttd .
+
+tdd:HcCqx9kcHttd-assertion-g5tAdrqNBkfH a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:HcCqx9kcHttd .
+
 tdd:HcCqx9kcHttd a rdfs:Resource ;
-    rdfs:label "Pavane. Musique de Mlle H. Wild" ;
+    <> tdd:26TsCae57TVa,
+        tdd:NS7S3TJjbHvU ;
     dcterms:title "Pavane. Musique de Mlle H. Wild" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:Mj6hzfVSHHew ;
     schema:about tdd:KBhDjToyQTEi,
         tdd:VnjPFmovn4vN .

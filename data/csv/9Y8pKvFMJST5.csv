@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,composer,composer,composer.md,9Y8pKvFMJST5,155355568732664046690,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ,occupation,,,
+Concept,,,composer,composer,composer.md,9Y8pKvFMJST5,155355568732664046690,subclass_of,,,,,
+Concept,,,composer,composer,composer.md,9Y8pKvFMJST5,155355568732664046690,described_by_source,,,,,
+Concept,,,composer,composer,composer.md,9Y8pKvFMJST5,155355568732664046690,identifier,,,,,http://www.wikidata.org/entity/Q36834

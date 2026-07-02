@@ -1,11 +1,39 @@
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:npBE6umqCeHL-assertion-GiUrexRtWtUX a rdf:Statement ;
+    bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1837." ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemoi26unkngoog> ;
+    bf:heldBy tdd:HzNj4duEtJSX ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:npBE6umqCeHL ;
+    schema:datePublished "1837-01-01"^^xsd:date ;
+    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
+
+tdd:npBE6umqCeHL-assertion-QVtsXpqYF7zV a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359988> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359988/manifest> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:npBE6umqCeHL ;
+    schema:datePublished "1837-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359988> .
+
+tdd:npBE6umqCeHL-assertion-do4m6ytageWQ a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:npBE6umqCeHL ;
+    schema:datePublished "1837-01-01"^^xsd:date .
 
 tdd:npBE6umqCeHL a rdfs:Resource ;
-    rdfs:label "Journal des demoiselles (1837)" ;
-    dcterms:type dcterms:PhysicalResource ;
+    <> tdd:NS7S3TJjbHvU ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

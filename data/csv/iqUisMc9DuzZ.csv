@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,described_by_source_label,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,date_of_birth,,,,,,,,,,,,,
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,described_by_source,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2,Wikidata,,,,,,,,
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,date_of_death,,,,,,,,,,,,,
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,place_of_birth,,,,,,,,,,,,,
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,place_of_death,,,,,,,,,,,,,
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,sex_or_gender,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,identifier,,,,,,,,,,,,,
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,occupation,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WQ8cfnsehv7L,pastor
+Agent,Louis Meyrargues,['Louis Mairargue'],,Louis Meyrargues,Louis Meyrargues.md,iqUisMc9DuzZ,842621253939453694123,occupation,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist

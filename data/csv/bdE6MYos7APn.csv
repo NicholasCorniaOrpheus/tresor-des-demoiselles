@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,occupation_value,occupation_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,occupation,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist,,,,,,,,
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,occupation,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS,poet,,,,,,,,
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,date_of_birth,,,,,,,,,,,,
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,described_by_source,,,,,,,,,,,,
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,date_of_death,,,,,,,,,,,,
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,place_of_birth,,,,,,,,,,,,
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,place_of_death,,,,,,,,,,,,
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,sex_or_gender,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,
+Agent,Pierre Dupont,,,Pierre Dupont,Pierre Dupont.md,bdE6MYos7APn,693732564531036817721,identifier,,,,,,,,,,,,http://www.wikidata.org/entity/Q2735843

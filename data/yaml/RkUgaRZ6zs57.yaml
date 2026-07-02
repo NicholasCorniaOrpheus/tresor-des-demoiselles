@@ -27,6 +27,5 @@ statements:
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/e/e2/D-F-E_Auber.jpg
   IIIF_manifest: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/RkUgaRZ6zs57.json
 content:
   markdown_content: ''

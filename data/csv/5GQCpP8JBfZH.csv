@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,piano sonata,piano sonata,piano sonata.md,5GQCpP8JBfZH,67117103423405366526,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,piano sonata,piano sonata,piano sonata.md,5GQCpP8JBfZH,67117103423405366526,subclass_of,,,,,
+Concept,,,piano sonata,piano sonata,piano sonata.md,5GQCpP8JBfZH,67117103423405366526,described_by_source,,,,,
+Concept,,,piano sonata,piano sonata,piano sonata.md,5GQCpP8JBfZH,67117103423405366526,identifier,,,,,http://www.wikidata.org/entity/Q1546995

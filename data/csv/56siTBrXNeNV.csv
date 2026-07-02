@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,date_of_birth,,,,,,,,,,,,
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,described_by_source,,,,,,,,,,,,
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,date_of_death,,,,,,,,,,,,
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,place_of_birth,,,,,,,,,,,,
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,place_of_death,,,,,,,,,,,,
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,identifier,,,,,,,,,,http://wikidata.org/entity/Q126722513,,
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK,editor
+Agent,Marie Lasseveur,,,Marie Lasseveur,Marie Lasseveur.md,56siTBrXNeNV,63671561017350787230,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE,music critic

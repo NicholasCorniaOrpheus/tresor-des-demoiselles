@@ -26,8 +26,7 @@ statements:
   identifier:
   - http://www.wikidata.org/entity/Q56036071
 assets:
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  image: []
   IIIF_manifest: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/YWYUY7mvkVNd.json
 content:
   markdown_content: ''

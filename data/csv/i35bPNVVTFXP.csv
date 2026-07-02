@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,mythical character,mythical character,mythical character.md,i35bPNVVTFXP,825820802356531460508,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GVQ2Jm6uRJuh,type of fictional character,,,
+Concept,,,mythical character,mythical character,mythical character.md,i35bPNVVTFXP,825820802356531460508,subclass_of,,,,,
+Concept,,,mythical character,mythical character,mythical character.md,i35bPNVVTFXP,825820802356531460508,described_by_source,,,,,
+Concept,,,mythical character,mythical character,mythical character.md,i35bPNVVTFXP,825820802356531460508,identifier,,,,,http://www.wikidata.org/entity/Q4271324

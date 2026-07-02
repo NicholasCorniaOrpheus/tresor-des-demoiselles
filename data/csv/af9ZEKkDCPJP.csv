@@ -1,0 +1,8 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value,form_of_creative_work_value,form_of_creative_work_label,contributor_value,contributor_role,contributor_label,based_on_value
+Work,,,Le Carillonneur de Bruges,Le Carillonneur de Bruges,Le Carillonneur de Bruges.md,af9ZEKkDCPJP,673791968446031399865,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp,dramatico-musical work,,,,,,,,,
+Work,,,Le Carillonneur de Bruges,Le Carillonneur de Bruges,Le Carillonneur de Bruges.md,af9ZEKkDCPJP,673791968446031399865,subclass_of,,,,,,,,,,,
+Work,,,Le Carillonneur de Bruges,Le Carillonneur de Bruges,Le Carillonneur de Bruges.md,af9ZEKkDCPJP,673791968446031399865,described_by_source,,,,,,,,,,,
+Work,,,Le Carillonneur de Bruges,Le Carillonneur de Bruges,Le Carillonneur de Bruges.md,af9ZEKkDCPJP,673791968446031399865,identifier,,,,,,,,,,,
+Work,,,Le Carillonneur de Bruges,Le Carillonneur de Bruges,Le Carillonneur de Bruges.md,af9ZEKkDCPJP,673791968446031399865,form_of_creative_work,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs,opera,,,,
+Work,,,Le Carillonneur de Bruges,Le Carillonneur de Bruges,Le Carillonneur de Bruges.md,af9ZEKkDCPJP,673791968446031399865,contributor,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3Y5ZuvTBzed4,"{'value': 'https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5', 'label': 'composer'}",Albert Grisar,
+Work,,,Le Carillonneur de Bruges,Le Carillonneur de Bruges,Le Carillonneur de Bruges.md,af9ZEKkDCPJP,673791968446031399865,based_on,,,,,,,,,,,

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,subclass_of_label,described_by_source_value,identifier_value
+Concept,,,waltz,waltz,waltz.md,LTZ2PAutKcZC,380693968040245898992,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,,
+Concept,,,waltz,waltz,waltz.md,LTZ2PAutKcZC,380693968040245898992,subclass_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew,classical dance music,,
+Concept,,,waltz,waltz,waltz.md,LTZ2PAutKcZC,380693968040245898992,described_by_source,,,,,,
+Concept,,,waltz,waltz,waltz.md,LTZ2PAutKcZC,380693968040245898992,identifier,,,,,,http://www.wikidata.org/entity/Q8701407

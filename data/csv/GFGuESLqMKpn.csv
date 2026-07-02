@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,Opera written and performed in chamber music setting or for domestic use.,['salon opera'],chamber opera,chamber opera,chamber opera.md,GFGuESLqMKpn,293703659459141709719,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,Opera written and performed in chamber music setting or for domestic use.,['salon opera'],chamber opera,chamber opera,chamber opera.md,GFGuESLqMKpn,293703659459141709719,subclass_of,,,,,
+Concept,Opera written and performed in chamber music setting or for domestic use.,['salon opera'],chamber opera,chamber opera,chamber opera.md,GFGuESLqMKpn,293703659459141709719,described_by_source,,,,,
+Concept,Opera written and performed in chamber music setting or for domestic use.,['salon opera'],chamber opera,chamber opera,chamber opera.md,GFGuESLqMKpn,293703659459141709719,identifier,,,,,http://www.wikidata.org/entity/Q915591

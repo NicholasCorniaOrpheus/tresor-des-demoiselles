@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,noble family,noble family,noble family.md,LWCE9BBAwpmz,381647997123462682331,instance_of,,,,
+Concept,,,noble family,noble family,noble family.md,LWCE9BBAwpmz,381647997123462682331,subclass_of,,,,
+Concept,,,noble family,noble family,noble family.md,LWCE9BBAwpmz,381647997123462682331,described_by_source,,,,
+Concept,,,noble family,noble family,noble family.md,LWCE9BBAwpmz,381647997123462682331,identifier,,,,http://www.wikidata.org/entity/Q13417114

@@ -67,6 +67,7 @@ based_on/note,bf,note,http://id.loc.gov/ontologies/bibframe/Note,String,,stateme
 about,schema,about,https://schema.org/about,Entity,,statements
 form_of_creative_work,wdt,form of creative work,http://www.wikidata.org/entity/P7937,Entity,P7937,statements
 markdown_content,schema,text,https://schema.org/text,String,,content
+related_to,gnd,relatedTerm,https://d-nb.info/standards/elementset/gnd#relatedTerm,Entity,,statements
 filename,,,,String,,metadata
 n_id,,,,Integer,,metadata
 id,,,,String,,metadata

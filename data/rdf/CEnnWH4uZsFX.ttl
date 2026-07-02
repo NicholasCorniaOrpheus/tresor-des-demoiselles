@@ -1,11 +1,9 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:CEnnWH4uZsFX a rdfs:Resource ;
-    rdfs:label "Amsterdam" ;
-    dcterms:type bf:Place ;
+    dcterms:identifier wdt:Q727 ;
     wdt:P17 tdd:dggAjTSBZEfA .
 

@@ -1,14 +1,11 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:MzUK38XpCjqB a rdfs:Resource ;
-    rdfs:label "Bibliothèque nationale de France" ;
-    dcterms:type bf:Organization ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q193563> ;
     wdt:P17 tdd:LCZnUXZBAaXS ;
     wdt:P31 tdd:Y9ux9hBbTDEk ;
-    skos:altLabel "BnF" .
+    wdt:P856 <https://data.bnf.fr/> .
 

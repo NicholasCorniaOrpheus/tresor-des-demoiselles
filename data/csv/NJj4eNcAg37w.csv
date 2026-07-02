@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Eugène Delisle,,,Eugène Delisle,Eugène Delisle.md,NJj4eNcAg37w,418771235045438972978,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Eugène Delisle,,,Eugène Delisle,Eugène Delisle.md,NJj4eNcAg37w,418771235045438972978,date_of_birth,,,,,,,,,,,,
+Agent,Eugène Delisle,,,Eugène Delisle,Eugène Delisle.md,NJj4eNcAg37w,418771235045438972978,described_by_source,,,,,,,,,,,,
+Agent,Eugène Delisle,,,Eugène Delisle,Eugène Delisle.md,NJj4eNcAg37w,418771235045438972978,date_of_death,,,,,,,,,,,,
+Agent,Eugène Delisle,,,Eugène Delisle,Eugène Delisle.md,NJj4eNcAg37w,418771235045438972978,place_of_birth,,,,,,,,,,,,
+Agent,Eugène Delisle,,,Eugène Delisle,Eugène Delisle.md,NJj4eNcAg37w,418771235045438972978,place_of_death,,,,,,,,,,,,
+Agent,Eugène Delisle,,,Eugène Delisle,Eugène Delisle.md,NJj4eNcAg37w,418771235045438972978,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Eugène Delisle,,,Eugène Delisle,Eugène Delisle.md,NJj4eNcAg37w,418771235045438972978,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q131830361,,
+Agent,Eugène Delisle,,,Eugène Delisle,Eugène Delisle.md,NJj4eNcAg37w,418771235045438972978,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

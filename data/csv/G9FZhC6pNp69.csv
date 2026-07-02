@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value
+Organisation,Internet Archive,,,Internet Archive,Internet Archive.md,G9FZhC6pNp69,291522931718950825057,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS,digital library,,,,,,,,
+Organisation,Internet Archive,,,Internet Archive,Internet Archive.md,G9FZhC6pNp69,291522931718950825057,described_by_source,,,,,,,,,,
+Organisation,Internet Archive,,,Internet Archive,Internet Archive.md,G9FZhC6pNp69,291522931718950825057,inception,,,,,,,,,,
+Organisation,Internet Archive,,,Internet Archive,Internet Archive.md,G9FZhC6pNp69,291522931718950825057,location,,,,,,,,,,
+Organisation,Internet Archive,,,Internet Archive,Internet Archive.md,G9FZhC6pNp69,291522931718950825057,dissolved,,,,,,,,,,
+Organisation,Internet Archive,,,Internet Archive,Internet Archive.md,G9FZhC6pNp69,291522931718950825057,contributor,,,,,,,,,,
+Organisation,Internet Archive,,,Internet Archive,Internet Archive.md,G9FZhC6pNp69,291522931718950825057,official_website,,,,,,,,https://archive.org/,,
+Organisation,Internet Archive,,,Internet Archive,Internet Archive.md,G9FZhC6pNp69,291522931718950825057,identifier,,,,,,,,,http://www.wikidata.org/entity/Q461,
+Organisation,Internet Archive,,,Internet Archive,Internet Archive.md,G9FZhC6pNp69,291522931718950825057,country,,,,,,,,,,

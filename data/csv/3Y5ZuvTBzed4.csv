@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_birth_label,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Albert Grisar,,,Albert Grisar,Albert Grisar.md,3Y5ZuvTBzed4,31519510024821367859,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Albert Grisar,,,Albert Grisar,Albert Grisar.md,3Y5ZuvTBzed4,31519510024821367859,date_of_birth,,,,,,,,,,,,,
+Agent,Albert Grisar,,,Albert Grisar,Albert Grisar.md,3Y5ZuvTBzed4,31519510024821367859,described_by_source,,,,,,,,,,,,,
+Agent,Albert Grisar,,,Albert Grisar,Albert Grisar.md,3Y5ZuvTBzed4,31519510024821367859,date_of_death,,,,,,,,,,,,,
+Agent,Albert Grisar,,,Albert Grisar,Albert Grisar.md,3Y5ZuvTBzed4,31519510024821367859,place_of_birth,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8,Antwerp,,,,,,
+Agent,Albert Grisar,,,Albert Grisar,Albert Grisar.md,3Y5ZuvTBzed4,31519510024821367859,place_of_death,,,,,,,,,,,,,
+Agent,Albert Grisar,,,Albert Grisar,Albert Grisar.md,3Y5ZuvTBzed4,31519510024821367859,sex_or_gender,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Albert Grisar,,,Albert Grisar,Albert Grisar.md,3Y5ZuvTBzed4,31519510024821367859,identifier,,,,,,,,,,,http://www.wikidata.org/entity/Q2003880,,
+Agent,Albert Grisar,,,Albert Grisar,Albert Grisar.md,3Y5ZuvTBzed4,31519510024821367859,occupation,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

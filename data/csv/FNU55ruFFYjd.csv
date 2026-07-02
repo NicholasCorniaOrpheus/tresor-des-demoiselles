@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['programmatic music'],programme music,programme music,programme music.md,FNU55ruFFYjd,275672845078753539776,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,['programmatic music'],programme music,programme music,programme music.md,FNU55ruFFYjd,275672845078753539776,subclass_of,,,,,
+Concept,,['programmatic music'],programme music,programme music,programme music.md,FNU55ruFFYjd,275672845078753539776,described_by_source,,,,,
+Concept,,['programmatic music'],programme music,programme music,programme music.md,FNU55ruFFYjd,275672845078753539776,identifier,,,,,http://www.wikidata.org/entity/Q209741

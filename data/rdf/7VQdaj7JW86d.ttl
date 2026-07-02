@@ -1,15 +1,10 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:7VQdaj7JW86d a rdfs:Resource ;
-    rdfs:label "Paris" ;
-    dcterms:type bf:Place ;
+    dcterms:identifier wdt:Q90 ;
     wdt:P17 tdd:LCZnUXZBAaXS ;
-    wdt:P31 <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/[[city]]> ;
-    skos:altLabel "Parigi",
-        "Parijs" .
+    wdt:P31 tdd:Kd5wMW8fYWBe .
 

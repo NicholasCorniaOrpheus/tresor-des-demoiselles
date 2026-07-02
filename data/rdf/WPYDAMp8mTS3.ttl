@@ -1,12 +1,49 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:WPYDAMp8mTS3-assertion-N3pi9YYpeDLr a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:WPYDAMp8mTS3 .
+
+tdd:WPYDAMp8mTS3-assertion-RnhfgEzaWczh a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:WPYDAMp8mTS3 .
+
+tdd:WPYDAMp8mTS3-assertion-XWbnHWPXTdQP a rdf:Statement ;
+    rdf:object tdd:C2iCicFyAfex ;
+    rdf:predicate <> ;
+    rdf:subject tdd:WPYDAMp8mTS3 .
+
+tdd:WPYDAMp8mTS3-assertion-dtKM4kQ7y3ee a rdf:Statement ;
+    bf:Role tdd:Tk5wRTQJ7aUs ;
+    rdf:object tdd:XogB6ccutzoR ;
+    rdf:predicate <> ;
+    rdf:subject tdd:WPYDAMp8mTS3 .
+
+tdd:WPYDAMp8mTS3-assertion-fTBBKFyWvupi a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:predicate <> ;
+    rdf:subject tdd:WPYDAMp8mTS3 ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:12971554> .
+
+tdd:WPYDAMp8mTS3-assertion-ggdWJ4PhiHA3 a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate <> ;
+    rdf:subject tdd:WPYDAMp8mTS3 .
+
 tdd:WPYDAMp8mTS3 a rdfs:Resource ;
-    rdfs:label "Chansonette de l'opéra Le caïd" ;
+    <> tdd:C2iCicFyAfex,
+        tdd:VWaxuELqVfKN,
+        tdd:XogB6ccutzoR ;
     dcterms:title "Chansonette de l'opéra Le caïd" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

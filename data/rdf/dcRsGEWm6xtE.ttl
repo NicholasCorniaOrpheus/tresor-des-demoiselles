@@ -1,15 +1,10 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:dcRsGEWm6xtE a rdfs:Resource ;
-    rdfs:label "Ghent" ;
-    dcterms:type bf:Place ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q1296> ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
-    wdt:P31 <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/[[city]]> ;
-    skos:altLabel "Gand",
-        "Gent" .
+    wdt:P31 tdd:Kd5wMW8fYWBe .
 

@@ -1,0 +1,4 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,country_value,instance_of_value,instance_of_label
+Place,Belgium,,,Belgium,Belgium.md,B2DaBkDtqy5R,185796549893605538228,identifier,http://wikidata.org/entity/Q31,,,
+Place,Belgium,,,Belgium,Belgium.md,B2DaBkDtqy5R,185796549893605538228,country,,,,
+Place,Belgium,,,Belgium,Belgium.md,B2DaBkDtqy5R,185796549893605538228,instance_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq,country

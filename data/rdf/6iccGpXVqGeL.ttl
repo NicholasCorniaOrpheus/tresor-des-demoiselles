@@ -1,12 +1,10 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:6iccGpXVqGeL a rdfs:Resource ;
-    rdfs:label "Ghent University" ;
-    dcterms:type bf:Organization ;
+    dcterms:identifier wdt:Q1137665 ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:MBm7WVmvSg7a .

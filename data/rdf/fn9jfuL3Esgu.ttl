@@ -1,11 +1,29 @@
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:fn9jfuL3Esgu-assertion-fozPM5nmns4X a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359987> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:fn9jfuL3Esgu ;
+    schema:datePublished "1836-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359987> .
+
+tdd:fn9jfuL3Esgu-assertion-fsAqnwAC4MXm a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:fn9jfuL3Esgu ;
+    schema:datePublished "1836-01-01"^^xsd:date .
 
 tdd:fn9jfuL3Esgu a rdfs:Resource ;
-    rdfs:label "Journal des demoiselles (1836)" ;
-    dcterms:type dcterms:PhysicalResource ;
+    <> tdd:NS7S3TJjbHvU ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

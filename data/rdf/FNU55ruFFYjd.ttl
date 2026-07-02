@@ -1,12 +1,9 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:FNU55ruFFYjd a rdfs:Resource ;
-    rdfs:label "programme music" ;
-    dcterms:type skos:Concept ;
-    wdt:P31 tdd:dfucaD9GdueP ;
-    skos:altLabel "programmatic music" .
+    dcterms:identifier <http://www.wikidata.org/entity/Q209741> ;
+    wdt:P31 tdd:dfucaD9GdueP .
 

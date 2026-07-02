@@ -1,0 +1,8 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value,form_of_creative_work_value,form_of_creative_work_label,contributor_value,contributor_role,contributor_label,based_on_value
+Work,,,Le Lac des fées,Le Lac des fées,Le Lac des fées.md,gviox6r658Y4,803249107692244633550,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp,dramatico-musical work,,,,,,,,,
+Work,,,Le Lac des fées,Le Lac des fées,Le Lac des fées.md,gviox6r658Y4,803249107692244633550,subclass_of,,,,,,,,,,,
+Work,,,Le Lac des fées,Le Lac des fées,Le Lac des fées.md,gviox6r658Y4,803249107692244633550,described_by_source,,,,,,,,,,,
+Work,,,Le Lac des fées,Le Lac des fées,Le Lac des fées.md,gviox6r658Y4,803249107692244633550,identifier,,,,,http://www.wikidata.org/entity/Q3223877,,,,,,
+Work,,,Le Lac des fées,Le Lac des fées,Le Lac des fées.md,gviox6r658Y4,803249107692244633550,form_of_creative_work,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs,opera,,,,
+Work,,,Le Lac des fées,Le Lac des fées,Le Lac des fées.md,gviox6r658Y4,803249107692244633550,contributor,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RkUgaRZ6zs57,"{'value': 'https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5', 'label': 'composer'}",Daniel François Esprit Auber,
+Work,,,Le Lac des fées,Le Lac des fées,Le Lac des fées.md,gviox6r658Y4,803249107692244633550,based_on,,,,,,,,,,,

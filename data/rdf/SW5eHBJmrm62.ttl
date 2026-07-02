@@ -1,12 +1,60 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:SW5eHBJmrm62-assertion-Cawub5UvCe62 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SW5eHBJmrm62 ;
+    schema:datePublished "1836-01-01"^^xsd:date .
+
+tdd:SW5eHBJmrm62-assertion-FQGJnk8fnHLS a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SW5eHBJmrm62 .
+
+tdd:SW5eHBJmrm62-assertion-Lmmxwveb6ehP a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SW5eHBJmrm62 .
+
+tdd:SW5eHBJmrm62-assertion-aSAP7MXxkasK a rdf:Statement ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SW5eHBJmrm62 .
+
+tdd:SW5eHBJmrm62-assertion-ckQHReLEiuh2 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:d3bH5kZvxqbQ ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SW5eHBJmrm62 .
+
+tdd:SW5eHBJmrm62-assertion-fnZSbCNasU7s a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:6wJL3XGBiSDj ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SW5eHBJmrm62 .
+
+tdd:SW5eHBJmrm62-assertion-j8whfxAYToGv a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359987> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:SW5eHBJmrm62 ;
+    schema:datePublished "1836-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359987> .
 
 tdd:SW5eHBJmrm62 a rdfs:Resource ;
-    rdfs:label "L'etoile qui brille" ;
+    <> tdd:6wJL3XGBiSDj,
+        tdd:NS7S3TJjbHvU,
+        tdd:d3bH5kZvxqbQ ;
     dcterms:title "L'etoile qui brille" ;
-    dcterms:type dcterms:PhysicalResource ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

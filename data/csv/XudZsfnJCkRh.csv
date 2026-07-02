@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,date_of_birth,,,,,,,,,,,,
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,described_by_source,,,,,,,,,,,,
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,date_of_death,,,,,,,,,,,,
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,place_of_birth,,,,,,,,,,,,
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,place_of_death,,,,,,,,,,,,
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q2840806,,
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist
+Agent,Amable Tastu,,,Amable Tastu,Amable Tastu.md,XudZsfnJCkRh,617130649360442653254,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS,poet

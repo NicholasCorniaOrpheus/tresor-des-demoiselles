@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Hortense Wild,,,Hortense Wild,Hortense Wild.md,26TsCae57TVa,1612400571565489184,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Hortense Wild,,,Hortense Wild,Hortense Wild.md,26TsCae57TVa,1612400571565489184,date_of_birth,,,,,,,,,,,,
+Agent,Hortense Wild,,,Hortense Wild,Hortense Wild.md,26TsCae57TVa,1612400571565489184,described_by_source,,,,,,,,,,,,
+Agent,Hortense Wild,,,Hortense Wild,Hortense Wild.md,26TsCae57TVa,1612400571565489184,date_of_death,,,,,,,,,,,,
+Agent,Hortense Wild,,,Hortense Wild,Hortense Wild.md,26TsCae57TVa,1612400571565489184,place_of_birth,,,,,,,,,,,,
+Agent,Hortense Wild,,,Hortense Wild,Hortense Wild.md,26TsCae57TVa,1612400571565489184,place_of_death,,,,,,,,,,,,
+Agent,Hortense Wild,,,Hortense Wild,Hortense Wild.md,26TsCae57TVa,1612400571565489184,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,
+Agent,Hortense Wild,,,Hortense Wild,Hortense Wild.md,26TsCae57TVa,1612400571565489184,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q30532415,,
+Agent,Hortense Wild,,,Hortense Wild,Hortense Wild.md,26TsCae57TVa,1612400571565489184,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer

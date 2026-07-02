@@ -58,7 +58,6 @@ assets:
   IIIF_manifest: null
   jpg:
   - orp-henri-captivi-20143702p45-fs-00001.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/HhZTHayappCf.json
 content:
   markdown_content: "### Lyrics\n\nPrends, petit oiseau, \nce que je te donne\ndit\
     \ l’enfant à son prisonnier,\ndu gateau pour ta faim mignonne,\navec le sucre\

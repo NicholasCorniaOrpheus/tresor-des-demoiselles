@@ -1,11 +1,30 @@
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:ZxvgXLzDfsvr-assertion-gTuGLR8LXBeQ a rdf:Statement ;
+    bf:Note "Only issues 1-5 are present." ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10360013> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360013/manifest> ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ZxvgXLzDfsvr ;
+    schema:datePublished "1866-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10360013> .
+
+tdd:ZxvgXLzDfsvr-assertion-n5tUHjreXK4R a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:ZxvgXLzDfsvr ;
+    schema:datePublished "1866-01-01"^^xsd:date .
 
 tdd:ZxvgXLzDfsvr a rdfs:Resource ;
-    rdfs:label "Journal des demoiselles (1866)" ;
-    dcterms:type dcterms:PhysicalResource ;
+    <> tdd:NS7S3TJjbHvU ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

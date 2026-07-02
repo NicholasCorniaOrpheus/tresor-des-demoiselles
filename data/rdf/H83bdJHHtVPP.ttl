@@ -1,10 +1,16 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
+tdd:H83bdJHHtVPP-assertion-C5GTTsjeuVkC a rdf:Statement ;
+    rdf:object tdd:PGagqrY8C5Aa ;
+    rdf:predicate <> ;
+    rdf:subject tdd:H83bdJHHtVPP .
+
 tdd:H83bdJHHtVPP a rdfs:Resource ;
-    rdfs:label "Laure Jourdain" ;
-    dcterms:type dcterms:Agent ;
+    <> tdd:PGagqrY8C5Aa ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q140289959> ;
     wdt:P31 tdd:TudsDJnQvonk .
 

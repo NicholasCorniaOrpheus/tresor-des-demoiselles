@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label
+Agent,Georges de Nevers,,,Georges de Nevers,Georges de Nevers.md,WZhiseJ2xo5P,589280491497193007538,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Georges de Nevers,,,Georges de Nevers,Georges de Nevers.md,WZhiseJ2xo5P,589280491497193007538,date_of_birth,,,,,,,,,,,,
+Agent,Georges de Nevers,,,Georges de Nevers,Georges de Nevers.md,WZhiseJ2xo5P,589280491497193007538,described_by_source,,,,,,,,,,,,
+Agent,Georges de Nevers,,,Georges de Nevers,Georges de Nevers.md,WZhiseJ2xo5P,589280491497193007538,date_of_death,,,,,,,,,,,,
+Agent,Georges de Nevers,,,Georges de Nevers,Georges de Nevers.md,WZhiseJ2xo5P,589280491497193007538,place_of_birth,,,,,,,,,,,,
+Agent,Georges de Nevers,,,Georges de Nevers,Georges de Nevers.md,WZhiseJ2xo5P,589280491497193007538,place_of_death,,,,,,,,,,,,
+Agent,Georges de Nevers,,,Georges de Nevers,Georges de Nevers.md,WZhiseJ2xo5P,589280491497193007538,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,
+Agent,Georges de Nevers,,,Georges de Nevers,Georges de Nevers.md,WZhiseJ2xo5P,589280491497193007538,identifier,,,,,,,,,,,,
+Agent,Georges de Nevers,,,Georges de Nevers,Georges de Nevers.md,WZhiseJ2xo5P,589280491497193007538,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist

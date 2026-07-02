@@ -1,0 +1,3 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,country_value,country_label
+Place,Amsterdam,,,Amsterdam,Amsterdam.md,CEnnWH4uZsFX,210987821370184692728,identifier,http://wikidata.org/entity/Q727,,
+Place,Amsterdam,,,Amsterdam,Amsterdam.md,CEnnWH4uZsFX,210987821370184692728,country,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dggAjTSBZEfA,Netherlands

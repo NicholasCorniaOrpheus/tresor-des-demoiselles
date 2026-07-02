@@ -1,11 +1,28 @@
-@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:Zn9mKDkL7Qhg-assertion-Hs5rLpwWbwJP a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Zn9mKDkL7Qhg ;
+    schema:datePublished "1874-01-01"^^xsd:date .
+
+tdd:Zn9mKDkL7Qhg-assertion-eAHBBQK6kxwT a rdf:Statement ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemoi08unkngoog> ;
+    bf:heldBy tdd:HzNj4duEtJSX ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:predicate <> ;
+    rdf:subject tdd:Zn9mKDkL7Qhg ;
+    schema:datePublished "1874-01-01"^^xsd:date ;
+    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
 
 tdd:Zn9mKDkL7Qhg a rdfs:Resource ;
-    rdfs:label "Journal des demoiselles (1874)" ;
-    dcterms:type dcterms:PhysicalResource ;
+    <> tdd:NS7S3TJjbHvU ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

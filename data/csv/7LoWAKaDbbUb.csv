@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Biblioteca civica di Verona,,,Biblioteca civica di Verona,Biblioteca civica di Verona.md,7LoWAKaDbbUb,109985051477425497753,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J,public library,,,,,,,,,
+Organisation,Biblioteca civica di Verona,,,Biblioteca civica di Verona,Biblioteca civica di Verona.md,7LoWAKaDbbUb,109985051477425497753,described_by_source,,,,,,,,,,,
+Organisation,Biblioteca civica di Verona,,,Biblioteca civica di Verona,Biblioteca civica di Verona.md,7LoWAKaDbbUb,109985051477425497753,inception,,,,,,,,,,,
+Organisation,Biblioteca civica di Verona,,,Biblioteca civica di Verona,Biblioteca civica di Verona.md,7LoWAKaDbbUb,109985051477425497753,location,,,,,,,,,,,
+Organisation,Biblioteca civica di Verona,,,Biblioteca civica di Verona,Biblioteca civica di Verona.md,7LoWAKaDbbUb,109985051477425497753,dissolved,,,,,,,,,,,
+Organisation,Biblioteca civica di Verona,,,Biblioteca civica di Verona,Biblioteca civica di Verona.md,7LoWAKaDbbUb,109985051477425497753,contributor,,,,,,,,,,,
+Organisation,Biblioteca civica di Verona,,,Biblioteca civica di Verona,Biblioteca civica di Verona.md,7LoWAKaDbbUb,109985051477425497753,official_website,,,,,,,,https://cbv.comune.verona.it/,,,
+Organisation,Biblioteca civica di Verona,,,Biblioteca civica di Verona,Biblioteca civica di Verona.md,7LoWAKaDbbUb,109985051477425497753,identifier,,,,,,,,,http://www.wikidata.org/entity/Q3639573,,
+Organisation,Biblioteca civica di Verona,,,Biblioteca civica di Verona,Biblioteca civica di Verona.md,7LoWAKaDbbUb,109985051477425497753,country,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B,Italy

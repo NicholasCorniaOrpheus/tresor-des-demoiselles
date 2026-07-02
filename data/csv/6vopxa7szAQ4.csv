@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,female,female,female.md,6vopxa7szAQ4,101660381002636031111,instance_of,,,,
+Concept,,,female,female,female.md,6vopxa7szAQ4,101660381002636031111,subclass_of,,,,
+Concept,,,female,female,female.md,6vopxa7szAQ4,101660381002636031111,described_by_source,,,,
+Concept,,,female,female,female.md,6vopxa7szAQ4,101660381002636031111,identifier,,,,http://www.wikidata.org/entity/Q6581072

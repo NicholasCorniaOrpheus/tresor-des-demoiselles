@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,instance_of_value,instance_of_label,occupation_value,occupation_label,described_by_source_value,described_by_source_label,place_of_birth_value,date_of_birth_value,place_of_death_value,date_of_death_value,sex_or_gender_value,sex_or_gender_label
+Agent,François Desterbecq,,,François Desterbecq,François Desterbecq.md,XogB6ccutzoR,614974964237194452386,identifier,http://wikidata.org/entity/Q46999103,,,,,,,,,,,,
+Agent,François Desterbecq,,,François Desterbecq,François Desterbecq.md,XogB6ccutzoR,614974964237194452386,instance_of,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,François Desterbecq,,,François Desterbecq,François Desterbecq.md,XogB6ccutzoR,614974964237194452386,occupation,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs,publisher,,,,,,,,
+Agent,François Desterbecq,,,François Desterbecq,François Desterbecq.md,XogB6ccutzoR,614974964237194452386,described_by_source,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2,Wikidata,,,,,,
+Agent,François Desterbecq,,,François Desterbecq,François Desterbecq.md,XogB6ccutzoR,614974964237194452386,place_of_birth,,,,,,,,,,,,,
+Agent,François Desterbecq,,,François Desterbecq,François Desterbecq.md,XogB6ccutzoR,614974964237194452386,date_of_birth,,,,,,,,,,,,,
+Agent,François Desterbecq,,,François Desterbecq,François Desterbecq.md,XogB6ccutzoR,614974964237194452386,place_of_death,,,,,,,,,,,,,
+Agent,François Desterbecq,,,François Desterbecq,François Desterbecq.md,XogB6ccutzoR,614974964237194452386,date_of_death,,,,,,,,,,,1896.0,,
+Agent,François Desterbecq,,,François Desterbecq,François Desterbecq.md,XogB6ccutzoR,614974964237194452386,sex_or_gender,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,University of Toronto,,,University of Toronto,University of Toronto.md,GpjEsTdNqATu,305817975508339725741,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a,university,,,,,,,,,
+Organisation,University of Toronto,,,University of Toronto,University of Toronto.md,GpjEsTdNqATu,305817975508339725741,described_by_source,,,,,,,,,,,
+Organisation,University of Toronto,,,University of Toronto,University of Toronto.md,GpjEsTdNqATu,305817975508339725741,inception,,,,,,,,,,,
+Organisation,University of Toronto,,,University of Toronto,University of Toronto.md,GpjEsTdNqATu,305817975508339725741,location,,,,,,,,,,,
+Organisation,University of Toronto,,,University of Toronto,University of Toronto.md,GpjEsTdNqATu,305817975508339725741,dissolved,,,,,,,,,,,
+Organisation,University of Toronto,,,University of Toronto,University of Toronto.md,GpjEsTdNqATu,305817975508339725741,contributor,,,,,,,,,,,
+Organisation,University of Toronto,,,University of Toronto,University of Toronto.md,GpjEsTdNqATu,305817975508339725741,official_website,,,,,,,,https://librarysearch.library.utoronto.ca/,,,
+Organisation,University of Toronto,,,University of Toronto,University of Toronto.md,GpjEsTdNqATu,305817975508339725741,identifier,,,,,,,,,http://www.wikidata.org/entity/Q180865,,
+Organisation,University of Toronto,,,University of Toronto,University of Toronto.md,GpjEsTdNqATu,305817975508339725741,country,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL9bhQaShbbC,Canada

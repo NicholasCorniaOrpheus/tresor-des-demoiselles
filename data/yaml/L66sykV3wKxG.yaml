@@ -48,6 +48,5 @@ assets:
   IIIF_manifest: null
   jpg:
   - orp-scola-ninon-20143702p43-ps-00001.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/L66sykV3wKxG.json
 content:
   markdown_content: ''

@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,aria,aria,aria.md,WnBSn3vmYiYL,593794587128204523123,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,aria,aria,aria.md,WnBSn3vmYiYL,593794587128204523123,subclass_of,,,,,
+Concept,,,aria,aria,aria.md,WnBSn3vmYiYL,593794587128204523123,described_by_source,,,,,
+Concept,,,aria,aria,aria.md,WnBSn3vmYiYL,593794587128204523123,identifier,,,,,http://www.wikidata.org/entity/Q178122

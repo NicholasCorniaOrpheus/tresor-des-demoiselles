@@ -1,0 +1,4 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,country_value,country_label,instance_of_value,instance_of_label
+Place,Paris,"['Parigi', 'Parijs']",,Paris,Paris.md,7VQdaj7JW86d,113098095564124119824,identifier,http://wikidata.org/entity/Q90,,,,
+Place,Paris,"['Parigi', 'Parijs']",,Paris,Paris.md,7VQdaj7JW86d,113098095564124119824,country,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS,France,,
+Place,Paris,"['Parigi', 'Parijs']",,Paris,Paris.md,7VQdaj7JW86d,113098095564124119824,instance_of,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Kd5wMW8fYWBe,city

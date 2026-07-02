@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,de Peellaert,,Belgian noble family,de Peellaert,de Peellaert.md,oTMkeVga9UZA,937791757600616639504,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LWCE9BBAwpmz,noble family,,,,,,,,,
+Organisation,de Peellaert,,Belgian noble family,de Peellaert,de Peellaert.md,oTMkeVga9UZA,937791757600616639504,described_by_source,,,,,,,,,,,
+Organisation,de Peellaert,,Belgian noble family,de Peellaert,de Peellaert.md,oTMkeVga9UZA,937791757600616639504,inception,,,,,,,,,,,
+Organisation,de Peellaert,,Belgian noble family,de Peellaert,de Peellaert.md,oTMkeVga9UZA,937791757600616639504,location,,,,,,,,,,,
+Organisation,de Peellaert,,Belgian noble family,de Peellaert,de Peellaert.md,oTMkeVga9UZA,937791757600616639504,dissolved,,,,,,,,,,,
+Organisation,de Peellaert,,Belgian noble family,de Peellaert,de Peellaert.md,oTMkeVga9UZA,937791757600616639504,contributor,,,,,,,,,,,
+Organisation,de Peellaert,,Belgian noble family,de Peellaert,de Peellaert.md,oTMkeVga9UZA,937791757600616639504,official_website,,,,,,,,,,,
+Organisation,de Peellaert,,Belgian noble family,de Peellaert,de Peellaert.md,oTMkeVga9UZA,937791757600616639504,identifier,,,,,,,,,http://www.wikidata.org/entity/Q13417114,,
+Organisation,de Peellaert,,Belgian noble family,de Peellaert,de Peellaert.md,oTMkeVga9UZA,937791757600616639504,country,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium
