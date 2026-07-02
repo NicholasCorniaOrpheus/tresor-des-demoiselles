@@ -539,4 +539,4 @@ kb.startObserver();
 
 // Backward compatibility
 window.entityGraphUrl = window.kbGraphConfig?.graphUrl || "";
-window.entityAssets = window.kbGraphConfig?.assets || null;
+// window.entityAssets = window.kbGraphConfig?.assets || null;
