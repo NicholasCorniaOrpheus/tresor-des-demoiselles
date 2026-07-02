@@ -7,22 +7,24 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:NS7S3TJjbHvU-fsTBjw2P3HTN a rdf:Statement ;
+tdd:NS7S3TJjbHvU-65GQ7DJG7957 a rdf:Statement ;
     bf:Role tdd:nQTxNAy4WtLK ;
     rdf:object tdd:VahNSkW7JbTC ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:NS7S3TJjbHvU .
 
-tdd:NS7S3TJjbHvU-gst2jTXpjoY6 a rdf:Statement ;
+tdd:NS7S3TJjbHvU-gNtFF7NfQSMA a rdf:Statement ;
     rdf:object tdd:7VQdaj7JW86d ;
     rdf:predicate wdt:P131 ;
     rdf:subject tdd:NS7S3TJjbHvU ;
     schema:address "Boulevard des Italiens, 1" .
 
 tdd:NS7S3TJjbHvU a rdfs:Resource ;
+    rdfs:label "Journal des demoiselles" ;
     dcterms:contributor tdd:VahNSkW7JbTC ;
     dcterms:created "1833-02-01"^^xsd:date ;
     dcterms:identifier wdt:Q40163826 ;
+    dcterms:type "Organisation" ;
     wdt:P131 tdd:7VQdaj7JW86d ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P17 tdd:LCZnUXZBAaXS ;

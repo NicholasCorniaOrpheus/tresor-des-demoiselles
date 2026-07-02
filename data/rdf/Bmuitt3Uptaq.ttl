@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Bmuitt3Uptaq a rdfs:Resource ;
+    rdfs:label "writer" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q36180> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

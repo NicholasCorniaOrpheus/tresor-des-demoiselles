@@ -1,10 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:KFESriHnhBta a rdfs:Resource ;
+    rdfs:label "Juliette Dillon" ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
+    skos:altLabel "Agathe-Anaïs-Juliette Godillon" ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE",
         "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
         "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK" .

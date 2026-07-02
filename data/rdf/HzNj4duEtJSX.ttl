@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:HzNj4duEtJSX a rdfs:Resource ;
+    rdfs:label "Harvard University" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q13371> ;
+    dcterms:type "Organisation" ;
     wdt:P17 tdd:LEcVCfQG66Bg ;
     wdt:P31 tdd:MBm7WVmvSg7a ;
     wdt:P856 <https://hollis.harvard.edu/> .

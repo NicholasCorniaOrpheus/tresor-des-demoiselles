@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:aph6QHtmL78s a rdfs:Resource ;
+    rdfs:label "romance" ;
     dcterms:identifier wdt:Q599510 ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP .
 

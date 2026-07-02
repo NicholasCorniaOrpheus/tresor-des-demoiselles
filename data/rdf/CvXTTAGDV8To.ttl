@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:CvXTTAGDV8To a rdfs:Resource ;
+    rdfs:label "clergyman" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q3315492> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

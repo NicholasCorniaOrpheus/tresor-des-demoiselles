@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Mj6hzfVSHHew a rdfs:Resource ;
+    rdfs:label "classical dance music" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q118738876> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP .
 

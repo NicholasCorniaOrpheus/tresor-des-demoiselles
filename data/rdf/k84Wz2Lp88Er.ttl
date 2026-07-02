@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:k84Wz2Lp88Er a rdfs:Resource ;
+    rdfs:label "music educator" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q16145150> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

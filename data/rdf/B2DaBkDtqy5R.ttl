@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:B2DaBkDtqy5R a rdfs:Resource ;
+    rdfs:label "Belgium" ;
     dcterms:identifier wdt:Q31 ;
+    dcterms:type "Place" ;
     wdt:P31 tdd:Aut3aeGdqhKq .
 

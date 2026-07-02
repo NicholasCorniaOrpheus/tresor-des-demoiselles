@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:WQ8cfnsehv7L a rdfs:Resource ;
+    rdfs:label "pastor" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q152002> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

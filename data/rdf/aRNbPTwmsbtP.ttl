@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:aRNbPTwmsbtP a rdfs:Resource ;
+    rdfs:label "mazurka" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q151942> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:Mj6hzfVSHHew .
 

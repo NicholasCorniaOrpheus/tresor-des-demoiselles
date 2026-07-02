@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:9ePx7t3aBbVw a rdfs:Resource ;
+    rdfs:label "Désiré-Moyse-Joseph Ikelmer" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q126896625> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5" .

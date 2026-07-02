@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:d3Jyp9sKuWUF a rdfs:Resource ;
+    rdfs:label "serenade" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q215911> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP .
 

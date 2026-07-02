@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:3Y5ZuvTBzed4 a rdfs:Resource ;
+    rdfs:label "Albert Grisar" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q2003880> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:birthPlace tdd:CnfhMurv8zu8 ;
     schema:gender tdd:hkA3uvTGSDnD ;

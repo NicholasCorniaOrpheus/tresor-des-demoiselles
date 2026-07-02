@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:CRKTdiKE8hR7 a rdfs:Resource ;
+    rdfs:label "Frédéric de Courcy" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q3090302> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa" .

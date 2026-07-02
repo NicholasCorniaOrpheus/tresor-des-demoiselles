@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:gBejS4d5MNmC a rdfs:Resource ;
+    rdfs:label "François de Coninck" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q27942745> ;
+    dcterms:type "Agent" ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD ;

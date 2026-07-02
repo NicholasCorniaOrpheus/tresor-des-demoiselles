@@ -6,7 +6,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:QNrJy8MMgzU8 a rdfs:Resource ;
+    rdfs:label "Louise Jeanne Cécile Ruelens" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q55875664> ;
+    dcterms:type "Agent" ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:birthDate "1818-03-15"^^xsd:date ;

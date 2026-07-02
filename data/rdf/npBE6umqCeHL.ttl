@@ -1,3 +1,4 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -6,7 +7,29 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:npBE6umqCeHL-X8Nvmkd3oRzm a rdf:Statement ;
+tdd:npBE6umqCeHL-JUmEjv8zzHdn a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359988> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359988/manifest> ;
+    rdf:object "N0e6dfd0a5b5a42248065e077d3efd098" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:npBE6umqCeHL ;
+    schema:datePublished "1837-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359988> .
+
+tdd:npBE6umqCeHL-ZYjfVSxuCYf3 a rdf:Statement ;
+    bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1837." ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemoi26unkngoog> ;
+    bf:heldBy tdd:HzNj4duEtJSX ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nf92b7bf4c4c84d51a9eb7a27e3523f81" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:npBE6umqCeHL ;
+    schema:datePublished "1837-01-01"^^xsd:date ;
+    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
+
+tdd:npBE6umqCeHL-mvibBN8QQoJu a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:npBE6umqCeHL ;
@@ -14,7 +37,9 @@ tdd:npBE6umqCeHL-X8Nvmkd3oRzm a rdf:Statement ;
     schema:volumeNumber 5 .
 
 tdd:npBE6umqCeHL a rdfs:Resource ;
+    rdfs:label "Journal des demoiselles (1837)" ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

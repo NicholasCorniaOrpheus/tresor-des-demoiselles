@@ -1,9 +1,12 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Q5THigN5nbNH a rdfs:Resource ;
+    rdfs:label "Dupuy" ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs" .
 

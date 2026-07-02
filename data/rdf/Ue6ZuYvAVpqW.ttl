@@ -4,5 +4,7 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Ue6ZuYvAVpqW a rdfs:Resource ;
-    dcterms:identifier wdt:Q1002697 .
+    rdfs:label "periodical" ;
+    dcterms:identifier wdt:Q1002697 ;
+    dcterms:type "Concept" .
 

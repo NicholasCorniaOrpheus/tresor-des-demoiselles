@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:fcrABEiDKbza a rdfs:Resource ;
+    rdfs:label "French" ;
     dcterms:identifier wdt:Q150 ;
+    dcterms:type "Concept" ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
     wdt:P31 tdd:dqFtJQZDwkjb .
 

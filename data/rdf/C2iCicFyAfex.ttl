@@ -5,15 +5,17 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:C2iCicFyAfex-G8FYNnJffnRV a rdf:Statement ;
+tdd:C2iCicFyAfex-Vi3ug49GGo98 a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:55xUpX4b9uvf ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:C2iCicFyAfex .
 
 tdd:C2iCicFyAfex a rdfs:Resource ;
+    rdfs:label "Le Caïd" ;
     dcterms:contributor tdd:55xUpX4b9uvf ;
     dcterms:identifier <http://www.wikidata.org/entity/Q8773631> ;
+    dcterms:type "Work" ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
     wdt:P7937 tdd:NwTUKgXApENs .
 

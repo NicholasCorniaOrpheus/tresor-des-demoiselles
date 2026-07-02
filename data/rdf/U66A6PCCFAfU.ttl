@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:U66A6PCCFAfU a rdfs:Resource ;
+    rdfs:label "polka" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q11821889> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP ;
     rdfs:subClassOf "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew" .
 

@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:c5Sr2gJUocsM a rdfs:Resource ;
+    rdfs:label "Auguste Richomme" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q131864248> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa" .
 

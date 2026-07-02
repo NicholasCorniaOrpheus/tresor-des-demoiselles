@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:VMZCquADC29J a rdfs:Resource ;
+    rdfs:label "opera singer" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q2865819> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

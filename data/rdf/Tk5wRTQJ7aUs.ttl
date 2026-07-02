@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Tk5wRTQJ7aUs a rdfs:Resource ;
+    rdfs:label "publisher" ;
     dcterms:identifier wdt:Q2516866 ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

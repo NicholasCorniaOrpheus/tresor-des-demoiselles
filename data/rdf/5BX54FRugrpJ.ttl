@@ -1,12 +1,16 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:5BX54FRugrpJ a rdfs:Resource ;
+    rdfs:label "Francesco Masini" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q21664072> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
+    skos:altLabel "François Masini" ;
     schema:gender tdd:hkA3uvTGSDnD ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5" .
 

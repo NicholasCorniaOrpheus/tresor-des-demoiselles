@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Mgp8YUwRv3Jz a rdfs:Resource ;
+    rdfs:label "librettist" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q8178443> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

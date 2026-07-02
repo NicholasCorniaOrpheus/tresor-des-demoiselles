@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:55xUpX4b9uvf a rdfs:Resource ;
+    rdfs:label "Ambroise Thomas" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q297717> ;
+    dcterms:type "Agent" ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD ;

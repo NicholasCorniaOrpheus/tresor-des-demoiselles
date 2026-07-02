@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:WnBSn3vmYiYL a rdfs:Resource ;
+    rdfs:label "aria" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q178122> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP .
 

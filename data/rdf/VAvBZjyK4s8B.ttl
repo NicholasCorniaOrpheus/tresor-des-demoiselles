@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:VAvBZjyK4s8B a rdfs:Resource ;
+    rdfs:label "Italy" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q38> ;
+    dcterms:type "Place" ;
     wdt:P31 tdd:Aut3aeGdqhKq .
 

@@ -7,28 +7,39 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:T3eDQEfcZJYp-F5ixBTWsC5zo a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:T3eDQEfcZJYp .
-
-tdd:T3eDQEfcZJYp-b8xQ3AiqVRhn a rdf:Statement ;
+tdd:T3eDQEfcZJYp-4zExTJAfLq6C a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:T3eDQEfcZJYp ;
     schema:datePublished "1889-01-01"^^xsd:date ;
     schema:volumeNumber 51 .
 
-tdd:T3eDQEfcZJYp-iBbmqoZYWRUe a rdf:Statement ;
+tdd:T3eDQEfcZJYp-Hguwu4vPTnjX a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:jrncQaEniubd ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:T3eDQEfcZJYp .
 
+tdd:T3eDQEfcZJYp-QacDSHyyzM87 a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Na56970f9711242f1b6558def902783a3" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:T3eDQEfcZJYp ;
+    schema:datePublished "1889-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88113> .
+
+tdd:T3eDQEfcZJYp-WqdAVCSxcBQp a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:T3eDQEfcZJYp .
+
 tdd:T3eDQEfcZJYp a rdfs:Resource ;
+    rdfs:label "Cracoviana. pour le piano" ;
     dcterms:contributor tdd:jrncQaEniubd ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Cracoviana: pour le piano" ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:FNU55ruFFYjd .
 

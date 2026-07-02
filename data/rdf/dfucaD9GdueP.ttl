@@ -1,7 +1,11 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
 tdd:dfucaD9GdueP a rdfs:Resource ;
-    dcterms:identifier <http://www.wikidata.org/entity/Q107487333> .
+    rdfs:label "type of musical work" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q107487333> ;
+    dcterms:type "Concept" ;
+    skos:altLabel "type of composition" .
 

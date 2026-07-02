@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:GwA6AyoA6rSz a rdfs:Resource ;
+    rdfs:label "Eugène de Lonlay" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q3060238> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:hkA3uvTGSDnD ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS",

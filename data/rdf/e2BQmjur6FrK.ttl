@@ -3,5 +3,7 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
 tdd:e2BQmjur6FrK a rdfs:Resource ;
-    dcterms:identifier <http://www.wikidata.org/entity/Q110295396> .
+    rdfs:label "type of musical instrument" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q110295396> ;
+    dcterms:type "Concept" .
 

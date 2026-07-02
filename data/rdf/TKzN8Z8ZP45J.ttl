@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:TKzN8Z8ZP45J a rdfs:Resource ;
+    rdfs:label "public library" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q28564> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:HjSMhbA3nqG8 .
 

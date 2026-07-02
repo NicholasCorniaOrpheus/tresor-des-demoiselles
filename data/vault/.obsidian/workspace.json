@@ -21,33 +21,8 @@
               "icon": "lucide-table",
               "title": "manifestation_list"
             }
-          },
-          {
-            "id": "7a08121e24fdbdd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "classes/Agent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Agent"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a08121e24fdbdd2",
+  "active": "a021b60216f25b74",
   "lastOpenFiles": [
+    "classes/Agent.md",
     "manifestation_list.base",
     "entity/L'etoile qui brille.md",
     "entity/circa.md",

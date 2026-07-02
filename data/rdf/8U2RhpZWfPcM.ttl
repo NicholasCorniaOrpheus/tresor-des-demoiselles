@@ -2,18 +2,22 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:8U2RhpZWfPcM-AGGryrhwWqbu a rdf:Statement ;
+tdd:8U2RhpZWfPcM-maQ4cznwpeEc a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:JT3QvpNMS2Cf ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:8U2RhpZWfPcM .
 
 tdd:8U2RhpZWfPcM a rdfs:Resource ;
+    rdfs:label "La gioventù di Enrico Quinto" ;
     dcterms:contributor tdd:JT3QvpNMS2Cf ;
     dcterms:identifier <http://www.wikidata.org/entity/Q136822375> ;
+    dcterms:type "Work" ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
-    wdt:P7937 tdd:NwTUKgXApENs .
+    wdt:P7937 tdd:NwTUKgXApENs ;
+    skos:altLabel "La jeunesse d'Henri V d' Angleterre" .
 

@@ -1,11 +1,15 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:PSaEANSLWUfh a rdfs:Resource ;
+    rdfs:label "Munich Digitization Center" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q1645155> ;
+    dcterms:type "Organisation" ;
     wdt:P17 tdd:eXFBXUBFBjqU ;
     wdt:P31 tdd:G5aFCqnqarZS ;
-    wdt:P856 <https://www.digitale-sammlungen.de/> .
+    wdt:P856 <https://www.digitale-sammlungen.de/> ;
+    skos:altLabel "MDZ" .
 

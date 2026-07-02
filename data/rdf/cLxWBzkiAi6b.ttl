@@ -1,3 +1,4 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -6,7 +7,28 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:cLxWBzkiAi6b-Hwi3nFFw5vtr a rdf:Statement ;
+tdd:cLxWBzkiAi6b-JztQ5mnbqSyw a rdf:Statement ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemoi11unkngoog> ;
+    bf:heldBy tdd:HzNj4duEtJSX ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N59c698362757467bb8c831b1a9e1efda" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:cLxWBzkiAi6b ;
+    schema:datePublished "1876-01-01"^^xsd:date ;
+    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
+
+tdd:cLxWBzkiAi6b-PCizCyjabvaJ a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11327125> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11327125/manifest> ;
+    rdf:object "N555eff3b3e23491fb7835e56116e4ef9" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:cLxWBzkiAi6b ;
+    schema:datePublished "1876-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb11327125> .
+
+tdd:cLxWBzkiAi6b-TaLiK49NXbEr a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:cLxWBzkiAi6b ;
@@ -14,7 +36,9 @@ tdd:cLxWBzkiAi6b-Hwi3nFFw5vtr a rdf:Statement ;
     schema:volumeNumber 44 .
 
 tdd:cLxWBzkiAi6b a rdfs:Resource ;
+    rdfs:label "Journal des demoiselles (1876)" ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

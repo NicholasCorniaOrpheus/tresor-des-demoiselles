@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:26TsCae57TVa a rdfs:Resource ;
+    rdfs:label "Hortense Wild" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q30532415> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:6vopxa7szAQ4 ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5" .

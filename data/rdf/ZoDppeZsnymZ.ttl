@@ -7,29 +7,40 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ZoDppeZsnymZ-YQW97xXA7xD2 a rdf:Statement ;
+tdd:ZoDppeZsnymZ-3B7ES9aj8HKG a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N8f096c39ef394beeb63205c207c1d841" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:ZoDppeZsnymZ ;
+    schema:datePublished "1890-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88119> .
+
+tdd:ZoDppeZsnymZ-6BKBRr43TnBh a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ZoDppeZsnymZ ;
     schema:datePublished "1890-01-01"^^xsd:date ;
     schema:volumeNumber 58 .
 
-tdd:ZoDppeZsnymZ-ZooKcc7b34Do a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:ZoDppeZsnymZ .
-
-tdd:ZoDppeZsnymZ-d29SNBdSXD3H a rdf:Statement ;
+tdd:ZoDppeZsnymZ-LJGykPWVLkTt a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:26TsCae57TVa ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:ZoDppeZsnymZ .
 
+tdd:ZoDppeZsnymZ-epEyYpx4xFVc a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:ZoDppeZsnymZ .
+
 tdd:ZoDppeZsnymZ a rdfs:Resource ;
+    rdfs:label "Ondine" ;
     dcterms:contributor tdd:26TsCae57TVa ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Ondine" ;
+    dcterms:type "Manifestation" ;
     wdt:P180 tdd:CvRtXZCnhvKH ;
     wdt:P31 tdd:FNU55ruFFYjd ;
     schema:about tdd:RixYXzFHfhqy .

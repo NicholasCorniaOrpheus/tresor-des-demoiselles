@@ -5,14 +5,16 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:af9ZEKkDCPJP-GZhT6Fsm9Bir a rdf:Statement ;
+tdd:af9ZEKkDCPJP-WX6jpbU2TWHr a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:3Y5ZuvTBzed4 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:af9ZEKkDCPJP .
 
 tdd:af9ZEKkDCPJP a rdfs:Resource ;
+    rdfs:label "Le Carillonneur de Bruges" ;
     dcterms:contributor tdd:3Y5ZuvTBzed4 ;
+    dcterms:type "Work" ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
     wdt:P7937 tdd:NwTUKgXApENs .
 

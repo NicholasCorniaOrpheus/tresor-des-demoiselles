@@ -1,10 +1,15 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
 tdd:bbp23eR4DnZs a rdfs:Resource ;
+    rdfs:label "Élisa Adam-Boisgontier" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q54894949> ;
+    dcterms:type "Agent" ;
+    skos:altLabel "Elisa Adam-Boisgontier",
+        "Mme Adam Boisgontier" ;
     schema:gender tdd:6vopxa7szAQ4 ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz" .
 

@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:4MqfuoGuN6Ra a rdfs:Resource ;
+    rdfs:label "Remiehleki" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q140289067> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:RP2EScV7znAf,
         tdd:TudsDJnQvonk ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5" .

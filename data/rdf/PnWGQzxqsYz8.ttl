@@ -2,25 +2,36 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:PnWGQzxqsYz8-P3ZADQ3JEBb3 a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:gSpQjJMRbo9y ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:PnWGQzxqsYz8 .
-
-tdd:PnWGQzxqsYz8-m7PrC93qtWGX a rdf:Statement ;
+tdd:PnWGQzxqsYz8-9cuJ5vvBNJxA a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:PnWGQzxqsYz8 .
 
+tdd:PnWGQzxqsYz8-bBDh6KRBizHr a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N6b25fb1e33264e38ba6de0962a7c3d5e" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:PnWGQzxqsYz8 ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88621> .
+
+tdd:PnWGQzxqsYz8-ejLdon9qn42Q a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:gSpQjJMRbo9y ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:PnWGQzxqsYz8 .
+
 tdd:PnWGQzxqsYz8 a rdfs:Resource ;
+    rdfs:label "Polka sur le Val D'Andorre d'Halevy" ;
     dcterms:contributor tdd:gSpQjJMRbo9y ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Polka sur le Val D'Andorre d'Halevy: pour piano" ;
+    dcterms:type "Manifestation" ;
     wdt:P144 tdd:Vrznz6W5khox ;
     wdt:P31 tdd:U66A6PCCFAfU ;
     wdt:P870 tdd:fcrABEiDKbza .

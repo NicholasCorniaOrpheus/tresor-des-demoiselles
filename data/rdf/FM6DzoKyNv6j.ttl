@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:FM6DzoKyNv6j a rdfs:Resource ;
+    rdfs:label "dedicatee" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q28008298> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

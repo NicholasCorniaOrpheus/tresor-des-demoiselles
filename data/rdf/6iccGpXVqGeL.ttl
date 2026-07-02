@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:6iccGpXVqGeL a rdfs:Resource ;
+    rdfs:label "Ghent University" ;
     dcterms:identifier wdt:Q1137665 ;
+    dcterms:type "Organisation" ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:MBm7WVmvSg7a .

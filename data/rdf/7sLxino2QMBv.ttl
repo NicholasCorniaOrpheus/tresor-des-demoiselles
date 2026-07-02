@@ -7,27 +7,38 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:7sLxino2QMBv-N53pekuAoqbF a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:7sLxino2QMBv .
-
-tdd:7sLxino2QMBv-giz3WUFQJZDN a rdf:Statement ;
+tdd:7sLxino2QMBv-CDKoC4dihtu8 a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:FiYhQVAhpR5M ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:7sLxino2QMBv .
 
-tdd:7sLxino2QMBv-jESFBzqVzYcs a rdf:Statement ;
+tdd:7sLxino2QMBv-S2jqgxVpFX4Y a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Nd484c5241aff4d7db7814d8b645198dc" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:7sLxino2QMBv ;
+    schema:datePublished "1853-01-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:7sLxino2QMBv-drk8Gmr2RWTG a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:7sLxino2QMBv .
+
+tdd:7sLxino2QMBv-k6zPpLzbcetf a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:7sLxino2QMBv ;
     schema:datePublished "1853-01-01"^^xsd:date .
 
 tdd:7sLxino2QMBv a rdfs:Resource ;
+    rdfs:label "La Pervenche" ;
     dcterms:contributor tdd:FiYhQVAhpR5M ;
     dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "La Pervenche. Polka des Demoiselles" ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:U66A6PCCFAfU .
 

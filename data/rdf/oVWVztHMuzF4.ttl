@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:oVWVztHMuzF4 a rdfs:Resource ;
+    rdfs:label "guitar" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q6607> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:e2BQmjur6FrK .
 

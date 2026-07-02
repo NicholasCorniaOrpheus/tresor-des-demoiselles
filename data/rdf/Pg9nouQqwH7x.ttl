@@ -7,42 +7,52 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Pg9nouQqwH7x-CE7xc4jjhNJR a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:bdE6MYos7APn ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:Pg9nouQqwH7x .
-
-tdd:Pg9nouQqwH7x-H694abs88E4Y a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:Pg9nouQqwH7x .
-
-tdd:Pg9nouQqwH7x-Xws9N7fyKX9q a rdf:Statement ;
+tdd:Pg9nouQqwH7x-Bcd7Hbu48dcQ a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Pg9nouQqwH7x ;
     schema:volumeNumber 2 .
 
-tdd:Pg9nouQqwH7x-bLtFecEb2ibQ a rdf:Statement ;
+tdd:Pg9nouQqwH7x-MDDoanF7ikfK a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:XY6KvveRnQs7 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Pg9nouQqwH7x .
 
-tdd:Pg9nouQqwH7x-mgCvmP8Lgb9V a rdf:Statement ;
+tdd:Pg9nouQqwH7x-R3RYYawnCwad a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Pg9nouQqwH7x .
+
+tdd:Pg9nouQqwH7x-g5rrhWULD4xA a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:Pg9nouQqwH7x .
 
+tdd:Pg9nouQqwH7x-hnUCDSauaXZY a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N22f9a16575344b8881dd7f2172c6f3d5" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Pg9nouQqwH7x ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971503> .
+
+tdd:Pg9nouQqwH7x-mh97fP6ixs76 a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:bdE6MYos7APn ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Pg9nouQqwH7x .
+
 tdd:Pg9nouQqwH7x a rdfs:Resource ;
+    rdfs:label "Une orientale: mélodie" ;
     dcterms:contributor tdd:XY6KvveRnQs7,
         tdd:bdE6MYos7APn ;
     dcterms:identifier <https://anet.be/record/opacap/c:lvd:12971503> ;
     dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "Une orientale: mélodie" ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza ;
     schema:about tdd:BCSvsKmuf8u3 .

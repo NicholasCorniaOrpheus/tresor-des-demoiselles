@@ -1,3 +1,4 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -6,7 +7,18 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:bk8xqxzLgPA8-ZrPdaLernBRs a rdf:Statement ;
+tdd:bk8xqxzLgPA8-PRKSuZxskbhN a rdf:Statement ;
+    bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k999675n> ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://gallica.bnf.fr/iiif/ark:/12148/bpt6k999675n/manifest.json> ;
+    rdf:object "N29f32b39ecac4a218da8096a4f56123d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:bk8xqxzLgPA8 ;
+    schema:datePublished "1887-01-01"^^xsd:date ;
+    schema:url <http://catalogue.bnf.fr/ark:/12148/cb32810582s> .
+
+tdd:bk8xqxzLgPA8-WuP9uqa3mwku a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:bk8xqxzLgPA8 ;
@@ -14,6 +26,8 @@ tdd:bk8xqxzLgPA8-ZrPdaLernBRs a rdf:Statement ;
     schema:volumeNumber 43 .
 
 tdd:bk8xqxzLgPA8 a rdfs:Resource ;
+    rdfs:label "Magasin des demoiselles (1887)" ;
     dcterms:isPartOf tdd:HuT8aF2rGmzB ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:Ue6ZuYvAVpqW .
 

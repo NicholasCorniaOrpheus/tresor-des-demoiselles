@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:kc8mMg6XAXbn a rdfs:Resource ;
+    rdfs:label "piano four hands" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q227484> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:cifmNoRzoHNK .
 

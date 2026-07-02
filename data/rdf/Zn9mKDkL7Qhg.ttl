@@ -1,3 +1,4 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -6,15 +7,27 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Zn9mKDkL7Qhg-P33yeHeL2Xhb a rdf:Statement ;
+tdd:Zn9mKDkL7Qhg-MSWD9THncs64 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Zn9mKDkL7Qhg ;
     schema:datePublished "1874-01-01"^^xsd:date ;
     schema:volumeNumber 42 .
 
+tdd:Zn9mKDkL7Qhg-NyfewTJQjwMC a rdf:Statement ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemoi08unkngoog> ;
+    bf:heldBy tdd:HzNj4duEtJSX ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N36910219c2f34c9eb3f95235338e24ae" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Zn9mKDkL7Qhg ;
+    schema:datePublished "1874-01-01"^^xsd:date ;
+    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
+
 tdd:Zn9mKDkL7Qhg a rdfs:Resource ;
+    rdfs:label "Journal des demoiselles (1874)" ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

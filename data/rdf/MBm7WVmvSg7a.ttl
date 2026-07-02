@@ -3,5 +3,7 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
 tdd:MBm7WVmvSg7a a rdfs:Resource ;
-    dcterms:identifier <http://www.wikidata.org/entity/Q3918> .
+    rdfs:label "Ghent University" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q3918> ;
+    dcterms:type "Concept" .
 

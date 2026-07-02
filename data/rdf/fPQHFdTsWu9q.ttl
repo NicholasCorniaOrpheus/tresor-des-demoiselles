@@ -5,15 +5,17 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:fPQHFdTsWu9q-QRJE77SUiyVZ a rdf:Statement ;
+tdd:fPQHFdTsWu9q-DppSAUvT7x7K a rdf:Statement ;
     bf:Role tdd:Tk5wRTQJ7aUs ;
     rdf:object tdd:4k5EPcbvKbQE ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:fPQHFdTsWu9q .
 
 tdd:fPQHFdTsWu9q a rdfs:Resource ;
+    rdfs:label "La mélodie" ;
     dcterms:contributor tdd:4k5EPcbvKbQE ;
     dcterms:identifier <https://anet.be/record/opacap/c:lvd:13165961> ;
+    dcterms:type "Organisation" ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:Ue6ZuYvAVpqW .
 

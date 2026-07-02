@@ -7,48 +7,61 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:SW5eHBJmrm62-4Qwqyf7yRbXe a rdf:Statement ;
+tdd:SW5eHBJmrm62-6AZoDWwtbcTK a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:d3bH5kZvxqbQ ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:SW5eHBJmrm62 .
+
+tdd:SW5eHBJmrm62-7VpaEVgC6zHL a rdf:Statement ;
     wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:SW5eHBJmrm62 .
 
-tdd:SW5eHBJmrm62-GdDdtCrB7jZU a rdf:Statement ;
+tdd:SW5eHBJmrm62-7mq66pMagTDF a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:SW5eHBJmrm62 .
+
+tdd:SW5eHBJmrm62-8bdEVagzeyL4 a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359987> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest> ;
+    rdf:object "Nba5a057ccaa44cd897fe36a18f831630" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:SW5eHBJmrm62 ;
+    schema:datePublished "1836-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359987> .
+
+tdd:SW5eHBJmrm62-CfVYfWmavRAd a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:6wJL3XGBiSDj ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:SW5eHBJmrm62 .
+
+tdd:SW5eHBJmrm62-WrG4uqAP97PV a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:SW5eHBJmrm62 ;
     schema:datePublished "1836-01-01"^^xsd:date ;
     schema:volumeNumber 4 .
 
-tdd:SW5eHBJmrm62-TCRpYuviYjES a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:d3bH5kZvxqbQ ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:SW5eHBJmrm62 .
-
-tdd:SW5eHBJmrm62-UrirwV3pkvNw a rdf:Statement ;
+tdd:SW5eHBJmrm62-nQPBMbn5hucc a rdf:Statement ;
     wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:SW5eHBJmrm62 .
-
-tdd:SW5eHBJmrm62-XbwhpSAcsjfL a rdf:Statement ;
-    bf:Role tdd:cZsa9QkDZfZY ;
-    rdf:object tdd:6wJL3XGBiSDj ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:SW5eHBJmrm62 .
-
-tdd:SW5eHBJmrm62-XsaxVoUQRoVM a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:SW5eHBJmrm62 .
 
 tdd:SW5eHBJmrm62 a rdfs:Resource ;
+    rdfs:label "L'etoile qui brille" ;
     dcterms:contributor tdd:6wJL3XGBiSDj,
         tdd:d3bH5kZvxqbQ ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "L'etoile qui brille" ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

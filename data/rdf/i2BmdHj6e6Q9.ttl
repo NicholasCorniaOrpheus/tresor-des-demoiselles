@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:i2BmdHj6e6Q9 a rdfs:Resource ;
+    rdfs:label "Johannes Verhulst" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q964611> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5" .
 

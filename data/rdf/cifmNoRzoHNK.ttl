@@ -3,5 +3,7 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
 tdd:cifmNoRzoHNK a rdfs:Resource ;
-    dcterms:identifier <http://www.wikidata.org/entity/Q105756498> .
+    rdfs:label "type of musical group" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q105756498> ;
+    dcterms:type "Concept" .
 

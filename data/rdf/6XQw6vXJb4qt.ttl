@@ -1,4 +1,5 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -7,22 +8,35 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:6XQw6vXJb4qt-RVr8qV2F79M8 a rdf:Statement ;
+tdd:6XQw6vXJb4qt-U8q82ToQ294T a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:6XQw6vXJb4qt ;
     schema:datePublished "1857-01-01"^^xsd:date ;
     schema:volumeNumber 25 .
 
-tdd:6XQw6vXJb4qt-XZLrgKLyQc2L a rdf:Statement ;
+tdd:6XQw6vXJb4qt-joRfHVZaSZro a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2,
+        tdd:CEnnWH4uZsFX ;
+    rdf:object "N9068fb0fa6cd4c7180ebea0e5b8ccd8c" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:6XQw6vXJb4qt ;
+    schema:datePublished "1857-01-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582> .
+
+tdd:6XQw6vXJb4qt-kFWGFcjyoNJC a rdf:Statement ;
     bf:Note "Reprint of vol. 25 of 1857 probably using the same printing plates of the original Parisian edition." ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate wdt:P144 ;
     rdf:subject tdd:6XQw6vXJb4qt .
 
 tdd:6XQw6vXJb4qt a rdfs:Resource ;
+    rdfs:label "Trésor des demoiselles (1857)" ;
+    dc:description "1857 issues collected in one volume." ;
     dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "Trésor des demoiselles. Vingt-cinquième Année." ;
+    dcterms:type "Manifestation" ;
     wdt:P144 tdd:NS7S3TJjbHvU ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .

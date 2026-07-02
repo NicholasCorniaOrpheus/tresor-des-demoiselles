@@ -5,15 +5,17 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:gviox6r658Y4-MHPva8cUTE9K a rdf:Statement ;
+tdd:gviox6r658Y4-Yw3vWc7imqkt a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:RkUgaRZ6zs57 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:gviox6r658Y4 .
 
 tdd:gviox6r658Y4 a rdfs:Resource ;
+    rdfs:label "Le Lac des fées" ;
     dcterms:contributor tdd:RkUgaRZ6zs57 ;
     dcterms:identifier <http://www.wikidata.org/entity/Q3223877> ;
+    dcterms:type "Work" ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
     wdt:P7937 tdd:NwTUKgXApENs .
 

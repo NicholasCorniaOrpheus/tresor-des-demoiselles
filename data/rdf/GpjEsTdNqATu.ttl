@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:GpjEsTdNqATu a rdfs:Resource ;
+    rdfs:label "University of Toronto" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q180865> ;
+    dcterms:type "Organisation" ;
     wdt:P17 tdd:TL9bhQaShbbC ;
     wdt:P31 tdd:MBm7WVmvSg7a ;
     wdt:P856 <https://librarysearch.library.utoronto.ca/> .

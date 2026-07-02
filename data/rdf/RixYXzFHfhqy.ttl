@@ -3,5 +3,7 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
 tdd:RixYXzFHfhqy a rdfs:Resource ;
-    dcterms:identifier <http://www.wikidata.org/entity/Q9134> .
+    rdfs:label "mythology" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q9134> ;
+    dcterms:type "Concept" .
 

@@ -1,4 +1,5 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -7,19 +8,19 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ASrkWEECtVfe-AsqSwDJNfAUP a rdf:Statement ;
+tdd:ASrkWEECtVfe-4T2f9J7vs4y7 a rdf:Statement ;
     bf:Role tdd:nQTxNAy4WtLK ;
     rdf:object tdd:QNrJy8MMgzU8 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:ASrkWEECtVfe .
 
-tdd:ASrkWEECtVfe-j2xsHSihZeAX a rdf:Statement ;
+tdd:ASrkWEECtVfe-hzFL4KX4wah8 a rdf:Statement ;
     bf:Role tdd:Tk5wRTQJ7aUs ;
     rdf:object tdd:XogB6ccutzoR ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:ASrkWEECtVfe .
 
-tdd:ASrkWEECtVfe-j7pC6mpuVET2 a rdf:Statement ;
+tdd:ASrkWEECtVfe-izGmwBKGqRsq a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ASrkWEECtVfe ;
@@ -27,11 +28,14 @@ tdd:ASrkWEECtVfe-j7pC6mpuVET2 a rdf:Statement ;
     schema:volumeNumber 27 .
 
 tdd:ASrkWEECtVfe a rdfs:Resource ;
+    rdfs:label "Trésor des demoiselles (1859)" ;
+    dc:description "1859 issues collected in one volume." ;
     dcterms:contributor tdd:QNrJy8MMgzU8,
         tdd:XogB6ccutzoR ;
     dcterms:identifier <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582> ;
     dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "Trésor des demoiselles. Vingt-septième Année." ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

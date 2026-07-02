@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:bogx9ECia7TM a rdfs:Resource ;
+    rdfs:label "operetta" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q170384> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP .
 

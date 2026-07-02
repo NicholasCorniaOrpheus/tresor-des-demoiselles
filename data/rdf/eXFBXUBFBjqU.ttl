@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:eXFBXUBFBjqU a rdfs:Resource ;
+    rdfs:label "Germany" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q183> ;
+    dcterms:type "Place" ;
     wdt:P31 tdd:Aut3aeGdqhKq .
 

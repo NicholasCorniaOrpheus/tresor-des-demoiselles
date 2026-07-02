@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:iKoQN6jW4jjj a rdfs:Resource ;
+    rdfs:label "Royal Conservatory of Brussels" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q336968> ;
+    dcterms:type "Organisation" ;
     wdt:P131 tdd:BxHoLQMESXU2 ;
     wdt:P31 tdd:3ZezRAF7fMBC,
         tdd:TKzN8Z8ZP45J ;

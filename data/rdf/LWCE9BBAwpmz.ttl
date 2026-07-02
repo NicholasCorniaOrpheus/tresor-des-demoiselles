@@ -3,5 +3,7 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
 tdd:LWCE9BBAwpmz a rdfs:Resource ;
-    dcterms:identifier <http://www.wikidata.org/entity/Q13417114> .
+    rdfs:label "noble family" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q13417114> ;
+    dcterms:type "Concept" .
 

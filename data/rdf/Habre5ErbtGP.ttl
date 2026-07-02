@@ -1,13 +1,19 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Habre5ErbtGP a rdfs:Resource ;
+    rdfs:label "Jean Baptiste Bruylant" ;
+    dc:description "Belgian publisher" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q55902869> ;
+    dcterms:type "Agent" ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
     wdt:P31 tdd:TudsDJnQvonk ;
+    skos:altLabel "Bruylant-Christophe & Cie" ;
     schema:gender tdd:hkA3uvTGSDnD ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs" .
 

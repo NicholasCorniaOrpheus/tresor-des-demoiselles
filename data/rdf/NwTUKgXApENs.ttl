@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:NwTUKgXApENs a rdfs:Resource ;
+    rdfs:label "opera" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q1344> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP .
 

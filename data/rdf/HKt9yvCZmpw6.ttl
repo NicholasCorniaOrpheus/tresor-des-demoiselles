@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:HKt9yvCZmpw6 a rdfs:Resource ;
+    rdfs:label "quadrille" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q107364106> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP ;
     rdfs:subClassOf "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew" .
 

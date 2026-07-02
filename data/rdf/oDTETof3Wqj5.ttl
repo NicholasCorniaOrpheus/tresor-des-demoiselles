@@ -1,3 +1,4 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -6,15 +7,27 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:oDTETof3Wqj5-CtYe4wzMwYKQ a rdf:Statement ;
+tdd:oDTETof3Wqj5-9FcCPV5j3ttE a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:oDTETof3Wqj5 ;
     schema:datePublished "1891-01-01"^^xsd:date ;
     schema:volumeNumber 59 .
 
+tdd:oDTETof3Wqj5-L4ccQGRYbMnU a rdf:Statement ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemoi09unkngoog> ;
+    bf:heldBy tdd:HzNj4duEtJSX ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N41d2c41708784992a1d90174706ff273" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:oDTETof3Wqj5 ;
+    schema:datePublished "1891-01-01"^^xsd:date ;
+    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
+
 tdd:oDTETof3Wqj5 a rdfs:Resource ;
+    rdfs:label "Journal des demoiselles (1891)" ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

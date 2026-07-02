@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:2osPtS3ax4Hc a rdfs:Resource ;
+    rdfs:label "Royal Library of Belgium" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q383931> ;
+    dcterms:type "Organisation" ;
     wdt:P131 tdd:BxHoLQMESXU2 ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:Y9ux9hBbTDEk ;

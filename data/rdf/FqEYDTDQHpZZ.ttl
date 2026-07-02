@@ -7,35 +7,46 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:FqEYDTDQHpZZ-FRTk9YkEJKhx a rdf:Statement ;
+tdd:FqEYDTDQHpZZ-7wEoe68R8Mt2 a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nd441fbc53ed44b08acaba9f2f96b2c28" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:FqEYDTDQHpZZ ;
+    schema:datePublished "1882-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=157420> .
+
+tdd:FqEYDTDQHpZZ-JUApRUKM9PMZ a rdf:Statement ;
     wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:FqEYDTDQHpZZ .
 
-tdd:FqEYDTDQHpZZ-MD38tTYYVyEk a rdf:Statement ;
+tdd:FqEYDTDQHpZZ-Juu7w7dBc3MJ a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:FqEYDTDQHpZZ ;
     schema:datePublished "1882-01-01"^^xsd:date ;
     schema:volumeNumber 50 .
 
-tdd:FqEYDTDQHpZZ-MhTETCGbRLiW a rdf:Statement ;
+tdd:FqEYDTDQHpZZ-gRbzuFGYRujJ a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:FqEYDTDQHpZZ .
+
+tdd:FqEYDTDQHpZZ-mZUfjPimep6m a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:26TsCae57TVa ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:FqEYDTDQHpZZ .
 
-tdd:FqEYDTDQHpZZ-TZHt3SsGBHyT a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:FqEYDTDQHpZZ .
-
 tdd:FqEYDTDQHpZZ a rdfs:Resource ;
+    rdfs:label "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\"" ;
     dcterms:contributor tdd:26TsCae57TVa ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre" ;
+    dcterms:type "Manifestation" ;
     wdt:P144 tdd:8U2RhpZWfPcM ;
     wdt:P31 tdd:WnBSn3vmYiYL ;
     wdt:P870 tdd:fcrABEiDKbza .

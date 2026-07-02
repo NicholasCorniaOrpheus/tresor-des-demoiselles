@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:5GQCpP8JBfZH a rdfs:Resource ;
+    rdfs:label "piano sonata" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q1546995> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP .
 

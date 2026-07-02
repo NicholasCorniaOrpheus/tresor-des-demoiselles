@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:CEnnWH4uZsFX a rdfs:Resource ;
+    rdfs:label "Amsterdam" ;
     dcterms:identifier wdt:Q727 ;
+    dcterms:type "Place" ;
     wdt:P17 tdd:dggAjTSBZEfA .
 

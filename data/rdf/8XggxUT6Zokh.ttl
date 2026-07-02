@@ -1,12 +1,16 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:8XggxUT6Zokh a rdfs:Resource ;
+    rdfs:label "Hendrik Conscience Heritage Library" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q2564527> ;
+    dcterms:type "Organisation" ;
     wdt:P131 tdd:CnfhMurv8zu8 ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:TKzN8Z8ZP45J ;
-    wdt:P856 <http://www.consciencebibliotheek.be/> .
+    wdt:P856 <http://www.consciencebibliotheek.be/> ;
+    skos:altLabel "Erfgoedbibliotheek Hendrik Conscience" .
 

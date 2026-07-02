@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:3yS9agtba9rA a rdfs:Resource ;
+    rdfs:label "translator" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q333634> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

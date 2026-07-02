@@ -7,28 +7,49 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Bv7PDGtc5dE9-FiWcq3WTMe3J a rdf:Statement ;
+tdd:Bv7PDGtc5dE9-HScjdQbRRYvp a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nc35646d38e8549608f9d665f0b3981ef" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Bv7PDGtc5dE9 ;
+    schema:datePublished "1890-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89100> .
+
+tdd:Bv7PDGtc5dE9-Ns3dSWuF9FjN a rdf:Statement ;
+    bf:Note "3 sonatines for piano, Op. 20" ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N032f4331f80c454790d6fa64cbbea581" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Bv7PDGtc5dE9 ;
+    schema:datePublished "1872-01-01"^^xsd:date ;
+    schema:url <https://catalogue.bnf.fr/ark:/12148/cb433379188> .
+
+tdd:Bv7PDGtc5dE9-RFTnxA8VdSa4 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Bv7PDGtc5dE9 ;
     schema:datePublished "1876-01-01"^^xsd:date ;
     schema:volumeNumber 44 .
 
-tdd:Bv7PDGtc5dE9-G5D4SDPzQWkV a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:Bv7PDGtc5dE9 .
-
-tdd:Bv7PDGtc5dE9-PRJXu2ywNdha a rdf:Statement ;
+tdd:Bv7PDGtc5dE9-eZZbocyS8tWN a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:26TsCae57TVa ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Bv7PDGtc5dE9 .
 
+tdd:Bv7PDGtc5dE9-nq9cNEnvKLKH a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Bv7PDGtc5dE9 .
+
 tdd:Bv7PDGtc5dE9 a rdfs:Resource ;
+    rdfs:label "3me sonatine. musique de Mlle H. Wild" ;
     dcterms:contributor tdd:26TsCae57TVa ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "3me sonatine. musique de Mlle H. Wild" ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:5GQCpP8JBfZH .
 

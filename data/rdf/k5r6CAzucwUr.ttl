@@ -5,15 +5,17 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:k5r6CAzucwUr-cr24F6hopy8X a rdf:Statement ;
+tdd:k5r6CAzucwUr-fczTMqRSxomR a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:PBr2jjFrFXnm ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:k5r6CAzucwUr .
 
 tdd:k5r6CAzucwUr a rdfs:Resource ;
+    rdfs:label "L'elisir d'amore" ;
     dcterms:contributor tdd:PBr2jjFrFXnm ;
     dcterms:identifier <http://www.wikidata.org/entity/Q332536> ;
+    dcterms:type "Work" ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
     wdt:P7937 tdd:NwTUKgXApENs .
 

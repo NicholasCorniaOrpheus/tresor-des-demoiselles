@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:9Y8pKvFMJST5 a rdfs:Resource ;
+    rdfs:label "composer" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q36834> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

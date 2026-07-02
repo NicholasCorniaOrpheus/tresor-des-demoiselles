@@ -1,11 +1,15 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:hpUpv7QsMNuH a rdfs:Resource ;
+    rdfs:label "University of Leuven" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q833670> ;
+    dcterms:type "Organisation" ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:MBm7WVmvSg7a ;
-    wdt:P856 <https://kuleuven.limo.libis.be/> .
+    wdt:P856 <https://kuleuven.limo.libis.be/> ;
+    skos:altLabel "KU Leuven" .
 

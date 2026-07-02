@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:XudZsfnJCkRh a rdfs:Resource ;
+    rdfs:label "Amable Tastu" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q2840806> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:gender tdd:6vopxa7szAQ4 ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS",

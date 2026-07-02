@@ -1,10 +1,14 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:gAK3b5Jh5UVf a rdfs:Resource ;
+    rdfs:label "International Music Score Library Project" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q523660> ;
+    dcterms:type "Organisation" ;
     wdt:P31 tdd:G5aFCqnqarZS ;
-    wdt:P856 <https://imslp.org/> .
+    wdt:P856 <https://imslp.org/> ;
+    skos:altLabel "IMSLP" .
 

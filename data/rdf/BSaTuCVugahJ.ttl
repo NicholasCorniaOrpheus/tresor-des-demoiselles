@@ -3,5 +3,7 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
 tdd:BSaTuCVugahJ a rdfs:Resource ;
-    dcterms:identifier <http://www.wikidata.org/entity/Q31855> .
+    rdfs:label "research institute" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q31855> ;
+    dcterms:type "Concept" .
 

@@ -5,15 +5,17 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:Vrznz6W5khox-3hmaNbWqb2mG a rdf:Statement ;
+tdd:Vrznz6W5khox-hZzbRr9xUTxH a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:SuU5RRaXHL2Z ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Vrznz6W5khox .
 
 tdd:Vrznz6W5khox a rdfs:Resource ;
+    rdfs:label "Le val d'Andorre" ;
     dcterms:contributor tdd:SuU5RRaXHL2Z ;
     dcterms:identifier <http://www.wikidata.org/entity/Q3662242> ;
+    dcterms:type "Work" ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
     wdt:P7937 tdd:NwTUKgXApENs .
 

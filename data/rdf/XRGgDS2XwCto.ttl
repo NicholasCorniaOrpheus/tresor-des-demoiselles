@@ -7,49 +7,60 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:XRGgDS2XwCto-AcN8NavwjuyQ a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:5BX54FRugrpJ ;
-    rdf:predicate dcterms:contributor ;
+tdd:XRGgDS2XwCto-3sHf5LzJizKe a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:XRGgDS2XwCto .
 
-tdd:XRGgDS2XwCto-AgnexJKqnnon a rdf:Statement ;
+tdd:XRGgDS2XwCto-9LA8HSCWenpW a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:CXpPMVRq6JaP ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:XRGgDS2XwCto .
 
-tdd:XRGgDS2XwCto-Grwob9m24dm9 a rdf:Statement ;
+tdd:XRGgDS2XwCto-A44rYfGpCzam a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:XRGgDS2XwCto ;
+    schema:datePublished "1849-01-01"^^xsd:date .
+
+tdd:XRGgDS2XwCto-FGzbL4qphrjZ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:5BX54FRugrpJ ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:XRGgDS2XwCto .
+
+tdd:XRGgDS2XwCto-KbPMUQBv8M3W a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:XRGgDS2XwCto .
+
+tdd:XRGgDS2XwCto-TmMPPh6fkR2H a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:XRGgDS2XwCto ;
     schema:datePublished "1849-01-01"^^xsd:date ;
     schema:volumeNumber 17 .
 
-tdd:XRGgDS2XwCto-PM5GjRqfLUDz a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:XRGgDS2XwCto .
-
-tdd:XRGgDS2XwCto-ReAADcZ3hzte a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:XRGgDS2XwCto .
-
-tdd:XRGgDS2XwCto-UhSzu4h548QT a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
+tdd:XRGgDS2XwCto-UaEhqJbWfan6 a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N55e3d36a325d49939e5eb79dc46ba33d" ;
+    rdf:predicate wdt:P747 ;
     rdf:subject tdd:XRGgDS2XwCto ;
-    schema:datePublished "1849-01-01"^^xsd:date .
+    schema:datePublished "1849-01-01"^^xsd:date ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971526> .
 
 tdd:XRGgDS2XwCto a rdfs:Resource ;
+    rdfs:label "Parles bas! Chansonette" ;
     dcterms:contributor tdd:5BX54FRugrpJ,
         tdd:CXpPMVRq6JaP ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU,
         tdd:VWaxuELqVfKN ;
     dcterms:title "Parles bas! Chansonette" ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

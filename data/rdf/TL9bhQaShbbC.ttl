@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:TL9bhQaShbbC a rdfs:Resource ;
+    rdfs:label "Canada" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q16> ;
+    dcterms:type "Place" ;
     wdt:P31 tdd:Aut3aeGdqhKq .
 

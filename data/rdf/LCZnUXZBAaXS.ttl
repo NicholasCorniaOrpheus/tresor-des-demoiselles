@@ -1,9 +1,14 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:LCZnUXZBAaXS a rdfs:Resource ;
+    rdfs:label "France" ;
     dcterms:identifier wdt:Q142 ;
-    wdt:P31 tdd:Aut3aeGdqhKq .
+    dcterms:type "Place" ;
+    wdt:P31 tdd:Aut3aeGdqhKq ;
+    skos:altLabel "Francia",
+        "Frankrijk" .
 

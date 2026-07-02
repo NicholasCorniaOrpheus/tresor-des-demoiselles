@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:BxHoLQMESXU2 a rdfs:Resource ;
+    rdfs:label "Brussels" ;
     dcterms:identifier wdt:Q239 ;
+    dcterms:type "Place" ;
     wdt:P31 tdd:Kd5wMW8fYWBe .
 

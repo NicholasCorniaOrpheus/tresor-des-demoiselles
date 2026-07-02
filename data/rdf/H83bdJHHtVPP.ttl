@@ -5,7 +5,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:H83bdJHHtVPP a rdfs:Resource ;
+    rdfs:label "Laure Jourdain" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q140289959> ;
+    dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa" .
 

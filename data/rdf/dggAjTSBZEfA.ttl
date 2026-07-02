@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:dggAjTSBZEfA a rdfs:Resource ;
+    rdfs:label "Netherlands" ;
     dcterms:identifier wdt:Q55 ;
+    dcterms:type "Place" ;
     wdt:P31 tdd:Aut3aeGdqhKq .
 

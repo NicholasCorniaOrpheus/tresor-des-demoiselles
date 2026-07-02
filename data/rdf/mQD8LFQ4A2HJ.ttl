@@ -3,5 +3,7 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 
 tdd:mQD8LFQ4A2HJ a rdfs:Resource ;
-    dcterms:identifier <http://www.wikidata.org/entity/Q12737077> .
+    rdfs:label "occupation" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q12737077> ;
+    dcterms:type "Concept" .
 

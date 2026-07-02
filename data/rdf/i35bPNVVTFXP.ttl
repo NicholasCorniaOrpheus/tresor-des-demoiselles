@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:i35bPNVVTFXP a rdfs:Resource ;
+    rdfs:label "mythical character" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q4271324> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:GVQ2Jm6uRJuh .
 

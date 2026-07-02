@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:G9FZhC6pNp69 a rdfs:Resource ;
+    rdfs:label "Internet Archive" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q461> ;
+    dcterms:type "Organisation" ;
     wdt:P31 tdd:G5aFCqnqarZS ;
     wdt:P856 <https://archive.org/> .
 

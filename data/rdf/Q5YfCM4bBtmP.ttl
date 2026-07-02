@@ -7,36 +7,49 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Q5YfCM4bBtmP-76utpB8SrH57 a rdf:Statement ;
+tdd:Q5YfCM4bBtmP-3DD7nQwCJiVQ a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Q5YfCM4bBtmP ;
     schema:datePublished "1838-01-01"^^xsd:date ;
     schema:volumeNumber 6 .
 
-tdd:Q5YfCM4bBtmP-VjnQzDQQa6qb a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:PBr2jjFrFXnm ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:Q5YfCM4bBtmP .
-
-tdd:Q5YfCM4bBtmP-iu8aDUfK8L6k a rdf:Statement ;
+tdd:Q5YfCM4bBtmP-5WvXfRRNiW2n a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:Q5YfCM4bBtmP .
 
-tdd:Q5YfCM4bBtmP-ne4Rh3xzssp6 a rdf:Statement ;
+tdd:Q5YfCM4bBtmP-aon4RYTjHY46 a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:3v4q5PWHnZcN ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Q5YfCM4bBtmP .
 
+tdd:Q5YfCM4bBtmP-bVbx7u5QtMWr a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PBr2jjFrFXnm ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Q5YfCM4bBtmP .
+
+tdd:Q5YfCM4bBtmP-iiHUVfyjVZ9B a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
+    rdf:object "Nb32d6ff4b1c9414dbebd521b74e2bd3a" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Q5YfCM4bBtmP ;
+    schema:datePublished "1838-01-01"^^xsd:date ;
+    schema:url <https://www.digitale-sammlungen.de/en/view/bsb10359989> .
+
 tdd:Q5YfCM4bBtmP a rdfs:Resource ;
+    rdfs:label "Quadrille. Parisina" ;
     dcterms:contributor tdd:3v4q5PWHnZcN,
         tdd:PBr2jjFrFXnm ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Deux Madones. Romance" ;
+    dcterms:type "Manifestation" ;
     wdt:P144 tdd:UabpPirExmof ;
     wdt:P31 tdd:HKt9yvCZmpw6 ;
     wdt:P870 tdd:fcrABEiDKbza .

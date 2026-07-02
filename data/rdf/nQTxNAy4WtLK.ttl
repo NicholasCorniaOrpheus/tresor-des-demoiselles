@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:nQTxNAy4WtLK a rdfs:Resource ;
+    rdfs:label "editor" ;
     dcterms:identifier wdt:Q1607826 ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:mQD8LFQ4A2HJ .
 

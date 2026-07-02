@@ -4,6 +4,8 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:Rbyhy2fEYa2g a rdfs:Resource ;
+    rdfs:label "duet" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q109940> ;
+    dcterms:type "Concept" ;
     wdt:P31 tdd:dfucaD9GdueP .
 

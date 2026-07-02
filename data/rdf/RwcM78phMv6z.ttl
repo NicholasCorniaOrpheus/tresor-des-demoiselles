@@ -1,3 +1,4 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -6,7 +7,18 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:RwcM78phMv6z-32j9xYh6DyEb a rdf:Statement ;
+tdd:RwcM78phMv6z-H7SyZ5bPiakU a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10360009> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360009/manifest> ;
+    rdf:object "Nc44f46e86ee44dda84585a8faac03e43" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:RwcM78phMv6z ;
+    schema:datePublished "1849-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10360009> .
+
+tdd:RwcM78phMv6z-kQudHYxr7Aqi a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:RwcM78phMv6z ;
@@ -14,7 +26,9 @@ tdd:RwcM78phMv6z-32j9xYh6DyEb a rdf:Statement ;
     schema:volumeNumber 17 .
 
 tdd:RwcM78phMv6z a rdfs:Resource ;
+    rdfs:label "Journal des demoiselles (1849)" ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

@@ -4,7 +4,9 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 
 tdd:7LoWAKaDbbUb a rdfs:Resource ;
+    rdfs:label "Biblioteca civica di Verona" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q3639573> ;
+    dcterms:type "Organisation" ;
     wdt:P17 tdd:VAvBZjyK4s8B ;
     wdt:P31 tdd:TKzN8Z8ZP45J ;
     wdt:P856 <https://cbv.comune.verona.it/> .

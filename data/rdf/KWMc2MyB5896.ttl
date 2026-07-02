@@ -7,41 +7,51 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:KWMc2MyB5896-27YtoT7jddx3 a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:KWMc2MyB5896 .
-
-tdd:KWMc2MyB5896-Y6d4TpuYiUyN a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:3At93rnWJp3u ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:KWMc2MyB5896 .
-
-tdd:KWMc2MyB5896-fRMhyJpg9y55 a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:KWMc2MyB5896 ;
-    schema:volumeNumber 2 .
-
-tdd:KWMc2MyB5896-i4r3uHY2RK59 a rdf:Statement ;
+tdd:KWMc2MyB5896-9wPQyshXy38K a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:KWMc2MyB5896 .
 
-tdd:KWMc2MyB5896-iDtFbAL227ZU a rdf:Statement ;
+tdd:KWMc2MyB5896-FBtNrdM4xb4o a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:KWMc2MyB5896 .
+
+tdd:KWMc2MyB5896-J6XxNzhQeWKx a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:KWMc2MyB5896 ;
+    schema:volumeNumber 2 .
+
+tdd:KWMc2MyB5896-LDJXnWXavjnv a rdf:Statement ;
     bf:Role tdd:3At93rnWJp3u ;
     rdf:object tdd:PGagqrY8C5Aa ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:KWMc2MyB5896 .
 
+tdd:KWMc2MyB5896-M9ptypCLGHQD a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N5c3aa571c46246049af3144e03ae07fa" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:KWMc2MyB5896 ;
+    schema:url <https://anet.be/record/opacap/c:lvd:13279473> .
+
+tdd:KWMc2MyB5896-XQbZaMjsjMEG a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:3At93rnWJp3u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:KWMc2MyB5896 .
+
 tdd:KWMc2MyB5896 a rdfs:Resource ;
+    rdfs:label "La brune Thérèse" ;
     dcterms:contributor tdd:3At93rnWJp3u,
         tdd:PGagqrY8C5Aa ;
     dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "La brune Thérèse" ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

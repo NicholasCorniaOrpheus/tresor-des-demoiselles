@@ -7,41 +7,51 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:dJRZgT58Xf8A-ChjSc9f4knwv a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
+tdd:dJRZgT58Xf8A-6HiDaUVNgodY a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N1e9f2f3f23184798aa940e97c3d69e24" ;
+    rdf:predicate wdt:P747 ;
     rdf:subject tdd:dJRZgT58Xf8A ;
-    schema:volumeNumber 4 .
+    schema:url <https://anet.be/record/opacap/c:lvd:12971546> .
 
-tdd:dJRZgT58Xf8A-MTauBZym4WYM a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:NRPF64xecNgD ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:dJRZgT58Xf8A .
-
-tdd:dJRZgT58Xf8A-VSnxChTwE3Tb a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:dJRZgT58Xf8A .
-
-tdd:dJRZgT58Xf8A-dpHWHzC2DDHd a rdf:Statement ;
+tdd:dJRZgT58Xf8A-B4aDitffPXVn a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:gBejS4d5MNmC ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:dJRZgT58Xf8A .
 
-tdd:dJRZgT58Xf8A-gk4LQkerScEV a rdf:Statement ;
+tdd:dJRZgT58Xf8A-Eo6qAPZMCtnp a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:dJRZgT58Xf8A .
+
+tdd:dJRZgT58Xf8A-HtjhgwFWe7QG a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:NRPF64xecNgD ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:dJRZgT58Xf8A .
+
+tdd:dJRZgT58Xf8A-YLYspiDmjEox a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:dJRZgT58Xf8A .
 
+tdd:dJRZgT58Xf8A-euwVZT3ePfDy a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:dJRZgT58Xf8A ;
+    schema:volumeNumber 4 .
+
 tdd:dJRZgT58Xf8A a rdfs:Resource ;
+    rdfs:label "Le soir: mélodie transcrite pour soprano" ;
     dcterms:contributor tdd:NRPF64xecNgD,
         tdd:gBejS4d5MNmC ;
     dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "Le soir: mélodie transcrite pour soprano" ;
+    dcterms:type "Manifestation" ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 
