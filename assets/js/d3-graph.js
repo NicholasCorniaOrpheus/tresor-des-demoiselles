@@ -1,10 +1,34 @@
 document.addEventListener("DOMContentLoaded", function() {
+    // Log what we received
+    console.log("window.entityGraphUrl value:", window.entityGraphUrl);
+    console.log("Type:", typeof window.entityGraphUrl);
+    console.log("Length:", window.entityGraphUrl ? window.entityGraphUrl.length : "undefined");
+    
     const graphUrl = window.entityGraphUrl;
+    
+    // More defensive check
+    if (!graphUrl || 
+        typeof graphUrl !== 'string' || 
+        graphUrl.trim() === "" || 
+        graphUrl === "None" ||
+        graphUrl === "null") {
+        console.warn("D3 Graph: No valid graph URL provided.", { graphUrl });
+        return;
+    }
+    
     const csvUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/mappings/yaml_classes2lod.csv";
 
-    if (!graphUrl) return;
-
     Promise.all([d3.csv(csvUrl), d3.json(graphUrl)]).then(([mappingData, graph]) => {
+        // Validate graph structure before proceeding
+        if (!graph || !graph.nodes || !Array.isArray(graph.nodes)) {
+            console.error("D3 Graph: Invalid graph structure received");
+            return;
+        }
+        
+        if (graph.nodes.length === 0) {
+            console.warn("D3 Graph: Empty node set");
+            return;
+        }
         const nodeMapping = {};
         const legendContainer = d3.select("#legend");
 
