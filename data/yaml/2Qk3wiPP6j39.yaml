@@ -70,11 +70,11 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p22
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p22/orp-burgm-fantais-20143702p22-ps-00001.jpg
-  IIIF_manifest: null
   jpg:
   - orp-burgm-fantais-20143702p22-ps-00001.jpg
   - orp-burgm-fantais-20143702p22-ps-00002.jpg
   - orp-burgm-fantais-20143702p22-ps-00003.jpg
   - orp-burgm-fantais-20143702p22-ps-00004.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/2Qk3wiPP6j39.json
 content:
   markdown_content: ''

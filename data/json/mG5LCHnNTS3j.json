@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "sourcing circumstance",
+    "base_name": "sourcing circumstance",
+    "filename": "sourcing circumstance.md",
+    "id": "mG5LCHnNTS3j",
+    "n_id": 892433242242043016066
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q104637420"
+    ]
+  }
+}

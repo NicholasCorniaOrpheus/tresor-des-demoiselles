@@ -57,9 +57,9 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p42
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p42/orp-plant-lemaria-20143702p42-fs-00001.jpg
-  IIIF_manifest: null
   jpg:
   - orp-plant-lemaria-20143702p42-fs-00001.jpg
   - orp-plant-lemaria-20143702p42-fs-00002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/FiFAWv3HUTn6.json
 content:
   markdown_content: ''

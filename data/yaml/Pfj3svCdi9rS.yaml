@@ -25,7 +25,8 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
     label: lyricist
 assets:
-  image: []
-  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Pfj3svCdi9rS.json
 content:
   markdown_content: ''

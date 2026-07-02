@@ -49,6 +49,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FJbVhQcQoVGQ",
+      "label": "overture",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A",
       "label": "Achille de Lauzières",
       "class": "Agent",
@@ -128,6 +134,16 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
       "property": "language"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+      "property": "related_to"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FJbVhQcQoVGQ",
+      "property": "related_to"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NQKrs6QNuU6A",

@@ -5,45 +5,37 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:WPYDAMp8mTS3-assertion-N3pi9YYpeDLr a rdf:Statement ;
+tdd:WPYDAMp8mTS3-MCvqy3F2MNTE a rdf:Statement ;
+    wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:WPYDAMp8mTS3 .
 
-tdd:WPYDAMp8mTS3-assertion-RnhfgEzaWczh a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:WPYDAMp8mTS3 .
-
-tdd:WPYDAMp8mTS3-assertion-XWbnHWPXTdQP a rdf:Statement ;
-    rdf:object tdd:C2iCicFyAfex ;
-    rdf:predicate <> ;
-    rdf:subject tdd:WPYDAMp8mTS3 .
-
-tdd:WPYDAMp8mTS3-assertion-dtKM4kQ7y3ee a rdf:Statement ;
+tdd:WPYDAMp8mTS3-SZNWfa8Mi7og a rdf:Statement ;
     bf:Role tdd:Tk5wRTQJ7aUs ;
     rdf:object tdd:XogB6ccutzoR ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:WPYDAMp8mTS3 .
 
-tdd:WPYDAMp8mTS3-assertion-fTBBKFyWvupi a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:predicate <> ;
-    rdf:subject tdd:WPYDAMp8mTS3 ;
-    schema:url <https://anet.be/record/ap/opacap/c:lvd:12971554> .
+tdd:WPYDAMp8mTS3-gi8r8RQ2s5oY a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:WPYDAMp8mTS3 .
 
-tdd:WPYDAMp8mTS3-assertion-ggdWJ4PhiHA3 a rdf:Statement ;
+tdd:WPYDAMp8mTS3-jmYXx6EBW2zE a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate <> ;
-    rdf:subject tdd:WPYDAMp8mTS3 .
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:WPYDAMp8mTS3 ;
+    schema:volumeNumber 5 .
 
 tdd:WPYDAMp8mTS3 a rdfs:Resource ;
-    <> tdd:C2iCicFyAfex,
-        tdd:VWaxuELqVfKN,
-        tdd:XogB6ccutzoR ;
+    dcterms:contributor tdd:XogB6ccutzoR ;
+    dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "Chansonette de l'opéra Le caïd" ;
+    wdt:P144 tdd:C2iCicFyAfex ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

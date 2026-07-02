@@ -27,6 +27,7 @@ statements:
     label: composer
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/0/08/Fromental_Halevy_by_Etienne_Carjat-crop.jpg
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/SuU5RRaXHL2Z.json
 content:
   markdown_content: ''

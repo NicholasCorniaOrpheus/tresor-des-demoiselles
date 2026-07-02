@@ -36,7 +36,8 @@ statements:
   official_website: null
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/NS7S3TJjbHvU.json
 content:
   markdown_content: 'Parisian periodical founded in 1833 and published _Au Bureau
     du Journal_.

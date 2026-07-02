@@ -28,6 +28,7 @@ statements:
   - http://www.wikidata.org/entity/Q2735843
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/0/07/Pierre_Dupont_LACMA_AC1992.229.130.jpg
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/bdE6MYos7APn.json
 content:
   markdown_content: ''

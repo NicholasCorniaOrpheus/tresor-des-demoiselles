@@ -7,6 +7,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Fotoreproductie_van_een_portret_van_Ferdinand_H%C3%A9rold_door_Eugen_Felix_Herold_%28titel_op_object%29_Bruckmann%27s_Portrait-Collection_%28serietitel_op_object%29%2C_RP-F-2001-7-878-5_%28cropped%29.jpg"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "label": "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\"",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "label": "composer",
       "class": "Concept",
@@ -48,9 +54,24 @@
       "property": "occupation"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
+      "property": "related_to"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf",
       "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FqEYDTDQHpZZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
+      "property": "based_on"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",

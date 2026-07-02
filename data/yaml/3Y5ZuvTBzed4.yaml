@@ -28,6 +28,7 @@ statements:
     label: composer
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/e/ef/Albert_Grisar.jpg
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/3Y5ZuvTBzed4.json
 content:
   markdown_content: ''

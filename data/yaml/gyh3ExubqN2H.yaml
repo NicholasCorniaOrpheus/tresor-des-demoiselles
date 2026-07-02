@@ -47,9 +47,9 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p30
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p30/orp-bosch-l'aubép-20143702p30-ps-00001.jpg
-  IIIF_manifest: null
   jpg:
   - orp-bosch-l'aubép-20143702p30-ps-00001.jpg
   - orp-bosch-l'aubép-20143702p30-ps-00002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/gyh3ExubqN2H.json
 content:
   markdown_content: ''

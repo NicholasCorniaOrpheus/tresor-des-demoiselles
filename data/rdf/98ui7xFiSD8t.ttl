@@ -1,6 +1,5 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://www.wikidata.org/entity/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
@@ -8,36 +7,30 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:98ui7xFiSD8t-assertion-F7RUd28oPbEM a rdf:Statement ;
+tdd:98ui7xFiSD8t-DpiVTGVwPESW a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:26TsCae57TVa ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:98ui7xFiSD8t .
 
-tdd:98ui7xFiSD8t-assertion-QAeJoTcjo7F3 a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:predicate <> ;
+tdd:98ui7xFiSD8t-Egg2S7AyJnyf a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:98ui7xFiSD8t .
+
+tdd:98ui7xFiSD8t-YM3ktnbTE7Le a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:98ui7xFiSD8t ;
     schema:datePublished "1879-01-01"^^xsd:date ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89103> .
-
-tdd:98ui7xFiSD8t-assertion-RF4kgAeZpyf8 a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:98ui7xFiSD8t .
-
-tdd:98ui7xFiSD8t-assertion-n9xGDjCWFd4f a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:98ui7xFiSD8t ;
-    schema:datePublished "1879-01-01"^^xsd:date .
+    schema:volumeNumber 47 .
 
 tdd:98ui7xFiSD8t a rdfs:Resource ;
-    <> tdd:26TsCae57TVa,
-        tdd:NS7S3TJjbHvU ;
+    dcterms:contributor tdd:26TsCae57TVa ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "La vallée de chevreuse : suite de valses" ;
+    wdt:P180 tdd:eXQDntRhJGku ;
     wdt:P31 tdd:LTZ2PAutKcZC ;
-    ns1:P180 tdd:eXQDntRhJGku ;
     schema:about tdd:2z8JMC92FAK6 .
 

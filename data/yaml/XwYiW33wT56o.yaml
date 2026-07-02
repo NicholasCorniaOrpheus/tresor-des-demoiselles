@@ -88,11 +88,11 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p25
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p25/orp-clapi-l'emplo-20143702p25-fs-00001.jpg
-  IIIF_manifest: null
   jpg:
   - orp-clapi-l'emplo-20143702p25-fs-00001.jpg
   - orp-clapi-l'emplo-20143702p25-fs-00002.jpg
   - orp-clapi-l'emplo-20143702p25-fs-00003.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/XwYiW33wT56o.json
 content:
   markdown_content: '### Lyrics
 

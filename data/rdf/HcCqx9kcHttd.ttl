@@ -6,32 +6,21 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:HcCqx9kcHttd-assertion-3XYpwce7gTjm a rdf:Statement ;
+tdd:HcCqx9kcHttd-F5kDfdY3HBJb a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:HcCqx9kcHttd .
+
+tdd:HcCqx9kcHttd-it7uG4uRRe7v a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:26TsCae57TVa ;
-    rdf:predicate <> ;
-    rdf:subject tdd:HcCqx9kcHttd .
-
-tdd:HcCqx9kcHttd-assertion-EYBmfcTUpCFx a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:predicate <> ;
-    rdf:subject tdd:HcCqx9kcHttd ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89102> .
-
-tdd:HcCqx9kcHttd-assertion-Xbf7hybrVTcG a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:HcCqx9kcHttd .
-
-tdd:HcCqx9kcHttd-assertion-g5tAdrqNBkfH a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:HcCqx9kcHttd .
 
 tdd:HcCqx9kcHttd a rdfs:Resource ;
-    <> tdd:26TsCae57TVa,
-        tdd:NS7S3TJjbHvU ;
+    dcterms:contributor tdd:26TsCae57TVa ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Pavane. Musique de Mlle H. Wild" ;
     wdt:P31 tdd:Mj6hzfVSHHew ;
     schema:about tdd:KBhDjToyQTEi,

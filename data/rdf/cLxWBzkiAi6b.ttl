@@ -1,4 +1,4 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
@@ -6,33 +6,15 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:cLxWBzkiAi6b-assertion-8juknbq9sETc a rdf:Statement ;
-    bf:electronicLocator <https://archive.org/details/journaldesdemoi11unkngoog> ;
-    bf:heldBy tdd:HzNj4duEtJSX ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:predicate <> ;
-    rdf:subject tdd:cLxWBzkiAi6b ;
-    schema:datePublished "1876-01-01"^^xsd:date ;
-    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
-
-tdd:cLxWBzkiAi6b-assertion-FvFC2imD97kP a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11327125> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11327125/manifest> ;
-    rdf:predicate <> ;
-    rdf:subject tdd:cLxWBzkiAi6b ;
-    schema:datePublished "1876-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb11327125> .
-
-tdd:cLxWBzkiAi6b-assertion-NpDiqFskbV4u a rdf:Statement ;
+tdd:cLxWBzkiAi6b-Hwi3nFFw5vtr a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:cLxWBzkiAi6b ;
-    schema:datePublished "1876-01-01"^^xsd:date .
+    schema:datePublished "1876-01-01"^^xsd:date ;
+    schema:volumeNumber 44 .
 
 tdd:cLxWBzkiAi6b a rdfs:Resource ;
-    <> tdd:NS7S3TJjbHvU ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

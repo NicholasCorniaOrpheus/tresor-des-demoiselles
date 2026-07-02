@@ -7,43 +7,35 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:SFGi6gHQvH4j-assertion-96XorCD7UkSZ a rdf:Statement ;
+tdd:SFGi6gHQvH4j-Ji8n3emqQgTs a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:PBr2jjFrFXnm ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:SFGi6gHQvH4j .
 
-tdd:SFGi6gHQvH4j-assertion-FQhuZhSgtDAm a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
-    rdf:predicate <> ;
-    rdf:subject tdd:SFGi6gHQvH4j ;
-    schema:datePublished "1839-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
-
-tdd:SFGi6gHQvH4j-assertion-JbhsvwLAURLa a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:SFGi6gHQvH4j ;
-    schema:datePublished "1839-01-01"^^xsd:date .
-
-tdd:SFGi6gHQvH4j-assertion-WJTjFZNuauUa a rdf:Statement ;
+tdd:SFGi6gHQvH4j-MvE5b3TCwGrj a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:CaRovnpexber ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:SFGi6gHQvH4j .
 
-tdd:SFGi6gHQvH4j-assertion-aNZcFQmNZ9Lo a rdf:Statement ;
+tdd:SFGi6gHQvH4j-ZKaMjRhsMqoX a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:SFGi6gHQvH4j ;
+    schema:datePublished "1839-01-01"^^xsd:date ;
+    schema:volumeNumber 7 .
+
+tdd:SFGi6gHQvH4j-gVntQq4LSrNY a rdf:Statement ;
+    wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:SFGi6gHQvH4j .
 
 tdd:SFGi6gHQvH4j a rdfs:Resource ;
-    <> tdd:CaRovnpexber,
-        tdd:NS7S3TJjbHvU,
+    dcterms:contributor tdd:CaRovnpexber,
         tdd:PBr2jjFrFXnm ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "L'Elisir d'amore. Quadrille" ;
     wdt:P31 tdd:HKt9yvCZmpw6 .
 

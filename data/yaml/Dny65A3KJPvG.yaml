@@ -65,9 +65,9 @@ statements:
 assets:
   local_asset_path: ./assets/MDZ-10359989_1
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/MDZ-10359989_1/001.jpg
-  IIIF_manifest: null
   jpg:
   - 001.jpg
   - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Dny65A3KJPvG.json
 content:
   markdown_content: ''

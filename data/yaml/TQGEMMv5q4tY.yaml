@@ -45,9 +45,9 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p37
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p37/orp-remie-chanson-20143702p37-ps-00001.jpg
-  IIIF_manifest: null
   jpg:
   - orp-remie-chanson-20143702p37-ps-00001.jpg
   - orp-remie-chanson-20143702p37-ps-00002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/TQGEMMv5q4tY.json
 content:
   markdown_content: ''

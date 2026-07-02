@@ -1,6 +1,5 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://www.wikidata.org/entity/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
@@ -8,42 +7,31 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:8PAPGoxTCgLt-assertion-6eF8enXuRhdb a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:predicate <> ;
-    rdf:subject tdd:8PAPGoxTCgLt ;
-    schema:datePublished "1882-01-01"^^xsd:date ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88116> .
-
-tdd:8PAPGoxTCgLt-assertion-GBodLghbm7yc a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:8PAPGoxTCgLt ;
-    schema:datePublished "1882-01-01"^^xsd:date .
-
-tdd:8PAPGoxTCgLt-assertion-GWW7CzT9rCEt a rdf:Statement ;
-    rdf:object tdd:gviox6r658Y4 ;
-    rdf:predicate <> ;
-    rdf:subject tdd:8PAPGoxTCgLt .
-
-tdd:8PAPGoxTCgLt-assertion-cyEZ6PHdnN3z a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:8PAPGoxTCgLt .
-
-tdd:8PAPGoxTCgLt-assertion-i86KQWw3gHh7 a rdf:Statement ;
+tdd:8PAPGoxTCgLt-3GvHGeB4gYk3 a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:Ui6pfXfmqxPM ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:8PAPGoxTCgLt .
+
+tdd:8PAPGoxTCgLt-5TKqbCKKVc6w a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:8PAPGoxTCgLt ;
+    schema:datePublished "1882-01-01"^^xsd:date ;
+    schema:volumeNumber 50 .
+
+tdd:8PAPGoxTCgLt-ceNV9fSP4Xm6 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:8PAPGoxTCgLt .
 
 tdd:8PAPGoxTCgLt a rdfs:Resource ;
-    <> tdd:NS7S3TJjbHvU,
-        tdd:Ui6pfXfmqxPM,
-        tdd:gviox6r658Y4 ;
+    dcterms:contributor tdd:Ui6pfXfmqxPM ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Les fées du lac : valse brillante pour piano" ;
+    wdt:P144 tdd:gviox6r658Y4 ;
+    wdt:P180 tdd:i35bPNVVTFXP ;
     wdt:P31 tdd:LTZ2PAutKcZC ;
-    ns1:P180 tdd:i35bPNVVTFXP ;
     schema:about tdd:RixYXzFHfhqy .
 

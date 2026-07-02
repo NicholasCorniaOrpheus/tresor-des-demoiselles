@@ -23,7 +23,8 @@ statements:
   - http://www.wikidata.org/entity/Q660539
   occupation: null
 assets:
-  image: []
-  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/CaRovnpexber.json
 content:
   markdown_content: ''

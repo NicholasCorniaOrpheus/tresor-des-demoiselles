@@ -7,53 +7,47 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:7TU8upyA98qe-assertion-2q3iDPf7myFf a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:7TU8upyA98qe .
-
-tdd:7TU8upyA98qe-assertion-4FBYSA3A8mxW a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:d3bH5kZvxqbQ ;
-    rdf:predicate <> ;
-    rdf:subject tdd:7TU8upyA98qe .
-
-tdd:7TU8upyA98qe-assertion-At4gJGtk5TYH a rdf:Statement ;
+tdd:7TU8upyA98qe-2MCrkJZXbsZm a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:fVVUZGiGyTJr ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:7TU8upyA98qe .
 
-tdd:7TU8upyA98qe-assertion-B3c9DoT7KQKP a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359987> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest> ;
-    rdf:predicate <> ;
+tdd:7TU8upyA98qe-FeRMFRXUwEwr a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:7TU8upyA98qe .
+
+tdd:7TU8upyA98qe-S3nzjfUxUPw5 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:7TU8upyA98qe .
+
+tdd:7TU8upyA98qe-SRLoTBrMzsJ3 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:d3bH5kZvxqbQ ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:7TU8upyA98qe .
+
+tdd:7TU8upyA98qe-fW6EY6qg2Mux a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:7TU8upyA98qe ;
     schema:datePublished "1836-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359987> .
+    schema:volumeNumber 4 .
 
-tdd:7TU8upyA98qe-assertion-DjeaDyTAcNsT a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:7TU8upyA98qe .
-
-tdd:7TU8upyA98qe-assertion-ESJPKJxydQ7P a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:7TU8upyA98qe ;
-    schema:datePublished "1836-01-01"^^xsd:date .
-
-tdd:7TU8upyA98qe-assertion-fU7NF99DMSZL a rdf:Statement ;
+tdd:7TU8upyA98qe-kF9tDLeoKyVf a rdf:Statement ;
+    wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
-    rdf:predicate <> ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:7TU8upyA98qe .
 
 tdd:7TU8upyA98qe a rdfs:Resource ;
-    <> tdd:NS7S3TJjbHvU,
-        tdd:d3bH5kZvxqbQ,
+    dcterms:contributor tdd:d3bH5kZvxqbQ,
         tdd:fVVUZGiGyTJr ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "La Prière. Dédiée à S.M. la reine des français" ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .

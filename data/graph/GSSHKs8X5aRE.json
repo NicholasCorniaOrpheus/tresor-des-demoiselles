@@ -151,6 +151,11 @@
       "property": "location"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh",
+      "property": "related_to"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bbp23eR4DnZs",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
       "property": "occupation"

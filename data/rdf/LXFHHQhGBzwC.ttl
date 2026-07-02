@@ -5,45 +5,42 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:LXFHHQhGBzwC-assertion-K9bmMsRhtaar a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:i2BmdHj6e6Q9 ;
-    rdf:predicate <> ;
+tdd:LXFHHQhGBzwC-LdjspVT65jRR a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:LXFHHQhGBzwC .
 
-tdd:LXFHHQhGBzwC-assertion-PTf6PV5TaHjY a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:LXFHHQhGBzwC .
-
-tdd:LXFHHQhGBzwC-assertion-VA7JAdCPkSeU a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:predicate <> ;
+tdd:LXFHHQhGBzwC-NpdxbBB65nRV a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:LXFHHQhGBzwC ;
-    schema:url <https://anet.be/record/opacap/c:lvd:12971543> .
+    schema:volumeNumber 3 .
 
-tdd:LXFHHQhGBzwC-assertion-bVLfEHUCCE7T a rdf:Statement ;
+tdd:LXFHHQhGBzwC-PrNLeNohnHm2 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:LXFHHQhGBzwC .
+
+tdd:LXFHHQhGBzwC-coth8JXC7s5h a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:ctiBvfKCHD9m ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:LXFHHQhGBzwC .
 
-tdd:LXFHHQhGBzwC-assertion-cATXosXsYBN3 a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:LXFHHQhGBzwC .
-
-tdd:LXFHHQhGBzwC-assertion-htrhJDhFQE5o a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate <> ;
+tdd:LXFHHQhGBzwC-oFQEmAShFeCD a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:i2BmdHj6e6Q9 ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:LXFHHQhGBzwC .
 
 tdd:LXFHHQhGBzwC a rdfs:Resource ;
-    <> tdd:VWaxuELqVfKN,
-        tdd:ctiBvfKCHD9m,
+    dcterms:contributor tdd:ctiBvfKCHD9m,
         tdd:i2BmdHj6e6Q9 ;
+    dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "Espoir en Dieu: chants du crépuscule" ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .

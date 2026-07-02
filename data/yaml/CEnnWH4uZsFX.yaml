@@ -14,7 +14,8 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dggAjTSBZEfA
     label: Netherlands
 assets:
-  IIIF_manifest: null
-  image: []
+  iiif: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/CEnnWH4uZsFX.json
 content:
   markdown_content: ''

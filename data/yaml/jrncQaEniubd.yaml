@@ -28,6 +28,7 @@ statements:
     label: writer
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/d/db/Octave_Fouque_par_D%C3%A9li%C3%A9%2C_d%C3%A9tail.jpg
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/jrncQaEniubd.json
 content:
   markdown_content: ''

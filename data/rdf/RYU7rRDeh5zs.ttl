@@ -1,16 +1,11 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:RYU7rRDeh5zs-assertion-iAJLrLNF6Wny a rdf:Statement ;
-    rdf:object "1898-01-01"^^xsd:date ;
-    rdf:predicate <> ;
-    rdf:subject tdd:RYU7rRDeh5zs .
-
 tdd:RYU7rRDeh5zs a rdfs:Resource ;
+    dcterms:created "1898-01-01"^^xsd:date ;
     dcterms:identifier <http://www.wikidata.org/entity/Q2665388> ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:3ZezRAF7fMBC,

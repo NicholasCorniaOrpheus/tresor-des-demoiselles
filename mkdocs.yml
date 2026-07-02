@@ -18,8 +18,9 @@ extra_javascript:
   - assets/js/CETEI.js
   - https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js
   - https://d3js.org/d3.v7.min.js 
-  - assets/js/openseadragon-init.js
-  - assets/js/d3-graph.js
+  - assets/js/kb-init.js
+  #- assets/js/openseadragon-init.js NOT NEEDED ANYMORE. INTEGRATED IN kb-init.js
+  #- assets/js/d3-graph.js NOT NEEDED ANYMORE. INTEGRATED IN kb-init.js
 
 theme:
   name: material

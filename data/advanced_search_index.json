@@ -382,8 +382,8 @@
         "location": "/entity/Zn9mKDkL7Qhg",
         "properties": {
             "label": [
-                "Journal des demoiselles (1874)",
-                null
+                null,
+                "Journal des demoiselles (1874)"
             ],
             "class": [
                 "Manifestation"
@@ -1052,8 +1052,8 @@
         "location": "/entity/TQGEMMv5q4tY",
         "properties": {
             "label": [
-                "Chanson russe: Romance sans paroles.",
-                "Chanson russe"
+                "Chanson russe",
+                "Chanson russe: Romance sans paroles."
             ],
             "class": [
                 "Manifestation"
@@ -1185,6 +1185,33 @@
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p18/20143702p18_001.jpg"
+            ]
+        }
+    },
+    {
+        "location": "/entity/DNWuYNTFJRu6",
+        "properties": {
+            "label": [
+                "circa"
+            ],
+            "class": [
+                "Concept"
+            ],
+            "aliases": [
+                "c.",
+                "ca."
+            ],
+            "description": [
+                null
+            ],
+            "instance of": [
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mG5LCHnNTS3j",
+                    "label": "sourcing circumstance"
+                }
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
             ]
         }
     },
@@ -1348,8 +1375,8 @@
         "location": "/entity/ASrkWEECtVfe",
         "properties": {
             "label": [
-                "Trésor des demoiselles (1859)",
-                "Trésor des demoiselles. Vingt-septième Année."
+                "Trésor des demoiselles. Vingt-septième Année.",
+                "Trésor des demoiselles (1859)"
             ],
             "class": [
                 "Manifestation"
@@ -1584,8 +1611,8 @@
         "location": "/entity/FqEYDTDQHpZZ",
         "properties": {
             "label": [
-                "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre",
-                "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\""
+                "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\"",
+                "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre"
             ],
             "class": [
                 "Manifestation"
@@ -2587,8 +2614,8 @@
         "location": "/entity/98ui7xFiSD8t",
         "properties": {
             "label": [
-                "La vallée de chevreuse : suite de valses",
-                "La vallée de chevreuse. suite de valses"
+                "La vallée de chevreuse. suite de valses",
+                "La vallée de chevreuse : suite de valses"
             ],
             "class": [
                 "Manifestation"
@@ -3431,8 +3458,8 @@
         "location": "/entity/GYA62ZM8SThf",
         "properties": {
             "label": [
-                "Journal des demoiselles (1870)",
-                null
+                null,
+                "Journal des demoiselles (1870)"
             ],
             "class": [
                 "Manifestation"
@@ -3839,8 +3866,8 @@
         "location": "/entity/TL2CYehsnjpj",
         "properties": {
             "label": [
-                "Songe de Bonheur. Suite de Valses. N. 1-3",
-                "Songe de Bonheur"
+                "Songe de Bonheur",
+                "Songe de Bonheur. Suite de Valses. N. 1-3"
             ],
             "class": [
                 "Manifestation"
@@ -4343,8 +4370,8 @@
         "location": "/entity/S77HJUbgUuKq",
         "properties": {
             "label": [
-                "Le Voyageurs de nuit",
-                "Le Voyageurs de nuit: Chansonette"
+                "Le Voyageurs de nuit: Chansonette",
+                "Le Voyageurs de nuit"
             ],
             "class": [
                 "Manifestation"
@@ -4532,6 +4559,29 @@
                     "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
                     "label": "type of musical work"
                 }
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+            ]
+        }
+    },
+    {
+        "location": "/entity/mG5LCHnNTS3j",
+        "properties": {
+            "label": [
+                "sourcing circumstance"
+            ],
+            "class": [
+                "Concept"
+            ],
+            "aliases": [
+                null
+            ],
+            "description": [
+                null
+            ],
+            "instance of": [
+                null
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
@@ -4729,8 +4779,8 @@
         "location": "/entity/Q5YfCM4bBtmP",
         "properties": {
             "label": [
-                "Deux Madones. Romance",
-                "Quadrille. Parisina"
+                "Quadrille. Parisina",
+                "Deux Madones. Romance"
             ],
             "class": [
                 "Manifestation"
@@ -4830,8 +4880,8 @@
         "location": "/entity/LiRnHQgHVwqd",
         "properties": {
             "label": [
-                "Les lutins de Bretagne",
-                "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan"
+                "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan",
+                "Les lutins de Bretagne"
             ],
             "class": [
                 "Manifestation"
@@ -5399,8 +5449,8 @@
         "location": "/entity/G2DfGMPf6jS5",
         "properties": {
             "label": [
-                "Le Pinson",
-                "Le Pinson ou le bien pour le mal"
+                "Le Pinson ou le bien pour le mal",
+                "Le Pinson"
             ],
             "class": [
                 "Manifestation"
@@ -6128,8 +6178,8 @@
         "location": "/entity/gzxLx7Y6cNMi",
         "properties": {
             "label": [
-                "Le Bouquet: Chansonette.",
-                "Le Bouquet"
+                "Le Bouquet",
+                "Le Bouquet: Chansonette."
             ],
             "class": [
                 "Manifestation"
@@ -6332,8 +6382,8 @@
         "location": "/entity/jkATK8cEHbjG",
         "properties": {
             "label": [
-                null,
-                "Journal des demoiselles (1868)"
+                "Journal des demoiselles (1868)",
+                null
             ],
             "class": [
                 "Manifestation"
@@ -6423,8 +6473,8 @@
         "location": "/entity/caTPx3dAfP6L",
         "properties": {
             "label": [
-                "Renouveau : bluette",
-                "Renouveau. bluette"
+                "Renouveau. bluette",
+                "Renouveau : bluette"
             ],
             "class": [
                 "Manifestation"
@@ -8836,8 +8886,8 @@
         "location": "/entity/6XQw6vXJb4qt",
         "properties": {
             "label": [
-                "Trésor des demoiselles. Vingt-cinquième Année.",
-                "Trésor des demoiselles (1857)"
+                "Trésor des demoiselles (1857)",
+                "Trésor des demoiselles. Vingt-cinquième Année."
             ],
             "class": [
                 "Manifestation"
@@ -9633,8 +9683,8 @@
         "location": "/entity/PnWGQzxqsYz8",
         "properties": {
             "label": [
-                "Polka sur le Val D'Andorre d'Halevy",
-                "Polka sur le Val D'Andorre d'Halevy: pour piano"
+                "Polka sur le Val D'Andorre d'Halevy: pour piano",
+                "Polka sur le Val D'Andorre d'Halevy"
             ],
             "class": [
                 "Manifestation"
@@ -11694,8 +11744,8 @@
         "location": "/entity/AgTowXcdYL6T",
         "properties": {
             "label": [
-                "Thalie",
-                "Thalie: Polka mazurka."
+                "Thalie: Polka mazurka.",
+                "Thalie"
             ],
             "class": [
                 "Manifestation"

@@ -26,7 +26,8 @@ statements:
   - http://www.wikidata.org/entity/Q336968
   country: null
 assets:
-  image: []
-  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/iKoQN6jW4jjj.json
 content:
   markdown_content: ''

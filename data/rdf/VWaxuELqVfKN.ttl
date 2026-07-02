@@ -5,28 +5,23 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:VWaxuELqVfKN-assertion-D5M7yGYpmPtT a rdf:Statement ;
+tdd:VWaxuELqVfKN-89ftW5n5nPUg a rdf:Statement ;
     bf:Role tdd:Tk5wRTQJ7aUs ;
     rdf:object tdd:XogB6ccutzoR ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:VWaxuELqVfKN .
 
-tdd:VWaxuELqVfKN-assertion-fV9igJxwrUNr a rdf:Statement ;
-    rdf:object tdd:BxHoLQMESXU2 ;
-    rdf:predicate <> ;
-    rdf:subject tdd:VWaxuELqVfKN .
-
-tdd:VWaxuELqVfKN-assertion-kxwtzrVQ3psj a rdf:Statement ;
+tdd:VWaxuELqVfKN-ZA6DPL37idGU a rdf:Statement ;
     bf:Role tdd:nQTxNAy4WtLK ;
     rdf:object tdd:QNrJy8MMgzU8 ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:VWaxuELqVfKN .
 
 tdd:VWaxuELqVfKN a rdfs:Resource ;
-    <> tdd:BxHoLQMESXU2,
-        tdd:QNrJy8MMgzU8,
+    dcterms:contributor tdd:QNrJy8MMgzU8,
         tdd:XogB6ccutzoR ;
     dcterms:identifier wdt:Q88565625 ;
+    wdt:P131 tdd:BxHoLQMESXU2 ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:Ue6ZuYvAVpqW .

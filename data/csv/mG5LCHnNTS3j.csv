@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,sourcing circumstance,sourcing circumstance,sourcing circumstance.md,mG5LCHnNTS3j,892433242242043016066,instance_of,,,,
+Concept,,,sourcing circumstance,sourcing circumstance,sourcing circumstance.md,mG5LCHnNTS3j,892433242242043016066,subclass_of,,,,
+Concept,,,sourcing circumstance,sourcing circumstance,sourcing circumstance.md,mG5LCHnNTS3j,892433242242043016066,described_by_source,,,,
+Concept,,,sourcing circumstance,sourcing circumstance,sourcing circumstance.md,mG5LCHnNTS3j,892433242242043016066,identifier,,,,http://www.wikidata.org/entity/Q104637420

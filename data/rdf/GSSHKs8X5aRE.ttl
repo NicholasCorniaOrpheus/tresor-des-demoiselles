@@ -7,49 +7,41 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:GSSHKs8X5aRE-assertion-8nC9GSQgRHuT a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:jMzRtWT8BzJg ;
-    rdf:predicate <> ;
-    rdf:subject tdd:GSSHKs8X5aRE .
-
-tdd:GSSHKs8X5aRE-assertion-FJvbPFLSYnnE a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:GSSHKs8X5aRE .
-
-tdd:GSSHKs8X5aRE-assertion-HoUAw32zjJxG a rdf:Statement ;
-    bf:Note "Only issues 1-5 are present." ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10360013> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360013/manifest> ;
-    rdf:predicate <> ;
-    rdf:subject tdd:GSSHKs8X5aRE ;
-    schema:datePublished "1866-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10360013> .
-
-tdd:GSSHKs8X5aRE-assertion-RnUbnWb3hsH5 a rdf:Statement ;
+tdd:GSSHKs8X5aRE-2LwAMkWDyU8R a rdf:Statement ;
+    wdt:P1114 "3" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate <> ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:GSSHKs8X5aRE .
 
-tdd:GSSHKs8X5aRE-assertion-m7TFwYxkuBvu a rdf:Statement ;
+tdd:GSSHKs8X5aRE-2ecJDLzyUotc a rdf:Statement ;
     bf:Role tdd:Mgp8YUwRv3Jz ;
     rdf:object tdd:bbp23eR4DnZs ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:GSSHKs8X5aRE .
 
-tdd:GSSHKs8X5aRE-assertion-nS8rsroUWajh a rdf:Statement ;
+tdd:GSSHKs8X5aRE-8ayP3k88jdWE a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:GSSHKs8X5aRE ;
-    schema:datePublished "1866-01-01"^^xsd:date .
+    schema:datePublished "1866-01-01"^^xsd:date ;
+    schema:volumeNumber 16 .
+
+tdd:GSSHKs8X5aRE-UiTpWJt5EvNj a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:GSSHKs8X5aRE .
+
+tdd:GSSHKs8X5aRE-V2XzHLFtNthu a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:jMzRtWT8BzJg ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:GSSHKs8X5aRE .
 
 tdd:GSSHKs8X5aRE a rdfs:Resource ;
-    <> tdd:NS7S3TJjbHvU,
-        tdd:bbp23eR4DnZs,
+    dcterms:contributor tdd:bbp23eR4DnZs,
         tdd:jMzRtWT8BzJg ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Le Farouche ennemi. Opérette en un acte" ;
     wdt:P31 tdd:GFGuESLqMKpn,
         tdd:bogx9ECia7TM ;

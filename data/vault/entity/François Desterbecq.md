@@ -12,7 +12,7 @@ place_of_birth:
 date_of_birth:
 place_of_death:
 date_of_death:
-  - value: 1896
+  - value: 1896-01-01
 sex_or_gender: "[[male]]"
 country_of_citizenship: ["[[Belgium]]"]
 ---

@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DNWuYNTFJRu6",
+      "label": "circa",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mG5LCHnNTS3j",
+      "label": "sourcing circumstance",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/DNWuYNTFJRu6",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mG5LCHnNTS3j",
+      "property": "instance_of"
+    }
+  ]
+}

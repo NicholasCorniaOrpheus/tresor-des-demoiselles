@@ -7,53 +7,47 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:C6UXNXKkBERA-assertion-22G8iUDUc6Ji a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
+tdd:C6UXNXKkBERA-8RrFcNo44cNm a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:C6UXNXKkBERA .
 
-tdd:C6UXNXKkBERA-assertion-9zJp9RfvwRdo a rdf:Statement ;
+tdd:C6UXNXKkBERA-MLcKsCJcvQyZ a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:C6UXNXKkBERA .
+
+tdd:C6UXNXKkBERA-TZTLnLXFTU4k a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:C6UXNXKkBERA .
+
+tdd:C6UXNXKkBERA-c9VjSgUxbogA a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:ek3Kt26Yt2sh ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:C6UXNXKkBERA .
 
-tdd:C6UXNXKkBERA-assertion-C4yRL4kJchhG a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:C6UXNXKkBERA .
-
-tdd:C6UXNXKkBERA-assertion-GByEy3uN8BX2 a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359988> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359988/manifest> ;
-    rdf:predicate <> ;
-    rdf:subject tdd:C6UXNXKkBERA ;
-    schema:datePublished "1837-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359988> .
-
-tdd:C6UXNXKkBERA-assertion-iMZbWP2jJ2pZ a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:C6UXNXKkBERA .
-
-tdd:C6UXNXKkBERA-assertion-iV3mGEeZBRK3 a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:C6UXNXKkBERA ;
-    schema:datePublished "1837-01-01"^^xsd:date .
-
-tdd:C6UXNXKkBERA-assertion-mckEoDVW6qrK a rdf:Statement ;
+tdd:C6UXNXKkBERA-dJ8w8YoDXSVM a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:fVVUZGiGyTJr ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:C6UXNXKkBERA .
 
+tdd:C6UXNXKkBERA-gTeUDn6tkmRt a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:C6UXNXKkBERA ;
+    schema:datePublished "1837-01-01"^^xsd:date ;
+    schema:volumeNumber 5 .
+
 tdd:C6UXNXKkBERA a rdfs:Resource ;
-    <> tdd:NS7S3TJjbHvU,
-        tdd:ek3Kt26Yt2sh,
+    dcterms:contributor tdd:ek3Kt26Yt2sh,
         tdd:fVVUZGiGyTJr ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Vole! Vole! Hirondelle" ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .

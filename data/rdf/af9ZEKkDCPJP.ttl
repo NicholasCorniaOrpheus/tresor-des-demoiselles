@@ -1,18 +1,18 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
-@prefix ns1: <http://www.wikidata.org/entity/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:af9ZEKkDCPJP-assertion-beF3GBqmGgFd a rdf:Statement ;
+tdd:af9ZEKkDCPJP-GZhT6Fsm9Bir a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:3Y5ZuvTBzed4 ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:af9ZEKkDCPJP .
 
 tdd:af9ZEKkDCPJP a rdfs:Resource ;
-    <> tdd:3Y5ZuvTBzed4 ;
+    dcterms:contributor tdd:3Y5ZuvTBzed4 ;
     wdt:P31 tdd:XaBZqJUPUbCp ;
-    ns1:P7937 tdd:NwTUKgXApENs .
+    wdt:P7937 tdd:NwTUKgXApENs .
 

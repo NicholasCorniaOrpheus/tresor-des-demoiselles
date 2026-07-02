@@ -1,20 +1,13 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:S2Htsbzzq7aP-assertion-Dkeu8T6DNWzB a rdf:Statement ;
-    rdf:object "2015-01-01"^^xsd:date ;
-    rdf:predicate <> ;
-    rdf:subject tdd:S2Htsbzzq7aP .
-
-tdd:S2Htsbzzq7aP-assertion-W33fCPkPJLJp a rdf:Statement ;
-    rdf:object "2021-01-01"^^xsd:date ;
-    rdf:predicate <> ;
-    rdf:subject tdd:S2Htsbzzq7aP .
-
 tdd:S2Htsbzzq7aP a rdfs:Resource ;
+    dcterms:created "2015-01-01"^^xsd:date ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
-    wdt:P856 <https://www.wechanged.ugent.be/> .
+    wdt:P856 <https://www.wechanged.ugent.be/> ;
+    schema:dissolutionDate "2021-01-01"^^xsd:date .
 

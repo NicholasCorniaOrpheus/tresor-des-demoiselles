@@ -7,51 +7,47 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:gzxLx7Y6cNMi-assertion-7BPZ9QVsmrdW a rdf:Statement ;
-    rdf:object tdd:HuT8aF2rGmzB ;
-    rdf:predicate <> ;
-    rdf:subject tdd:gzxLx7Y6cNMi ;
-    schema:datePublished "1852-01-01"^^xsd:date .
+tdd:gzxLx7Y6cNMi-9nvAUo29VhCE a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:gzxLx7Y6cNMi .
 
-tdd:gzxLx7Y6cNMi-assertion-LgtjzQvvDnUQ a rdf:Statement ;
+tdd:gzxLx7Y6cNMi-NZ7ERWshcyqR a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:axFwXa8k5P4u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:gzxLx7Y6cNMi .
+
+tdd:gzxLx7Y6cNMi-RCCZo6SBWZfn a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:axFwXa8k5P4u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:gzxLx7Y6cNMi .
+
+tdd:gzxLx7Y6cNMi-Sa348rn5xKHa a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:gzxLx7Y6cNMi ;
     schema:datePublished "1853-01-01"^^xsd:date .
 
-tdd:gzxLx7Y6cNMi-assertion-TWv9ky7Y7qMd a rdf:Statement ;
+tdd:gzxLx7Y6cNMi-SndroxY7ECii a rdf:Statement ;
+    wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate <> ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:gzxLx7Y6cNMi .
 
-tdd:gzxLx7Y6cNMi-assertion-VLWtm4oLK3ny a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:axFwXa8k5P4u ;
-    rdf:predicate <> ;
-    rdf:subject tdd:gzxLx7Y6cNMi .
-
-tdd:gzxLx7Y6cNMi-assertion-WxoM4oG4fUBn a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:predicate <> ;
+tdd:gzxLx7Y6cNMi-fDgmswXTdsiV a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:gzxLx7Y6cNMi ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:gzxLx7Y6cNMi-assertion-YzoxbWQFjws5 a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:axFwXa8k5P4u ;
-    rdf:predicate <> ;
-    rdf:subject tdd:gzxLx7Y6cNMi .
-
-tdd:gzxLx7Y6cNMi-assertion-kbuhUixhrqs6 a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:gzxLx7Y6cNMi .
+    schema:datePublished "1852-01-01"^^xsd:date ;
+    schema:volumeNumber 9 .
 
 tdd:gzxLx7Y6cNMi a rdfs:Resource ;
-    <> tdd:HuT8aF2rGmzB,
-        tdd:VWaxuELqVfKN,
-        tdd:axFwXa8k5P4u ;
+    dcterms:contributor tdd:axFwXa8k5P4u ;
+    dcterms:isPartOf tdd:HuT8aF2rGmzB,
+        tdd:VWaxuELqVfKN ;
     dcterms:title "Le Bouquet: Chansonette." ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .

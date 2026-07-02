@@ -7,40 +7,29 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:fuQNwtNrhyNk-assertion-AjkUp2vZcznH a rdf:Statement ;
-    rdf:object tdd:gviox6r658Y4 ;
-    rdf:predicate <> ;
-    rdf:subject tdd:fuQNwtNrhyNk .
-
-tdd:fuQNwtNrhyNk-assertion-BN4WC7hqckwr a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:fuQNwtNrhyNk .
-
-tdd:fuQNwtNrhyNk-assertion-EFQ7By4FwYzX a rdf:Statement ;
+tdd:fuQNwtNrhyNk-B4CmiWt6QaTi a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:26TsCae57TVa ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:fuQNwtNrhyNk .
 
-tdd:fuQNwtNrhyNk-assertion-dGhfk9wRyjED a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:predicate <> ;
-    rdf:subject tdd:fuQNwtNrhyNk ;
-    schema:datePublished "1884-01-01"^^xsd:date ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88118> .
+tdd:fuQNwtNrhyNk-GWbKoPCbygyK a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:fuQNwtNrhyNk .
 
-tdd:fuQNwtNrhyNk-assertion-jd8XaNLW8Yxr a rdf:Statement ;
+tdd:fuQNwtNrhyNk-mjxBE5GyEPKP a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:fuQNwtNrhyNk ;
-    schema:datePublished "1882-01-01"^^xsd:date .
+    schema:datePublished "1882-01-01"^^xsd:date ;
+    schema:volumeNumber 52 .
 
 tdd:fuQNwtNrhyNk a rdfs:Resource ;
-    <> tdd:26TsCae57TVa,
-        tdd:NS7S3TJjbHvU,
-        tdd:gviox6r658Y4 ;
+    dcterms:contributor tdd:26TsCae57TVa ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Danse villageoise : air de danse antique" ;
+    wdt:P144 tdd:gviox6r658Y4 ;
     wdt:P31 tdd:Mj6hzfVSHHew .
 

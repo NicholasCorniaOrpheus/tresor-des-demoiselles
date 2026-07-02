@@ -7,29 +7,30 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ASrkWEECtVfe-assertion-Ac8JuuGpNrG6 a rdf:Statement ;
-    bf:Role tdd:Tk5wRTQJ7aUs ;
-    rdf:object tdd:XogB6ccutzoR ;
-    rdf:predicate <> ;
-    rdf:subject tdd:ASrkWEECtVfe .
-
-tdd:ASrkWEECtVfe-assertion-CRucVXR3ua5s a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate <> ;
-    rdf:subject tdd:ASrkWEECtVfe ;
-    schema:datePublished "1859-01-01"^^xsd:date .
-
-tdd:ASrkWEECtVfe-assertion-EHDY5YCFn7Wg a rdf:Statement ;
+tdd:ASrkWEECtVfe-AsqSwDJNfAUP a rdf:Statement ;
     bf:Role tdd:nQTxNAy4WtLK ;
     rdf:object tdd:QNrJy8MMgzU8 ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:ASrkWEECtVfe .
 
+tdd:ASrkWEECtVfe-j2xsHSihZeAX a rdf:Statement ;
+    bf:Role tdd:Tk5wRTQJ7aUs ;
+    rdf:object tdd:XogB6ccutzoR ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ASrkWEECtVfe .
+
+tdd:ASrkWEECtVfe-j7pC6mpuVET2 a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:ASrkWEECtVfe ;
+    schema:datePublished "1859-01-01"^^xsd:date ;
+    schema:volumeNumber 27 .
+
 tdd:ASrkWEECtVfe a rdfs:Resource ;
-    <> tdd:QNrJy8MMgzU8,
-        tdd:VWaxuELqVfKN,
+    dcterms:contributor tdd:QNrJy8MMgzU8,
         tdd:XogB6ccutzoR ;
     dcterms:identifier <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=19582> ;
+    dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "Trésor des demoiselles. Vingt-septième Année." ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .

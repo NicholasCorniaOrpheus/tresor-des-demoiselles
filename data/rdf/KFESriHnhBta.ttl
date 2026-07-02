@@ -1,26 +1,11 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:KFESriHnhBta-assertion-PXEdopdUoWek a rdf:Statement ;
-    rdf:object tdd:nQTxNAy4WtLK ;
-    rdf:predicate <> ;
-    rdf:subject tdd:KFESriHnhBta .
-
-tdd:KFESriHnhBta-assertion-VB8rzcmX9YVo a rdf:Statement ;
-    rdf:object tdd:2tShtkMed9AE ;
-    rdf:predicate <> ;
-    rdf:subject tdd:KFESriHnhBta .
-
-tdd:KFESriHnhBta-assertion-YGhev4hupHV7 a rdf:Statement ;
-    rdf:object tdd:9Y8pKvFMJST5 ;
-    rdf:predicate <> ;
-    rdf:subject tdd:KFESriHnhBta .
-
 tdd:KFESriHnhBta a rdfs:Resource ;
-    <> tdd:2tShtkMed9AE,
-        tdd:9Y8pKvFMJST5,
-        tdd:nQTxNAy4WtLK ;
-    wdt:P31 tdd:TudsDJnQvonk .
+    wdt:P31 tdd:TudsDJnQvonk ;
+    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE",
+        "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK" .
 

@@ -5,52 +5,49 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:bXeCi7hg9Gqt-assertion-5SrYusfP8cdT a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:bXeCi7hg9Gqt .
-
-tdd:bXeCi7hg9Gqt-assertion-ABRHvFhCeNCy a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate <> ;
-    rdf:subject tdd:bXeCi7hg9Gqt .
-
-tdd:bXeCi7hg9Gqt-assertion-E9EDhoyqv6rY a rdf:Statement ;
-    bf:Note "Hommage à Madame la Baronne de Peellaert" ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    rdf:predicate <> ;
-    rdf:subject tdd:bXeCi7hg9Gqt ;
-    schema:url <https://anet.be/record/opacap/c:lvd:12971523> .
-
-tdd:bXeCi7hg9Gqt-assertion-GjpWQJ4WPcHu a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:oTMkeVga9UZA ;
-    rdf:predicate <> ;
-    rdf:subject tdd:bXeCi7hg9Gqt .
-
-tdd:bXeCi7hg9Gqt-assertion-Gpbjt5nCU53z a rdf:Statement ;
+tdd:bXeCi7hg9Gqt-42yQJnd53Lnx a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:RjYJceWjXaJJ ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:bXeCi7hg9Gqt .
 
-tdd:bXeCi7hg9Gqt-assertion-L7BBVg8AvS22 a rdf:Statement ;
+tdd:bXeCi7hg9Gqt-8V298Vsf86E9 a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:oTMkeVga9UZA ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-SMXiD4XXhrSW a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-gJogp48DuCQE a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:bXeCi7hg9Gqt ;
+    schema:volumeNumber 2 .
+
+tdd:bXeCi7hg9Gqt-iDfjaxhxK98X a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:YWYUY7mvkVNd ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:bXeCi7hg9Gqt .
 
-tdd:bXeCi7hg9Gqt-assertion-iGkbwQa78PMR a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate <> ;
+tdd:bXeCi7hg9Gqt-m87PsTjSfs6u a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:bXeCi7hg9Gqt .
 
 tdd:bXeCi7hg9Gqt a rdfs:Resource ;
-    <> tdd:RjYJceWjXaJJ,
-        tdd:VWaxuELqVfKN,
+    dcterms:contributor tdd:RjYJceWjXaJJ,
         tdd:YWYUY7mvkVNd,
         tdd:oTMkeVga9UZA ;
+    dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "L'enfant et la rose: mélodie" ;
     wdt:P31 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .

@@ -1,14 +1,9 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:d3bH5kZvxqbQ-assertion-Z7vY4vXNV4dY a rdf:Statement ;
-    rdf:object tdd:9Y8pKvFMJST5 ;
-    rdf:predicate <> ;
-    rdf:subject tdd:d3bH5kZvxqbQ .
-
 tdd:d3bH5kZvxqbQ a rdfs:Resource ;
-    <> tdd:9Y8pKvFMJST5 ;
-    wdt:P31 tdd:TudsDJnQvonk .
+    wdt:P31 tdd:TudsDJnQvonk ;
+    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5" .
 

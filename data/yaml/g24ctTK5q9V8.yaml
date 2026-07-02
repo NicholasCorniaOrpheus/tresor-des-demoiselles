@@ -50,12 +50,12 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p39
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p39/orp-musar-l'ourag-20143702p39-fs-00001.jpg
-  IIIF_manifest: null
   jpg:
   - orp-musar-l'ourag-20143702p39-fs-00001.jpg
   - orp-musar-l'ourag-20143702p39-fs-00002.jpg
   - orp-musar-l'ourag-20143702p39-fs-00003.jpg
   - orp-musar-l'ourag-20143702p39-fs-00004.jpg
   - orp-musar-l'ourag-20143702p39-fs-00005.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/g24ctTK5q9V8.json
 content:
   markdown_content: ''

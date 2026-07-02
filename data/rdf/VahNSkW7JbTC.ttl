@@ -1,30 +1,16 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:VahNSkW7JbTC-assertion-3iyXU2exYNKc a rdf:Statement ;
-    rdf:object "1786-01-01"^^xsd:date ;
-    rdf:predicate <> ;
-    rdf:subject tdd:VahNSkW7JbTC .
-
-tdd:VahNSkW7JbTC-assertion-5X9HBjhXQBoL a rdf:Statement ;
-    rdf:object "1864-01-01"^^xsd:date ;
-    rdf:predicate <> ;
-    rdf:subject tdd:VahNSkW7JbTC .
-
-tdd:VahNSkW7JbTC-assertion-LHpVYSErrYLa a rdf:Statement ;
-    rdf:object tdd:nQTxNAy4WtLK ;
-    rdf:predicate <> ;
-    rdf:subject tdd:VahNSkW7JbTC .
-
 tdd:VahNSkW7JbTC a rdfs:Resource ;
-    <> tdd:nQTxNAy4WtLK ;
     dcterms:identifier wdt:Q6172006 ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P31 tdd:TudsDJnQvonk ;
-    schema:gender tdd:6vopxa7szAQ4 .
+    schema:birthDate "1786-01-01"^^xsd:date ;
+    schema:deathDate "1864-01-01"^^xsd:date ;
+    schema:gender tdd:6vopxa7szAQ4 ;
+    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK" .
 

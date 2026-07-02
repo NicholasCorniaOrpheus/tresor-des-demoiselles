@@ -7,35 +7,28 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:caTPx3dAfP6L-assertion-BUbUraZqvbyu a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:caTPx3dAfP6L ;
-    schema:datePublished "1889-01-01"^^xsd:date .
-
-tdd:caTPx3dAfP6L-assertion-Gk2gNsJHKorm a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:caTPx3dAfP6L .
-
-tdd:caTPx3dAfP6L-assertion-Ld8KrqwXscGi a rdf:Statement ;
+tdd:caTPx3dAfP6L-9rRGedFEan8V a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:jrncQaEniubd ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:caTPx3dAfP6L .
 
-tdd:caTPx3dAfP6L-assertion-V3j9GEfYD2zh a rdf:Statement ;
-    bf:Note "Lyrics by Ch. Arley" ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:predicate <> ;
+tdd:caTPx3dAfP6L-Cw4R23kweZjB a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:caTPx3dAfP6L .
+
+tdd:caTPx3dAfP6L-Um7QNokJfZ4a a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:caTPx3dAfP6L ;
     schema:datePublished "1889-01-01"^^xsd:date ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88115> .
+    schema:volumeNumber 57 .
 
 tdd:caTPx3dAfP6L a rdfs:Resource ;
-    <> tdd:NS7S3TJjbHvU,
-        tdd:jrncQaEniubd ;
+    dcterms:contributor tdd:jrncQaEniubd ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Renouveau : bluette" ;
     wdt:P870 tdd:fcrABEiDKbza .
 

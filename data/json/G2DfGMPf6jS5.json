@@ -43,7 +43,7 @@
     ],
     "has_version": [
       {
-        "permalink": "https: //cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186",
+        "permalink": "https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186",
         "holding_institution": {
           "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT",
           "label": "Orpheus Instituut"

@@ -26,6 +26,7 @@ statements:
     label: composer
 assets:
   image: https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Clapisson_photo_Imbert_1866.jpg
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/mscfQWWqDRcw.json
 content:
   markdown_content: ''

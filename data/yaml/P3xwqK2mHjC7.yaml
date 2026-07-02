@@ -16,7 +16,8 @@ statements:
   identifier:
   - http://www.wikidata.org/entity/Q329385
 assets:
-  IIIF_manifest: null
-  image: []
+  iiif: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/P3xwqK2mHjC7.json
 content:
   markdown_content: ''

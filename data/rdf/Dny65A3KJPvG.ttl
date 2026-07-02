@@ -7,60 +7,54 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Dny65A3KJPvG-assertion-2EkcNEYjgg5S a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
-    rdf:predicate <> ;
+tdd:Dny65A3KJPvG-DGuEynrgWNK5 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Dny65A3KJPvG .
+
+tdd:Dny65A3KJPvG-KNBgA9WEMrwf a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Dny65A3KJPvG ;
     schema:datePublished "1838-01-01"^^xsd:date ;
-    schema:url <https://www.digitale-sammlungen.de/en/view/bsb10359989> .
+    schema:volumeNumber 6 .
 
-tdd:Dny65A3KJPvG-assertion-Kj7dkdqxgTxp a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:5BX54FRugrpJ ;
-    rdf:predicate <> ;
-    rdf:subject tdd:Dny65A3KJPvG .
-
-tdd:Dny65A3KJPvG-assertion-V2AJ9XDZcHQr a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:Dny65A3KJPvG .
-
-tdd:Dny65A3KJPvG-assertion-X8di8YkZW9qA a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:Je7moMztSRaR ;
-    rdf:predicate <> ;
-    rdf:subject tdd:Dny65A3KJPvG .
-
-tdd:Dny65A3KJPvG-assertion-XkHAr7HxfWyx a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:Dny65A3KJPvG ;
-    schema:datePublished "1838-01-01"^^xsd:date .
-
-tdd:Dny65A3KJPvG-assertion-Xvk8CPVax6LF a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:Dny65A3KJPvG .
-
-tdd:Dny65A3KJPvG-assertion-YB27wHE69sLd a rdf:Statement ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:Dny65A3KJPvG .
-
-tdd:Dny65A3KJPvG-assertion-nHszDYvW3mH6 a rdf:Statement ;
+tdd:Dny65A3KJPvG-TFAwn9smh3dv a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:fVVUZGiGyTJr ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Dny65A3KJPvG .
+
+tdd:Dny65A3KJPvG-axd4wz36FpfL a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:Je7moMztSRaR ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Dny65A3KJPvG .
+
+tdd:Dny65A3KJPvG-bLFfLaXP3szM a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Dny65A3KJPvG .
+
+tdd:Dny65A3KJPvG-d4RXt4GmCF9h a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:5BX54FRugrpJ ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Dny65A3KJPvG .
+
+tdd:Dny65A3KJPvG-g7VyYNdDfWH3 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:Dny65A3KJPvG .
 
 tdd:Dny65A3KJPvG a rdfs:Resource ;
-    <> tdd:5BX54FRugrpJ,
+    dcterms:contributor tdd:5BX54FRugrpJ,
         tdd:Je7moMztSRaR,
-        tdd:NS7S3TJjbHvU,
         tdd:fVVUZGiGyTJr ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Deux Madones. Romance" ;
     wdt:P31 tdd:aph6QHtmL78s ;
     wdt:P870 tdd:fcrABEiDKbza .

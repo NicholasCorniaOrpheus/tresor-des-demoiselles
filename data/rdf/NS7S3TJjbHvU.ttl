@@ -7,33 +7,25 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:NS7S3TJjbHvU-assertion-2rrvSyF6CsTe a rdf:Statement ;
-    rdf:object "1922-01-01"^^xsd:date ;
-    rdf:predicate <> ;
+tdd:NS7S3TJjbHvU-fsTBjw2P3HTN a rdf:Statement ;
+    bf:Role tdd:nQTxNAy4WtLK ;
+    rdf:object tdd:VahNSkW7JbTC ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:NS7S3TJjbHvU .
 
-tdd:NS7S3TJjbHvU-assertion-6gJ2wvZHpbeN a rdf:Statement ;
+tdd:NS7S3TJjbHvU-gst2jTXpjoY6 a rdf:Statement ;
     rdf:object tdd:7VQdaj7JW86d ;
-    rdf:predicate <> ;
+    rdf:predicate wdt:P131 ;
     rdf:subject tdd:NS7S3TJjbHvU ;
     schema:address "Boulevard des Italiens, 1" .
 
-tdd:NS7S3TJjbHvU-assertion-Aa9A8bpsmqUT a rdf:Statement ;
-    bf:Role tdd:nQTxNAy4WtLK ;
-    rdf:object tdd:VahNSkW7JbTC ;
-    rdf:predicate <> ;
-    rdf:subject tdd:NS7S3TJjbHvU .
-
-tdd:NS7S3TJjbHvU-assertion-aiTUsqWfsjUN a rdf:Statement ;
-    rdf:object "1833-02-01"^^xsd:date ;
-    rdf:predicate <> ;
-    rdf:subject tdd:NS7S3TJjbHvU .
-
 tdd:NS7S3TJjbHvU a rdfs:Resource ;
-    <> tdd:7VQdaj7JW86d,
-        tdd:VahNSkW7JbTC ;
+    dcterms:contributor tdd:VahNSkW7JbTC ;
+    dcterms:created "1833-02-01"^^xsd:date ;
     dcterms:identifier wdt:Q40163826 ;
+    wdt:P131 tdd:7VQdaj7JW86d ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P17 tdd:LCZnUXZBAaXS ;
-    wdt:P31 tdd:Ue6ZuYvAVpqW .
+    wdt:P31 tdd:Ue6ZuYvAVpqW ;
+    schema:dissolutionDate "1922-01-01"^^xsd:date .
 

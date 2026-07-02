@@ -2,43 +2,26 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:PnWGQzxqsYz8-assertion-5LvavcbfHeV2 a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:PnWGQzxqsYz8 .
-
-tdd:PnWGQzxqsYz8-assertion-8PQeMrQbF9GD a rdf:Statement ;
+tdd:PnWGQzxqsYz8-P3ZADQ3JEBb3 a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:gSpQjJMRbo9y ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:PnWGQzxqsYz8 .
 
-tdd:PnWGQzxqsYz8-assertion-G7K5XJrWoZJD a rdf:Statement ;
+tdd:PnWGQzxqsYz8-m7PrC93qtWGX a rdf:Statement ;
+    wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
-    rdf:subject tdd:PnWGQzxqsYz8 .
-
-tdd:PnWGQzxqsYz8-assertion-HAL4NAYsNnHq a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:predicate <> ;
-    rdf:subject tdd:PnWGQzxqsYz8 ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88621> .
-
-tdd:PnWGQzxqsYz8-assertion-UveU2VW5vJid a rdf:Statement ;
-    rdf:object tdd:Vrznz6W5khox ;
-    rdf:predicate <> ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:PnWGQzxqsYz8 .
 
 tdd:PnWGQzxqsYz8 a rdfs:Resource ;
-    <> tdd:NS7S3TJjbHvU,
-        tdd:Vrznz6W5khox,
-        tdd:gSpQjJMRbo9y ;
+    dcterms:contributor tdd:gSpQjJMRbo9y ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Polka sur le Val D'Andorre d'Halevy: pour piano" ;
+    wdt:P144 tdd:Vrznz6W5khox ;
     wdt:P31 tdd:U66A6PCCFAfU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

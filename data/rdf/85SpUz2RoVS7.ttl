@@ -1,18 +1,12 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:85SpUz2RoVS7-assertion-YbyGTdR53YQZ a rdf:Statement ;
-    rdf:object tdd:Tk5wRTQJ7aUs ;
-    rdf:predicate <> ;
-    rdf:subject tdd:85SpUz2RoVS7 .
-
 tdd:85SpUz2RoVS7 a rdfs:Resource ;
-    <> tdd:Tk5wRTQJ7aUs ;
     dcterms:identifier <http://www.wikidata.org/entity/Q110041343> ;
     wdt:P31 tdd:TudsDJnQvonk ;
-    schema:gender tdd:hkA3uvTGSDnD .
+    schema:gender tdd:hkA3uvTGSDnD ;
+    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs" .
 

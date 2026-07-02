@@ -1,17 +1,11 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:8XggxUT6Zokh-assertion-jRkD3rHBkYmQ a rdf:Statement ;
-    rdf:object tdd:CnfhMurv8zu8 ;
-    rdf:predicate <> ;
-    rdf:subject tdd:8XggxUT6Zokh .
-
 tdd:8XggxUT6Zokh a rdfs:Resource ;
-    <> tdd:CnfhMurv8zu8 ;
     dcterms:identifier <http://www.wikidata.org/entity/Q2564527> ;
+    wdt:P131 tdd:CnfhMurv8zu8 ;
     wdt:P17 tdd:B2DaBkDtqy5R ;
     wdt:P31 tdd:TKzN8Z8ZP45J ;
     wdt:P856 <http://www.consciencebibliotheek.be/> .

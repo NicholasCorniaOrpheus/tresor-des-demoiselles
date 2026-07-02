@@ -28,6 +28,7 @@ statements:
     label: writer
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/6/60/Jean-Baptiste_Weckerlin_par_Truchelut.png
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/2yrMbZSDVHNx.json
 content:
   markdown_content: ''

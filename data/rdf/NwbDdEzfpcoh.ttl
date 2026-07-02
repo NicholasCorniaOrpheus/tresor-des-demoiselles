@@ -7,51 +7,35 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:NwbDdEzfpcoh-assertion-2GGQgyuMYtyG a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:VKzHPzJxYHNi ;
-    rdf:predicate <> ;
-    rdf:subject tdd:NwbDdEzfpcoh .
-
-tdd:NwbDdEzfpcoh-assertion-N2EmSzfNv45h a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:NwbDdEzfpcoh ;
-    schema:datePublished "1874-01-01"^^xsd:date .
-
-tdd:NwbDdEzfpcoh-assertion-Sbah5nw7Bfdz a rdf:Statement ;
+tdd:NwbDdEzfpcoh-54kvqtxFYTUk a rdf:Statement ;
+    wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate <> ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:NwbDdEzfpcoh .
 
-tdd:NwbDdEzfpcoh-assertion-aSWPkpvxftcw a rdf:Statement ;
+tdd:NwbDdEzfpcoh-62VceSVTymj7 a rdf:Statement ;
     bf:Role tdd:Mgp8YUwRv3Jz ;
     rdf:object tdd:4Z9bCRmwDbS7 ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:NwbDdEzfpcoh .
 
-tdd:NwbDdEzfpcoh-assertion-dUq7qpVxSZFW a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:predicate <> ;
+tdd:NwbDdEzfpcoh-UoAFVAsX6VsJ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:VKzHPzJxYHNi ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:NwbDdEzfpcoh .
+
+tdd:NwbDdEzfpcoh-Vqz9EDpKgQRT a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:NwbDdEzfpcoh ;
     schema:datePublished "1874-01-01"^^xsd:date ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=70336> .
-
-tdd:NwbDdEzfpcoh-assertion-nHVqueiaWUDN a rdf:Statement ;
-    bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
-    bf:heldBy tdd:MzUK38XpCjqB ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
-    rdf:predicate <> ;
-    rdf:subject tdd:NwbDdEzfpcoh ;
-    schema:datePublished "1878-01-01"^^xsd:date ;
-    schema:url <https://catalogue.bnf.fr/ark:/12148/cb43140041g> .
+    schema:volumeNumber 42 .
 
 tdd:NwbDdEzfpcoh a rdfs:Resource ;
-    <> tdd:4Z9bCRmwDbS7,
-        tdd:NS7S3TJjbHvU,
+    dcterms:contributor tdd:4Z9bCRmwDbS7,
         tdd:VKzHPzJxYHNi ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Un Loi Somptuaire. opérette en deux actes" ;
     wdt:P31 tdd:bogx9ECia7TM ;
     wdt:P870 tdd:fcrABEiDKbza .

@@ -23,12 +23,13 @@ statements:
   date_of_birth: null
   place_of_death: null
   date_of_death:
-  - value: 1896
+  - value: 1896-01-01
   sex_or_gender:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
     label: male
 assets:
-  image: []
-  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/XogB6ccutzoR.json
 content:
   markdown_content: ''

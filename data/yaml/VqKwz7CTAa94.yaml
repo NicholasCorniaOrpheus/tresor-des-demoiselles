@@ -45,8 +45,8 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p21
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p21/orp-mouvi-volevit-20143702p21-ps-00001.jpg
-  IIIF_manifest: null
   jpg:
   - orp-mouvi-volevit-20143702p21-ps-00001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/VqKwz7CTAa94.json
 content:
   markdown_content: ''

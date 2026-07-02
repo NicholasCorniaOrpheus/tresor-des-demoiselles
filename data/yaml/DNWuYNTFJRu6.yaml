@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  description: null
+  aliases:
+  - c.
+  - ca.
+  label: circa
+  base_name: circa
+  filename: circa.md
+  id: DNWuYNTFJRu6
+  n_id: 234419148622408414684
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mG5LCHnNTS3j
+    label: sourcing circumstance
+  subclass_of: null
+  described_by_source: null
+  identifier:
+  - http://www.wikidata.org/entity/Q5727902
+assets:
+  iiif: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/DNWuYNTFJRu6.json
+content:
+  markdown_content: ''

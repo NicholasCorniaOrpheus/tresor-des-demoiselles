@@ -61,10 +61,10 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p34
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p34/orp-delis-lelivre-20143702p34-fs-00001.jpg
-  IIIF_manifest: null
   jpg:
   - orp-delis-lelivre-20143702p34-fs-00001.jpg
   - orp-delis-lelivre-20143702p34-fs-00002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ETrdTiZTknRK.json
 content:
   markdown_content: "### Lyrics\n\nLivre saint!... le premier qu’épelle à son aurore\n\
     L’enfant au doux regard.\nLivre grand!... le dernier que relit et qu’implore\n\

@@ -27,7 +27,8 @@ statements:
   - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3yS9agtba9rA
     label: translator
 assets:
-  image: []
-  IIIF_manifest: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/axFwXa8k5P4u.json
 content:
   markdown_content: ''

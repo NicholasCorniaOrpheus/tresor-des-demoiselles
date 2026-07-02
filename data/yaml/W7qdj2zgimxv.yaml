@@ -56,10 +56,10 @@ statements:
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971499/20260608141705109_0001.jpg
   local_asset_path: ./assets/RCA-12971499
-  IIIF_manifest: null
   jpg:
   - 20260608141705109_0001.jpg
   - 20260608141705109_0002.jpg
   - 20260608141705109_0003.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/W7qdj2zgimxv.json
 content:
   markdown_content: ''

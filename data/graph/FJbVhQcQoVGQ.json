@@ -11,6 +11,12 @@
       "label": "type of musical work",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "label": "Un concert chez les demoiselles de Saint-Cyr",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
     }
   ],
   "links": [
@@ -18,6 +24,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FJbVhQcQoVGQ",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
       "property": "instance_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SUrWQhaKnmHL",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FJbVhQcQoVGQ",
+      "property": "related_to"
     }
   ]
 }

@@ -26,7 +26,8 @@ statements:
     label: Fromental Halévy
   based_on: null
 assets:
-  IIIF_manifest: null
-  image: []
+  iiif: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Vrznz6W5khox.json
 content:
   markdown_content: ''

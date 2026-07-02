@@ -1,4 +1,4 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
@@ -6,23 +6,15 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:jkATK8cEHbjG-assertion-gfjCmw5b28cB a rdf:Statement ;
-    bf:electronicLocator <https://archive.org/details/journaldesdemoi05unkngoog> ;
-    bf:heldBy tdd:HzNj4duEtJSX ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:predicate <> ;
+tdd:jkATK8cEHbjG-mTBWS2tWzwth a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:jkATK8cEHbjG ;
     schema:datePublished "1868-01-01"^^xsd:date ;
-    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
-
-tdd:jkATK8cEHbjG-assertion-iZvozi68fjdz a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:jkATK8cEHbjG ;
-    schema:datePublished "1868-01-01"^^xsd:date .
+    schema:volumeNumber 36 .
 
 tdd:jkATK8cEHbjG a rdfs:Resource ;
-    <> tdd:NS7S3TJjbHvU ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

@@ -26,6 +26,7 @@ statements:
     label: composer
 assets:
   image: https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Paul_Henrion_by_Firmin_Gillot.jpg
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/AouufLb7bx5R.json
 content:
   markdown_content: ''

@@ -26,6 +26,7 @@ statements:
     label: composer
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/a/af/Fotoreproductie_van_een_portret_van_Ferdinand_H%C3%A9rold_door_Eugen_Felix_Herold_%28titel_op_object%29_Bruckmann%27s_Portrait-Collection_%28serietitel_op_object%29%2C_RP-F-2001-7-878-5_%28cropped%29.jpg
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/JT3QvpNMS2Cf.json
 content:
   markdown_content: ''

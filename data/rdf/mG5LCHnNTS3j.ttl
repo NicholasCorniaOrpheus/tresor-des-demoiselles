@@ -1,0 +1,7 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+
+tdd:mG5LCHnNTS3j a rdfs:Resource ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q104637420> .
+

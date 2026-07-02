@@ -45,12 +45,12 @@ statements:
 assets:
   local_asset_path: ./assets/OI-20143702p41
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p41/orp-sawan-lecorbe-20143702p41-ps-00001.jpg
-  IIIF_manifest: null
   jpg:
   - orp-sawan-lecorbe-20143702p41-ps-00001.jpg
   - orp-sawan-lecorbe-20143702p41-ps-00002.jpg
   - orp-sawan-lecorbe-20143702p41-ps-00003.jpg
   - orp-sawan-lecorbe-20143702p41-ps-00004.jpg
   - orp-sawan-lecorbe-20143702p41-ps-00005.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Ao5Ame5q39g9.json
 content:
   markdown_content: ''

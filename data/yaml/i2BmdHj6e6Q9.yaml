@@ -24,6 +24,7 @@ statements:
     label: composer
 assets:
   image: https://gallica.bnf.fr/ark:/12148/btv1b10219343r/f1.highres
-  IIIF_manifest: null
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/i2BmdHj6e6Q9.json
 content:
   markdown_content: ''

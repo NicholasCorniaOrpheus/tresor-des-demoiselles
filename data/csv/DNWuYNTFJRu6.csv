@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,"['c.', 'ca.']",circa,circa,circa.md,DNWuYNTFJRu6,234419148622408414684,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mG5LCHnNTS3j,sourcing circumstance,,,
+Concept,,"['c.', 'ca.']",circa,circa,circa.md,DNWuYNTFJRu6,234419148622408414684,subclass_of,,,,,
+Concept,,"['c.', 'ca.']",circa,circa,circa.md,DNWuYNTFJRu6,234419148622408414684,described_by_source,,,,,
+Concept,,"['c.', 'ca.']",circa,circa,circa.md,DNWuYNTFJRu6,234419148622408414684,identifier,,,,,http://www.wikidata.org/entity/Q5727902

@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "956215a4ee562770",
+            "id": "7a08121e24fdbdd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entity/Le Pinson.md",
+                "file": "classes/Agent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Le Pinson"
+              "title": "Agent"
             }
           }
         ],
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Pinson",
+                "query": "file: Dest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,16 +208,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "956215a4ee562770",
+  "active": "7a08121e24fdbdd2",
   "lastOpenFiles": [
-    "entity/Alexandre Scola.md",
     "manifestation_list.base",
+    "entity/L'etoile qui brille.md",
+    "entity/circa.md",
+    "entity/sourcing circumstance.md",
+    "entity/François Desterbecq.md",
+    "entity/Le Pinson.md",
+    "entity/Alexandre Scola.md",
     "entity/Juliette Dillon.md",
     "entity/Marie Lasseveur.md",
     "entities.base",
     "entity/city.md",
     "entity/country.md",
-    "entity/Untitled.md",
     "entity/type of musical group.md",
     "entity/type of library.md",
     "entity/type of fictional character.md",
@@ -234,10 +237,6 @@
     "Juliette Dillon.md",
     "music critic.md",
     "entity/Le Bouquet.md",
-    "entity/Songe de Bonheur.md",
-    "Un concert chez les demoiselles de Saint-Cyr.md",
-    "International Music Score Library Project.md",
-    "entity/En écoutant avec son coeur.md",
     "assets/OI-20143702p18/20143702p18_003.jpg",
     "assets/OI-20143702p18/20143702p18_002.jpg",
     "assets/OI-20143702p18/20143702p18_001.jpg",

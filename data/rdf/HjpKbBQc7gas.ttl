@@ -1,4 +1,4 @@
-@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
@@ -6,24 +6,15 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:HjpKbBQc7gas-assertion-L9cH9oQvokJd a rdf:Statement ;
+tdd:HjpKbBQc7gas-gH9AtibWbu29 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate <> ;
-    rdf:subject tdd:HjpKbBQc7gas ;
-    schema:datePublished "1877-01-01"^^xsd:date .
-
-tdd:HjpKbBQc7gas-assertion-V6NtnUVHtt58 a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11351548> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11351548/manifest> ;
-    rdf:predicate <> ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:HjpKbBQc7gas ;
     schema:datePublished "1877-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb11351548> .
+    schema:volumeNumber 45 .
 
 tdd:HjpKbBQc7gas a rdfs:Resource ;
-    <> tdd:NS7S3TJjbHvU ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     wdt:P31 tdd:Ue6ZuYvAVpqW ;
     wdt:P870 tdd:fcrABEiDKbza .
 

@@ -13,6 +13,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "label": "Journal des demoiselles",
+      "class": "Organisation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS",
       "label": "digital library",
       "class": "Concept",
@@ -29,6 +35,11 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YRK5MZJvXEBP",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LEcVCfQG66Bg",
       "property": "country"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YRK5MZJvXEBP",
+      "property": "related_to"
     }
   ]
 }
