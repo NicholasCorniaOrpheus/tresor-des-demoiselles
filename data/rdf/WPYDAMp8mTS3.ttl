@@ -7,36 +7,36 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:WPYDAMp8mTS3-BaY7PSbi2c2h a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:WPYDAMp8mTS3 .
-
-tdd:WPYDAMp8mTS3-CFHXQ6NQqSy8 a rdf:Statement ;
+tdd:WPYDAMp8mTS3-6mRAUvcoPVTj a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N0c1a1b073a0540f58c121e098a237097" ;
+    rdf:object "Neec69f5dba554e9fb49cae9950b9025f" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:WPYDAMp8mTS3 ;
     schema:url <https://anet.be/record/ap/opacap/c:lvd:12971554> .
 
-tdd:WPYDAMp8mTS3-CiajxLBA2jAJ a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:WPYDAMp8mTS3 .
-
-tdd:WPYDAMp8mTS3-SGRGaPrWxAGF a rdf:Statement ;
+tdd:WPYDAMp8mTS3-AB3K46Joksdf a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:WPYDAMp8mTS3 ;
     schema:volumeNumber 5 .
 
-tdd:WPYDAMp8mTS3-k2yZUDjpMkX4 a rdf:Statement ;
+tdd:WPYDAMp8mTS3-LGw438y8rSZb a rdf:Statement ;
     bf:Role tdd:Tk5wRTQJ7aUs ;
     rdf:object tdd:XogB6ccutzoR ;
     rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:WPYDAMp8mTS3 .
+
+tdd:WPYDAMp8mTS3-hoSmi6srcAp9 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:WPYDAMp8mTS3 .
+
+tdd:WPYDAMp8mTS3-hpyjwn6qt48g a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:WPYDAMp8mTS3 .
 
 tdd:WPYDAMp8mTS3 a rdfs:Resource ;

@@ -7,29 +7,29 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:caTPx3dAfP6L-MwGJGaa9nnbA a rdf:Statement ;
-    bf:Note "Lyrics by Ch. Arley" ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nba3b15c95faa438984815efd1c8b5535" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:caTPx3dAfP6L ;
-    schema:datePublished "1889-01-01"^^xsd:date ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88115> .
-
-tdd:caTPx3dAfP6L-aMuD8YB2YTEB a rdf:Statement ;
+tdd:caTPx3dAfP6L-5933fyDi8Unu a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:jrncQaEniubd ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:caTPx3dAfP6L .
 
-tdd:caTPx3dAfP6L-dez79L7rtssF a rdf:Statement ;
+tdd:caTPx3dAfP6L-6hGJDEVjjaus a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:caTPx3dAfP6L .
 
-tdd:caTPx3dAfP6L-hSuqxix47RHT a rdf:Statement ;
+tdd:caTPx3dAfP6L-CQv2nFH6aMjN a rdf:Statement ;
+    bf:Note "Lyrics by Ch. Arley" ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nede4e06b465e4380a7e3729a61fdf7f3" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:caTPx3dAfP6L ;
+    schema:datePublished "1889-01-01"^^xsd:date ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88115> .
+
+tdd:caTPx3dAfP6L-UBdbbXiPQrBp a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:caTPx3dAfP6L ;

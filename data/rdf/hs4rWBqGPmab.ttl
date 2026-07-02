@@ -7,39 +7,39 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:hs4rWBqGPmab-Eoq3hkxyDYY6 a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nd27a606e18a94be8b738aad61587cba5" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:hs4rWBqGPmab ;
-    schema:datePublished "1855-11-01"^^xsd:date ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:hs4rWBqGPmab-PWZCqqocwFGk a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:hs4rWBqGPmab .
-
-tdd:hs4rWBqGPmab-WZnsZQZt2co8 a rdf:Statement ;
+tdd:hs4rWBqGPmab-AtchbvUreXaU a rdf:Statement ;
     bf:Role tdd:FM6DzoKyNv6j ;
     rdf:object tdd:TyP7T2zkXYhF ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:hs4rWBqGPmab .
 
-tdd:hs4rWBqGPmab-bhj5eW5aDipu a rdf:Statement ;
+tdd:hs4rWBqGPmab-ZWQZa7o2K35k a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:hs4rWBqGPmab ;
     schema:datePublished "1855-11-01"^^xsd:date ;
     schema:volumeNumber 23 .
 
-tdd:hs4rWBqGPmab-hhn6oNeceTGv a rdf:Statement ;
+tdd:hs4rWBqGPmab-cnG5p8zCwnYP a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:QKKdeXjo8w7N ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:hs4rWBqGPmab .
+
+tdd:hs4rWBqGPmab-eJaxPL3VfsBT a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:hs4rWBqGPmab .
+
+tdd:hs4rWBqGPmab-jnBca9ykKx92 a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N9b6cbae27b124a92b5c14254595a1e5e" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:hs4rWBqGPmab ;
+    schema:datePublished "1855-11-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
 tdd:hs4rWBqGPmab a rdfs:Resource ;
     rdfs:label "Emilie. Schottich" ;

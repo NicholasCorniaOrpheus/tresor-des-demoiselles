@@ -7,23 +7,23 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:AxTMBAqpRqVa-Jo6ExA3nvjFg a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
-    rdf:object "Nb7904a220b7c4e3f98a969549d5061c5" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:AxTMBAqpRqVa ;
-    schema:datePublished "1839-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
-
-tdd:AxTMBAqpRqVa-LKVqyZ9Q9NQZ a rdf:Statement ;
+tdd:AxTMBAqpRqVa-BbqsswySwWtu a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:AxTMBAqpRqVa ;
     schema:datePublished "1839-01-01"^^xsd:date ;
     schema:volumeNumber 7 .
+
+tdd:AxTMBAqpRqVa-TyQnJcVGUsvz a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
+    rdf:object "N69d2c2ab35af48028557c296f2329b79" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:AxTMBAqpRqVa ;
+    schema:datePublished "1839-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
 
 tdd:AxTMBAqpRqVa a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1839)" ;

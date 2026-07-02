@@ -66,6 +66,7 @@
       window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/VqKwz7CTAa94.json";
     </script>
 
+
     
 
 
@@ -104,20 +105,22 @@
 
 ## Digital Assets
 
-<div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
-    <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
-</div>
+??? abstract "Digitised images"
+    If nothing appears, reload the webpage manually.
+    <div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
+        <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
+    </div>
 
-<!-- Configure OpenSeadragon -->
-<script>
-  window.kbGraphConfig = window.kbGraphConfig || {};
-  window.kbGraphConfig.assets = {
-    base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
-    local_path: "assets/OI-20143702p21/",
-    images: ["orp-mouvi-volevit-20143702p21-ps-00001.jpg"],
-    iiif: ""
-  };
-</script>
+    <!-- Configure OpenSeadragon -->
+    <script>
+      window.kbGraphConfig = window.kbGraphConfig || {};
+      window.kbGraphConfig.assets = {
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+        local_path: "assets/OI-20143702p21/",
+        images: ["orp-mouvi-volevit-20143702p21-ps-00001.jpg"],
+        iiif: ""
+      };
+    </script>
 
-
+    
 

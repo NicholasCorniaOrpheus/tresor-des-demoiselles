@@ -7,23 +7,23 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:9g6aJgeHzqPk-Jsji3xmjqghK a rdf:Statement ;
-    bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1844." ;
-    bf:electronicLocator <https://archive.org/details/journaldesdemois00pari> ;
-    bf:heldBy tdd:GpjEsTdNqATu ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N50c357899eaa448aa65e885d0052d1b6" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:9g6aJgeHzqPk ;
-    schema:datePublished "1844-01-01"^^xsd:date ;
-    schema:url <https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/1bcgp01/alma991106287992806196> .
-
-tdd:9g6aJgeHzqPk-XyPkoUVs3sd6 a rdf:Statement ;
+tdd:9g6aJgeHzqPk-ZA6tb6jkxWhu a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:9g6aJgeHzqPk ;
     schema:datePublished "1844-01-01"^^xsd:date ;
     schema:volumeNumber 12 .
+
+tdd:9g6aJgeHzqPk-cDvriFWo4Z8D a rdf:Statement ;
+    bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1844." ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemois00pari> ;
+    bf:heldBy tdd:GpjEsTdNqATu ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N322f1a05fe2c424fa5ea819e1eafc863" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:9g6aJgeHzqPk ;
+    schema:datePublished "1844-01-01"^^xsd:date ;
+    schema:url <https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/1bcgp01/alma991106287992806196> .
 
 tdd:9g6aJgeHzqPk a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1844)" ;

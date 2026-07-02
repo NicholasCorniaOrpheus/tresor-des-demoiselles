@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/a4RmK3GfPvEA",
+      "label": "Austria",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6TWgDcxqkKDN",
+      "label": "Austrian National Library",
+      "class": "Organisation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mTRdFRwscNsN",
+      "label": "Vienna",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6TWgDcxqkKDN",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/a4RmK3GfPvEA",
+      "property": "country"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mTRdFRwscNsN",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/a4RmK3GfPvEA",
+      "property": "country"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6TWgDcxqkKDN",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mTRdFRwscNsN",
+      "property": "location"
+    }
+  ]
+}

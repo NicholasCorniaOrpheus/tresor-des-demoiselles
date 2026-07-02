@@ -1,0 +1,32 @@
+metadata:
+  class: Organisation
+  label: Austrian National Library
+  aliases: null
+  description: null
+  base_name: Austrian National Library
+  filename: Austrian National Library.md
+  id: 6TWgDcxqkKDN
+  n_id: 91776530804261464331
+statements:
+  instance_of:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk
+    label: national library
+  described_by_source: null
+  inception: null
+  location:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mTRdFRwscNsN
+    label: Vienna
+  dissolved: null
+  contributor: null
+  official_website: null
+  identifier:
+  - http://www.wikidata.org/entity/Q304037
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/a4RmK3GfPvEA
+    label: Austria
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  iiif: null
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/6TWgDcxqkKDN.json
+content:
+  markdown_content: ''

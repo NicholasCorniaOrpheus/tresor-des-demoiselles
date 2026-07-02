@@ -7,19 +7,19 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ZxvgXLzDfsvr-BHRqZx9EvEWe a rdf:Statement ;
+tdd:ZxvgXLzDfsvr-hnM4DfgPJCFG a rdf:Statement ;
     bf:Note "Only issues 1-5 are present." ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10360013> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360013/manifest> ;
-    rdf:object "N2aeb3ba596f94348af33b3a6afd63076" ;
+    rdf:object "N09dd465c05e04164b356cef8cbdf658c" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:ZxvgXLzDfsvr ;
     schema:datePublished "1866-01-01"^^xsd:date ;
     schema:url <https://mdz-nbn-resolving.de/details:bsb10360013> .
 
-tdd:ZxvgXLzDfsvr-eKamSvtWAv4a a rdf:Statement ;
+tdd:ZxvgXLzDfsvr-mvj5hFKxvFEC a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ZxvgXLzDfsvr ;

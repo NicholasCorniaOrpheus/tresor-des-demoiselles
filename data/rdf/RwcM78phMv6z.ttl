@@ -7,18 +7,18 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:RwcM78phMv6z-H7SyZ5bPiakU a rdf:Statement ;
+tdd:RwcM78phMv6z-fCyEFjqngGz9 a rdf:Statement ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10360009> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360009/manifest> ;
-    rdf:object "Nc44f46e86ee44dda84585a8faac03e43" ;
+    rdf:object "N467d00e9855a4c12a9abc0c6fb87caab" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:RwcM78phMv6z ;
     schema:datePublished "1849-01-01"^^xsd:date ;
     schema:url <https://mdz-nbn-resolving.de/details:bsb10360009> .
 
-tdd:RwcM78phMv6z-kQudHYxr7Aqi a rdf:Statement ;
+tdd:RwcM78phMv6z-fQSXdhyQ5bk6 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:RwcM78phMv6z ;

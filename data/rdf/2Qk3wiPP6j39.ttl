@@ -7,47 +7,47 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:2Qk3wiPP6j39-3Ey6wqST6xTz a rdf:Statement ;
-    bf:Note "Piano four-hands version. Second edition." ;
-    bf:heldBy tdd:MzUK38XpCjqB ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nd75692fd233346979e8089aad8362bb1" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:2Qk3wiPP6j39 ;
-    schema:datePublished "1862-01-01"^^xsd:date ;
-    schema:url <http://ark.bnf.fr/ark:/12148/cb42884316z> .
-
-tdd:2Qk3wiPP6j39-7PmepsJ2gnW8 a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:kXFWowftH5UQ ;
-    rdf:predicate dcterms:contributor ;
+tdd:2Qk3wiPP6j39-6x2QbcNndsAh a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:2Qk3wiPP6j39 .
 
-tdd:2Qk3wiPP6j39-GMNYtMEXHiYf a rdf:Statement ;
+tdd:2Qk3wiPP6j39-AFpepu994LL5 a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:2Qk3wiPP6j39 ;
     schema:datePublished "1852-01-01"^^xsd:date ;
     schema:volumeNumber 9 .
 
-tdd:2Qk3wiPP6j39-HDh3N6vmjBmk a rdf:Statement ;
+tdd:2Qk3wiPP6j39-Kg26Yn9qTWiM a rdf:Statement ;
+    bf:Note "Piano four-hands version. Second edition." ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N633a35bfbf7b461799c7a71db625739b" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:datePublished "1862-01-01"^^xsd:date ;
+    schema:url <http://ark.bnf.fr/ark:/12148/cb42884316z> .
+
+tdd:2Qk3wiPP6j39-WK5HiRaqgMh2 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:kXFWowftH5UQ ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2Qk3wiPP6j39 .
+
+tdd:2Qk3wiPP6j39-ikM5VipfpSBs a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N69d809d41f2b4c83999d4ea7c1c90498" ;
+    rdf:object "N4e17d83596a2427c948a063cf4dc5175" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:2Qk3wiPP6j39 ;
     schema:url <https://anet.be/record/opacdkvc/c:lvd:6722999> .
 
-tdd:2Qk3wiPP6j39-ZyT6PDxR7eud a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:2Qk3wiPP6j39 .
-
-tdd:2Qk3wiPP6j39-ePbDJXLDwgun a rdf:Statement ;
+tdd:2Qk3wiPP6j39-k5UF8iXvZLdz a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N4a531a06058b492ba38da8ed2daccfde" ;
+    rdf:object "N58845e74c9f441f2b5aa402f3f4c6cdf" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:2Qk3wiPP6j39 ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .

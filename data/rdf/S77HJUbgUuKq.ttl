@@ -7,49 +7,49 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:S77HJUbgUuKq-2bxPoz7jQjx7 a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:S77HJUbgUuKq .
-
-tdd:S77HJUbgUuKq-A2W352pGRCpv a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
-    rdf:object "Nf2eb2b953cbd47cfae5db84b55588353" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:S77HJUbgUuKq ;
-    schema:datePublished "1839-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
-
-tdd:S77HJUbgUuKq-DEupvA3LwQzc a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:5KtRTRb3rbmX ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:S77HJUbgUuKq .
-
-tdd:S77HJUbgUuKq-JTetJ342TfWu a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:S77HJUbgUuKq .
-
-tdd:S77HJUbgUuKq-Jitvktj94Gui a rdf:Statement ;
+tdd:S77HJUbgUuKq-4ADamz9QaJHe a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:S77HJUbgUuKq ;
     schema:datePublished "1839-01-01"^^xsd:date ;
     schema:volumeNumber 7 .
 
-tdd:S77HJUbgUuKq-X9Q46hMej9vd a rdf:Statement ;
+tdd:S77HJUbgUuKq-Aj9LRVhqCKNz a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:S77HJUbgUuKq .
 
-tdd:S77HJUbgUuKq-e8oABnRRcGvc a rdf:Statement ;
+tdd:S77HJUbgUuKq-B9KrxYRk6zaG a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:S77HJUbgUuKq .
+
+tdd:S77HJUbgUuKq-D92HPLzn694j a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
+    rdf:object "Ne1a624e53dc04b76b6ada10e8b7b993d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:S77HJUbgUuKq ;
+    schema:datePublished "1839-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
+
+tdd:S77HJUbgUuKq-XV9Q4bobVHWQ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:5KtRTRb3rbmX ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:S77HJUbgUuKq .
+
+tdd:S77HJUbgUuKq-gmxQ3uDJ6jS4 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:S77HJUbgUuKq .
+
+tdd:S77HJUbgUuKq-nD68ZaKUJjoD a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:XudZsfnJCkRh ;
     rdf:predicate dcterms:contributor ;

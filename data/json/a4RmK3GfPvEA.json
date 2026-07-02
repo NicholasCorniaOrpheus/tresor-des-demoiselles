@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Austria",
+    "aliases": [
+      "Österreich"
+    ],
+    "description": null,
+    "base_name": "Austria",
+    "filename": "Austria.md",
+    "id": "a4RmK3GfPvEA",
+    "n_id": 661223771595385221086
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q40"
+    ],
+    "country": null
+  }
+}

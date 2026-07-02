@@ -7,41 +7,41 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:SFGi6gHQvH4j-7HsWdvSAomeP a rdf:Statement ;
-    bf:Role tdd:cZsa9QkDZfZY ;
-    rdf:object tdd:CaRovnpexber ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:SFGi6gHQvH4j .
-
-tdd:SFGi6gHQvH4j-BvxMeweyPGaQ a rdf:Statement ;
+tdd:SFGi6gHQvH4j-4VkyBje2TCWb a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:PBr2jjFrFXnm ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:SFGi6gHQvH4j .
 
-tdd:SFGi6gHQvH4j-GEV7SnNEho5U a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
-    rdf:object "Ncb646061fdc54af9b26df122f7352b0b" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:SFGi6gHQvH4j ;
-    schema:datePublished "1839-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
+tdd:SFGi6gHQvH4j-C8PdAsY55rNr a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:SFGi6gHQvH4j .
 
-tdd:SFGi6gHQvH4j-KEtdmpyYUuT2 a rdf:Statement ;
+tdd:SFGi6gHQvH4j-Hhfc9C8kgzxq a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:SFGi6gHQvH4j ;
     schema:datePublished "1839-01-01"^^xsd:date ;
     schema:volumeNumber 7 .
 
-tdd:SFGi6gHQvH4j-RwQ5L9qJe449 a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
+tdd:SFGi6gHQvH4j-KJW4jLcErjxu a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:CaRovnpexber ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:SFGi6gHQvH4j .
+
+tdd:SFGi6gHQvH4j-LBnBwSdVV9ms a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
+    rdf:object "N66a16cea1fa54fc88ecff5d9087f8dc3" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:SFGi6gHQvH4j ;
+    schema:datePublished "1839-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
 
 tdd:SFGi6gHQvH4j a rdfs:Resource ;
     rdfs:label "L'Elisir d'amore. Quadrille" ;

@@ -1,0 +1,13 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:6TWgDcxqkKDN a rdfs:Resource ;
+    rdfs:label "Austrian National Library" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q304037> ;
+    dcterms:type "Organisation" ;
+    wdt:P131 tdd:mTRdFRwscNsN ;
+    wdt:P17 tdd:a4RmK3GfPvEA ;
+    wdt:P31 tdd:Y9ux9hBbTDEk .
+

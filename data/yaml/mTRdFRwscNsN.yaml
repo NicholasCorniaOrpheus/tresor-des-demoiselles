@@ -1,0 +1,22 @@
+metadata:
+  class: Place
+  label: Vienna
+  aliases:
+  - Wien
+  description: null
+  base_name: Vienna
+  filename: Vienna.md
+  id: mTRdFRwscNsN
+  n_id: 896544538567634471531
+statements:
+  identifier:
+  - http://www.wikidata.org/entity/Q1741
+  country:
+  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/a4RmK3GfPvEA
+    label: Austria
+assets:
+  iiif: null
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/mTRdFRwscNsN.json
+content:
+  markdown_content: ''

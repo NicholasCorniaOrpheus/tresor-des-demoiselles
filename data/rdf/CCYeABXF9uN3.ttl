@@ -1,0 +1,34 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:CCYeABXF9uN3-CfgqBVPYc8oh a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:CCYeABXF9uN3 ;
+    schema:datePublished "1841-01-01"^^xsd:date ;
+    schema:volumeNumber 9 .
+
+tdd:CCYeABXF9uN3-oTk6vMTL3fFL a rdf:Statement ;
+    bf:electronicLocator <https://viewer.onb.ac.at/10A4EB6F/> ;
+    bf:heldBy tdd:6TWgDcxqkKDN ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.onb.ac.at/iiif/presentation/v3/manifest/10A4EB6F> ;
+    rdf:object "N44f57e8a316943fb85225a9b36dc36f3" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:CCYeABXF9uN3 ;
+    schema:datePublished "1841-01-01"^^xsd:date ;
+    schema:url <https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21287762010003338> .
+
+tdd:CCYeABXF9uN3 a rdfs:Resource ;
+    rdfs:label "Journal des demoiselles (1841)" ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:Ue6ZuYvAVpqW ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

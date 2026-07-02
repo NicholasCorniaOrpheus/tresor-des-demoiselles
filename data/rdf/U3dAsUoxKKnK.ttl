@@ -7,51 +7,51 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:U3dAsUoxKKnK-DHzS533gQmN9 a rdf:Statement ;
+tdd:U3dAsUoxKKnK-BpcnyeLxyjd4 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:U3dAsUoxKKnK ;
     schema:datePublished "1857-01-01"^^xsd:date ;
     schema:volumeNumber 25 .
 
-tdd:U3dAsUoxKKnK-aYoTaKMBCHKV a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:YKxiqAW7Evgt ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:U3dAsUoxKKnK .
-
-tdd:U3dAsUoxKKnK-asPo6KQCE59s a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:U3dAsUoxKKnK .
-
-tdd:U3dAsUoxKKnK-bUkvgry4hLuT a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:56siTBrXNeNV ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:U3dAsUoxKKnK .
-
-tdd:U3dAsUoxKKnK-g362zpAeq5VF a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:WZhiseJ2xo5P ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:U3dAsUoxKKnK .
-
-tdd:U3dAsUoxKKnK-ghMehnjrDZ7y a rdf:Statement ;
+tdd:U3dAsUoxKKnK-KYfnxFSM5ucZ a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:U3dAsUoxKKnK .
 
-tdd:U3dAsUoxKKnK-jn7Rao34s8cx a rdf:Statement ;
+tdd:U3dAsUoxKKnK-MFBRGTQ52ERE a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:WZhiseJ2xo5P ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:U3dAsUoxKKnK .
+
+tdd:U3dAsUoxKKnK-U5Q8K5W7bbWZ a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:U3dAsUoxKKnK .
+
+tdd:U3dAsUoxKKnK-Yj9br5bNYTTF a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N97763736c38f4162a57251c11a964934" ;
+    rdf:object "N252ce4a0275d4fc5a10d5c5ec4810bb7" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:U3dAsUoxKKnK ;
     schema:datePublished "1857-01-01"^^xsd:date ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:U3dAsUoxKKnK-awNw3KCdzW8y a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:YKxiqAW7Evgt ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:U3dAsUoxKKnK .
+
+tdd:U3dAsUoxKKnK-cXtdC45pnQ2c a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:56siTBrXNeNV ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:U3dAsUoxKKnK .
 
 tdd:U3dAsUoxKKnK a rdfs:Resource ;
     rdfs:label "Histoire d'une Fleur" ;

@@ -7,43 +7,43 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:GSSHKs8X5aRE-29KE7zaLbNxx a rdf:Statement ;
+tdd:GSSHKs8X5aRE-5RaPPXEEmsbt a rdf:Statement ;
     bf:Role tdd:Mgp8YUwRv3Jz ;
     rdf:object tdd:bbp23eR4DnZs ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:GSSHKs8X5aRE .
 
-tdd:GSSHKs8X5aRE-5NNVfWMYTUUN a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:jMzRtWT8BzJg ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:GSSHKs8X5aRE .
-
-tdd:GSSHKs8X5aRE-5s4bCRU9RmX4 a rdf:Statement ;
+tdd:GSSHKs8X5aRE-KnQsEyauPerQ a rdf:Statement ;
     wdt:P1114 "3" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:GSSHKs8X5aRE .
 
-tdd:GSSHKs8X5aRE-B8ozk8Jhxqhm a rdf:Statement ;
+tdd:GSSHKs8X5aRE-NdoLG74F6jax a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:jMzRtWT8BzJg ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:GSSHKs8X5aRE .
+
+tdd:GSSHKs8X5aRE-VfEWrcEssA6Z a rdf:Statement ;
     bf:Note "Only issues 1-5 are present." ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10360013> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360013/manifest> ;
-    rdf:object "N63f09b3f014a4286ae5b15bd9b952d86" ;
+    rdf:object "Na0f8e1c3ce2f45029c92d5b358eb50b3" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:GSSHKs8X5aRE ;
     schema:datePublished "1866-01-01"^^xsd:date ;
     schema:url <https://mdz-nbn-resolving.de/details:bsb10360013> .
 
-tdd:GSSHKs8X5aRE-FWWokryB63o9 a rdf:Statement ;
+tdd:GSSHKs8X5aRE-XF4qaMiBXBfr a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:GSSHKs8X5aRE .
 
-tdd:GSSHKs8X5aRE-kUtt8AMJGWpx a rdf:Statement ;
+tdd:GSSHKs8X5aRE-jcv7esofFU5y a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:GSSHKs8X5aRE ;

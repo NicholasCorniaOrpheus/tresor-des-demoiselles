@@ -7,23 +7,23 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:HjpKbBQc7gas-4uB9Vht4ahDK a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11351548> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11351548/manifest> ;
-    rdf:object "N62b905e5814d42e3831effd4522d89ca" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:HjpKbBQc7gas ;
-    schema:datePublished "1877-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb11351548> .
-
-tdd:HjpKbBQc7gas-REWdJLLFJVte a rdf:Statement ;
+tdd:HjpKbBQc7gas-9ptDp9AfZVxB a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:HjpKbBQc7gas ;
     schema:datePublished "1877-01-01"^^xsd:date ;
     schema:volumeNumber 45 .
+
+tdd:HjpKbBQc7gas-ewkUQDzvSdgK a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11351548> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11351548/manifest> ;
+    rdf:object "N4e987ca2e9f54e4a8896daee84f32780" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:HjpKbBQc7gas ;
+    schema:datePublished "1877-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb11351548> .
 
 tdd:HjpKbBQc7gas a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1877)" ;

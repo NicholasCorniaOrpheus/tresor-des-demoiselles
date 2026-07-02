@@ -379,6 +379,59 @@
         }
     },
     {
+        "location": "/entity/CCYeABXF9uN3",
+        "properties": {
+            "label": [
+                "Journal des demoiselles (1841)",
+                null
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [
+                null
+            ],
+            "description": [
+                null
+            ],
+            "instance of": [
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW",
+                    "label": "periodical"
+                }
+            ],
+            "part of": [
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+                    "volume": 9,
+                    "publication_date": "1841-01-01",
+                    "label": "Journal des demoiselles"
+                }
+            ],
+            "contributor": [
+                null
+            ],
+            "instrumentation": [
+                null
+            ],
+            "language": [
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+                    "label": "French"
+                }
+            ],
+            "based_on": [
+                null
+            ],
+            "about": [
+                null
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/Zn9mKDkL7Qhg",
         "properties": {
             "label": [
@@ -970,6 +1023,29 @@
         }
     },
     {
+        "location": "/entity/a4RmK3GfPvEA",
+        "properties": {
+            "label": [
+                "Austria"
+            ],
+            "class": [
+                "Place"
+            ],
+            "aliases": [
+                "Österreich"
+            ],
+            "description": [
+                null
+            ],
+            "place": [
+                null
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/RFFnScDJKvsc",
         "properties": {
             "label": [
@@ -1052,8 +1128,8 @@
         "location": "/entity/TQGEMMv5q4tY",
         "properties": {
             "label": [
-                "Chanson russe",
-                "Chanson russe: Romance sans paroles."
+                "Chanson russe: Romance sans paroles.",
+                "Chanson russe"
             ],
             "class": [
                 "Manifestation"
@@ -1375,8 +1451,8 @@
         "location": "/entity/ASrkWEECtVfe",
         "properties": {
             "label": [
-                "Trésor des demoiselles. Vingt-septième Année.",
-                "Trésor des demoiselles (1859)"
+                "Trésor des demoiselles (1859)",
+                "Trésor des demoiselles. Vingt-septième Année."
             ],
             "class": [
                 "Manifestation"
@@ -2614,8 +2690,8 @@
         "location": "/entity/98ui7xFiSD8t",
         "properties": {
             "label": [
-                "La vallée de chevreuse : suite de valses",
-                "La vallée de chevreuse. suite de valses"
+                "La vallée de chevreuse. suite de valses",
+                "La vallée de chevreuse : suite de valses"
             ],
             "class": [
                 "Manifestation"
@@ -3174,8 +3250,8 @@
         "location": "/entity/7sLxino2QMBv",
         "properties": {
             "label": [
-                "La Pervenche",
-                "La Pervenche. Polka des Demoiselles"
+                "La Pervenche. Polka des Demoiselles",
+                "La Pervenche"
             ],
             "class": [
                 "Manifestation"
@@ -3321,8 +3397,8 @@
         "location": "/entity/U3dAsUoxKKnK",
         "properties": {
             "label": [
-                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano.",
-                "Histoire d'une Fleur"
+                "Histoire d'une Fleur",
+                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano."
             ],
             "class": [
                 "Manifestation"
@@ -3458,8 +3534,8 @@
         "location": "/entity/GYA62ZM8SThf",
         "properties": {
             "label": [
-                "Journal des demoiselles (1870)",
-                null
+                null,
+                "Journal des demoiselles (1870)"
             ],
             "class": [
                 "Manifestation"
@@ -4303,8 +4379,8 @@
         "location": "/entity/8PAPGoxTCgLt",
         "properties": {
             "label": [
-                "Les fées du lac. valse brillante pour piano",
-                "Les fées du lac : valse brillante pour piano"
+                "Les fées du lac : valse brillante pour piano",
+                "Les fées du lac. valse brillante pour piano"
             ],
             "class": [
                 "Manifestation"
@@ -4779,8 +4855,8 @@
         "location": "/entity/Q5YfCM4bBtmP",
         "properties": {
             "label": [
-                "Deux Madones. Romance",
-                "Quadrille. Parisina"
+                "Quadrille. Parisina",
+                "Deux Madones. Romance"
             ],
             "class": [
                 "Manifestation"
@@ -5449,8 +5525,8 @@
         "location": "/entity/G2DfGMPf6jS5",
         "properties": {
             "label": [
-                "Le Pinson",
-                "Le Pinson ou le bien pour le mal"
+                "Le Pinson ou le bien pour le mal",
+                "Le Pinson"
             ],
             "class": [
                 "Manifestation"
@@ -5751,8 +5827,8 @@
         "location": "/entity/g24ctTK5q9V8",
         "properties": {
             "label": [
-                "L'Ouragan: Quadrille par Musard: Arrangé à quatre mains par A. Scola.",
-                "L'Ouragan"
+                "L'Ouragan",
+                "L'Ouragan: Quadrille par Musard: Arrangé à quatre mains par A. Scola."
             ],
             "class": [
                 "Manifestation"
@@ -6289,8 +6365,8 @@
         "location": "/entity/BKzyNci6mnwp",
         "properties": {
             "label": [
-                "Journal des demoiselles (1883)",
-                null
+                null,
+                "Journal des demoiselles (1883)"
             ],
             "class": [
                 "Manifestation"
@@ -7099,8 +7175,8 @@
         "location": "/entity/ETrdTiZTknRK",
         "properties": {
             "label": [
-                "Le Livre du coeur",
-                "Le Livre du coeur: Méditation."
+                "Le Livre du coeur: Méditation.",
+                "Le Livre du coeur"
             ],
             "class": [
                 "Manifestation"
@@ -8013,6 +8089,49 @@
         }
     },
     {
+        "location": "/entity/6TWgDcxqkKDN",
+        "properties": {
+            "label": [
+                "Austrian National Library"
+            ],
+            "class": [
+                "Organisation"
+            ],
+            "aliases": [
+                null
+            ],
+            "description": [
+                null
+            ],
+            "instance of": [
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk",
+                    "label": "national library"
+                }
+            ],
+            "date": [
+                null,
+                null
+            ],
+            "contributor": [
+                null
+            ],
+            "place": [
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/a4RmK3GfPvEA",
+                    "label": "Austria"
+                },
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mTRdFRwscNsN",
+                    "label": "Vienna"
+                }
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/S2Htsbzzq7aP",
         "properties": {
             "label": [
@@ -8054,8 +8173,8 @@
         "location": "/entity/fuQNwtNrhyNk",
         "properties": {
             "label": [
-                "Danse villageoise. air de danse antique",
-                "Danse villageoise : air de danse antique"
+                "Danse villageoise : air de danse antique",
+                "Danse villageoise. air de danse antique"
             ],
             "class": [
                 "Manifestation"
@@ -8722,8 +8841,8 @@
         "location": "/entity/gyh3ExubqN2H",
         "properties": {
             "label": [
-                "L'Aubépine",
-                "L'Aubépine: Polka mazurka"
+                "L'Aubépine: Polka mazurka",
+                "L'Aubépine"
             ],
             "class": [
                 "Manifestation"
@@ -9683,8 +9802,8 @@
         "location": "/entity/PnWGQzxqsYz8",
         "properties": {
             "label": [
-                "Polka sur le Val D'Andorre d'Halevy",
-                "Polka sur le Val D'Andorre d'Halevy: pour piano"
+                "Polka sur le Val D'Andorre d'Halevy: pour piano",
+                "Polka sur le Val D'Andorre d'Halevy"
             ],
             "class": [
                 "Manifestation"
@@ -11326,6 +11445,32 @@
         }
     },
     {
+        "location": "/entity/mTRdFRwscNsN",
+        "properties": {
+            "label": [
+                "Vienna"
+            ],
+            "class": [
+                "Place"
+            ],
+            "aliases": [
+                "Wien"
+            ],
+            "description": [
+                null
+            ],
+            "place": [
+                {
+                    "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/a4RmK3GfPvEA",
+                    "label": "Austria"
+                }
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/eXFBXUBFBjqU",
         "properties": {
             "label": [
@@ -11466,8 +11611,8 @@
         "location": "/entity/G3drbzHXXtxV",
         "properties": {
             "label": [
-                null,
-                "Journal des demoiselles (1875)"
+                "Journal des demoiselles (1875)",
+                null
             ],
             "class": [
                 "Manifestation"
@@ -11744,8 +11889,8 @@
         "location": "/entity/AgTowXcdYL6T",
         "properties": {
             "label": [
-                "Thalie",
-                "Thalie: Polka mazurka."
+                "Thalie: Polka mazurka.",
+                "Thalie"
             ],
             "class": [
                 "Manifestation"

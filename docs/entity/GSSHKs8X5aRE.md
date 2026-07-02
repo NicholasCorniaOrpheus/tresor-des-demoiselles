@@ -66,6 +66,7 @@
       window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/GSSHKs8X5aRE.json";
     </script>
 
+
     
 
 
@@ -129,20 +130,22 @@ The full libretto is available from [page 140](https://www.digitale-sammlungen.d
 
 ## Digital Assets
 
-<div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
-    <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
-</div>
+??? abstract "Digitised images"
+    If nothing appears, reload the webpage manually.
+    <div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
+        <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
+    </div>
 
-<!-- Configure OpenSeadragon -->
-<script>
-  window.kbGraphConfig = window.kbGraphConfig || {};
-  window.kbGraphConfig.assets = {
-    base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
-    local_path: "assets/MDZ-10360013_1/",
-    images: ["001.jpg", "002.jpg", "003.jpg", "004.jpg", "005.jpg", "006.jpg", "007.jpg", "008.jpg", "009.jpg", "010.jpg", "011.jpg", "012.jpg", "013.jpg", "014.jpg", "015.jpg", "016.jpg"],
-    iiif: ""
-  };
-</script>
+    <!-- Configure OpenSeadragon -->
+    <script>
+      window.kbGraphConfig = window.kbGraphConfig || {};
+      window.kbGraphConfig.assets = {
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+        local_path: "assets/MDZ-10360013_1/",
+        images: ["001.jpg", "002.jpg", "003.jpg", "004.jpg", "005.jpg", "006.jpg", "007.jpg", "008.jpg", "009.jpg", "010.jpg", "011.jpg", "012.jpg", "013.jpg", "014.jpg", "015.jpg", "016.jpg"],
+        iiif: ""
+      };
+    </script>
 
-
+    
 

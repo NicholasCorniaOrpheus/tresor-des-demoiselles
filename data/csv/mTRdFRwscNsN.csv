@@ -1,0 +1,3 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,identifier_value,country_value,country_label
+Place,Vienna,['Wien'],,Vienna,Vienna.md,mTRdFRwscNsN,896544538567634471531,identifier,http://www.wikidata.org/entity/Q1741,,
+Place,Vienna,['Wien'],,Vienna,Vienna.md,mTRdFRwscNsN,896544538567634471531,country,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/a4RmK3GfPvEA,Austria

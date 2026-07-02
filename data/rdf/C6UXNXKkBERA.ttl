@@ -7,53 +7,53 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:C6UXNXKkBERA-3patJjisvhKu a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:ek3Kt26Yt2sh ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:C6UXNXKkBERA .
-
-tdd:C6UXNXKkBERA-9Q96W9tq4dxb a rdf:Statement ;
+tdd:C6UXNXKkBERA-68muXVW6g6U4 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:C6UXNXKkBERA .
 
-tdd:C6UXNXKkBERA-9yQzmkTdVqYi a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:C6UXNXKkBERA .
-
-tdd:C6UXNXKkBERA-Enpv7YeVJwrt a rdf:Statement ;
+tdd:C6UXNXKkBERA-9TPircZJRNGS a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:fVVUZGiGyTJr ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:C6UXNXKkBERA .
 
-tdd:C6UXNXKkBERA-HTKeSDbLbLGU a rdf:Statement ;
+tdd:C6UXNXKkBERA-9TtT3SpkMN3u a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:C6UXNXKkBERA .
+
+tdd:C6UXNXKkBERA-Pocvk8LwyyWC a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ek3Kt26Yt2sh ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:C6UXNXKkBERA .
+
+tdd:C6UXNXKkBERA-UBZ9tczoJeoZ a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:C6UXNXKkBERA .
 
-tdd:C6UXNXKkBERA-HpjmQrS9AnkC a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359988> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359988/manifest> ;
-    rdf:object "Nbe790a4baaba4828898fcc8280a38654" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:C6UXNXKkBERA ;
-    schema:datePublished "1837-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359988> .
-
-tdd:C6UXNXKkBERA-eTVuHvn2EWcE a rdf:Statement ;
+tdd:C6UXNXKkBERA-fT5tvNuMo4XT a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:C6UXNXKkBERA ;
     schema:datePublished "1837-01-01"^^xsd:date ;
     schema:volumeNumber 5 .
+
+tdd:C6UXNXKkBERA-m2sbzGauRc7x a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359988> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359988/manifest> ;
+    rdf:object "Naaec3eec5e6e4bf9a2ee7c363567ac4f" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:C6UXNXKkBERA ;
+    schema:datePublished "1837-01-01"^^xsd:date ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359988> .
 
 tdd:C6UXNXKkBERA a rdfs:Resource ;
     rdfs:label "Vole! Vole! Hirondelle" ;

@@ -7,39 +7,39 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:dJRZgT58Xf8A-6HiDaUVNgodY a rdf:Statement ;
+tdd:dJRZgT58Xf8A-5Ab3XSMktxiG a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N1e9f2f3f23184798aa940e97c3d69e24" ;
+    rdf:object "Nb323f35cf4774e14a32e330060792e5b" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:dJRZgT58Xf8A ;
     schema:url <https://anet.be/record/opacap/c:lvd:12971546> .
 
-tdd:dJRZgT58Xf8A-B4aDitffPXVn a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:gBejS4d5MNmC ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:dJRZgT58Xf8A .
-
-tdd:dJRZgT58Xf8A-Eo6qAPZMCtnp a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:dJRZgT58Xf8A .
-
-tdd:dJRZgT58Xf8A-HtjhgwFWe7QG a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:NRPF64xecNgD ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:dJRZgT58Xf8A .
-
-tdd:dJRZgT58Xf8A-YLYspiDmjEox a rdf:Statement ;
+tdd:dJRZgT58Xf8A-9g4XH9h2yS6B a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:dJRZgT58Xf8A .
 
-tdd:dJRZgT58Xf8A-euwVZT3ePfDy a rdf:Statement ;
+tdd:dJRZgT58Xf8A-Frfns9Y8UkE5 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:gBejS4d5MNmC ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:dJRZgT58Xf8A .
+
+tdd:dJRZgT58Xf8A-W5g3YBrt24zA a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:dJRZgT58Xf8A .
+
+tdd:dJRZgT58Xf8A-XvvbDnDKjbXm a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:NRPF64xecNgD ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:dJRZgT58Xf8A .
+
+tdd:dJRZgT58Xf8A-feU7B4YUqGwM a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:dJRZgT58Xf8A ;

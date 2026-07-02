@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,location_label,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Austrian National Library,,,Austrian National Library,Austrian National Library.md,6TWgDcxqkKDN,91776530804261464331,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Y9ux9hBbTDEk,national library,,,,,,,,,,
+Organisation,Austrian National Library,,,Austrian National Library,Austrian National Library.md,6TWgDcxqkKDN,91776530804261464331,described_by_source,,,,,,,,,,,,
+Organisation,Austrian National Library,,,Austrian National Library,Austrian National Library.md,6TWgDcxqkKDN,91776530804261464331,inception,,,,,,,,,,,,
+Organisation,Austrian National Library,,,Austrian National Library,Austrian National Library.md,6TWgDcxqkKDN,91776530804261464331,location,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mTRdFRwscNsN,Vienna,,,,,,
+Organisation,Austrian National Library,,,Austrian National Library,Austrian National Library.md,6TWgDcxqkKDN,91776530804261464331,dissolved,,,,,,,,,,,,
+Organisation,Austrian National Library,,,Austrian National Library,Austrian National Library.md,6TWgDcxqkKDN,91776530804261464331,contributor,,,,,,,,,,,,
+Organisation,Austrian National Library,,,Austrian National Library,Austrian National Library.md,6TWgDcxqkKDN,91776530804261464331,official_website,,,,,,,,,,,,
+Organisation,Austrian National Library,,,Austrian National Library,Austrian National Library.md,6TWgDcxqkKDN,91776530804261464331,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q304037,,
+Organisation,Austrian National Library,,,Austrian National Library,Austrian National Library.md,6TWgDcxqkKDN,91776530804261464331,country,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/a4RmK3GfPvEA,Austria

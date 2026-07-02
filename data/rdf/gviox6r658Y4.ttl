@@ -5,7 +5,7 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:gviox6r658Y4-Yw3vWc7imqkt a rdf:Statement ;
+tdd:gviox6r658Y4-Hk98qTE6oBwD a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:RkUgaRZ6zs57 ;
     rdf:predicate dcterms:contributor ;

@@ -7,30 +7,30 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:LiRnHQgHVwqd-468yVQ66N7FZ a rdf:Statement ;
-    bf:Note "dedicated to M.me C. Houillon" ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N646f5d98b3414222b0df15708338ba3d" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:LiRnHQgHVwqd ;
-    schema:datePublished "1855-11-01"^^xsd:date ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:LiRnHQgHVwqd-Jio3MtuViqQd a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:dzhMAzwriP43 ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:LiRnHQgHVwqd .
-
-tdd:LiRnHQgHVwqd-VPKzEQUb5Cmb a rdf:Statement ;
+tdd:LiRnHQgHVwqd-4QXWrbr9QE82 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:LiRnHQgHVwqd ;
     schema:datePublished "1855-11-01"^^xsd:date ;
     schema:volumeNumber 23 .
 
-tdd:LiRnHQgHVwqd-gbeaABVf48G6 a rdf:Statement ;
+tdd:LiRnHQgHVwqd-Ty7dugcTMS5G a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:dzhMAzwriP43 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:LiRnHQgHVwqd .
+
+tdd:LiRnHQgHVwqd-b6DnCGGtb6xe a rdf:Statement ;
+    bf:Note "dedicated to M.me C. Houillon" ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N1a55226b99eb479c91f8530089c3903a" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:LiRnHQgHVwqd ;
+    schema:datePublished "1855-11-01"^^xsd:date ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:LiRnHQgHVwqd-e97hVnZG4gBq a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn" ;
     rdf:predicate wdt:P870 ;
