@@ -382,8 +382,8 @@
         "location": "/entity/Zn9mKDkL7Qhg",
         "properties": {
             "label": [
-                null,
-                "Journal des demoiselles (1874)"
+                "Journal des demoiselles (1874)",
+                null
             ],
             "class": [
                 "Manifestation"
@@ -435,8 +435,8 @@
         "location": "/entity/FiFAWv3HUTn6",
         "properties": {
             "label": [
-                "Le Mariage chinois",
-                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay."
+                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay.",
+                "Le Mariage chinois"
             ],
             "class": [
                 "Manifestation"
@@ -973,8 +973,8 @@
         "location": "/entity/RFFnScDJKvsc",
         "properties": {
             "label": [
-                "Journal des demoiselles (1848)",
-                null
+                null,
+                "Journal des demoiselles (1848)"
             ],
             "class": [
                 "Manifestation"
@@ -2614,8 +2614,8 @@
         "location": "/entity/98ui7xFiSD8t",
         "properties": {
             "label": [
-                "La vallée de chevreuse. suite de valses",
-                "La vallée de chevreuse : suite de valses"
+                "La vallée de chevreuse : suite de valses",
+                "La vallée de chevreuse. suite de valses"
             ],
             "class": [
                 "Manifestation"
@@ -3174,8 +3174,8 @@
         "location": "/entity/7sLxino2QMBv",
         "properties": {
             "label": [
-                "La Pervenche. Polka des Demoiselles",
-                "La Pervenche"
+                "La Pervenche",
+                "La Pervenche. Polka des Demoiselles"
             ],
             "class": [
                 "Manifestation"
@@ -3458,8 +3458,8 @@
         "location": "/entity/GYA62ZM8SThf",
         "properties": {
             "label": [
-                null,
-                "Journal des demoiselles (1870)"
+                "Journal des demoiselles (1870)",
+                null
             ],
             "class": [
                 "Manifestation"
@@ -4779,8 +4779,8 @@
         "location": "/entity/Q5YfCM4bBtmP",
         "properties": {
             "label": [
-                "Quadrille. Parisina",
-                "Deux Madones. Romance"
+                "Deux Madones. Romance",
+                "Quadrille. Parisina"
             ],
             "class": [
                 "Manifestation"
@@ -5449,8 +5449,8 @@
         "location": "/entity/G2DfGMPf6jS5",
         "properties": {
             "label": [
-                "Le Pinson ou le bien pour le mal",
-                "Le Pinson"
+                "Le Pinson",
+                "Le Pinson ou le bien pour le mal"
             ],
             "class": [
                 "Manifestation"
@@ -5751,8 +5751,8 @@
         "location": "/entity/g24ctTK5q9V8",
         "properties": {
             "label": [
-                "L'Ouragan",
-                "L'Ouragan: Quadrille par Musard: Arrangé à quatre mains par A. Scola."
+                "L'Ouragan: Quadrille par Musard: Arrangé à quatre mains par A. Scola.",
+                "L'Ouragan"
             ],
             "class": [
                 "Manifestation"
@@ -6178,8 +6178,8 @@
         "location": "/entity/gzxLx7Y6cNMi",
         "properties": {
             "label": [
-                "Le Bouquet",
-                "Le Bouquet: Chansonette."
+                "Le Bouquet: Chansonette.",
+                "Le Bouquet"
             ],
             "class": [
                 "Manifestation"
@@ -6289,8 +6289,8 @@
         "location": "/entity/BKzyNci6mnwp",
         "properties": {
             "label": [
-                null,
-                "Journal des demoiselles (1883)"
+                "Journal des demoiselles (1883)",
+                null
             ],
             "class": [
                 "Manifestation"
@@ -6473,8 +6473,8 @@
         "location": "/entity/caTPx3dAfP6L",
         "properties": {
             "label": [
-                "Renouveau. bluette",
-                "Renouveau : bluette"
+                "Renouveau : bluette",
+                "Renouveau. bluette"
             ],
             "class": [
                 "Manifestation"
@@ -7099,8 +7099,8 @@
         "location": "/entity/ETrdTiZTknRK",
         "properties": {
             "label": [
-                "Le Livre du coeur: Méditation.",
-                "Le Livre du coeur"
+                "Le Livre du coeur",
+                "Le Livre du coeur: Méditation."
             ],
             "class": [
                 "Manifestation"
@@ -7276,8 +7276,8 @@
         "location": "/entity/gRR8aAYdEX54",
         "properties": {
             "label": [
-                "Dieu le voit",
-                "Dieu le voit: Mélodie"
+                "Dieu le voit: Mélodie",
+                "Dieu le voit"
             ],
             "class": [
                 "Manifestation"
@@ -8054,8 +8054,8 @@
         "location": "/entity/fuQNwtNrhyNk",
         "properties": {
             "label": [
-                "Danse villageoise : air de danse antique",
-                "Danse villageoise. air de danse antique"
+                "Danse villageoise. air de danse antique",
+                "Danse villageoise : air de danse antique"
             ],
             "class": [
                 "Manifestation"
@@ -8722,8 +8722,8 @@
         "location": "/entity/gyh3ExubqN2H",
         "properties": {
             "label": [
-                "L'Aubépine: Polka mazurka",
-                "L'Aubépine"
+                "L'Aubépine",
+                "L'Aubépine: Polka mazurka"
             ],
             "class": [
                 "Manifestation"
@@ -8886,8 +8886,8 @@
         "location": "/entity/6XQw6vXJb4qt",
         "properties": {
             "label": [
-                "Trésor des demoiselles (1857)",
-                "Trésor des demoiselles. Vingt-cinquième Année."
+                "Trésor des demoiselles. Vingt-cinquième Année.",
+                "Trésor des demoiselles (1857)"
             ],
             "class": [
                 "Manifestation"
@@ -9683,8 +9683,8 @@
         "location": "/entity/PnWGQzxqsYz8",
         "properties": {
             "label": [
-                "Polka sur le Val D'Andorre d'Halevy: pour piano",
-                "Polka sur le Val D'Andorre d'Halevy"
+                "Polka sur le Val D'Andorre d'Halevy",
+                "Polka sur le Val D'Andorre d'Halevy: pour piano"
             ],
             "class": [
                 "Manifestation"
@@ -9859,8 +9859,8 @@
         "location": "/entity/SUrWQhaKnmHL",
         "properties": {
             "label": [
-                "Un concert chez les demoiselles de Saint-Cyr",
-                "Un concert chez les demoiselles de Saint-Cyr: opérette en un acte"
+                "Un concert chez les demoiselles de Saint-Cyr: opérette en un acte",
+                "Un concert chez les demoiselles de Saint-Cyr"
             ],
             "class": [
                 "Manifestation"
@@ -10137,8 +10137,8 @@
         "location": "/entity/Ao5Ame5q39g9",
         "properties": {
             "label": [
-                "Le Corbeille de roses",
-                "Le Corbeille de roses. Valse brillante"
+                "Le Corbeille de roses. Valse brillante",
+                "Le Corbeille de roses"
             ],
             "class": [
                 "Manifestation"
@@ -10241,8 +10241,8 @@
         "location": "/entity/HhZTHayappCf",
         "properties": {
             "label": [
-                "Captivité: Mélodie.",
-                "Captivité"
+                "Captivité",
+                "Captivité: Mélodie."
             ],
             "class": [
                 "Manifestation"
@@ -11179,8 +11179,8 @@
         "location": "/entity/ju8BRMVThr4C",
         "properties": {
             "label": [
-                "Mandoline. Sérénade.",
-                "Fauvette: Chansonette."
+                "Fauvette: Chansonette.",
+                "Mandoline. Sérénade."
             ],
             "class": [
                 "Manifestation"
@@ -11466,8 +11466,8 @@
         "location": "/entity/G3drbzHXXtxV",
         "properties": {
             "label": [
-                "Journal des demoiselles (1875)",
-                null
+                null,
+                "Journal des demoiselles (1875)"
             ],
             "class": [
                 "Manifestation"
@@ -11744,8 +11744,8 @@
         "location": "/entity/AgTowXcdYL6T",
         "properties": {
             "label": [
-                "Thalie: Polka mazurka.",
-                "Thalie"
+                "Thalie",
+                "Thalie: Polka mazurka."
             ],
             "class": [
                 "Manifestation"
