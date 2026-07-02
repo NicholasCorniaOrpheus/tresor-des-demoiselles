@@ -41,7 +41,7 @@ theme:
       primary: custom
       default: custom
       footer: custom
-      accent: custom
+      accent: amber
       
   features:
     - navigation.instant
