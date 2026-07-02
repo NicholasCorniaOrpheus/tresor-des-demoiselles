@@ -9,6 +9,58 @@ class KBLightInit {
     this.d3Initialized = false;
     this.osdInitialized = false;
     this.config = window.kbGraphConfig || {};
+    this.graphInitialized = false;
+  }
+
+  // Adding extra setup to force Instant Loading of AJAX to load D3 and OpenSeadragon properly
+
+    setup() {
+      // 1. Consolidate logic for both initial load and AJAX updates
+          const runComponents = () => {
+            console.log("KB-Light: Running component initialization...");
+            this.initD3Graph();
+            this.initOpenSeadragon();
+            // this.initCETEIcean();
+          };  
+      // 2. MkDocs Material Instant Loading Observable
+      if (typeof document$ !== "undefined") {
+        document$.subscribe(() => {
+          console.log("Instant Loading: Re-initializing components...");
+          this.graphInitialized = false; // Reset flag on navigation
+          this.setupGraphTrigger();
+          this.runPageLogic();
+        });
+      } else {
+        // Fallback for non-Material environments
+        document.addEventListener("DOMContentLoaded", () => this.runPageLogic());
+      }
+  }
+
+  setupGraphTrigger() {
+    // MkDocs Admonitions render as <details> tags
+    const graphAdmonition = document.querySelector('details.abstract');
+    const graphContainer = document.getElementById("entity-graph");
+
+    if (graphAdmonition && graphContainer) {
+      graphAdmonition.addEventListener('toggle', () => {
+        // Only run if the admonition was OPENED and not yet initialized
+        if (graphAdmonition.open && !this.graphInitialized) {
+          console.log("Admonition expanded: Forcing Graph Load.");
+          this.initD3Graph();
+          this.graphInitialized = true;
+        }
+      });
+    }
+  }
+
+  runPageLogic() {
+
+    // Check if we are on an entity page with a Graph container
+    this.initD3Graph();
+
+    
+    // Always check for OpenSeadragon containers
+    this.initOpenSeadragon();
   }
 
   initD3Graph() {
@@ -482,6 +534,7 @@ class KBLightInit {
 
 // Initialize KB-Light
 const kb = new KBLightInit();
+kb.setup();
 kb.startObserver();
 
 // Backward compatibility
