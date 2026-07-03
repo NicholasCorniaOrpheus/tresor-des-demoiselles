@@ -21,33 +21,8 @@
               "icon": "lucide-table",
               "title": "manifestation_list"
             }
-          },
-          {
-            "id": "25a42335b583996c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity/Journal des demoiselles (1841).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Journal des demoiselles (1841)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "25a42335b583996c",
+  "active": "a021b60216f25b74",
   "lastOpenFiles": [
+    "entity/Journal des demoiselles (1841).md",
     "entity/Austrian National Library.md",
     "manifestation_list.base",
-    "entity/Journal des demoiselles (1841).md",
     "entity/Austria.md",
     "entity/Vienna.md",
     "classes/Agent.md",

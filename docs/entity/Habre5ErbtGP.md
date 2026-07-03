@@ -23,7 +23,6 @@
 ## Knowledge Graph
 
 ??? abstract "Explore relationships"
-    If nothing appears, reload the webpage manually.
     <div id="controls" style="margin-bottom: 15px; padding: 10px; background: var(--md-code-bg-color); border-radius: 4px;">
       <label style="margin-right: 15px;"><input id="toggleLabels" type="checkbox" checked /> Show labels</label>
       <label style="margin-right: 15px;"><input id="toggleProperties" type="checkbox" /> Show properties</label>

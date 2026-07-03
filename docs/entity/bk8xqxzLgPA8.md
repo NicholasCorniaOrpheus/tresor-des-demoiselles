@@ -21,7 +21,6 @@
 ## Knowledge Graph
 
 ??? abstract "Explore relationships"
-    If nothing appears, reload the webpage manually.
     <div id="controls" style="margin-bottom: 15px; padding: 10px; background: var(--md-code-bg-color); border-radius: 4px;">
       <label style="margin-right: 15px;"><input id="toggleLabels" type="checkbox" checked /> Show labels</label>
       <label style="margin-right: 15px;"><input id="toggleProperties" type="checkbox" /> Show properties</label>
@@ -96,7 +95,6 @@
 ## Digital Assets
 
 ??? abstract "Digitised images"
-    If nothing appears, reload the webpage manually.
     <div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
         <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
     </div>

@@ -4,7 +4,7 @@
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/gRR8aAYdEX54.json){ .md-button }
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/gRR8aAYdEX54.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/gRR8aAYdEX54.csv){ .md-button }
-[:material-github: images folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p36){ .md-button }
+[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p36){ .md-button }
 
 
 <img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p36/orp-henri-dieulev-20143702p36-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
@@ -22,7 +22,6 @@
 ## Knowledge Graph
 
 ??? abstract "Explore relationships"
-    If nothing appears, reload the webpage manually.
     <div id="controls" style="margin-bottom: 15px; padding: 10px; background: var(--md-code-bg-color); border-radius: 4px;">
       <label style="margin-right: 15px;"><input id="toggleLabels" type="checkbox" checked /> Show labels</label>
       <label style="margin-right: 15px;"><input id="toggleProperties" type="checkbox" /> Show properties</label>
@@ -149,7 +148,6 @@ Dieu le voit!
 ## Digital Assets
 
 ??? abstract "Digitised images"
-    If nothing appears, reload the webpage manually.
     <div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
         <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
     </div>

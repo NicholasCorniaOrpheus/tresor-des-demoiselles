@@ -488,8 +488,8 @@
         "location": "/entity/FiFAWv3HUTn6",
         "properties": {
             "label": [
-                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay.",
-                "Le Mariage chinois"
+                "Le Mariage chinois",
+                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay."
             ],
             "class": [
                 "Manifestation"
@@ -866,8 +866,8 @@
         "location": "/entity/T3eDQEfcZJYp",
         "properties": {
             "label": [
-                "Cracoviana. pour le piano",
-                "Cracoviana: pour le piano"
+                "Cracoviana: pour le piano",
+                "Cracoviana. pour le piano"
             ],
             "class": [
                 "Manifestation"
@@ -2690,8 +2690,8 @@
         "location": "/entity/98ui7xFiSD8t",
         "properties": {
             "label": [
-                "La vallée de chevreuse. suite de valses",
-                "La vallée de chevreuse : suite de valses"
+                "La vallée de chevreuse : suite de valses",
+                "La vallée de chevreuse. suite de valses"
             ],
             "class": [
                 "Manifestation"
@@ -3065,8 +3065,8 @@
         "location": "/entity/A4CGKMgQ6e5R",
         "properties": {
             "label": [
-                "Journal des demoiselles (1862)",
-                null
+                null,
+                "Journal des demoiselles (1862)"
             ],
             "class": [
                 "Manifestation"
@@ -3397,8 +3397,8 @@
         "location": "/entity/U3dAsUoxKKnK",
         "properties": {
             "label": [
-                "Histoire d'une Fleur",
-                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano."
+                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano.",
+                "Histoire d'une Fleur"
             ],
             "class": [
                 "Manifestation"
@@ -3534,8 +3534,8 @@
         "location": "/entity/GYA62ZM8SThf",
         "properties": {
             "label": [
-                null,
-                "Journal des demoiselles (1870)"
+                "Journal des demoiselles (1870)",
+                null
             ],
             "class": [
                 "Manifestation"
@@ -4446,8 +4446,8 @@
         "location": "/entity/S77HJUbgUuKq",
         "properties": {
             "label": [
-                "Le Voyageurs de nuit: Chansonette",
-                "Le Voyageurs de nuit"
+                "Le Voyageurs de nuit",
+                "Le Voyageurs de nuit: Chansonette"
             ],
             "class": [
                 "Manifestation"
@@ -4956,8 +4956,8 @@
         "location": "/entity/LiRnHQgHVwqd",
         "properties": {
             "label": [
-                "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan",
-                "Les lutins de Bretagne"
+                "Les lutins de Bretagne",
+                "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan"
             ],
             "class": [
                 "Manifestation"
@@ -5525,8 +5525,8 @@
         "location": "/entity/G2DfGMPf6jS5",
         "properties": {
             "label": [
-                "Le Pinson ou le bien pour le mal",
-                "Le Pinson"
+                "Le Pinson",
+                "Le Pinson ou le bien pour le mal"
             ],
             "class": [
                 "Manifestation"
@@ -6254,8 +6254,8 @@
         "location": "/entity/gzxLx7Y6cNMi",
         "properties": {
             "label": [
-                "Le Bouquet: Chansonette.",
-                "Le Bouquet"
+                "Le Bouquet",
+                "Le Bouquet: Chansonette."
             ],
             "class": [
                 "Manifestation"
@@ -6365,8 +6365,8 @@
         "location": "/entity/BKzyNci6mnwp",
         "properties": {
             "label": [
-                null,
-                "Journal des demoiselles (1883)"
+                "Journal des demoiselles (1883)",
+                null
             ],
             "class": [
                 "Manifestation"
@@ -7352,8 +7352,8 @@
         "location": "/entity/gRR8aAYdEX54",
         "properties": {
             "label": [
-                "Dieu le voit: Mélodie",
-                "Dieu le voit"
+                "Dieu le voit",
+                "Dieu le voit: Mélodie"
             ],
             "class": [
                 "Manifestation"
@@ -8841,8 +8841,8 @@
         "location": "/entity/gyh3ExubqN2H",
         "properties": {
             "label": [
-                "L'Aubépine: Polka mazurka",
-                "L'Aubépine"
+                "L'Aubépine",
+                "L'Aubépine: Polka mazurka"
             ],
             "class": [
                 "Manifestation"
@@ -9802,8 +9802,8 @@
         "location": "/entity/PnWGQzxqsYz8",
         "properties": {
             "label": [
-                "Polka sur le Val D'Andorre d'Halevy: pour piano",
-                "Polka sur le Val D'Andorre d'Halevy"
+                "Polka sur le Val D'Andorre d'Halevy",
+                "Polka sur le Val D'Andorre d'Halevy: pour piano"
             ],
             "class": [
                 "Manifestation"
@@ -9978,8 +9978,8 @@
         "location": "/entity/SUrWQhaKnmHL",
         "properties": {
             "label": [
-                "Un concert chez les demoiselles de Saint-Cyr: opérette en un acte",
-                "Un concert chez les demoiselles de Saint-Cyr"
+                "Un concert chez les demoiselles de Saint-Cyr",
+                "Un concert chez les demoiselles de Saint-Cyr: opérette en un acte"
             ],
             "class": [
                 "Manifestation"
@@ -11298,8 +11298,8 @@
         "location": "/entity/ju8BRMVThr4C",
         "properties": {
             "label": [
-                "Fauvette: Chansonette.",
-                "Mandoline. Sérénade."
+                "Mandoline. Sérénade.",
+                "Fauvette: Chansonette."
             ],
             "class": [
                 "Manifestation"
@@ -11889,8 +11889,8 @@
         "location": "/entity/AgTowXcdYL6T",
         "properties": {
             "label": [
-                "Thalie: Polka mazurka.",
-                "Thalie"
+                "Thalie",
+                "Thalie: Polka mazurka."
             ],
             "class": [
                 "Manifestation"

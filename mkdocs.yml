@@ -44,14 +44,15 @@ theme:
       accent: amber
       
   features:
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
-    - navigation.sections
-    - navigation.expand
+    #- navigation.instant
+    #- navigation.instant.prefetch
+    #- navigation.instant.progress
+    #- navigation.sections
+    #- navigation.expand
     - navigation.prune
     - search.share
-    - toc.integrate
+    #- toc.integrate
+    - toc.follow
 
 
 copyright: Copyright &copy; 2026 Orpheus Instituut, Resounding Libraries
