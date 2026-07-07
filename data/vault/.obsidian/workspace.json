@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,9 +185,10 @@
   },
   "active": "a021b60216f25b74",
   "lastOpenFiles": [
+    "entity/3me sonatine. musique de Mlle H. Wild.md",
+    "manifestation_list.base",
     "entity/Journal des demoiselles (1841).md",
     "entity/Austrian National Library.md",
-    "manifestation_list.base",
     "entity/Austria.md",
     "entity/Vienna.md",
     "classes/Agent.md",

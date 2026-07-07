@@ -1,5 +1,4 @@
-from pyreslib import transkribus, utilities
-from kblight import pagexml2tei
+from pyreslib import transkribus, utilities, tei
 from pathlib import Path
 
 
@@ -55,5 +54,5 @@ output_dir = "./vault/assets/OI-20144531"  # 1857
 # )
 
 
-# pagexml2tei.generate_tei_from_two_column_pagexml(page_xml_path=test_xml)
-# pagexml2tei.document_pagexml2tei(document_dir=output_dir)
+# tei.generate_tei_from_two_column_pagexml(page_xml_path=test_xml)
+# tei.document_pagexml2tei(document_dir=output_dir)
