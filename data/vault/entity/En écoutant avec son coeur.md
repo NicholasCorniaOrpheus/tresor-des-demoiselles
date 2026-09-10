@@ -4,8 +4,7 @@ label: En écoutant avec son coeur
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p26
-instance_of:
-  - "[[romance]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Magasin des demoiselles]]"
@@ -24,12 +23,14 @@ has_version:
     note: dedicated to the Trésor des demoiselles' subscribers.
     publication_date: 1853-01-01
     publisher: "[[Joseph Meynne]]"
-    place_of_publication: ["[[Brussels]]"]
+    place_of_publication:
+      - "[[Brussels]]"
   - permalink: http://ark.bnf.fr/ark:/12148/cb42940871v
     holding_institution: "[[Bibliothèque nationale de France]]"
     publication_date: 1861-01-01
     publisher: "[[Édouard Gérard]]"
-    place_of_publication: ["[[Paris]]"]
+    place_of_publication:
+      - "[[Paris]]"
   - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
     holding_institution: "[[Orpheus Instituut]]"
     place_of_publication: "[[Brussels]]"
@@ -47,6 +48,8 @@ about:
 language:
   - "[[French]]"
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p26/orp-pierr-enécout-20143702p26-fs-00001.jpg
+form_of_creative_work:
+  - "[[romance]]"
 ---
 ### Lyrics
 

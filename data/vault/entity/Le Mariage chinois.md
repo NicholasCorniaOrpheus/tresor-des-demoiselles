@@ -4,8 +4,7 @@ label: Le Mariage chinois
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p42
-instance_of:
-  - "[[song]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
@@ -35,4 +34,6 @@ language:
   - "[[French]]"
 based_on:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p42/orp-plant-lemaria-20143702p42-fs-00001.jpg
+form_of_creative_work:
+  - "[[song]]"
 ---

@@ -4,9 +4,7 @@ label: Thalie
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p44
-instance_of:
-  - "[[polka]]"
-  - "[[mazurka]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Trésor des demoiselles]]"
@@ -28,4 +26,7 @@ about:
 language:
   - "[[French]]"
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p44/orp-talex-thalie-20143702p44-ps-00001.jpg
+form_of_creative_work:
+  - "[[polka]]"
+  - "[[mazurka]]"
 ---

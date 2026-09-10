@@ -6,7 +6,7 @@ image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demois
 description:
 local_asset_path: ./assets/RCA-12971499
 instance_of:
-  - "[[song]]"
+  - "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Trésor des demoiselles]]"
@@ -32,4 +32,6 @@ language:
 depicts:
 based_on:
 about:
+form_of_creative_work:
+  - "[[song]]"
 ---

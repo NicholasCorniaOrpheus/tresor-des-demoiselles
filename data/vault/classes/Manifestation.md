@@ -130,15 +130,6 @@ fields:
     options: {}
     path: 5rjmFM
     id: bX91SH
-  - name: publication_date
-    type: Date
-    options:
-      dateShiftInterval: 1 day
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: false
-      linkPath: ""
-    path: 5rjmFM
-    id: TbFUgn
   - name: language
     type: MultiFile
     options: {}
@@ -149,15 +140,6 @@ fields:
     options: {}
     path: xRzGnx
     id: sallNC
-  - name: publication_date
-    type: Date
-    options:
-      dateShiftInterval: 1 day
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: false
-      linkPath: ""
-    path: xRzGnx
-    id: NEGFnK
   - name: external_source
     type: Input
     options: {}
@@ -200,7 +182,27 @@ fields:
     options: {}
     path: xRzGnx
     id: kApSo6
-version: "2.367"
+  - name: form_of_creative_work
+    type: MultiFile
+    options: {}
+    path: ""
+    id: DwcimQ
+  - name: publication_date
+    type: Input
+    options: {}
+    path: xRzGnx
+    id: uAuEk0
+  - name: publication_date
+    type: Input
+    options: {}
+    path: 5rjmFM
+    id: Ioa9Uo
+  - name: image
+    type: Input
+    options: {}
+    path: ""
+    id: AapLMW
+version: "2.382"
 limit: 20
 mapWithTag: false
 icon: package
@@ -212,24 +214,26 @@ extends:
 savedViews: []
 favoriteView:
 fieldsOrder:
+  - AapLMW
   - PWuiY4
   - gDUx1D
   - S07w9b
   - X3qTSb
   - Z9J61q
+  - DwcimQ
   - Xrl2OJ
   - fJgRnt
   - 5rjmFM
   - 46X7TF
-  - TbFUgn
+  - Ioa9Uo
   - bX91SH
   - ckrkmv
   - hv32kD
   - xRzGnx
   - rlg2LH
   - HbZNbn
+  - uAuEk0
   - kApSo6
-  - NEGFnK
   - sallNC
   - mqQ6Fj
   - wfIdjX

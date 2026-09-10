@@ -4,8 +4,7 @@ label: La Pervenche
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p35
-instance_of:
-  - "[[polka]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Trésor des demoiselles]]"
@@ -28,4 +27,6 @@ based_on:
 about:
 language:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p35/orp-lenbi-laperve-20143702p35-ps-00001.jpg
+form_of_creative_work:
+  - "[[polka]]"
 ---

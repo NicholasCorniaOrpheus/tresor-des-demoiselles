@@ -4,8 +4,7 @@ label: Histoire d'une Fleur
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p20
-instance_of:
-  - "[[song]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
@@ -34,4 +33,6 @@ about:
 language: "[[French]]"
 based_on:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p20/orp-lassa-histoir-20143702p20-fs-00001.jpg
+form_of_creative_work:
+  - "[[song]]"
 ---

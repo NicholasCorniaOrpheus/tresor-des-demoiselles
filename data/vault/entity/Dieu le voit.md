@@ -4,8 +4,7 @@ label: Dieu le voit
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p36
-instance_of:
-  - "[[song]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Trésor des demoiselles]]"
@@ -30,6 +29,8 @@ about:
 language:
   - "[[French]]"
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p36/orp-henri-dieulev-20143702p36-fs-00001.jpg
+form_of_creative_work:
+  - "[[song]]"
 ---
 ### Lyrics
 

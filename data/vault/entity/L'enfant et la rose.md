@@ -4,7 +4,8 @@ label: "L'enfant et la rose: mélodie"
 aliases:
 description:
 local_asset_path: ./assets/RCA-12971523
-instance_of: "[[song]]"
+instance_of:
+  - "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Trésor des demoiselles]]"
@@ -35,4 +36,6 @@ depicts:
 based_on:
 about:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971523/20260608141705109_0007.jpg
+form_of_creative_work:
+  - "[[song]]"
 ---

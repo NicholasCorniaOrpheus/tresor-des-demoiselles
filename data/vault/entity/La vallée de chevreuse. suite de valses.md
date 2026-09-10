@@ -3,14 +3,17 @@ class: Manifestation
 label: La vallée de chevreuse. suite de valses
 aliases:
 description:
-local_asset_path:
-instance_of: "[[waltz]]"
+local_asset_path: ./assets/RCB-BV10-7424_1879-1
+instance_of:
+  - "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
-    publication_date: 1879-01-01
+    publication_date: 1879-10-01
     volume: 47
 contributor:
+  - value: "[[Marie Antonine Joséphine de Gramont]]"
+    role: "[[dedicatee]]"
   - value: "[[Hortense Wild]]"
     role: "[[composer]]"
 has_version:
@@ -27,6 +30,9 @@ instrumentation:
 depicts: "[[Chevreuse]]"
 about: "[[landscape]]"
 language:
-based_on: 
+based_on:
+form_of_creative_work:
+  - "[[waltz]]"
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCB-BV10-7424_1879-1/BV10-7424_1879-1_001.jpg
 ---
 

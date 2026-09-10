@@ -4,8 +4,7 @@ label: Vole Vite
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p21
-instance_of:
-  - "[[polka]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
@@ -28,4 +27,6 @@ about:
 language:
 based_on:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p21/orp-mouvi-volevit-20143702p21-ps-00001.jpg
+form_of_creative_work:
+  - "[[polka]]"
 ---

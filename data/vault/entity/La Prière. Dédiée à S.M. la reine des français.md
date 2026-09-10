@@ -4,8 +4,7 @@ label: La Prière. Dédiée à S.M. la reine des français
 aliases:
 description:
 local_asset_path: ./assets/MDZ-10359987_2
-instance_of:
-  - "[[song]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
@@ -38,4 +37,5 @@ language:
   - "[[French]]"
 based_on:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/MDZ-10359987_2/001.jpg
+form_of_creative_work: "[[song]]"
 ---

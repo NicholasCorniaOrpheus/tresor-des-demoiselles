@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "identifier": "multitext",
-    "holding_institution": "multitext"
+    "holding_institution": "multitext",
+    "form_of_creative_work": "multitext"
   }
 }

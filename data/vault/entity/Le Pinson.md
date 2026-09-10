@@ -4,8 +4,7 @@ label: Le Pinson
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p40
-instance_of:
-  - "[[song]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Trésor des demoiselles]]"
@@ -49,6 +48,8 @@ language:
   - "[[French]]"
 external_source: https://uurl.kbr.be/1477349
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p40/orp-rauis-lepinso-20143702p40-fs-00001.jpg
+form_of_creative_work:
+  - "[[song]]"
 ---
 ### Lyrics 
 

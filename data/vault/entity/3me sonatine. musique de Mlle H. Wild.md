@@ -3,8 +3,10 @@ class: Manifestation
 label: 3me sonatine. musique de Mlle H. Wild
 aliases:
 description:
-local_asset_path:
-instance_of: "[[piano sonata]]"
+local_asset_path: ./assets/RCB-BV10-7424_1876-1
+instance_of:
+  - "[[notated music]]"
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCB-BV10-7424_1876-1/BV10-7424_1876-1_001.jpg
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
@@ -18,21 +20,24 @@ has_version:
     note: 3 sonatines for piano, Op. 20
     holding_institution: "[[Bibliothèque nationale de France]]"
     publication_date: 1872-01-01
-    place_of_publication: ["[[Paris]]"]
+    place_of_publication:
+      - "[[Paris]]"
     publisher: "[[Auguste Durand]]"
   - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89100
     holding_institution: "[[Royal Conservatory of Brussels]]"
-    publication_date: 1890-01-01
+    publication_date: 1876-01-01
     place_of_publication:
       - "[[Paris]]"
     external_source:
-title: "3me sonatine. musique de Mlle H. Wild"
+title: 3me sonatine. musique de Mlle H. Wild
 instrumentation:
   - value: "[[piano]]"
     quantity: 1
 depicts:
 about:
 language:
-based_on: 
+based_on:
+form_of_creative_work:
+  - "[[sonatina]]"
 ---
 

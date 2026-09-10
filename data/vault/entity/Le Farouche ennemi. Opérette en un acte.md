@@ -4,9 +4,10 @@ label: Le Farouche ennemi. Opérette en un acte
 aliases:
 description:
 local_asset_path: ./assets/MDZ-10360013_1
-instance_of:
-  - "[[chamber opera]]"
+instance_of: "[[notated music]]"
+form_of_creative_work:
   - "[[operetta]]"
+  - "[[chamber opera]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"

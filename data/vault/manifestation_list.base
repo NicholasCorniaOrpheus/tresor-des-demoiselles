@@ -8,17 +8,43 @@ views:
       - file.name
       - image
       - local_asset_path
+      - instance_of
+      - form_of_creative_work
       - contributor
       - has_version
-      - instance_of
       - instrumentation
       - part_of
       - title
       - based_on
     sort:
+      - property: file.name
+        direction: ASC
+      - property: form_of_creative_work
+        direction: DESC
       - property: image
         direction: ASC
       - property: local_asset_path
         direction: ASC
     columnSize:
       note.image: 327
+  - type: table
+    name: notated_music
+    filters:
+      and:
+        - instance_of == ["[[notated music]]"]
+    order:
+      - file.name
+      - form_of_creative_work
+      - contributor
+      - has_version
+      - part_of
+      - instrumentation
+  - type: table
+    name: periodical
+    filters:
+      and:
+        - instance_of == ["[[periodical]]"]
+    order:
+      - file.name
+      - has_version
+      - part_of

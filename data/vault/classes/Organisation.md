@@ -32,15 +32,6 @@ fields:
       itemDisplayTemplate: ""
     path: ""
     id: 7iglTM
-  - name: value
-    type: Date
-    options:
-      dateShiftInterval: 1 day
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: false
-      linkPath: ""
-    path: 7iglTM
-    id: ZB8VmV
   - name: image
     type: Input
     options: {}
@@ -65,15 +56,6 @@ fields:
       itemDisplayTemplate: ""
     path: ""
     id: 2u9wEt
-  - name: value
-    type: Date
-    options:
-      dateShiftInterval: 1 day
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: false
-      linkPath: ""
-    path: 2u9wEt
-    id: mWqGaC
   - name: contributor
     type: ObjectList
     options:
@@ -116,7 +98,17 @@ fields:
     options: {}
     path: VTMhZW
     id: 2xmb8U
-version: "2.139"
+  - name: value
+    type: Input
+    options: {}
+    path: 7iglTM
+    id: fQrnJ9
+  - name: value
+    type: Input
+    options: {}
+    path: 2u9wEt
+    id: 3Gh93s
+version: "2.144"
 limit: 20
 mapWithTag: false
 icon: package
@@ -137,9 +129,9 @@ fieldsOrder:
   - U9LzZw
   - HWx88w
   - 7iglTM
-  - ZB8VmV
+  - fQrnJ9
   - 2u9wEt
-  - mWqGaC
+  - 3Gh93s
   - rxPzDR
   - VTMhZW
   - YwNyk5

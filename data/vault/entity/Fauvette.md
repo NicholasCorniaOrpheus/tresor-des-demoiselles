@@ -4,8 +4,7 @@ label: Fauvette
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p29
-instance_of:
-  - "[[song]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Magasin des demoiselles]]"
@@ -39,4 +38,6 @@ language:
   - "[[French]]"
 based_on:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p29/orp-dufau-fauvett-20143702p29-fs-00001.jpg
+form_of_creative_work:
+  - "[[song]]"
 ---

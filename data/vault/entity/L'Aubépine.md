@@ -4,9 +4,7 @@ label: L'Aubépine
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p30
-instance_of:
-  - "[[polka]]"
-  - "[[mazurka]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
@@ -30,4 +28,7 @@ about:
 language:
 based_on:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p30/orp-bosch-l'aubép-20143702p30-ps-00001.jpg
+form_of_creative_work:
+  - "[[polka]]"
+  - "[[mazurka]]"
 ---

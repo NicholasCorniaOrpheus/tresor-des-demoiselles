@@ -4,8 +4,7 @@ label: Deux Madones. Romance
 aliases:
 description:
 local_asset_path: ./assets/MDZ-10359989_1
-instance_of:
-  - "[[romance]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
@@ -40,4 +39,5 @@ language:
   - "[[French]]"
 based_on:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/MDZ-10359989_1/001.jpg
+form_of_creative_work: "[[romance]]"
 ---

@@ -4,8 +4,7 @@ label: Fantaisie sur le Carillonneur
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p22
-instance_of:
-  - "[[fantasia]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Magasin des demoiselles]]"
@@ -18,13 +17,15 @@ contributor:
 has_version:
   - permalink: https://anet.be/record/opacdkvc/c:lvd:6722999
     holding_institution: "[[Royal Conservatory of Antwerp]]"
-    place_of_publication: ["[[Brussels]]"]
+    place_of_publication:
+      - "[[Brussels]]"
     publisher: "[[Pascal Nacher]]"
   - permalink: http://ark.bnf.fr/ark:/12148/cb42884316z
     holding_institution: "[[Bibliothèque nationale de France]]"
     note: Piano four-hands version. Second edition.
     publication_date: 1862-01-01
-    place_of_publication: ["[[Paris]]"]
+    place_of_publication:
+      - "[[Paris]]"
   - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
     holding_institution: "[[Orpheus Instituut]]"
     place_of_publication: "[[Brussels]]"
@@ -39,4 +40,6 @@ based_on:
 about:
 language:
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p22/orp-burgm-fantais-20143702p22-ps-00001.jpg
+form_of_creative_work:
+  - "[[fantasia]]"
 ---

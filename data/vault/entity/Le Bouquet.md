@@ -4,8 +4,7 @@ label: Le Bouquet
 aliases:
 description:
 local_asset_path: ./assets/OI-20143702p33
-instance_of:
-  - "[[song]]"
+instance_of: "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Magasin des demoiselles]]"
@@ -35,6 +34,8 @@ about:
 language:
   - "[[French]]"
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p33/orp-talbo-lebouqu-20143702p33-fs-00001.jpg
+form_of_creative_work:
+  - "[[song]]"
 ---
 ### Lyrics
 

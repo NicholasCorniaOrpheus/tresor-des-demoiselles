@@ -32,15 +32,6 @@ fields:
     options: {}
     path: fJIl1v
     id: Tot176
-  - name: value
-    type: Date
-    options:
-      dateShiftInterval: 1 day
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: false
-      linkPath: ""
-    path: fJIl1v
-    id: hzpHAb
   - name: described_by_source
     type: MultiFile
     options: {}
@@ -112,15 +103,6 @@ fields:
     options: {}
     path: ""
     id: YRqmxG
-  - name: value
-    type: Date
-    options:
-      dateShiftInterval: 1 day
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: false
-      linkPath: ""
-    path: cOQ0BS
-    id: Uq3dYt
   - name: identifier
     type: Input
     options: {}
@@ -136,7 +118,34 @@ fields:
     options: {}
     path: ""
     id: D6HF00
-version: "2.200"
+  - name: related_to
+    type: ObjectList
+    options:
+      displayTemplate: ""
+      itemDisplayTemplate: ""
+    path: ""
+    id: CY396p
+  - name: value
+    type: File
+    options: {}
+    path: CY396p
+    id: kAwBpA
+  - name: relationship
+    type: File
+    options: {}
+    path: CY396p
+    id: aUzFxG
+  - name: value
+    type: Input
+    options: {}
+    path: cOQ0BS
+    id: eXumQL
+  - name: value
+    type: Input
+    options: {}
+    path: fJIl1v
+    id: TIGb8i
+version: "2.208"
 limit: 20
 mapWithTag: false
 icon: package
@@ -148,6 +157,9 @@ extends:
 savedViews: []
 favoriteView:
 fieldsOrder:
+  - CY396p
+  - kAwBpA
+  - aUzFxG
   - EjeNgT
   - nmXNJC
   - 5wFLzb
@@ -157,14 +169,14 @@ fieldsOrder:
   - MisVl5
   - YRqmxG
   - fJIl1v
-  - hzpHAb
+  - TIGb8i
   - Pqtx51
   - Tot176
   - 1CkwBn
   - 4nz87j
   - bIjIr4
   - cOQ0BS
-  - Uq3dYt
+  - eXumQL
   - G1EC1u
   - n7cv2h
   - vnvVrn

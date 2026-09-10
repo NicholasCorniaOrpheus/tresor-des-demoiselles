@@ -5,7 +5,7 @@ aliases:
 description:
 local_asset_path: ./assets/RCA-12971526
 instance_of:
-  - "[[song]]"
+  - "[[notated music]]"
 has_part:
 part_of:
   - value: "[[Journal des demoiselles]]"
@@ -38,4 +38,6 @@ about:
 language:
   - "[[French]]"
 image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971526/20260608141705109_0011.jpg
+form_of_creative_work:
+  - "[[song]]"
 ---
