@@ -7,18 +7,18 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:HjpKbBQc7gas-AceCiGvveWBW a rdf:Statement ;
+tdd:HjpKbBQc7gas-84jhDq2QskdJ a rdf:Statement ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11351548> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11351548/manifest> ;
-    rdf:object "N586e29b1829a48a791b2a1c531240039" ;
+    rdf:object "N6f3d912990344e9ebdde010869b395ac" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:HjpKbBQc7gas ;
     schema:datePublished "1877-01-01" ;
     schema:url <https://mdz-nbn-resolving.de/details:bsb11351548> .
 
-tdd:HjpKbBQc7gas-AvLvJUjQktfy a rdf:Statement ;
+tdd:HjpKbBQc7gas-8TXBCHdNV9yK a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:HjpKbBQc7gas ;

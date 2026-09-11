@@ -7,70 +7,70 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:bGHNgXsPckvg-2DdhANHVTUm2 a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:VcpJBubpN5Jf ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:bGHNgXsPckvg .
-
-tdd:bGHNgXsPckvg-5shAKFSdd2xc a rdf:Statement ;
+tdd:bGHNgXsPckvg-93fCNBUtbsuw a rdf:Statement ;
     bf:Note "Part of the periodical Le mélodie, vol. 29" ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nafd130c560ce4bc7a0c1d575cf3bf3f3" ;
+    rdf:object "N277672df2af243019cdef2db0d43892c" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:bGHNgXsPckvg ;
     schema:url <https://anet.be/record/opacdkvc/c:lvd:14382572> .
 
-tdd:bGHNgXsPckvg-Ez9N5JgLkoSD a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:bGHNgXsPckvg .
-
-tdd:bGHNgXsPckvg-RqixBZ5qWqRT a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:2YakjmMCnSKo ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:bGHNgXsPckvg .
-
-tdd:bGHNgXsPckvg-UoRaD24FqkKH a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:dcRsGEWm6xtE ;
-    rdf:object "Nc29cfa37c2cd4495919b44f91004d89a" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:bGHNgXsPckvg ;
-    schema:datePublished "1852-01-01" ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=181935> .
-
-tdd:bGHNgXsPckvg-aDiqcXdXJsWa a rdf:Statement ;
-    rdf:object tdd:fPQHFdTsWu9q ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:bGHNgXsPckvg ;
-    schema:volumeNumber 29 .
-
-tdd:bGHNgXsPckvg-ajrDmsfGiwyW a rdf:Statement ;
-    bf:Note "La mélodie vol. 29" ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
+tdd:bGHNgXsPckvg-CypDZjaWqnxW a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N26b193962c4d4b85b5d79176afb47295" ;
+    rdf:object "N3eabfa2f1c7146a8b43b2786c6758469" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:bGHNgXsPckvg ;
-    schema:url <https://anet.be/record/opacap/c:lvd:14382572> .
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:bGHNgXsPckvg-dTeu5mpnrvJA a rdf:Statement ;
+tdd:bGHNgXsPckvg-EfHYF7NJ9DUH a rdf:Statement ;
     wdt:P1114 "2" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:bGHNgXsPckvg .
 
-tdd:bGHNgXsPckvg-f2AHdkkGQPQ8 a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N244eaf5be75a41ce8f0f0ee305a253ac" ;
+tdd:bGHNgXsPckvg-HsUmiuaFv6hx a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:dcRsGEWm6xtE ;
+    rdf:object "N7253416a69e74ddf89978a294650b1aa" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:bGHNgXsPckvg ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+    schema:datePublished "1852-01-01" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=181935> .
+
+tdd:bGHNgXsPckvg-JQD89natCyyg a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:bGHNgXsPckvg .
+
+tdd:bGHNgXsPckvg-NycBh24uAxmh a rdf:Statement ;
+    rdf:object tdd:fPQHFdTsWu9q ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:bGHNgXsPckvg ;
+    schema:volumeNumber 29 .
+
+tdd:bGHNgXsPckvg-RYsEuQm47QTW a rdf:Statement ;
+    bf:Note "La mélodie vol. 29" ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Ne6202b1718f646d09cc14957cc642b04" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:bGHNgXsPckvg ;
+    schema:url <https://anet.be/record/opacap/c:lvd:14382572> .
+
+tdd:bGHNgXsPckvg-UQL9t3Zi8Spm a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:VcpJBubpN5Jf ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:bGHNgXsPckvg .
+
+tdd:bGHNgXsPckvg-WtyuKAtjJN8W a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:2YakjmMCnSKo ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:bGHNgXsPckvg .
 
 tdd:bGHNgXsPckvg a rdfs:Resource ;
     rdfs:label "Les Fauvettes" ;

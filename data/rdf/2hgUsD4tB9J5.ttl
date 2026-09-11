@@ -7,33 +7,33 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:2hgUsD4tB9J5-9Jde9N6rygGk a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:ku7b5p7YSdzi ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:2hgUsD4tB9J5 .
-
-tdd:2hgUsD4tB9J5-DiMW5e8wCgj8 a rdf:Statement ;
+tdd:2hgUsD4tB9J5-AcoXc9vcdsdP a rdf:Statement ;
     bf:Note "Edition belge." ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nc8d9b012ad2c43fea8add26370ce1d65" ;
+    rdf:object "N975aa0b3c1724ec7b94aa10b25ab2568" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:2hgUsD4tB9J5 ;
     schema:datePublished "1855-09" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88853> .
 
-tdd:2hgUsD4tB9J5-Vt5rUjqAXrFk a rdf:Statement ;
-    rdf:object tdd:5vMfYTL9wGVi ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:2hgUsD4tB9J5 ;
-    schema:datePublished "1855-09" .
+tdd:2hgUsD4tB9J5-ErqvNd3AdJmz a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ku7b5p7YSdzi ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2hgUsD4tB9J5 .
 
-tdd:2hgUsD4tB9J5-dodGw642Co7t a rdf:Statement ;
+tdd:2hgUsD4tB9J5-aMV9HAw4GgeR a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:2hgUsD4tB9J5 .
+
+tdd:2hgUsD4tB9J5-jKK4ZyuDR8gh a rdf:Statement ;
+    rdf:object tdd:5vMfYTL9wGVi ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:2hgUsD4tB9J5 ;
+    schema:datePublished "1855-09" .
 
 tdd:2hgUsD4tB9J5 a rdfs:Resource ;
     rdfs:label "Une larme. Mélodie sympathique variée" ;

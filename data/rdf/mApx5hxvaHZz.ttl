@@ -7,19 +7,19 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:mApx5hxvaHZz-QzSZxprRe8Jb a rdf:Statement ;
+tdd:mApx5hxvaHZz-X69Ch2UyhbbK a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:mApx5hxvaHZz ;
     schema:datePublished "1865-01-01" ;
     schema:volumeNumber 33 .
 
-tdd:mApx5hxvaHZz-o6U7gL8ZybyW a rdf:Statement ;
+tdd:mApx5hxvaHZz-Yys9itcABi8d a rdf:Statement ;
     bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1865." ;
     bf:electronicLocator <https://archive.org/details/bub_gb_EV4EAAAAYAAJ> ;
     bf:heldBy tdd:G9FZhC6pNp69 ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nd00ac2b35aa44a348d350d6aba7459b2" ;
+    rdf:object "Nf55557b06cb94cb4b9df992c995ce8fa" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:mApx5hxvaHZz ;
     schema:datePublished "1865-01-01" ;

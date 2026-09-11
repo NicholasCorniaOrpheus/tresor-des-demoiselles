@@ -7,29 +7,29 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:VqKwz7CTAa94-4NKQasyYPDXE a rdf:Statement ;
+tdd:VqKwz7CTAa94-9HvrUgbrFbcz a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:VqKwz7CTAa94 ;
     schema:datePublished "1857-01-01" ;
     schema:volumeNumber 25 .
 
-tdd:VqKwz7CTAa94-LdugBznz3HcW a rdf:Statement ;
+tdd:VqKwz7CTAa94-FCzqtkmdrATr a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:VqKwz7CTAa94 .
 
-tdd:VqKwz7CTAa94-Q65tDyuaHaH3 a rdf:Statement ;
+tdd:VqKwz7CTAa94-NBdGBiqA7m9k a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:YKxiqAW7Evgt ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:VqKwz7CTAa94 .
 
-tdd:VqKwz7CTAa94-SDaGAzJcgqCR a rdf:Statement ;
+tdd:VqKwz7CTAa94-bY5JPgFAHq7v a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Na7669d94629e41de8f506c7dee6d8c21" ;
+    rdf:object "Nf65f9244b9944655ab50dd65429ec8ef" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:VqKwz7CTAa94 ;
     schema:datePublished "1857-01-01" ;

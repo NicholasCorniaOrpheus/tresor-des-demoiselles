@@ -6,13 +6,13 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:NS7S3TJjbHvU-67t7Yn7jMBja a rdf:Statement ;
+tdd:NS7S3TJjbHvU-2GKxgMeWZ6zv a rdf:Statement ;
     rdf:object tdd:7VQdaj7JW86d ;
     rdf:predicate wdt:P131 ;
     rdf:subject tdd:NS7S3TJjbHvU ;
     schema:address "Boulevard des Italiens, 1" .
 
-tdd:NS7S3TJjbHvU-7VWy6kdfJLWx a rdf:Statement ;
+tdd:NS7S3TJjbHvU-DjdFwBkoSCHg a rdf:Statement ;
     bf:Role tdd:nQTxNAy4WtLK ;
     rdf:object tdd:VahNSkW7JbTC ;
     rdf:predicate dcterms:contributor ;

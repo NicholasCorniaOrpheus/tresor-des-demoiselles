@@ -6,31 +6,31 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:PnWGQzxqsYz8-5zoe72SwF6NB a rdf:Statement ;
+tdd:PnWGQzxqsYz8-XDosJ4XDHEMr a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:gSpQjJMRbo9y ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:PnWGQzxqsYz8 .
 
-tdd:PnWGQzxqsYz8-AD63goN3FFzL a rdf:Statement ;
+tdd:PnWGQzxqsYz8-aHGrqD23VPhC a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Nb595152dace34fa1aa81a489b4f1d655" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:PnWGQzxqsYz8 ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88621> .
+
+tdd:PnWGQzxqsYz8-braQhorFPK4s a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:PnWGQzxqsYz8 .
 
-tdd:PnWGQzxqsYz8-RLMQVtQBPNjD a rdf:Statement ;
+tdd:PnWGQzxqsYz8-mFyaCH6LFWHq a rdf:Statement ;
     bf:Role tdd:FM6DzoKyNv6j ;
     rdf:object tdd:jUohUDQ7mo5u ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:PnWGQzxqsYz8 .
-
-tdd:PnWGQzxqsYz8-SEYdZ5TkmDMq a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Ncfbe4d74439140baa591ed0c35c26efa" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:PnWGQzxqsYz8 ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88621> .
 
 tdd:PnWGQzxqsYz8 a rdfs:Resource ;
     rdfs:label "Polka sur le Val D'Andorre d'Halevy" ;

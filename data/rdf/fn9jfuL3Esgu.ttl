@@ -7,23 +7,23 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:fn9jfuL3Esgu-dKVBrm3r5iAP a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359987> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest> ;
-    rdf:object "Na2f104e5e47d49e4b97c5d28203d6fac" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:fn9jfuL3Esgu ;
-    schema:datePublished "1836-01-01" ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359987> .
-
-tdd:fn9jfuL3Esgu-eeBsUy7VK3ck a rdf:Statement ;
+tdd:fn9jfuL3Esgu-THFjp6Hszfkj a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:fn9jfuL3Esgu ;
     schema:datePublished "1836-01-01" ;
     schema:volumeNumber 4 .
+
+tdd:fn9jfuL3Esgu-iMqNWL6opopE a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359987> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest> ;
+    rdf:object "N5db30ea24ed14ebeb1a3a17212b2f824" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:fn9jfuL3Esgu ;
+    schema:datePublished "1836-01-01" ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359987> .
 
 tdd:fn9jfuL3Esgu a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1836)" ;

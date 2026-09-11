@@ -4,7 +4,7 @@ label:
 aliases:
 description:
 local_asset_path: ./assets/RCB-BV14-2029_1855-3
-image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-3/RCB-BV14-2029_1855-3_001.jpg
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-3/BV14-2029_1855-3_001.jpg
 instance_of:
   - "[[notated music]]"
 has_part:

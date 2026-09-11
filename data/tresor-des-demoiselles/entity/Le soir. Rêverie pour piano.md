@@ -4,7 +4,7 @@ label:
 aliases:
 description:
 local_asset_path: ./assets/RCA-15681836
-image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-15681836/RCA-15681836_001.jpg
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-15681836/2026-08-10_15-37-36_00001.jpg
 instance_of:
   - "[[notated music]]"
 has_part:

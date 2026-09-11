@@ -7,41 +7,41 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Q5YfCM4bBtmP-59Kp3CKEf99h a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:PBr2jjFrFXnm ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:Q5YfCM4bBtmP .
-
-tdd:Q5YfCM4bBtmP-ExKteSytPKbX a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:Q5YfCM4bBtmP ;
-    schema:datePublished "1838-01-01" ;
-    schema:volumeNumber 6 .
-
-tdd:Q5YfCM4bBtmP-bAGQdsvDtkMa a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
-    rdf:object "N9cc570fe7c04494d845d7502a9562cc3" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:Q5YfCM4bBtmP ;
-    schema:datePublished "1838-01-01" ;
-    schema:url <https://www.digitale-sammlungen.de/en/view/bsb10359989> .
-
-tdd:Q5YfCM4bBtmP-ctCGpxrD9Te2 a rdf:Statement ;
+tdd:Q5YfCM4bBtmP-As7pAeXMqgUP a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:Q5YfCM4bBtmP .
 
-tdd:Q5YfCM4bBtmP-g85w89S8ckyM a rdf:Statement ;
+tdd:Q5YfCM4bBtmP-CCjKPCE3cmCG a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:3v4q5PWHnZcN ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Q5YfCM4bBtmP .
+
+tdd:Q5YfCM4bBtmP-DxrbyfnZTcGx a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
+    rdf:object "Nb3d35e22a0c44268a439cd1ae17813d4" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Q5YfCM4bBtmP ;
+    schema:datePublished "1838-01-01" ;
+    schema:url <https://www.digitale-sammlungen.de/en/view/bsb10359989> .
+
+tdd:Q5YfCM4bBtmP-FXCEyaX9HLoa a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PBr2jjFrFXnm ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Q5YfCM4bBtmP .
+
+tdd:Q5YfCM4bBtmP-kqfRgTXhVur3 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:Q5YfCM4bBtmP ;
+    schema:datePublished "1838-01-01" ;
+    schema:volumeNumber 6 .
 
 tdd:Q5YfCM4bBtmP a rdfs:Resource ;
     rdfs:label "Quadrille. Parisina" ;

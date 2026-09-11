@@ -7,50 +7,50 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:2Qk3wiPP6j39-4LC7i9vLatbp a rdf:Statement ;
+tdd:2Qk3wiPP6j39-AoR2HzQVNQKZ a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Ne4bf335779a34980b96c0e2eb4880e1d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:url <https://anet.be/record/opacdkvc/c:lvd:6722999> .
+
+tdd:2Qk3wiPP6j39-KQWXNkUTRFGk a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:kXFWowftH5UQ ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:2Qk3wiPP6j39 .
 
-tdd:2Qk3wiPP6j39-4nF4Riy9LjS4 a rdf:Statement ;
+tdd:2Qk3wiPP6j39-QXmZyP6Hpa2T a rdf:Statement ;
+    bf:Note "Piano four-hands version. Second edition." ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N30ce8e06604c4f39b0fa53993c8f3b6d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:datePublished "1862-01-01" ;
+    schema:url <http://ark.bnf.fr/ark:/12148/cb42884316z> .
+
+tdd:2Qk3wiPP6j39-U9XxFHQZbDB3 a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N27df442016dd435e94153497fc4a2378" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:2Qk3wiPP6j39-aZByjvHZYY38 a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:2Qk3wiPP6j39 ;
     schema:datePublished "1852-01-01" ;
     schema:volumeNumber 9 .
 
-tdd:2Qk3wiPP6j39-K6rDFwug9dCi a rdf:Statement ;
-    bf:Note "Piano four-hands version. Second edition." ;
-    bf:heldBy tdd:MzUK38XpCjqB ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N49658129e532411abdafe731b681543f" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:2Qk3wiPP6j39 ;
-    schema:datePublished "1862-01-01" ;
-    schema:url <http://ark.bnf.fr/ark:/12148/cb42884316z> .
-
-tdd:2Qk3wiPP6j39-TjJAiZvobzjX a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nc84abdc4d0644eef80ee2e7864f80a9c" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:2Qk3wiPP6j39 ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:2Qk3wiPP6j39-gZtpHSey3Uq6 a rdf:Statement ;
+tdd:2Qk3wiPP6j39-gLQceVMCMmwm a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:2Qk3wiPP6j39 .
-
-tdd:2Qk3wiPP6j39-ksBy3Y7LrBKe a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nabb74b0acf6a4087be54ec853931bb92" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:2Qk3wiPP6j39 ;
-    schema:url <https://anet.be/record/opacdkvc/c:lvd:6722999> .
 
 tdd:2Qk3wiPP6j39 a rdfs:Resource ;
     rdfs:label "Fantaisie sur le Carillonneur" ;

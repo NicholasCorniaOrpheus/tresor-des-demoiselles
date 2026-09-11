@@ -7,43 +7,43 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:LXFHHQhGBzwC-25jfThToNjNr a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:i2BmdHj6e6Q9 ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:LXFHHQhGBzwC .
-
-tdd:LXFHHQhGBzwC-2Va5iDXTLKA3 a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N8467695a32f64c909fb5099d217ace82" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:LXFHHQhGBzwC ;
-    schema:url <https://anet.be/record/opacap/c:lvd:12971543> .
-
-tdd:LXFHHQhGBzwC-AnptqHfxeGgE a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:ctiBvfKCHD9m ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:LXFHHQhGBzwC .
-
-tdd:LXFHHQhGBzwC-TwQWZ7GddnmM a rdf:Statement ;
+tdd:LXFHHQhGBzwC-4uhNW7pEcmue a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:LXFHHQhGBzwC .
 
-tdd:LXFHHQhGBzwC-XxEPuVLeMFcA a rdf:Statement ;
+tdd:LXFHHQhGBzwC-FVDAmpG8Cw9S a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:i2BmdHj6e6Q9 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:LXFHHQhGBzwC .
+
+tdd:LXFHHQhGBzwC-PBzAhCTLLRhK a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:ctiBvfKCHD9m ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:LXFHHQhGBzwC .
+
+tdd:LXFHHQhGBzwC-ZYvhZ2UmoiWW a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:LXFHHQhGBzwC .
 
-tdd:LXFHHQhGBzwC-gUP9NYW6bhto a rdf:Statement ;
+tdd:LXFHHQhGBzwC-ZiTuPh3iq53e a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:LXFHHQhGBzwC ;
     schema:volumeNumber 3 .
+
+tdd:LXFHHQhGBzwC-ndDeHrgg23bA a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N52471ce41484432e95721eaf224b6bac" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:LXFHHQhGBzwC ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971543> .
 
 tdd:LXFHHQhGBzwC a rdfs:Resource ;
     rdfs:label "Espoir en Dieu: chants du crépuscule" ;

@@ -7,50 +7,50 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:gzxLx7Y6cNMi-8HpBXhgLa4sR a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:gzxLx7Y6cNMi ;
-    schema:datePublished "1853-01-01" .
-
-tdd:gzxLx7Y6cNMi-BRf6LEjeXLSJ a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N408fd1b8c75e480ea83c9983180aa852" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:gzxLx7Y6cNMi ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:gzxLx7Y6cNMi-CaGPVzhrG8VM a rdf:Statement ;
+tdd:gzxLx7Y6cNMi-5Mg9uHDqJED2 a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:axFwXa8k5P4u ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:gzxLx7Y6cNMi .
 
-tdd:gzxLx7Y6cNMi-WsQvWc46hoCH a rdf:Statement ;
+tdd:gzxLx7Y6cNMi-6ezKQNgCnoXi a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:gzxLx7Y6cNMi .
 
-tdd:gzxLx7Y6cNMi-ef26dsTsfxYp a rdf:Statement ;
+tdd:gzxLx7Y6cNMi-GrKtArdXhwxk a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:gzxLx7Y6cNMi .
 
-tdd:gzxLx7Y6cNMi-fLYHs3aiQXPU a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:axFwXa8k5P4u ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:gzxLx7Y6cNMi .
-
-tdd:gzxLx7Y6cNMi-oTsmuc7Y2q7M a rdf:Statement ;
+tdd:gzxLx7Y6cNMi-QJz6Xo9wrvie a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:gzxLx7Y6cNMi ;
     schema:datePublished "1852-01-01" ;
     schema:volumeNumber 9 .
+
+tdd:gzxLx7Y6cNMi-VCmLKFmQNMYx a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:gzxLx7Y6cNMi ;
+    schema:datePublished "1853-01-01" .
+
+tdd:gzxLx7Y6cNMi-XzG38wzSPFzU a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N9ce481406eda4d67bf4b250c0b0f1951" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:gzxLx7Y6cNMi ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:gzxLx7Y6cNMi-imPXKuvAvRF9 a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:axFwXa8k5P4u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:gzxLx7Y6cNMi .
 
 tdd:gzxLx7Y6cNMi a rdfs:Resource ;
     rdfs:label "Le Bouquet" ;

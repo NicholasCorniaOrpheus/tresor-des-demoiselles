@@ -6,51 +6,51 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:Pfu97uFDuP6p-CuyUEuGBUQk3 a rdf:Statement ;
+tdd:Pfu97uFDuP6p-CzAkdEGiGnCA a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:3vDTjkF6fXYz ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Pfu97uFDuP6p .
+
+tdd:Pfu97uFDuP6p-NfPFvFA3C5iQ a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-GadnEBLsKBjS a rdf:Statement ;
-    bf:Note "Edition belge." ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nba4ec9cc238e4d148cdcc8ca9227e353" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:Pfu97uFDuP6p ;
-    schema:datePublished "1856-09" ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88508> .
-
-tdd:Pfu97uFDuP6p-NoDEZQGcK5d4 a rdf:Statement ;
-    wdt:P1114 "2" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:Pfu97uFDuP6p .
-
-tdd:Pfu97uFDuP6p-URbjZ225dfjc a rdf:Statement ;
+tdd:Pfu97uFDuP6p-TCfutATD9VnH a rdf:Statement ;
     bf:Role tdd:FM6DzoKyNv6j ;
     rdf:object tdd:QefcFcp5yGSk ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-XRTBRyHERKGf a rdf:Statement ;
-    rdf:object tdd:5vMfYTL9wGVi ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:Pfu97uFDuP6p ;
-    schema:datePublished "1856-09" .
+tdd:Pfu97uFDuP6p-aqZjdHjJfBbG a rdf:Statement ;
+    wdt:P1114 "2" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-XWSDeqVZ3qSN a rdf:Statement ;
+tdd:Pfu97uFDuP6p-cUEMtKba39j8 a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:ku7b5p7YSdzi ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-mCKgaoJTciFb a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:3vDTjkF6fXYz ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:Pfu97uFDuP6p .
+tdd:Pfu97uFDuP6p-k8i9Bhi9NW9a a rdf:Statement ;
+    bf:Note "Edition belge." ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Na895b4333ce84c8b9ac5fd4222dda55c" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Pfu97uFDuP6p ;
+    schema:datePublished "1856-09" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88508> .
+
+tdd:Pfu97uFDuP6p-kLN4G7RfriJf a rdf:Statement ;
+    rdf:object tdd:5vMfYTL9wGVi ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:Pfu97uFDuP6p ;
+    schema:datePublished "1856-09" .
 
 tdd:Pfu97uFDuP6p a rdfs:Resource ;
     rdfs:label "Le réveil de la nature. Duetto pour soprano et mezzo-soprano" ;

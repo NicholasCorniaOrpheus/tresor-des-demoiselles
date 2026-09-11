@@ -7,48 +7,48 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ReUSHfcDfYkz-HCgz7a67TqkG a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:mFC9uMqxqNkK ;
-    rdf:predicate dcterms:contributor ;
+tdd:ReUSHfcDfYkz-2BQvWKtC7yYe a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:ReUSHfcDfYkz .
 
-tdd:ReUSHfcDfYkz-P3ZiNeSUSPTS a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:inAaJFhDYvcx ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:ReUSHfcDfYkz .
-
-tdd:ReUSHfcDfYkz-QSTu3dG2L3vK a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nbf9bbfd3e2784b77bc60425ffd9d7c3f" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:ReUSHfcDfYkz ;
-    schema:datePublished "1857-01-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:ReUSHfcDfYkz-VwEYdqkZqCdf a rdf:Statement ;
-    bf:heldBy tdd:7LoWAKaDbbUb ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N26c9fb99fb24494ab27822535f6c0007" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:ReUSHfcDfYkz ;
-    schema:datePublished "1857-01-01" ;
-    schema:url <http://id.sbn.it/bid/MUS0256990> .
-
-tdd:ReUSHfcDfYkz-bHBkCJDBktbt a rdf:Statement ;
+tdd:ReUSHfcDfYkz-RBDfpn32gnu6 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ReUSHfcDfYkz ;
     schema:datePublished "1857-01-01" ;
     schema:volumeNumber 25 .
 
-tdd:ReUSHfcDfYkz-c6bTsYNc9F43 a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
+tdd:ReUSHfcDfYkz-Zqk79eqccT6j a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:inAaJFhDYvcx ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:ReUSHfcDfYkz .
+
+tdd:ReUSHfcDfYkz-dGFFrEMyMG8q a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:mFC9uMqxqNkK ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ReUSHfcDfYkz .
+
+tdd:ReUSHfcDfYkz-g4j8xwQqPrQF a rdf:Statement ;
+    bf:heldBy tdd:7LoWAKaDbbUb ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N16189fbcd3b046929ab806baf472d689" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:ReUSHfcDfYkz ;
+    schema:datePublished "1857-01-01" ;
+    schema:url <http://id.sbn.it/bid/MUS0256990> .
+
+tdd:ReUSHfcDfYkz-ixvtGpLbxJtn a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Ne37b5fdf2005447c90d895c4a2a19bb1" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:ReUSHfcDfYkz ;
+    schema:datePublished "1857-01-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
 tdd:ReUSHfcDfYkz a rdfs:Resource ;
     rdfs:label "Herminie. Mazurka" ;

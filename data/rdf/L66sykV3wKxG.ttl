@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:L66sykV3wKxG-8Dy6XiLFZdRd a rdf:Statement ;
+tdd:L66sykV3wKxG-5hUFyNqN9oqq a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:L66sykV3wKxG .
 
-tdd:L66sykV3wKxG-RYiRxWMYgvvu a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:L66sykV3wKxG ;
-    schema:datePublished "1856-03-01" ;
-    schema:volumeNumber 24 .
+tdd:L66sykV3wKxG-7LVb28SDRKJx a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:bqLWPNXVxrhM ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:L66sykV3wKxG .
 
-tdd:L66sykV3wKxG-ZTGaaaESBnen a rdf:Statement ;
+tdd:L66sykV3wKxG-HUpZbGWdc9Sy a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nbaae997ff6d049669b8e6249a40d5e2e" ;
+    rdf:object "Ne36ca4c0519144d092c52717569ca461" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:L66sykV3wKxG ;
     schema:datePublished "1856-03-01" ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:L66sykV3wKxG-jJKX5e7rKmas a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:bqLWPNXVxrhM ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:L66sykV3wKxG .
+tdd:L66sykV3wKxG-UcieeKhLTEQB a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:L66sykV3wKxG ;
+    schema:datePublished "1856-03-01" ;
+    schema:volumeNumber 24 .
 
 tdd:L66sykV3wKxG a rdfs:Resource ;
     rdfs:label "Ninon. Schottich" ;

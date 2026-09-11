@@ -7,19 +7,19 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:gDmz3Fec5GTc-3rMfQKTbusy7 a rdf:Statement ;
+tdd:gDmz3Fec5GTc-6qBk6JLSFV47 a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:gDmz3Fec5GTc ;
     schema:datePublished "1886-01-01" ;
     schema:volumeNumber 42 .
 
-tdd:gDmz3Fec5GTc-BymxKHRx5vWK a rdf:Statement ;
+tdd:gDmz3Fec5GTc-iQi9bDHQPEHe a rdf:Statement ;
     bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k9996748> ;
     bf:heldBy tdd:MzUK38XpCjqB ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9996748/manifest.json> ;
-    rdf:object "Nd1d636a525ad44ab8fec0fab6929348a" ;
+    rdf:object "Nd4585f61baf94fa793a1e885757b965c" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:gDmz3Fec5GTc ;
     schema:datePublished "1886-01-01" ;

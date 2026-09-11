@@ -7,28 +7,28 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:8Kkx7abwhpEx-ApvDnCUEAKMT a rdf:Statement ;
+tdd:8Kkx7abwhpEx-JEzkTrhvYXLW a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:8Kkx7abwhpEx .
 
-tdd:8Kkx7abwhpEx-H7x9w9CKuypr a rdf:Statement ;
+tdd:8Kkx7abwhpEx-Wz24GEQgx3rh a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:ku7b5p7YSdzi ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:8Kkx7abwhpEx .
 
-tdd:8Kkx7abwhpEx-NxkgPFTJwNJE a rdf:Statement ;
+tdd:8Kkx7abwhpEx-XYJxViZKWBsF a rdf:Statement ;
     rdf:object tdd:5vMfYTL9wGVi ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:8Kkx7abwhpEx ;
     schema:datePublished "1855-09" .
 
-tdd:8Kkx7abwhpEx-oWRneUrU5REV a rdf:Statement ;
+tdd:8Kkx7abwhpEx-cSEonw3GLgmn a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N68772080bcca4e318ac48caca968d915" ;
+    rdf:object "N0596fffc0aae40c0b711e55982d92178" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:8Kkx7abwhpEx ;
     schema:datePublished "1855-09" ;

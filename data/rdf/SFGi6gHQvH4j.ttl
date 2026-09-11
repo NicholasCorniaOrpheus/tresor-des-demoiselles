@@ -7,37 +7,37 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:SFGi6gHQvH4j-64Eib7Rpeu3F a rdf:Statement ;
+tdd:SFGi6gHQvH4j-6Bw7jWe5xT7k a rdf:Statement ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
-    rdf:object "Ne59edff0a0e44549a1d1d35088c862cf" ;
+    rdf:object "N72a2c2e6b35a4600a8ecedf67e258a5b" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:SFGi6gHQvH4j ;
     schema:datePublished "1839-01-01" ;
     schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
 
-tdd:SFGi6gHQvH4j-JDuGn6irsXds a rdf:Statement ;
+tdd:SFGi6gHQvH4j-AsLG5PdH3ffr a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PBr2jjFrFXnm ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:SFGi6gHQvH4j .
+
+tdd:SFGi6gHQvH4j-CteezgD68jf4 a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:CaRovnpexber ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:SFGi6gHQvH4j .
+
+tdd:SFGi6gHQvH4j-DnNHRPybxW2i a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:SFGi6gHQvH4j ;
     schema:datePublished "1839-01-01" ;
     schema:volumeNumber 7 .
 
-tdd:SFGi6gHQvH4j-WdwqUz5kkk9k a rdf:Statement ;
-    bf:Role tdd:cZsa9QkDZfZY ;
-    rdf:object tdd:CaRovnpexber ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:SFGi6gHQvH4j .
-
-tdd:SFGi6gHQvH4j-kMKwaUeUsrbk a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:PBr2jjFrFXnm ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:SFGi6gHQvH4j .
-
-tdd:SFGi6gHQvH4j-khkbP4kXs5Ag a rdf:Statement ;
+tdd:SFGi6gHQvH4j-hDKnvZUWWfa3 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;

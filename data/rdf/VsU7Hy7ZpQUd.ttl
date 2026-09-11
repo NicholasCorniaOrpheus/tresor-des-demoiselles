@@ -6,38 +6,38 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:VsU7Hy7ZpQUd-8DDXvR6QqYbU a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:VsU7Hy7ZpQUd .
-
-tdd:VsU7Hy7ZpQUd-NxPpfHVrgWuB a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N05d015be5ef244c8a08d1c441c3c7011" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:VsU7Hy7ZpQUd ;
-    schema:datePublished "1855-09" ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88856> .
-
-tdd:VsU7Hy7ZpQUd-WrPS4wATC3ce a rdf:Statement ;
+tdd:VsU7Hy7ZpQUd-3aeAzCkCH9tY a rdf:Statement ;
     rdf:object tdd:5vMfYTL9wGVi ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:VsU7Hy7ZpQUd ;
     schema:datePublished "1855-09" .
 
-tdd:VsU7Hy7ZpQUd-dvHwUSkxrJBz a rdf:Statement ;
+tdd:VsU7Hy7ZpQUd-Pm4zZcE8rbYD a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:VsU7Hy7ZpQUd .
 
-tdd:VsU7Hy7ZpQUd-eafxuxDfCifB a rdf:Statement ;
+tdd:VsU7Hy7ZpQUd-Qaz8NwVvhcZu a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:VsU7Hy7ZpQUd .
+
+tdd:VsU7Hy7ZpQUd-ecGVyiEGWAWq a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:m7feHGwGuNLg ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:VsU7Hy7ZpQUd .
+
+tdd:VsU7Hy7ZpQUd-mLHrdu4puK2r a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Nd3b37e6d420545f1926846ccb5698692" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:VsU7Hy7ZpQUd ;
+    schema:datePublished "1855-09" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88856> .
 
 tdd:VsU7Hy7ZpQUd a rdfs:Resource ;
     rdfs:label "La saison des beaux jours. Églogue" ;

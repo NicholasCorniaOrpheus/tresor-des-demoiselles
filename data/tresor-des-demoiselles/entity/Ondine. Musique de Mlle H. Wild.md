@@ -4,7 +4,7 @@ label: Ondine
 aliases:
 description:
 local_asset_path: ./assets/RCB-BV10-7424_1890-1
-image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1890-1/RCB-BV10-7424_1890-1_001.jpg
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/BV10-7424_1890-1/RCB-BV10-7424_1890-1_001.jpg
 instance_of: "[[notated music]]"
 has_part:
 part_of:

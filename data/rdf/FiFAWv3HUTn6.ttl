@@ -7,45 +7,45 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:FiFAWv3HUTn6-4NNAevH6sKi3 a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N9c5d0fd9696f43efa2b3533663683bff" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:FiFAWv3HUTn6 ;
-    schema:datePublished "1856-03-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:FiFAWv3HUTn6-5yg3hZuNJePM a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:GwA6AyoA6rSz ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:FiFAWv3HUTn6 .
-
-tdd:FiFAWv3HUTn6-AoPxzVKQSHHY a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:FiFAWv3HUTn6 .
-
-tdd:FiFAWv3HUTn6-bqbNy8BGvXcb a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:EZRQ4FAbVngs ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:FiFAWv3HUTn6 .
-
-tdd:FiFAWv3HUTn6-e8u4qGsWCngS a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:FiFAWv3HUTn6 .
-
-tdd:FiFAWv3HUTn6-eZgDpSxXnq9S a rdf:Statement ;
+tdd:FiFAWv3HUTn6-9qkiGKXjooX5 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:FiFAWv3HUTn6 ;
     schema:datePublished "1856-03-01" ;
     schema:volumeNumber 24 .
+
+tdd:FiFAWv3HUTn6-LevgCvzKjoeJ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:EZRQ4FAbVngs ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:FiFAWv3HUTn6 .
+
+tdd:FiFAWv3HUTn6-YqUuZvUtnQRh a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:GwA6AyoA6rSz ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:FiFAWv3HUTn6 .
+
+tdd:FiFAWv3HUTn6-bigBo7NNdxdu a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nfeac8050bc254137b4edc9933b66420d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:FiFAWv3HUTn6 ;
+    schema:datePublished "1856-03-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:FiFAWv3HUTn6-egVPNzAhbRcg a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:FiFAWv3HUTn6 .
+
+tdd:FiFAWv3HUTn6-oEZd9aa3p8Nz a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:FiFAWv3HUTn6 .
 
 tdd:FiFAWv3HUTn6 a rdfs:Resource ;
     rdfs:label "Le Mariage chinois" ;

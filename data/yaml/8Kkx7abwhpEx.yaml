@@ -47,7 +47,7 @@ statements:
       label: mélodie
 assets:
   local_asset_path: ./assets/RCB-BV14-2029_1855-2
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-2/RCB-BV14-2029_1855-2-1_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-2/BV14-2029_1855-2-1_001.jpg
   jpg:
     - BV14-2029_1855-2_001.jpg
     - BV14-2029_1855-2_002.jpg

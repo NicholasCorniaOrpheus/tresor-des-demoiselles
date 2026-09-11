@@ -21,33 +21,8 @@
               "icon": "lucide-table",
               "title": "manifestation_list"
             }
-          },
-          {
-            "id": "b9400d0a6b5d07c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity/Zabella. Schottisch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zabella. Schottisch"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: saison",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,11 +184,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "9131230921203baf",
+  "active": "a021b60216f25b74",
   "lastOpenFiles": [
-    "entity/Ed. Billard.md",
-    "entity/Zabella. Schottisch.md",
+    "entity/La saison des beaux jours. Églogue.md",
+    "entity/Le soir. Rêverie pour piano.md",
+    "entity/Le soir.md",
+    "entity/Le réveil de la nature. Duetto pour soprano et mezzo-soprano.md",
+    "entity/Souvenir de Galluis. Mélodie variée.md",
+    "entity/Ondine. Musique de Mlle H. Wild.md",
+    "entity/Les lutins de Bretagne.md",
+    "entity/Les fées du lac. valse brillante pour piano.md",
+    "entity/Cracoviana. pour le piano.md",
+    "entity/Une larme. Mélodie sympathique variée.md",
     "manifestation_list.base",
+    "entity/Zabella. Schottisch.md",
+    "entity/Ed. Billard.md",
     "entity/Frère et soeur. Opera comique et un acte.md",
     "entity/Harvard University.md",
     "entity/Danse villageoise. air de danse antique.md",
@@ -243,16 +229,6 @@
     "Camille Schubert.md",
     "Le pré aux clercs. Ouverture arrangée pour le piano avec acct. de violon.md",
     "Neptune. Quadrille pour le piano.md",
-    "Abonnés du Journal des Demoiselles.md",
-    "Abonées du Journal des Dames et Demoiselles.md",
-    "Charles Le Corbeiller.md",
-    "incomplete.md",
-    "Victor Rifaut.md",
-    "Le pré aux clercs.md",
-    "violin.md",
-    "La fille du golfe. Opéra-comique en un acte.md",
-    "La reine mozab. Opéra-comique en un acte.md",
-    "Jules Duprato.md",
     "assets/RCA-15681836",
     "assets/RCA-14016062",
     "assets/RCA-13225495"

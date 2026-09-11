@@ -7,59 +7,59 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:TL2CYehsnjpj-F2CWmNmQuHSg a rdf:Statement ;
-    bf:heldBy tdd:MzUK38XpCjqB ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Na44553c5ac87438b8c13e6646994a278" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:TL2CYehsnjpj ;
-    schema:datePublished "1861-01-01" ;
-    schema:url <http://ark.bnf.fr/ark:/12148/cb42940871v> .
-
-tdd:TL2CYehsnjpj-GvCGRMFiyWKe a rdf:Statement ;
-    rdf:object tdd:HuT8aF2rGmzB ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:TL2CYehsnjpj ;
-    schema:datePublished "1852-01-01" ;
-    schema:volumeNumber 9 .
-
-tdd:TL2CYehsnjpj-MGTmPLffjQ6h a rdf:Statement ;
+tdd:TL2CYehsnjpj-5zFRLUtCVRfU a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N1bfa853f73e34f6880e0f42f5d2948fc" ;
+    rdf:object "Na9aa583540e64604a850a5eec0b19d08" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:TL2CYehsnjpj ;
     schema:datePublished "1853-06-01" ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:TL2CYehsnjpj-Wa4nfSpZvakF a rdf:Statement ;
-    bf:Note "Part of Magasin des demoiselles, vol. 9" ;
-    bf:electronicLocator <https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP479520-PMLP777286-Ettling_-_Op59_Songe_de_bonheur_-_pf-BDH.pdf> ;
-    bf:heldBy tdd:gAK3b5Jh5UVf ;
+tdd:TL2CYehsnjpj-HRkxmUfNQ9Up a rdf:Statement ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N8e0c86c8cbce4456b6e6d2b6e14f2ebb" ;
+    rdf:object "N20122fd1af9047a082e84607f9deadca" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:TL2CYehsnjpj ;
-    schema:datePublished "1853-01-01" ;
-    schema:url <https://imslp.org/wiki/Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile)> .
+    schema:datePublished "1861-01-01" ;
+    schema:url <http://ark.bnf.fr/ark:/12148/cb42940871v> .
 
-tdd:TL2CYehsnjpj-c4gP467VXWzG a rdf:Statement ;
+tdd:TL2CYehsnjpj-RHwqobS2uesT a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PMhy6ZVncrXN ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:TL2CYehsnjpj .
+
+tdd:TL2CYehsnjpj-VVru7ApL83fq a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:TL2CYehsnjpj ;
     schema:datePublished "1853-06-01" .
 
-tdd:TL2CYehsnjpj-c53R8JQKxkSC a rdf:Statement ;
+tdd:TL2CYehsnjpj-bLFqfsn6uMt4 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:TL2CYehsnjpj .
 
-tdd:TL2CYehsnjpj-f4p6Mgyf5LNs a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:PMhy6ZVncrXN ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:TL2CYehsnjpj .
+tdd:TL2CYehsnjpj-jB4ZkRNqxv6G a rdf:Statement ;
+    bf:Note "Part of Magasin des demoiselles, vol. 9" ;
+    bf:electronicLocator <https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP479520-PMLP777286-Ettling_-_Op59_Songe_de_bonheur_-_pf-BDH.pdf> ;
+    bf:heldBy tdd:gAK3b5Jh5UVf ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N023c720b507a48b1b8cd53663007c511" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:TL2CYehsnjpj ;
+    schema:datePublished "1853-01-01" ;
+    schema:url <https://imslp.org/wiki/Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile)> .
+
+tdd:TL2CYehsnjpj-n6tYhHEJPhfu a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:TL2CYehsnjpj ;
+    schema:datePublished "1852-01-01" ;
+    schema:volumeNumber 9 .
 
 tdd:TL2CYehsnjpj a rdfs:Resource ;
     rdfs:label "Songe de Bonheur" ;

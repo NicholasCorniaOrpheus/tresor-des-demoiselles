@@ -4,7 +4,7 @@ label:
 aliases:
 description: Extrait de l'Oasis de l'étude
 local_asset_path: ./assets/RCB-BV14-2029_1855-1
-image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-1/RCB-BV14-2029_1855-1_001.jpg
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-1/BV14-2029_1855-1_001.jpg
 instance_of:
   - "[[notated music]]"
 has_part:

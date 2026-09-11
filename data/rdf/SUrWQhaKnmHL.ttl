@@ -7,55 +7,55 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:SUrWQhaKnmHL-27T6hYDvMLNj a rdf:Statement ;
+tdd:SUrWQhaKnmHL-8CjnTh2GQoTY a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:VcpJBubpN5Jf ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:SUrWQhaKnmHL .
+
+tdd:SUrWQhaKnmHL-KDV9z5uzyB3Q a rdf:Statement ;
+    wdt:P1114 "3" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:SUrWQhaKnmHL .
+
+tdd:SUrWQhaKnmHL-LZAg8c43Cgjj a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:NQKrs6QNuU6A ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:SUrWQhaKnmHL .
+
+tdd:SUrWQhaKnmHL-bcVMvak42WX6 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:SUrWQhaKnmHL ;
     schema:datePublished "1877-01-01" ;
     schema:volumeNumber 45 .
 
-tdd:SUrWQhaKnmHL-73S4NWEfMr82 a rdf:Statement ;
+tdd:SUrWQhaKnmHL-fYyJERMz87FH a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nae9fc106ba4f4f8eb3f9cc2e865c91ac" ;
+    rdf:object "N839f45d163d9452ea821bbb687aafe58" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:SUrWQhaKnmHL ;
     schema:datePublished "1877-01-01" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88151> .
 
-tdd:SUrWQhaKnmHL-7HwqnyBAoEg3 a rdf:Statement ;
-    wdt:P1114 "3" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:SUrWQhaKnmHL .
-
-tdd:SUrWQhaKnmHL-LMuQRGrTUBTy a rdf:Statement ;
-    bf:Role tdd:Mgp8YUwRv3Jz ;
-    rdf:object tdd:NQKrs6QNuU6A ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:SUrWQhaKnmHL .
-
-tdd:SUrWQhaKnmHL-byiJNcsa8CGj a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:VcpJBubpN5Jf ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:SUrWQhaKnmHL .
-
-tdd:SUrWQhaKnmHL-eBR9og3gsggw a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:SUrWQhaKnmHL .
-
-tdd:SUrWQhaKnmHL-gBZKxfXmx2MK a rdf:Statement ;
+tdd:SUrWQhaKnmHL-h3u4jNGKLJjP a rdf:Statement ;
     bf:electronicLocator <https://ks15.imslp.org/files/imglnks/usimg/5/5a/IMSLP250564-SIBLEY1802.24274.9db4-39087011142348concert.pdf> ;
     bf:heldBy tdd:gAK3b5Jh5UVf ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nd085ac11e28d43a397a7dec0eea700d5" ;
+    rdf:object "N34473c0fb0324fca92bc657bdf569f1a" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:SUrWQhaKnmHL ;
     schema:datePublished "1877-01-01" ;
     schema:url <https://imslp.org/wiki/Un_concert_chez_les_demoiselles_de_Saint-Cyr_(Bord%C3%A8se%2C_Luigi)> .
+
+tdd:SUrWQhaKnmHL-ifTZ2MtUkCWC a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:SUrWQhaKnmHL .
 
 tdd:SUrWQhaKnmHL a rdfs:Resource ;
     rdfs:label "Un concert chez les demoiselles de Saint-Cyr" ;

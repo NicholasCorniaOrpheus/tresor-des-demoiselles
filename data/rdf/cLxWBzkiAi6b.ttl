@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:cLxWBzkiAi6b-D2nPopVp8PTU a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:cLxWBzkiAi6b ;
-    schema:datePublished "1876-01-01" ;
-    schema:volumeNumber 44 .
-
-tdd:cLxWBzkiAi6b-NSxi6PpXE8oo a rdf:Statement ;
+tdd:cLxWBzkiAi6b-5qHMMtCj4q5u a rdf:Statement ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11327125> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11327125/manifest> ;
-    rdf:object "Nae876d1a76824f6fac3112aaeefe530a" ;
+    rdf:object "Nadedc79cf17742569a6a26d38426dfaf" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:cLxWBzkiAi6b ;
     schema:datePublished "1876-01-01" ;
     schema:url <https://mdz-nbn-resolving.de/details:bsb11327125> .
 
-tdd:cLxWBzkiAi6b-dSiApXDr3Cxg a rdf:Statement ;
+tdd:cLxWBzkiAi6b-FukXTgBRBbic a rdf:Statement ;
     bf:electronicLocator <https://archive.org/details/journaldesdemoi11unkngoog> ;
     bf:heldBy tdd:HzNj4duEtJSX ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N33d05d5932b34c0e98c9ee4c0b2d582d" ;
+    rdf:object "N18f80914f22242ca86b2efdb657894c7" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:cLxWBzkiAi6b ;
     schema:datePublished "1876-01-01" ;
     schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
+
+tdd:cLxWBzkiAi6b-Sxe8sQDNybA7 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:cLxWBzkiAi6b ;
+    schema:datePublished "1876-01-01" ;
+    schema:volumeNumber 44 .
 
 tdd:cLxWBzkiAi6b a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1876)" ;

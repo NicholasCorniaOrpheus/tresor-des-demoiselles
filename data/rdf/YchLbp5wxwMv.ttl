@@ -6,25 +6,25 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:YchLbp5wxwMv-7VG6PFKFUNoZ a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Ne1ea08a450194df49851457f0388e675" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:YchLbp5wxwMv ;
-    schema:url <https://go.wander.be/record/opacap/c:lvd:12977282> .
-
-tdd:YchLbp5wxwMv-Qu9sArXvhBsw a rdf:Statement ;
+tdd:YchLbp5wxwMv-YaNj6om5bypJ a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:YchLbp5wxwMv .
 
-tdd:YchLbp5wxwMv-dZdckJVDqXMM a rdf:Statement ;
+tdd:YchLbp5wxwMv-dvvQZy5CkNBj a rdf:Statement ;
     bf:Role tdd:FM6DzoKyNv6j ;
     rdf:object tdd:jUohUDQ7mo5u ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:YchLbp5wxwMv .
+
+tdd:YchLbp5wxwMv-fox99WCNZucE a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Ncb3057247afb426a8d3698134e07917e" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:YchLbp5wxwMv ;
+    schema:url <https://go.wander.be/record/opacap/c:lvd:12977282> .
 
 tdd:YchLbp5wxwMv a rdfs:Resource ;
     rdfs:label "Quadrille sur l'opéra Le prophète" ;

@@ -7,51 +7,51 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:R7b4nrbTGyCv-4o6wmcSRbLSJ a rdf:Statement ;
+tdd:R7b4nrbTGyCv-3KFZXJih5JsP a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:R7b4nrbTGyCv .
 
-tdd:R7b4nrbTGyCv-Dy8eu3nAkKpE a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:VcpJBubpN5Jf ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:R7b4nrbTGyCv .
-
-tdd:R7b4nrbTGyCv-NTt2zc7Z9gG7 a rdf:Statement ;
-    bf:Role tdd:Mgp8YUwRv3Jz ;
-    rdf:object tdd:2YakjmMCnSKo ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:R7b4nrbTGyCv .
-
-tdd:R7b4nrbTGyCv-PSdj6FHCAYTs a rdf:Statement ;
+tdd:R7b4nrbTGyCv-JCkgRQYn5nDg a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:R7b4nrbTGyCv ;
     schema:datePublished "1853" ;
     schema:volumeNumber 10 .
 
-tdd:R7b4nrbTGyCv-RmsXiXqgdxNt a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N7b35249930074ef4bc0ce77756ed3c68" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:R7b4nrbTGyCv ;
-    schema:datePublished "1853" ;
-    schema:url <https://anet.be/record/ap/opacap/c:lvd:13225458> .
+tdd:R7b4nrbTGyCv-PUzRbYAts9tU a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:VcpJBubpN5Jf ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:R7b4nrbTGyCv .
 
-tdd:R7b4nrbTGyCv-TdofVetbrF97 a rdf:Statement ;
+tdd:R7b4nrbTGyCv-Rb3djM2Eib8Q a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:2YakjmMCnSKo ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:R7b4nrbTGyCv .
+
+tdd:R7b4nrbTGyCv-Whe5rBU9Gwz4 a rdf:Statement ;
     wdt:P1114 "5" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:R7b4nrbTGyCv .
 
-tdd:R7b4nrbTGyCv-burfxXAbJJVo a rdf:Statement ;
+tdd:R7b4nrbTGyCv-XeoMxxJ2zRTM a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:R7b4nrbTGyCv .
+
+tdd:R7b4nrbTGyCv-k736WwkbmvF9 a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N19a785769b174c49baa37ecc0747b4e3" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:R7b4nrbTGyCv ;
+    schema:datePublished "1853" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:13225458> .
 
 tdd:R7b4nrbTGyCv a rdfs:Resource ;
     rdfs:label "Frère et soeur. Opera comique et un acte" ;
