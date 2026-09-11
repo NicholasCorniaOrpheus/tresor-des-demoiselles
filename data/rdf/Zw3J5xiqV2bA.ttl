@@ -1,0 +1,11 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:Zw3J5xiqV2bA a rdfs:Resource ;
+    rdfs:label "spouse" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q1196129> ;
+    dcterms:type "Concept" ;
+    wdt:P31 tdd:mQD8LFQ4A2HJ .
+

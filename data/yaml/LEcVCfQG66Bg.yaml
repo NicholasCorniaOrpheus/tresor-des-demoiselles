@@ -2,24 +2,25 @@ metadata:
   class: Place
   label: United States
   aliases:
-  - USA
-  - US
-  - United States of America
-  description: null
+    - USA
+    - US
+    - United States of America
+  description:
   base_name: United States
   filename: United States.md
   id: LEcVCfQG66Bg
   n_id: 376009577177307442157
 statements:
   identifier:
-  - http://www.wikidata.org/entity/Q30
-  country: null
+    - http://www.wikidata.org/entity/Q30
+  country:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
-    label: country
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
+      label: country
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/LEcVCfQG66Bg.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/LEcVCfQG66Bg.json
 content:
-  markdown_content: ''
+  markdown_content: ""

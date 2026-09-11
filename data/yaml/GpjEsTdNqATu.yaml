@@ -1,31 +1,32 @@
 metadata:
   class: Organisation
   label: University of Toronto
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: University of Toronto
   filename: University of Toronto.md
   id: GpjEsTdNqATu
   n_id: 305817975508339725741
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a
-    label: university
-  described_by_source: null
-  inception: null
-  location: null
-  dissolved: null
-  contributor: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a
+      label: university
+  described_by_source:
+  inception:
+  location:
+  dissolved:
+  contributor:
   official_website:
-  - https://librarysearch.library.utoronto.ca/
+    - https://librarysearch.library.utoronto.ca/
   identifier:
-  - http://www.wikidata.org/entity/Q180865
+    - http://www.wikidata.org/entity/Q180865
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL9bhQaShbbC
-    label: Canada
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TL9bhQaShbbC
+      label: Canada
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/GpjEsTdNqATu.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/GpjEsTdNqATu.json
 content:
-  markdown_content: ''
+  markdown_content: ""

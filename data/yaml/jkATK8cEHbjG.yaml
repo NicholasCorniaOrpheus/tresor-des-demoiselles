@@ -1,45 +1,46 @@
 metadata:
   class: Manifestation
   label: Journal des demoiselles (1868)
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Journal des demoiselles (1868)
   filename: Journal des demoiselles (1868).md
   id: jkATK8cEHbjG
   n_id: 861330926420138311040
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
-    label: periodical
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+      label: periodical
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
-    volume: 36
-    publication_date: 1868-01-01
-    label: Journal des demoiselles
-  contributor: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      volume: 36
+      publication_date: 1868-01-01
+      label: Journal des demoiselles
+  contributor:
   has_version:
-  - external_source: https://archive.org/details/journaldesdemoi05unkngoog
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX
-      label: Harvard University
-    publication_date: 1868-01-01
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
-    permalink: https://id.lib.harvard.edu/alma/990053803900203941/catalog
-  title: null
-  instrumentation: null
-  depicts: null
-  about: null
+    - external_source: https://archive.org/details/journaldesdemoi05unkngoog
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX
+        label: Harvard University
+      publication_date: 1868-01-01
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      permalink: https://id.lib.harvard.edu/alma/990053803900203941/catalog
+  title:
+  instrumentation:
+  depicts:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
-  based_on: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
 assets:
-  local_asset_path: null
-  iiif: null
+  local_asset_path:
+  iiif: []
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/jkATK8cEHbjG.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/jkATK8cEHbjG.json
 content:
-  markdown_content: ''
+  markdown_content: ""

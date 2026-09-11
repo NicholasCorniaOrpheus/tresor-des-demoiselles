@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Colombine. Valse élégante, suivie de. Les gardes nobles. Quadrille militaire",
+    "aliases": null,
+    "description": null,
+    "base_name": "Colombine. Valse élégante, suivie de. Les gardes nobles. Quadrille militaire",
+    "filename": "Colombine. Valse élégante, suivie de. Les gardes nobles. Quadrille militaire.md",
+    "id": "Bi2WWaHWyPiH",
+    "n_id": 200207608156007323119
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi",
+        "publication_date": 1856,
+        "volume": null,
+        "label": "Journal des dames et des demoiselles. Guide complet de tous les travaux de dames"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jD5hNbBz25A4",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Camille Schubert"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://anet.be/record/ap/opacap/c:lvd:12977300",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+          "label": "Royal Conservatory of Antwerp"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "publication_date": 1856,
+        "publisher": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jD5hNbBz25A4",
+            "label": "Camille Schubert"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Colombine: valse élégante, suivie de: Les gardes nobles: quadrille militaire"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": null,
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
+        "label": "quadrille"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
+        "label": "waltz"
+      }
+    ]
+  }
+}

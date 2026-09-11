@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['fragmented'],incomplete,incomplete,incomplete.md,n4RMfkLzdSss,908851936518842184574,instance_of,,,,
+Concept,,['fragmented'],incomplete,incomplete,incomplete.md,n4RMfkLzdSss,908851936518842184574,subclass_of,,,,
+Concept,,['fragmented'],incomplete,incomplete,incomplete.md,n4RMfkLzdSss,908851936518842184574,described_by_source,,,,
+Concept,,['fragmented'],incomplete,incomplete,incomplete.md,n4RMfkLzdSss,908851936518842184574,identifier,,,,http://www.wikidata.org/entity/Q100349848

@@ -1,52 +1,59 @@
 metadata:
   class: Manifestation
   label: Cracoviana. pour le piano
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Cracoviana. pour le piano
   filename: Cracoviana. pour le piano.md
   id: T3eDQEfcZJYp
   n_id: 516489452450578501237
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd
-    label: programme music
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
-    publication_date: 1889-01-01
-    volume: 51
-    label: Journal des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1889
+      volume: 57
+      label: Journal des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Octave Fouque
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2yrMbZSDVHNx
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Jean-Baptiste Weckerlin
   has_version:
-  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88113
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
-      label: Royal Conservatory of Brussels
-    publication_date: 1889-01-01
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
-    external_source: null
+    - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88115
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+        label: Royal Conservatory of Brussels
+      publication_date: 1883
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      external_source:
   title:
-  - 'Cracoviana: pour le piano'
+    - "Cracoviana: pour le piano"
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
-  depicts: null
-  about: null
-  language: null
-  based_on: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd
+      label: programme music
 assets:
-  local_asset_path: null
-  iiif: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/T3eDQEfcZJYp.json
+  local_asset_path: ./assets/RCB-BV10-7424_1889-1
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/BV10-7424_1889-1/BV10-7424_1889-1_001.jpg
+  jpg:
+    - BV10-7424_1889-1_001.jpg
+    - BV10-7424_1889-1_002.jpg
+    - BV10-7424_1889-1_003.jpg
+    - BV10-7424_1889-1_004.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/T3eDQEfcZJYp.json
 content:
-  markdown_content: ''
+  markdown_content: ""

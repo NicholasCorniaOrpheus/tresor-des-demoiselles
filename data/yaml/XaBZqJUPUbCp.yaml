@@ -1,21 +1,22 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: dramatico-musical work
   base_name: dramatico-musical work
   filename: dramatico-musical work.md
   id: XaBZqJUPUbCp
   n_id: 610086873411126611518
 statements:
-  instance_of: null
-  subclass_of: null
-  described_by_source: null
+  instance_of:
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q58483083
+    - http://www.wikidata.org/entity/Q58483083
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/XaBZqJUPUbCp.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/XaBZqJUPUbCp.json
 content:
-  markdown_content: ''
+  markdown_content: ""

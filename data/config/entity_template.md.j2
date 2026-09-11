@@ -5,7 +5,7 @@
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/{{ metadata.id }}.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/{{ metadata.id }}.csv){ .md-button }
 {%- if assets and assets.local_asset_path %}
-[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/{{ assets.local_asset_path | replace('./', '') }}){ .md-button }
+[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/{{ assets.local_asset_path | replace('./', '') }}){ .md-button }
 {%- endif %}
 
 {# 2. Metadata Admonition - Filtering out n_id, base_name, and filename #}
@@ -127,7 +127,7 @@
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
       window.kbGraphConfig.assets = {
-        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
         local_path: "{{ (assets.local_asset_path or '') | replace('./', '') }}/",
         images: {{ (assets.jpg or []) | tojson }},
         iiif: "{{ assets.iiif or '' }}"

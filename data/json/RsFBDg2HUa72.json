@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Theodor Michaelis",
+    "aliases": [
+      "Theodore Michaëlis"
+    ],
+    "description": null,
+    "base_name": "Theodor Michaelis",
+    "filename": "Theodor Michaelis.md",
+    "id": "RsFBDg2HUa72",
+    "n_id": 492448925456506779261
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": "1831-03-15"
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": "1887-11-17"
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q50161551"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+        "label": "publisher"
+      }
+    ],
+    "related_to": null
+  }
+}

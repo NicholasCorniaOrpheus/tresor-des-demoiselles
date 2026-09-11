@@ -1,21 +1,22 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: noble family
   base_name: noble family
   filename: noble family.md
   id: LWCE9BBAwpmz
   n_id: 381647997123462682331
 statements:
-  instance_of: null
-  subclass_of: null
-  described_by_source: null
+  instance_of:
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q13417114
+    - http://www.wikidata.org/entity/Q13417114
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/LWCE9BBAwpmz.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/LWCE9BBAwpmz.json
 content:
-  markdown_content: ''
+  markdown_content: ""

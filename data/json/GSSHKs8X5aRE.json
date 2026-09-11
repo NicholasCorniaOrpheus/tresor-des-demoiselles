@@ -12,12 +12,18 @@
   "statements": {
     "instance_of": [
       {
-        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GFGuESLqMKpn",
-        "label": "chamber opera"
-      },
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "form_of_creative_work": [
       {
         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM",
         "label": "operetta"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GFGuESLqMKpn",
+        "label": "chamber opera"
       }
     ],
     "has_part": null,

@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,date_of_birth,,,,,,,,,,,,,,
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,described_by_source,,,,,,,,,,,,,,
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,date_of_death,,,,,,,,,,,,,,
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,place_of_birth,,,,,,,,,,,,,,
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,place_of_death,,,,,,,,,,,,,,
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,,,
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,identifier,,,,,,,,,,,,,,
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,V. M. Bernhardt,['V. Marie Bernhardt'],,V. M. Bernhardt,V. M. Bernhardt.md,ffGPdUcNKsB8,777014859119955197361,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU,Journal des demoiselles

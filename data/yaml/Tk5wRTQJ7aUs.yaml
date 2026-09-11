@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: publisher
   base_name: publisher
   filename: publisher.md
@@ -9,15 +9,16 @@ metadata:
   n_id: 531127903211913227905
 statements:
   identifier:
-  - http://wikidata.org/entity/Q2516866
+    - http://wikidata.org/entity/Q2516866
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
-    label: occupation
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
+      label: occupation
+  subclass_of:
+  described_by_source:
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Tk5wRTQJ7aUs.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Tk5wRTQJ7aUs.json
 content:
-  markdown_content: ''
+  markdown_content: ""

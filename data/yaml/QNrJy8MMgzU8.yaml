@@ -1,38 +1,39 @@
 metadata:
   class: Agent
   label: Louise Jeanne Cécile Ruelens
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Louise Jeanne Cécile Ruelens
   filename: Louise Jeanne Cécile Ruelens.md
   id: QNrJy8MMgzU8
   n_id: 461537225053232420955
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
-    label: human
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
   occupation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
-    label: editor
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
+      label: editor
   date_of_birth:
-  - value: 1818-03-15
+    - value: 1818-03-15
   described_by_source:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP
-    label: Agents of Change
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP
+      label: Agents of Change
   date_of_death:
-  - value: 1884-06-04
+    - value: 1884-06-04
   place_of_birth:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8
-    label: Antwerp
-  place_of_death: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8
+      label: Antwerp
+  place_of_death:
   sex_or_gender:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
-    label: female
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
   identifier:
-  - http://www.wikidata.org/entity/Q55875664
+    - http://www.wikidata.org/entity/Q55875664
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/QNrJy8MMgzU8.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/QNrJy8MMgzU8.json
 content:
-  markdown_content: ''
+  markdown_content: ""

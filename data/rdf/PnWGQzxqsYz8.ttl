@@ -6,21 +6,27 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:PnWGQzxqsYz8-3by89UwwPnL7 a rdf:Statement ;
+tdd:PnWGQzxqsYz8-AgRqMstttqn9 a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N4f1923df015e4b1d8aeaffabbcdc2b75" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:PnWGQzxqsYz8 ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88621> .
+
+tdd:PnWGQzxqsYz8-HVLJXtpZUasv a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:gSpQjJMRbo9y ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:PnWGQzxqsYz8 .
 
-tdd:PnWGQzxqsYz8-MWoSEGhgY35E a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nff124a826ef14169bf51e558c66fd2fc" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:PnWGQzxqsYz8 ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88621> .
+tdd:PnWGQzxqsYz8-ZWRKE4LYHyxs a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:PnWGQzxqsYz8 .
 
-tdd:PnWGQzxqsYz8-itxANbBHcxUe a rdf:Statement ;
+tdd:PnWGQzxqsYz8-mHL2HRBTuUrQ a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
@@ -28,11 +34,13 @@ tdd:PnWGQzxqsYz8-itxANbBHcxUe a rdf:Statement ;
 
 tdd:PnWGQzxqsYz8 a rdfs:Resource ;
     rdfs:label "Polka sur le Val D'Andorre d'Halevy" ;
-    dcterms:contributor tdd:gSpQjJMRbo9y ;
+    dcterms:contributor tdd:gSpQjJMRbo9y,
+        tdd:jUohUDQ7mo5u ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Polka sur le Val D'Andorre d'Halevy: pour piano" ;
     dcterms:type "Manifestation" ;
     wdt:P144 tdd:Vrznz6W5khox ;
-    wdt:P31 tdd:U66A6PCCFAfU ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:U66A6PCCFAfU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

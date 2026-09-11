@@ -1,0 +1,75 @@
+metadata:
+  class: Manifestation
+  label: Le réveil de la nature. Duetto pour soprano et mezzo-soprano
+  aliases:
+  description:
+  base_name: Le réveil de la nature. Duetto pour soprano et mezzo-soprano
+  filename: Le réveil de la nature. Duetto pour soprano et mezzo-soprano.md
+  id: Pfu97uFDuP6p
+  n_id: 447073847113182073942
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi
+      publication_date: 1856-09
+      label: Journal des dames et des demoiselles. Guide complet de tous les travaux de dames
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3vDTjkF6fXYz
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+        label: lyricist
+      label: A. Vialon
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QefcFcp5yGSk
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j
+        label: dedicatee
+      note: A Mme Zélia Belloni.
+      label: Délia Belloni
+    - role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ku7b5p7YSdzi
+      label: Antoine Scard
+  has_version:
+    - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88508
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+        label: Royal Conservatory of Brussels
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+          label: Brussels
+      note: Edition belge.
+      publication_date: 1856-09
+  title:
+    - "Le réveil de la nature : duetto pour soprano et mezzo-soprano ; à Madame Délia Belloni / paroles de A. Vialon ; musique de A. Scard"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 2
+      label: voice
+  depicts:
+  about:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Rbyhy2fEYa2g
+      label: duet
+assets:
+  local_asset_path: ./assets/RCB-BV14-2029_1856-1
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1856-1/RCB-BV14-2029_1856-1_001.jpg
+  jpg:
+    - BV14-2029_1856-1_001.jpg
+    - BV14-2029_1856-1_002.jpg
+    - BV14-2029_1856-1_003.jpg
+    - BV14-2029_1856-1_004.jpg
+    - BV14-2029_1856-1_005.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Pfu97uFDuP6p.json
+content:
+  markdown_content: ""

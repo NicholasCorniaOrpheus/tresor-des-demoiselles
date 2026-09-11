@@ -1,0 +1,47 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:2hgUsD4tB9J5-5Ch3nBohoCv7 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:2hgUsD4tB9J5 .
+
+tdd:2hgUsD4tB9J5-8GuCUdRxkgfX a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ku7b5p7YSdzi ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2hgUsD4tB9J5 .
+
+tdd:2hgUsD4tB9J5-dScqpE3zHA5Y a rdf:Statement ;
+    bf:Note "Edition belge." ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Nf69bc9625099496a93199ea0d467dccd" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:2hgUsD4tB9J5 ;
+    schema:datePublished "1855-09" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88853> .
+
+tdd:2hgUsD4tB9J5-oUeeqGRkbpQj a rdf:Statement ;
+    rdf:object tdd:5vMfYTL9wGVi ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:2hgUsD4tB9J5 ;
+    schema:datePublished "1855-09" .
+
+tdd:2hgUsD4tB9J5 a rdfs:Resource ;
+    rdfs:label "Une larme. Mélodie sympathique variée" ;
+    dc:description "Extrait de l'Oasis de l'étude" ;
+    dcterms:contributor tdd:ku7b5p7YSdzi ;
+    dcterms:isPartOf tdd:5vMfYTL9wGVi ;
+    dcterms:title "Une larme : mélodie sympathique variée ; extrait de l'Oasis de l'étude / par A. Scard" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:WHdDug4Xwv3G .
+

@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,date_of_birth,,,,,,,,,,,,,
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,described_by_source,,,,,,,,,,,,,
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,date_of_death,,,,,,,,,,,,,
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,place_of_birth,,,,,,,,,,,,,
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,place_of_death,,,,,,,,,,,,,
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q207951,,,
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,
+Agent,Léo Delibes,['Clément Philibert Léo Delibes'],,Léo Delibes,Léo Delibes.md,8sM7TLD3KzME,141676317018988215702,related_to,,,,,,,,,,,,,

@@ -7,41 +7,41 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Q5YfCM4bBtmP-CpxMzYLXMGSD a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:Q5YfCM4bBtmP .
+tdd:Q5YfCM4bBtmP-KM7TbWqAwLRE a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:Q5YfCM4bBtmP ;
+    schema:datePublished "1838-01-01" ;
+    schema:volumeNumber 6 .
 
-tdd:Q5YfCM4bBtmP-G6nJs9WubmAM a rdf:Statement ;
+tdd:Q5YfCM4bBtmP-PfWnSAHycdSR a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:PBr2jjFrFXnm ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Q5YfCM4bBtmP .
 
-tdd:Q5YfCM4bBtmP-GeGCCockZ5Lk a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
+tdd:Q5YfCM4bBtmP-crDnArennzxy a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
+    rdf:object "N3ecbd47beea14c98affcb439dae621e0" ;
+    rdf:predicate wdt:P747 ;
     rdf:subject tdd:Q5YfCM4bBtmP ;
-    schema:datePublished "1838-01-01"^^xsd:date ;
-    schema:volumeNumber 6 .
+    schema:datePublished "1838-01-01" ;
+    schema:url <https://www.digitale-sammlungen.de/en/view/bsb10359989> .
 
-tdd:Q5YfCM4bBtmP-TFgH7WHYsPQN a rdf:Statement ;
+tdd:Q5YfCM4bBtmP-jHiVKd4WX9pJ a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:3v4q5PWHnZcN ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Q5YfCM4bBtmP .
 
-tdd:Q5YfCM4bBtmP-YKbaGNp6BcEf a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
-    rdf:object "Nb849f109c7b7479cb94e7ba2e8469b03" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:Q5YfCM4bBtmP ;
-    schema:datePublished "1838-01-01"^^xsd:date ;
-    schema:url <https://www.digitale-sammlungen.de/en/view/bsb10359989> .
+tdd:Q5YfCM4bBtmP-nihoDagfEr8D a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Q5YfCM4bBtmP .
 
 tdd:Q5YfCM4bBtmP a rdfs:Resource ;
     rdfs:label "Quadrille. Parisina" ;
@@ -51,6 +51,7 @@ tdd:Q5YfCM4bBtmP a rdfs:Resource ;
     dcterms:title "Deux Madones. Romance" ;
     dcterms:type "Manifestation" ;
     wdt:P144 tdd:UabpPirExmof ;
-    wdt:P31 tdd:HKt9yvCZmpw6 ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:HKt9yvCZmpw6 ;
     wdt:P870 tdd:fcrABEiDKbza .
 

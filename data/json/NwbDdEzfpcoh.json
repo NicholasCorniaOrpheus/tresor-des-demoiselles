@@ -12,15 +12,15 @@
   "statements": {
     "instance_of": [
       {
-        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM",
-        "label": "operetta"
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
       }
     ],
     "has_part": null,
     "part_of": [
       {
         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
-        "publication_date": "1874-01-01",
+        "publication_date": 1874,
         "volume": 42,
         "label": "Journal des demoiselles"
       }
@@ -50,7 +50,7 @@
           "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB",
           "label": "Bibliothèque nationale de France"
         },
-        "publication_date": "1878-01-01",
+        "publication_date": 1878,
         "external_source": "https://gallica.bnf.fr/ark:/12148/bpt6k1281624n",
         "IIIF_manifest": "https://gallica.bnf.fr/ark:/12148/bpt6k1281624n",
         "place_of_publication": [
@@ -58,7 +58,11 @@
             "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
             "label": "Paris"
           }
-        ]
+        ],
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RsFBDg2HUa72",
+          "label": "Theodor Michaelis"
+        }
       },
       {
         "permalink": "https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=70336",
@@ -66,7 +70,7 @@
           "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
           "label": "Royal Conservatory of Brussels"
         },
-        "publication_date": "1874-01-01",
+        "publication_date": 1874,
         "place_of_publication": [
           {
             "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
@@ -94,6 +98,16 @@
         "label": "French"
       }
     ],
-    "based_on": null
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM",
+        "label": "operetta"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GFGuESLqMKpn",
+        "label": "chamber opera"
+      }
+    ]
   }
 }

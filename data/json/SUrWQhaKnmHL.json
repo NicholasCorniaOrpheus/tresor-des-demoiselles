@@ -10,7 +10,16 @@
     "n_id": 504982498605912151740
   },
   "statements": {
-    "instance_of": null,
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GFGuESLqMKpn",
+        "label": "chamber opera"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM",
+        "label": "operetta"
+      }
+    ],
     "has_part": null,
     "part_of": [
       {

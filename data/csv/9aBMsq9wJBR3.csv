@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,date_of_birth,,,,,,,,,,,,,
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,described_by_source,,,,,,,,,,,,,
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,date_of_death,,,,,,,,,,,,,
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,place_of_birth,,,,,,,,,,,,,
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,place_of_death,,,,,,,,,,,,,
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q376547,,,
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,
+Agent,Jules Duprato,,,Jules Duprato,Jules Duprato.md,9aBMsq9wJBR3,156095743576188206104,related_to,,,,,,,,,,,,,

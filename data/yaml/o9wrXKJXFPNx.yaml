@@ -1,32 +1,33 @@
 metadata:
   class: Agent
   label: Louis Pierre Deffès
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Louis Pierre Deffès
   filename: Louis Pierre Deffès.md
   id: o9wrXKJXFPNx
   n_id: 931491761875303603200
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
-    label: human
-  date_of_birth: null
-  described_by_source: null
-  date_of_death: null
-  place_of_birth: null
-  place_of_death: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
   sex_or_gender:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
-    label: male
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
   identifier:
-  - http://wikidata.org/entity/Q1710731
+    - http://wikidata.org/entity/Q1710731
   occupation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-    label: composer
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
 assets:
   image: https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Louis-Pierre_Deff%C3%A8s_-_E.Delon,_Toulouse_1890_BNF_Gallica.jpg
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/o9wrXKJXFPNx.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/o9wrXKJXFPNx.json
 content:
-  markdown_content: ''
+  markdown_content: ""

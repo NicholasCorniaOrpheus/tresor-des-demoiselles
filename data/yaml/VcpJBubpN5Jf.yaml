@@ -2,32 +2,33 @@ metadata:
   class: Agent
   label: Louis Bordèse
   aliases:
-  - Louis Bordese
-  description: null
+    - Louis Bordese
+  description:
   base_name: Louis Bordèse
   filename: Louis Bordèse.md
   id: VcpJBubpN5Jf
   n_id: 569772399861692770234
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
-    label: human
-  date_of_birth: null
-  described_by_source: null
-  date_of_death: null
-  place_of_birth: null
-  place_of_death: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
   sex_or_gender:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
-    label: male
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
   identifier:
-  - http://www.wikidata.org/entity/Q50019789
+    - http://www.wikidata.org/entity/Q50019789
   occupation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-    label: composer
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/VcpJBubpN5Jf.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/VcpJBubpN5Jf.json
 content:
-  markdown_content: ''
+  markdown_content: ""

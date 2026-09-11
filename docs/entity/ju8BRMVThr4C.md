@@ -4,10 +4,10 @@
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/ju8BRMVThr4C.json){ .md-button }
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/ju8BRMVThr4C.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/ju8BRMVThr4C.csv){ .md-button }
-[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p31){ .md-button }
+[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/OI-20143702p31){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p31/orp-delio-mandoli-20143702p31-ps-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p31/orp-delio-mandoli-20143702p31-ps-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Mandoline. Sérénade.
@@ -62,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ju8BRMVThr4C.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/ju8BRMVThr4C.json";
     </script>
 
 
@@ -72,7 +72,7 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - [song](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU)
+    - [notated music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr)
 
 ???+ abstract "part of"
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
@@ -100,6 +100,9 @@
     - [piano](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8)
         * quantity: 1
 
+???+ abstract "form of creative work"
+    - [song](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU)
+
 
 
 
@@ -116,7 +119,7 @@
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
       window.kbGraphConfig.assets = {
-        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
         local_path: "assets/OI-20143702p31/",
         images: ["orp-delio-mandoli-20143702p31-ps-00001.jpg", "orp-delio-mandoli-20143702p31-ps-00002.jpg", "orp-delio-mandoli-20143702p31-ps-00003.jpg", "orp-delio-mandoli-20143702p31-ps-00004.jpg"],
         iiif: ""

@@ -1,32 +1,33 @@
 metadata:
   class: Organisation
   label: Ghent University
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Ghent University
   filename: Ghent University.md
   id: 6iccGpXVqGeL
   n_id: 97244700092216032167
 statements:
   identifier:
-  - http://wikidata.org/entity/Q1137665
+    - http://wikidata.org/entity/Q1137665
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a
-    label: university
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a
+      label: university
   described_by_source:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
-    label: Wikidata
-  inception: null
-  location: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
+      label: Wikidata
+  inception:
+  location:
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
-    label: Belgium
-  dissolved: null
-  contributor: null
-  official_website: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+      label: Belgium
+  dissolved:
+  contributor:
+  official_website:
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/6iccGpXVqGeL.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/6iccGpXVqGeL.json
 content:
-  markdown_content: ''
+  markdown_content: ""

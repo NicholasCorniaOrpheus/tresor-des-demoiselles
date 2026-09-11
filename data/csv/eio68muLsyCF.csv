@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,identifier_value,occupation_value,occupation_label,related_to_value
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,date_of_birth,,,,,,,,,,,,
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,described_by_source,,,,,,,,,,,,
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,date_of_death,,,,,,,,,,,,
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,place_of_birth,,,,,,,,,,,,
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,place_of_death,,,,,,,,,,,,
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,sex_or_gender,,,,,,,,,,,,
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,identifier,,,,,,,,,,,,
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,
+Agent,Ed. Billard,,,Ed. Billard,Ed. Billard.md,eio68muLsyCF,757660004147454971002,related_to,,,,,,,,,,,,

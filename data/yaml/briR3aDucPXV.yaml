@@ -1,0 +1,30 @@
+metadata:
+  class: Agent
+  label: anonymous
+  aliases:
+  description:
+  base_name: anonymous
+  filename: anonymous.md
+  id: briR3aDucPXV
+  n_id: 698618920788719297934
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+  identifier:
+    - http://www.wikidata.org/entity/Q4233718
+  occupation:
+  related_to:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/briR3aDucPXV.json
+content:
+  markdown_content: ""

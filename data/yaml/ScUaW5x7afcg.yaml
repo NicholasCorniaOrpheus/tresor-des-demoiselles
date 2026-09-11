@@ -1,103 +1,131 @@
 metadata:
   class: Manifestation
   label: En écoutant avec son coeur
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: En écoutant avec son coeur
   filename: En écoutant avec son coeur.md
   id: ScUaW5x7afcg
   n_id: 507739489318998451211
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aph6QHtmL78s
-    label: romance
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
-    volume: 9
-    publication_date: 1852-01-01
-    label: Magasin des demoiselles
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
-    publication_date: 1853-04-01
-    label: Trésor des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+      volume: 9
+      publication_date: 1852-01-01
+      label: Magasin des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+      publication_date: 1853-04-01
+      label: Trésor des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/o9wrXKJXFPNx
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Louis Pierre Deffès
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
-      label: lyricist
-    label: Hippolyte Guérin
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/o9wrXKJXFPNx
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Louis Pierre Deffès
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+        label: lyricist
+      label: Hippolyte Guérin
   has_version:
-  - permalink: https://anet.be/record/opacdkvc/c:lvd:14436621
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
-      label: Royal Conservatory of Antwerp
-    note: dedicated to the Trésor des demoiselles' subscribers.
-    publication_date: 1853-01-01
-    publisher:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE
-      label: Joseph Meynne
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
-      label: Brussels
-  - permalink: http://ark.bnf.fr/ark:/12148/cb42940871v
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB
-      label: Bibliothèque nationale de France
-    publication_date: 1861-01-01
-    publisher:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r
-      label: Édouard Gérard
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
-  - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
-      label: Orpheus Instituut
-    place_of_publication:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
-      label: Brussels
-    publication_date: 1853-04-01
-    note: aux Abonnés du Trésor des Demoiselles.
+    - permalink: https://anet.be/record/opacdkvc/c:lvd:14436621
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      note: dedicated to the Trésor des demoiselles' subscribers.
+      publication_date: 1853-01-01
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE
+        label: Joseph Meynne
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+          label: Brussels
+    - permalink: http://ark.bnf.fr/ark:/12148/cb42940871v
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB
+        label: Bibliothèque nationale de France
+      publication_date: 1861-01-01
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M4ikqTkXma6r
+        label: Édouard Gérard
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+    - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+        label: Orpheus Instituut
+      place_of_publication:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+        label: Brussels
+      publication_date: 1853-04-01
+      note: aux Abonnés du Trésor des Demoiselles.
   title:
-  - En écoutant avec son coeur
+    - En écoutant avec son coeur
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
-    quantity: 1
-    label: voice
-  depicts: null
-  based_on: null
-  about: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 1
+      label: voice
+  depicts:
+  based_on:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aph6QHtmL78s
+      label: romance
 assets:
   local_asset_path: ./assets/OI-20143702p26
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p26/orp-pierr-enécout-20143702p26-fs-00001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p26/orp-pierr-enécout-20143702p26-fs-00001.jpg
   jpg:
-  - orp-pierr-enécout-20143702p26-fs-00001.jpg
-  - orp-pierr-enécout-20143702p26-fs-00002.jpg
-  - orp-pierr-enécout-20143702p26-fs-00003.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ScUaW5x7afcg.json
+    - orp-pierr-enécout-20143702p26-fs-00001.jpg
+    - orp-pierr-enécout-20143702p26-fs-00002.jpg
+    - orp-pierr-enécout-20143702p26-fs-00003.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/ScUaW5x7afcg.json
 content:
-  markdown_content: "### Lyrics\n\nQuand la brise des cieux\nécartant la charmille\n\
-    Au bouton du rosier\nrend l’azur qui scintille\nSavez-vous bien la jeune fille,\n\
-    Ce qu’on entend dire à la fleur,\nEn écoutant avec son coeur?\n“Vous dont les\
-    \ soins m’ouvrent la vie,\nRien n’est perdu, rien ne s’oublie…\nDonnez, donnez!\
-    \ un jour viendra\nOù mon parfum vous le rendra!”\n\nQuand l’enfant réveillé,\
-    \ \nfrêle souffle éphémère,\nappelle par ses cris\nson ange de la terre,\nSavez-vous\
-    \ bien, la pauvre mère,\nCe qu’on entend pour son bonheur\nEn écoutant avec son\
-    \ coeur?\n“Vous dont les soins m’ouvrent la vie,\nRien n’est perdu, rien ne s’oublie…\n\
-    Donnez, donnez! un jour viendra\nOù mon amour vous le rendra!”\n\nEt quand l'humble\
-    \ détresse\nou la douleur profonde,\nS’abrite à vos genoux \ncontre le sort qui\
-    \ gronde,\nSachez de même, heureux du monde,\nCe qu’on entend Dire au Seigneur,\n\
-    En écoutant avec son coeur?\n“De vos bienfaits semez la vie!\nRien n’est perdu,\
-    \ rien ne s’oublie…\nDonnez, donnez! un jour viendra\nOù votre Dieu vous le rendra!”"
+  markdown_content: |-
+    ### Lyrics
+
+    Quand la brise des cieux
+    écartant la charmille
+    Au bouton du rosier
+    rend l’azur qui scintille
+    Savez-vous bien la jeune fille,
+    Ce qu’on entend dire à la fleur,
+    En écoutant avec son coeur?
+    “Vous dont les soins m’ouvrent la vie,
+    Rien n’est perdu, rien ne s’oublie…
+    Donnez, donnez! un jour viendra
+    Où mon parfum vous le rendra!”
+
+    Quand l’enfant réveillé, 
+    frêle souffle éphémère,
+    appelle par ses cris
+    son ange de la terre,
+    Savez-vous bien, la pauvre mère,
+    Ce qu’on entend pour son bonheur
+    En écoutant avec son coeur?
+    “Vous dont les soins m’ouvrent la vie,
+    Rien n’est perdu, rien ne s’oublie…
+    Donnez, donnez! un jour viendra
+    Où mon amour vous le rendra!”
+
+    Et quand l'humble détresse
+    ou la douleur profonde,
+    S’abrite à vos genoux 
+    contre le sort qui gronde,
+    Sachez de même, heureux du monde,
+    Ce qu’on entend Dire au Seigneur,
+    En écoutant avec son coeur?
+    “De vos bienfaits semez la vie!
+    Rien n’est perdu, rien ne s’oublie…
+    Donnez, donnez! un jour viendra
+    Où votre Dieu vous le rendra!”

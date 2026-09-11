@@ -1,0 +1,119 @@
+metadata:
+  class: Manifestation
+  label: La meunière sans-souci. Opérette en un acte
+  aliases:
+  description:
+  base_name: La meunière sans-souci. Opérette en un acte
+  filename: La meunière sans-souci. Opérette en un acte.md
+  id: 6CfxBFVtuyuN
+  n_id: 86404972210287740453
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+      publication_date: 1863
+      volume: 20
+      label: Magasin des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/M5XPBvFV3pSm
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Ernest Boulanger
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2RzaB8E5rKtz
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz
+        label: librettist
+      label: Auguste Carré
+  has_version:
+    - permalink: https://anet.be/record/ap/opacap/c:lvd:13225495
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1863
+  title:
+    - "La meunière sans-souci : opérette en un acte"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs
+      quantity: 1
+      label: choir
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 4
+      label: voice
+  depicts:
+  about:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM
+      label: operetta
+assets:
+  local_asset_path: ./assets/RCA-13225495
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-13225495/RCA-13225495_001.jpg
+  jpg:
+    - RCA-13225495_001.jpg
+    - RCA-13225495_002.jpg
+    - RCA-13225495_003.jpg
+    - RCA-13225495_004.jpg
+    - RCA-13225495_005.jpg
+    - RCA-13225495_006.jpg
+    - RCA-13225495_007.jpg
+    - RCA-13225495_008.jpg
+    - RCA-13225495_009.jpg
+    - RCA-13225495_010.jpg
+    - RCA-13225495_011.jpg
+    - RCA-13225495_012.jpg
+    - RCA-13225495_013.jpg
+    - RCA-13225495_014.jpg
+    - RCA-13225495_015.jpg
+    - RCA-13225495_016.jpg
+    - RCA-13225495_017.jpg
+    - RCA-13225495_018.jpg
+    - RCA-13225495_019.jpg
+    - RCA-13225495_020.jpg
+    - RCA-13225495_021.jpg
+    - RCA-13225495_022.jpg
+    - RCA-13225495_023.jpg
+    - RCA-13225495_024.jpg
+    - RCA-13225495_025.jpg
+    - RCA-13225495_026.jpg
+    - RCA-13225495_027.jpg
+    - RCA-13225495_028.jpg
+    - RCA-13225495_029.jpg
+    - RCA-13225495_030.jpg
+    - RCA-13225495_031.jpg
+    - RCA-13225495_032.jpg
+    - RCA-13225495_033.jpg
+    - RCA-13225495_034.jpg
+    - RCA-13225495_035.jpg
+    - RCA-13225495_036.jpg
+    - RCA-13225495_037.jpg
+    - RCA-13225495_038.jpg
+    - RCA-13225495_039.jpg
+    - RCA-13225495_040.jpg
+    - RCA-13225495_041.jpg
+    - RCA-13225495_042.jpg
+    - RCA-13225495_043.jpg
+    - RCA-13225495_044.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/6CfxBFVtuyuN.json
+content:
+  markdown_content: |-
+    0. Introduction
+    1. Trio et ronde du Loup-Garou
+    2. Choeur
+    3. Chanson du Meunier Sans-Souci
+    4. Choeur de la charade
+    5. Duo
+    6. Romance
+    7. Reprise en choeur de la chanson n. 3

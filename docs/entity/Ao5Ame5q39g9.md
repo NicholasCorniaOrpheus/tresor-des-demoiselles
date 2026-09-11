@@ -4,10 +4,10 @@
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/Ao5Ame5q39g9.json){ .md-button }
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/Ao5Ame5q39g9.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/Ao5Ame5q39g9.csv){ .md-button }
-[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/vault/assets/OI-20143702p41){ .md-button }
+[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/OI-20143702p41){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p41/orp-sawan-lecorbe-20143702p41-ps-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p41/orp-sawan-lecorbe-20143702p41-ps-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Le Corbeille de roses
@@ -62,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Ao5Ame5q39g9.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Ao5Ame5q39g9.json";
     </script>
 
 
@@ -72,7 +72,7 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - [waltz](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC)
+    - [notated music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr)
 
 ???+ abstract "part of"
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
@@ -97,6 +97,9 @@
     - [piano](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8)
         * quantity: 1
 
+???+ abstract "form of creative work"
+    - [waltz](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC)
+
 
 
 
@@ -113,7 +116,7 @@
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
       window.kbGraphConfig.assets = {
-        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
         local_path: "assets/OI-20143702p41/",
         images: ["orp-sawan-lecorbe-20143702p41-ps-00001.jpg", "orp-sawan-lecorbe-20143702p41-ps-00002.jpg", "orp-sawan-lecorbe-20143702p41-ps-00003.jpg", "orp-sawan-lecorbe-20143702p41-ps-00004.jpg", "orp-sawan-lecorbe-20143702p41-ps-00005.jpg"],
         iiif: ""

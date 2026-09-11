@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['opera comique'],opéra comique,opéra comique,opéra comique.md,Dr2VYNgaa4XN,244375566676705382417,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,['opera comique'],opéra comique,opéra comique,opéra comique.md,Dr2VYNgaa4XN,244375566676705382417,subclass_of,,,,,
+Concept,,['opera comique'],opéra comique,opéra comique,opéra comique.md,Dr2VYNgaa4XN,244375566676705382417,described_by_source,,,,,
+Concept,,['opera comique'],opéra comique,opéra comique,opéra comique.md,Dr2VYNgaa4XN,244375566676705382417,identifier,,,,,http://www.wikidata.org/entity/Q785479

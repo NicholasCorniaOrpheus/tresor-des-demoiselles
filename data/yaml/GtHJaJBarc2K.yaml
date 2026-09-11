@@ -1,32 +1,33 @@
 metadata:
   class: Agent
   label: Adolphe Aimé Lecadre
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Adolphe Aimé Lecadre
   filename: Adolphe Aimé Lecadre.md
   id: GtHJaJBarc2K
   n_id: 307101382982513290475
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
-    label: human
-  date_of_birth: null
-  described_by_source: null
-  date_of_death: null
-  place_of_birth: null
-  place_of_death: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
   sex_or_gender:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
-    label: male
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
   identifier:
-  - http://www.wikidata.org/entity/Q105833783
+    - http://www.wikidata.org/entity/Q105833783
   occupation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/EKZ4UEKdoJmP
-    label: physician
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/EKZ4UEKdoJmP
+      label: physician
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/GtHJaJBarc2K.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/GtHJaJBarc2K.json
 content:
-  markdown_content: ''
+  markdown_content: ""

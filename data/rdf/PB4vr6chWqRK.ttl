@@ -7,59 +7,59 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:PB4vr6chWqRK-4e4kAH8gAUcb a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:PB4vr6chWqRK .
-
-tdd:PB4vr6chWqRK-4rkdk4rCutoa a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:5BX54FRugrpJ ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:PB4vr6chWqRK .
-
-tdd:PB4vr6chWqRK-8r2xsRrspFqE a rdf:Statement ;
-    bf:Role tdd:cZsa9QkDZfZY ;
-    rdf:object tdd:fVVUZGiGyTJr ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:PB4vr6chWqRK .
-
-tdd:PB4vr6chWqRK-FABKdPfGisaU a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
-    rdf:object "Nee28d554a9ff42de9d171a387d728b5c" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:PB4vr6chWqRK ;
-    schema:datePublished "1839-01-01"^^xsd:date ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
-
-tdd:PB4vr6chWqRK-PnxbJUpBXXbo a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:PB4vr6chWqRK ;
-    schema:datePublished "1839-01-01"^^xsd:date ;
-    schema:volumeNumber 7 .
-
-tdd:PB4vr6chWqRK-UnfuWpUGBf7V a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:H83bdJHHtVPP ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:PB4vr6chWqRK .
-
-tdd:PB4vr6chWqRK-dRyjc979QxJN a rdf:Statement ;
+tdd:PB4vr6chWqRK-5na7gqp3VCkM a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:PB4vr6chWqRK .
 
-tdd:PB4vr6chWqRK-m8XCRFhJEV7Q a rdf:Statement ;
+tdd:PB4vr6chWqRK-7kTNy9yekYeo a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:PB4vr6chWqRK .
+
+tdd:PB4vr6chWqRK-DPmp4EscZnjb a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:PB4vr6chWqRK ;
+    schema:datePublished "1839-01-01" ;
+    schema:volumeNumber 7 .
+
+tdd:PB4vr6chWqRK-RNvbTqtN7D3T a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:5BX54FRugrpJ ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:PB4vr6chWqRK .
+
+tdd:PB4vr6chWqRK-S6aUfWgaZaqL a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:PB4vr6chWqRK .
+
+tdd:PB4vr6chWqRK-SsKTYr9xaSGP a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:fVVUZGiGyTJr ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:PB4vr6chWqRK .
+
+tdd:PB4vr6chWqRK-jWU5A3NomMCm a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:H83bdJHHtVPP ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:PB4vr6chWqRK .
+
+tdd:PB4vr6chWqRK-oWGVt4EHKxuT a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
+    rdf:object "N624f06469ad74f1d906eda79f8893fde" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:PB4vr6chWqRK ;
+    schema:datePublished "1839-01-01" ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
 
 tdd:PB4vr6chWqRK a rdfs:Resource ;
     rdfs:label "Sans toi. Romance" ;
@@ -69,6 +69,7 @@ tdd:PB4vr6chWqRK a rdfs:Resource ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Sans toi. Romance" ;
     dcterms:type "Manifestation" ;
-    wdt:P31 tdd:8FqAjuo6FtkU ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:8FqAjuo6FtkU ;
     wdt:P870 tdd:fcrABEiDKbza .
 

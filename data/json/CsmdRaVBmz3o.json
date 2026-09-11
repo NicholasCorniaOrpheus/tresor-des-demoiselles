@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Schott Music",
+    "aliases": [
+      "B. Schott"
+    ],
+    "description": null,
+    "base_name": "Schott Music",
+    "filename": "Schott Music.md",
+    "id": "CsmdRaVBmz3o",
+    "n_id": 224375691132873607917
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs",
+        "label": "publisher"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+        "label": "Brussels"
+      }
+    ],
+    "dissolved": null,
+    "contributor": null,
+    "official_website": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q536259"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+        "label": "Belgium"
+      }
+    ]
+  }
+}

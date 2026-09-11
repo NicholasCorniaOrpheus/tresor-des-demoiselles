@@ -1,31 +1,32 @@
 metadata:
   class: Organisation
   label: Biblioteca civica di Verona
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Biblioteca civica di Verona
   filename: Biblioteca civica di Verona.md
   id: 7LoWAKaDbbUb
   n_id: 109985051477425497753
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
-    label: public library
-  described_by_source: null
-  inception: null
-  location: null
-  dissolved: null
-  contributor: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
+      label: public library
+  described_by_source:
+  inception:
+  location:
+  dissolved:
+  contributor:
   official_website:
-  - https://cbv.comune.verona.it/
+    - https://cbv.comune.verona.it/
   identifier:
-  - http://www.wikidata.org/entity/Q3639573
+    - http://www.wikidata.org/entity/Q3639573
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B
-    label: Italy
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B
+      label: Italy
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/7LoWAKaDbbUb.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/7LoWAKaDbbUb.json
 content:
-  markdown_content: ''
+  markdown_content: ""

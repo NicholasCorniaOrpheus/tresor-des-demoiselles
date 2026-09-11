@@ -1,0 +1,32 @@
+metadata:
+  class: Agent
+  label: Délia Belloni
+  aliases:
+    - Delia Belloni
+  description:
+  base_name: Délia Belloni
+  filename: Délia Belloni.md
+  id: QefcFcp5yGSk
+  n_id: 467261816870547082464
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
+  identifier:
+  occupation:
+  related_to:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/QefcFcp5yGSk.json
+content:
+  markdown_content: ""

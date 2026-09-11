@@ -1,22 +1,23 @@
 metadata:
   class: Place
   label: Italy
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Italy
   filename: Italy.md
   id: VAvBZjyK4s8B
   n_id: 560396904689154412458
 statements:
   identifier:
-  - http://www.wikidata.org/entity/Q38
-  country: null
+    - http://www.wikidata.org/entity/Q38
+  country:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
-    label: country
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
+      label: country
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/VAvBZjyK4s8B.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/VAvBZjyK4s8B.json
 content:
-  markdown_content: ''
+  markdown_content: ""

@@ -1,33 +1,34 @@
 metadata:
   class: Organisation
   label: Royal Conservatory of Brussels
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Royal Conservatory of Brussels
   filename: Royal Conservatory of Brussels.md
   id: iKoQN6jW4jjj
   n_id: 831878868846029046734
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
-    label: public library
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC
-    label: conservatory
-  described_by_source: null
-  inception: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
+      label: public library
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ZezRAF7fMBC
+      label: conservatory
+  described_by_source:
+  inception:
   location:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
-    label: Brussels
-  dissolved: null
-  contributor: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+  dissolved:
+  contributor:
   official_website:
-  - https://catalog.b-bc.org/
+    - https://catalog.b-bc.org/
   identifier:
-  - http://www.wikidata.org/entity/Q336968
-  country: null
+    - http://www.wikidata.org/entity/Q336968
+  country:
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/iKoQN6jW4jjj.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/iKoQN6jW4jjj.json
 content:
-  markdown_content: ''
+  markdown_content: ""

@@ -1,0 +1,66 @@
+metadata:
+  class: Manifestation
+  label: La crainte et l'émotion. Quadrille élégant
+  aliases:
+  description:
+  base_name: La crainte et l'émotion. Quadrille élégant
+  filename: La crainte et l'émotion. Quadrille élégant.md
+  id: AV5MnAzByZcG
+  n_id: 174883356957191079428
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi
+      publication_date: 1860-11
+      volume:
+      label: Journal des dames et des demoiselles. Guide complet de tous les travaux de dames
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jD5hNbBz25A4
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Camille Schubert
+  has_version:
+    - permalink: https://anet.be/record/ap/opacap/c:lvd:12977319
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+          label: Brussels
+      publication_date: 1860-11
+      publisher:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jD5hNbBz25A4
+          label: Camille Schubert
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CsmdRaVBmz3o
+          label: Schott Music
+  title:
+    - "La crainte et l'émotion: quadrille élégant"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6
+      label: quadrille
+assets:
+  local_asset_path: ./assets/RCA-12977319
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12977319/RCA-12977319_001.jpg
+  jpg:
+    - RCA-12977319_001.jpg
+    - RCA-12977319_002.jpg
+    - RCA-12977319_003.jpg
+    - RCA-12977319_004.jpg
+    - RCA-12977319_005.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/AV5MnAzByZcG.json
+content:
+  markdown_content: ""

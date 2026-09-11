@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: polka
   base_name: polka
   filename: polka.md
@@ -9,17 +9,18 @@ metadata:
   n_id: 538007836371959109467
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP
-    label: type of musical work
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP
+      label: type of musical work
   subclass_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
-    label: classical dance music
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
+      label: classical dance music
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q11821889
+    - http://www.wikidata.org/entity/Q11821889
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/U66A6PCCFAfU.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/U66A6PCCFAfU.json
 content:
-  markdown_content: ''
+  markdown_content: ""

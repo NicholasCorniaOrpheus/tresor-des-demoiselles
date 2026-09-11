@@ -1,0 +1,31 @@
+metadata:
+  class: Agent
+  label: A. Vialon
+  aliases:
+  description: Lyricist
+  base_name: A. Vialon
+  filename: A. Vialon.md
+  id: 3vDTjkF6fXYz
+  n_id: 39534366538357345037
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+  identifier:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+      label: lyricist
+  related_to:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/3vDTjkF6fXYz.json
+content:
+  markdown_content: ""

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "class": "Work",
+    "description": null,
+    "aliases": null,
+    "label": "Le prophète",
+    "base_name": "Le prophète",
+    "filename": "Le prophète.md",
+    "id": "RNwEeP5MdCkK",
+    "n_id": 482204399901190255475
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+        "label": "dramatico-musical work"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q263297"
+    ],
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs",
+        "label": "opera"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S4YqwhiP6ga4",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/C9iK8tYqjNbr",
+          "label": "author"
+        },
+        "label": "Giacomo Meyerbeer"
+      }
+    ],
+    "based_on": null
+  }
+}

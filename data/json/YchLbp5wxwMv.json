@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Quadrille sur l'opéra Le prophète",
+    "aliases": null,
+    "description": null,
+    "base_name": "Quadrille sur l'opéra Le prophète",
+    "filename": "Quadrille sur l'opéra Le prophète.md",
+    "id": "YchLbp5wxwMv",
+    "n_id": 631635908893534899298
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+          "label": "dedicatee"
+        },
+        "label": "Abonnés du Journal des Demoiselles"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://go.wander.be/record/opacap/c:lvd:12977282",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+            "label": "Brussels"
+          }
+        ],
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+          "label": "Royal Conservatory of Antwerp"
+        }
+      }
+    ],
+    "title": [
+      "Quadrille sur l'opéra Le prophète"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": null,
+    "based_on": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RNwEeP5MdCkK",
+        "label": "Le prophète"
+      }
+    ],
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
+        "label": "quadrille"
+      }
+    ]
+  }
+}

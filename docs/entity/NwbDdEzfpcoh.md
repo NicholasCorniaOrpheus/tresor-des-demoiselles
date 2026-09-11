@@ -61,7 +61,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/NwbDdEzfpcoh.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/NwbDdEzfpcoh.json";
     </script>
 
 
@@ -71,11 +71,11 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - [operetta](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM)
+    - [notated music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr)
 
 ???+ abstract "part of"
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
-        * publication date: 1874-01-01
+        * publication date: 1874
         * volume: 42
 
 ???+ abstract "contributor"
@@ -88,14 +88,15 @@
     - 
         * permalink: [cb43140041g](https://catalogue.bnf.fr/ark:/12148/cb43140041g)
         * holding institution: [Bibliothèque nationale de France](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MzUK38XpCjqB)
-        * publication date: 1878-01-01
+        * publication date: 1878
         * external source: [bpt6k1281624n](https://gallica.bnf.fr/ark:/12148/bpt6k1281624n)
         * IIIF manifest: [bpt6k1281624n](https://gallica.bnf.fr/ark:/12148/bpt6k1281624n)
         * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
+        * publisher: [Theodor Michaelis](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RsFBDg2HUa72)
     - 
         * permalink: [70336](https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=70336)
         * holding institution: [Royal Conservatory of Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj)
-        * publication date: 1874-01-01
+        * publication date: 1874
         * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
 
 ???+ abstract "title"
@@ -107,6 +108,10 @@
 
 ???+ abstract "language"
     - [French](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza)
+
+???+ abstract "form of creative work"
+    - [operetta](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM)
+    - [chamber opera](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GFGuESLqMKpn)
 
 
 
@@ -124,10 +129,10 @@
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
       window.kbGraphConfig.assets = {
-        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
         local_path: "/",
         images: [],
-        iiif: "https://gallica.bnf.fr/ark:/12148/bpt6k1281624n"
+        iiif: "['https://gallica.bnf.fr/ark:/12148/bpt6k1281624n']"
       };
     </script>
 

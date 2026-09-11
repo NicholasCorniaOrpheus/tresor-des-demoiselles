@@ -1,0 +1,27 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:5vMfYTL9wGVi-jvdVVswNyZ5b a rdf:Statement ;
+    bf:Role tdd:Tk5wRTQJ7aUs ;
+    rdf:object tdd:Habre5ErbtGP ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:5vMfYTL9wGVi .
+
+tdd:5vMfYTL9wGVi a rdfs:Resource ;
+    rdfs:label "Journal des dames et des demoiselles. Guide complet de tous les travaux de dames" ;
+    dcterms:contributor tdd:Habre5ErbtGP ;
+    dcterms:created "1841" ;
+    dcterms:type "Organisation" ;
+    wdt:P131 tdd:BxHoLQMESXU2 ;
+    wdt:P1343 tdd:S2Htsbzzq7aP ;
+    wdt:P17 tdd:B2DaBkDtqy5R ;
+    wdt:P31 tdd:Ue6ZuYvAVpqW ;
+    skos:altLabel "Journal des dames et des demoiselles : guide complet de tous les travaux de dames" ;
+    schema:dissolutionDate "1902" .
+

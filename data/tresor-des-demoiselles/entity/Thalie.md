@@ -1,0 +1,32 @@
+---
+class: Manifestation
+label: Thalie
+aliases:
+description:
+local_asset_path: ./assets/OI-20143702p44
+instance_of: "[[notated music]]"
+has_part:
+part_of:
+  - value: "[[Trésor des demoiselles]]"
+contributor:
+  - value: "[[Adrien Talexy]]"
+    role: "[[composer]]"
+has_version:
+  - holding_institution: "[[Orpheus Instituut]]"
+    permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+    place_of_publication: "[[Brussels]]"
+    publisher: "[[François Desterbecq]]"
+title: "Thalie: Polka mazurka."
+instrumentation:
+  - value: "[[piano]]"
+    quantity: 1
+depicts:
+based_on:
+about:
+language:
+  - "[[French]]"
+image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p44/orp-talex-thalie-20143702p44-ps-00001.jpg
+form_of_creative_work:
+  - "[[polka]]"
+  - "[[mazurka]]"
+---

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Abonées du Journal des Dames et Demoiselles",
+    "aliases": [
+      "Subscribers of the Journal des Dames et Demoiselles"
+    ],
+    "description": null,
+    "base_name": "Abonées du Journal des Dames et Demoiselles",
+    "filename": "Abonées du Journal des Dames et Demoiselles.md",
+    "id": "3pfFtL7PyMqL",
+    "n_id": 37525984176902561250
+  },
+  "statements": {
+    "instance_of": null,
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": null,
+    "identifier": null,
+    "occupation": null,
+    "related_to": null
+  }
+}

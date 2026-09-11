@@ -1,32 +1,33 @@
 metadata:
   class: Agent
   label: Gaetano Donizetti
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Gaetano Donizetti
   filename: Gaetano Donizetti.md
   id: PBr2jjFrFXnm
   n_id: 436917149476152028222
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
-    label: human
-  date_of_birth: null
-  described_by_source: null
-  date_of_death: null
-  place_of_birth: null
-  place_of_death: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
   sex_or_gender:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
-    label: male
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
   identifier:
-  - http://www.wikidata.org/entity/Q101698
+    - http://www.wikidata.org/entity/Q101698
   occupation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-    label: composer
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Fotoreproductie_van_Gaetano_Donizetti.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/PBr2jjFrFXnm.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/PBr2jjFrFXnm.json
 content:
-  markdown_content: ''
+  markdown_content: ""

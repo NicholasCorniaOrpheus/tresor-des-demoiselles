@@ -1,21 +1,22 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: type of library
   base_name: type of library
   filename: type of library.md
   id: HjSMhbA3nqG8
   n_id: 324536494603906292691
 statements:
-  instance_of: null
-  subclass_of: null
-  described_by_source: null
+  instance_of:
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q25397890
+    - http://www.wikidata.org/entity/Q25397890
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/HjSMhbA3nqG8.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/HjSMhbA3nqG8.json
 content:
-  markdown_content: ''
+  markdown_content: ""

@@ -8,9 +8,9 @@ credentials = utilities.json2dict("./config/credentials.json")
 
 namespaces = utilities.json2dict("./mappings/namespaces.json")
 
-source_dir = "./vault/entity"
+source_dir = "./tresor-des-demoiselles/entity"
 
-assets_dir = "./vault/assets"
+assets_dir = "./tresor-des-demoiselles/assets"
 
 yaml_dir = "./yaml"
 

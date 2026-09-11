@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": [
+      "fragmented"
+    ],
+    "label": "incomplete",
+    "base_name": "incomplete",
+    "filename": "incomplete.md",
+    "id": "n4RMfkLzdSss",
+    "n_id": 908851936518842184574
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q100349848"
+    ]
+  }
+}

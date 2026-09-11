@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: French
   base_name: French
   filename: French.md
@@ -9,17 +9,18 @@ metadata:
   n_id: 776143208949055140089
 statements:
   identifier:
-  - http://wikidata.org/entity/Q150
+    - http://wikidata.org/entity/Q150
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dqFtJQZDwkjb
-    label: language
-  subclass_of: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dqFtJQZDwkjb
+      label: language
+  subclass_of:
   described_by_source:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
-    label: Wikidata
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
+      label: Wikidata
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/fcrABEiDKbza.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/fcrABEiDKbza.json
 content:
-  markdown_content: ''
+  markdown_content: ""

@@ -1,47 +1,47 @@
 metadata:
   class: Manifestation
   label: Journal des demoiselles (1844)
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Journal des demoiselles (1844)
   filename: Journal des demoiselles (1844).md
   id: 9g6aJgeHzqPk
   n_id: 158237570030965261440
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
-    label: periodical
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+      label: periodical
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
-    volume: 12
-    publication_date: 1844-01-01
-    label: Journal des demoiselles
-  contributor: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      volume: 12
+      publication_date: 1844-01-01
+      label: Journal des demoiselles
+  contributor:
   has_version:
-  - external_source: https://archive.org/details/journaldesdemois00pari
-    note: The publication date listed in Internet Archive is wrong. According to the
-      digitization, it is 1844.
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GpjEsTdNqATu
-      label: University of Toronto
-    publication_date: 1844-01-01
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
-    permalink: https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/1bcgp01/alma991106287992806196
-  title: null
-  instrumentation: null
-  depicts: null
-  about: null
+    - external_source: https://archive.org/details/journaldesdemois00pari
+      note: The publication date listed in Internet Archive is wrong. According to the digitization, it is 1844.
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GpjEsTdNqATu
+        label: University of Toronto
+      publication_date: 1844-01-01
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      permalink: https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/1bcgp01/alma991106287992806196
+  title:
+  instrumentation:
+  depicts:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
-  based_on: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
 assets:
-  local_asset_path: null
-  iiif: null
+  local_asset_path:
+  iiif: []
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/9g6aJgeHzqPk.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/9g6aJgeHzqPk.json
 content:
-  markdown_content: ''
+  markdown_content: ""

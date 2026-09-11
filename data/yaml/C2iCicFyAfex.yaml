@@ -1,7 +1,7 @@
 metadata:
   class: Work
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: Le Caïd
   base_name: Le Caïd
   filename: Le Caïd.md
@@ -9,25 +9,26 @@ metadata:
   n_id: 206614251070597609065
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp
-    label: dramatico-musical work
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp
+      label: dramatico-musical work
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q8773631
+    - http://www.wikidata.org/entity/Q8773631
   form_of_creative_work:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
-    label: opera
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
+      label: opera
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/55xUpX4b9uvf
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Ambroise Thomas
-  based_on: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/55xUpX4b9uvf
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Ambroise Thomas
+  based_on:
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/C2iCicFyAfex.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/C2iCicFyAfex.json
 content:
-  markdown_content: ''
+  markdown_content: ""

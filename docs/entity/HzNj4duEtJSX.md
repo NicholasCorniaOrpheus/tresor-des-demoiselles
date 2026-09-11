@@ -61,7 +61,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/HzNj4duEtJSX.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/HzNj4duEtJSX.json";
     </script>
 
 
@@ -72,6 +72,9 @@
 ## Statements
 ???+ abstract "instance of"
     - [university](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a)
+
+???+ abstract "dissolved"
+    - None
 
 ???+ abstract "official website"
     - [hollis.harvard.edu](https://hollis.harvard.edu/)

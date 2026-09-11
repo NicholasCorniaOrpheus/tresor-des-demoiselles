@@ -4,9 +4,10 @@
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/8PAPGoxTCgLt.json){ .md-button }
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/8PAPGoxTCgLt.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/8PAPGoxTCgLt.csv){ .md-button }
+[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1882-1){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1882-1/RCB-BV10-7424_1882-1_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Les fées du lac. valse brillante pour piano
@@ -61,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/8PAPGoxTCgLt.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/8PAPGoxTCgLt.json";
     </script>
 
 
@@ -71,11 +72,11 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - [waltz](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC)
+    - [notated music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr)
 
 ???+ abstract "part of"
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
-        * publication date: 1882-01-01
+        * publication date: 1882
         * volume: 50
 
 ???+ abstract "contributor"
@@ -86,7 +87,7 @@
     - 
         * permalink: [88116](https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88116)
         * holding institution: [Royal Conservatory of Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj)
-        * publication date: 1882-01-01
+        * publication date: 1882
         * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
 
 ???+ abstract "title"
@@ -105,8 +106,31 @@
 ???+ abstract "based on"
     - [Le Lac des fées](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4)
 
+???+ abstract "form of creative work"
+    - [waltz](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC)
 
 
 
 
+
+
+## Digital Assets
+
+??? abstract "Digitised images"
+    <div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
+        <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
+    </div>
+
+    <!-- Configure OpenSeadragon -->
+    <script>
+      window.kbGraphConfig = window.kbGraphConfig || {};
+      window.kbGraphConfig.assets = {
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
+        local_path: "assets/RCB-BV10-7424_1882-1/",
+        images: ["BV10-7424_1882-1_001.jpg", "BV10-7424_1882-1_002.jpg", "BV10-7424_1882-1_003.jpg", "BV10-7424_1882-1_004.jpg", "BV10-7424_1882-1_005.jpg", "BV10-7424_1882-1_006.jpg"],
+        iiif: ""
+      };
+    </script>
+
+    
 

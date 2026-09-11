@@ -2,31 +2,32 @@ metadata:
   class: Organisation
   label: Munich Digitization Center
   aliases:
-  - MDZ
-  description: null
+    - MDZ
+  description:
   base_name: Munich Digitization Center
   filename: Munich Digitization Center.md
   id: PSaEANSLWUfh
   n_id: 442247297981066628801
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS
-    label: digital library
-  described_by_source: null
-  inception: null
-  location: null
-  dissolved: null
-  contributor: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G5aFCqnqarZS
+      label: digital library
+  described_by_source:
+  inception:
+  location:
+  dissolved:
+  contributor:
   official_website:
-  - https://www.digitale-sammlungen.de/
+    - https://www.digitale-sammlungen.de/
   identifier:
-  - http://www.wikidata.org/entity/Q1645155
+    - http://www.wikidata.org/entity/Q1645155
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXFBXUBFBjqU
-    label: Germany
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXFBXUBFBjqU
+      label: Germany
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/PSaEANSLWUfh.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/PSaEANSLWUfh.json
 content:
-  markdown_content: ''
+  markdown_content: ""

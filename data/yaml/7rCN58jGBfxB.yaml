@@ -1,0 +1,39 @@
+metadata:
+  class: Agent
+  label: Marie Antonine Joséphine de Gramont
+  aliases:
+    - Comtesse d'Archiac
+  description:
+  base_name: Marie Antonine Joséphine de Gramont
+  filename: Marie Antonine Joséphine de Gramont.md
+  id: 7rCN58jGBfxB
+  n_id: 120622848673130977968
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+    - value: 1848
+  described_by_source:
+  date_of_death:
+    - value: 1904
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
+  identifier:
+  occupation:
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KLpFS5UzpXyY
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Zw3J5xiqV2bA
+        label: spouse
+      label: Étienne Desmier d'Archiac
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/7rCN58jGBfxB.json
+content:
+  markdown_content: ""

@@ -19,7 +19,9 @@
     "described_by_source": null,
     "inception": null,
     "location": null,
-    "dissolved": null,
+    "dissolved": [
+      null
+    ],
     "contributor": null,
     "official_website": [
       "https://hollis.harvard.edu/"

@@ -2,23 +2,24 @@ metadata:
   class: Place
   label: France
   aliases:
-  - Frankrijk
-  - Francia
-  description: null
+    - Frankrijk
+    - Francia
+  description:
   base_name: France
   filename: France.md
   id: LCZnUXZBAaXS
   n_id: 375268381433550005979
 statements:
   identifier:
-  - http://wikidata.org/entity/Q142
-  country: null
+    - http://wikidata.org/entity/Q142
+  country:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
-    label: country
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
+      label: country
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/LCZnUXZBAaXS.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/LCZnUXZBAaXS.json
 content:
-  markdown_content: ''
+  markdown_content: ""

@@ -1,0 +1,66 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:6CfxBFVtuyuN-3akk3Fx3T5Nx a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N3cdba5c3e5fa4892b4853f34f5e4b290" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:6CfxBFVtuyuN ;
+    schema:datePublished "1863" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:13225495> .
+
+tdd:6CfxBFVtuyuN-6pmCRdmj5Tb3 a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:2RzaB8E5rKtz ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:6CfxBFVtuyuN .
+
+tdd:6CfxBFVtuyuN-JuZ2SHDnsG66 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:M5XPBvFV3pSm ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:6CfxBFVtuyuN .
+
+tdd:6CfxBFVtuyuN-RiPUtoRVnFUz a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:6CfxBFVtuyuN .
+
+tdd:6CfxBFVtuyuN-Uqh3bbryeEMS a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:6CfxBFVtuyuN .
+
+tdd:6CfxBFVtuyuN-YSRzQpATGjHv a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:6CfxBFVtuyuN ;
+    schema:datePublished "1863" ;
+    schema:volumeNumber 20 .
+
+tdd:6CfxBFVtuyuN-ZuBMRfMfzGpm a rdf:Statement ;
+    wdt:P1114 "4" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:6CfxBFVtuyuN .
+
+tdd:6CfxBFVtuyuN a rdfs:Resource ;
+    rdfs:label "La meunière sans-souci. Opérette en un acte" ;
+    dcterms:contributor tdd:2RzaB8E5rKtz,
+        tdd:M5XPBvFV3pSm ;
+    dcterms:isPartOf tdd:HuT8aF2rGmzB ;
+    dcterms:title "La meunière sans-souci : opérette en un acte" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:bogx9ECia7TM ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

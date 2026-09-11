@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Délia Belloni",
+    "aliases": [
+      "Delia Belloni"
+    ],
+    "description": null,
+    "base_name": "Délia Belloni",
+    "filename": "Délia Belloni.md",
+    "id": "QefcFcp5yGSk",
+    "n_id": 467261816870547082464
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ],
+    "identifier": null,
+    "occupation": null,
+    "related_to": null
+  }
+}

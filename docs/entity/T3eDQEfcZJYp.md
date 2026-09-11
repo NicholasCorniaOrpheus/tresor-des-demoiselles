@@ -4,9 +4,10 @@
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/T3eDQEfcZJYp.json){ .md-button }
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/T3eDQEfcZJYp.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/T3eDQEfcZJYp.csv){ .md-button }
+[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1889-1){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/BV10-7424_1889-1/BV10-7424_1889-1_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Cracoviana. pour le piano
@@ -61,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/T3eDQEfcZJYp.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/T3eDQEfcZJYp.json";
     </script>
 
 
@@ -71,22 +72,22 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - [programme music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd)
+    - [notated music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr)
 
 ???+ abstract "part of"
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
-        * publication date: 1889-01-01
-        * volume: 51
+        * publication date: 1889
+        * volume: 57
 
 ???+ abstract "contributor"
-    - [Octave Fouque](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd)
+    - [Jean-Baptiste Weckerlin](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2yrMbZSDVHNx)
         * role: [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)
 
 ???+ abstract "has version"
     - 
-        * permalink: [88113](https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88113)
+        * permalink: [88115](https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88115)
         * holding institution: [Royal Conservatory of Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj)
-        * publication date: 1889-01-01
+        * publication date: 1883
         * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
 
 ???+ abstract "title"
@@ -96,8 +97,31 @@
     - [piano](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8)
         * quantity: 1
 
+???+ abstract "form of creative work"
+    - [programme music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd)
 
 
 
 
+
+
+## Digital Assets
+
+??? abstract "Digitised images"
+    <div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
+        <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
+    </div>
+
+    <!-- Configure OpenSeadragon -->
+    <script>
+      window.kbGraphConfig = window.kbGraphConfig || {};
+      window.kbGraphConfig.assets = {
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
+        local_path: "assets/RCB-BV10-7424_1889-1/",
+        images: ["BV10-7424_1889-1_001.jpg", "BV10-7424_1889-1_002.jpg", "BV10-7424_1889-1_003.jpg", "BV10-7424_1889-1_004.jpg"],
+        iiif: ""
+      };
+    </script>
+
+    
 

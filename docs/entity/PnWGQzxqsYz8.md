@@ -4,9 +4,10 @@
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/PnWGQzxqsYz8.json){ .md-button }
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/PnWGQzxqsYz8.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/PnWGQzxqsYz8.csv){ .md-button }
+[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/RCB-BV10-7078){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7078/RCB-BV10-7078_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Polka sur le Val D'Andorre d'Halevy
@@ -61,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/PnWGQzxqsYz8.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/PnWGQzxqsYz8.json";
     </script>
 
 
@@ -71,7 +72,7 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - [polka](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU)
+    - [notated music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr)
 
 ???+ abstract "part of"
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
@@ -79,6 +80,8 @@
 ???+ abstract "contributor"
     - [Alexandre Fessy](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gSpQjJMRbo9y)
         * role: [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)
+    - [Abonnés du Journal des Demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u)
+        * role: [dedicatee](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j)
 
 ???+ abstract "has version"
     - 
@@ -99,8 +102,31 @@
 ???+ abstract "based on"
     - [Le val d'Andorre](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox)
 
+???+ abstract "form of creative work"
+    - [polka](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU)
 
 
 
 
+
+
+## Digital Assets
+
+??? abstract "Digitised images"
+    <div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
+        <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
+    </div>
+
+    <!-- Configure OpenSeadragon -->
+    <script>
+      window.kbGraphConfig = window.kbGraphConfig || {};
+      window.kbGraphConfig.assets = {
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
+        local_path: "assets/RCB-BV10-7078/",
+        images: ["BV10-7078_001.jpg", "BV10-7078_002.jpg", "BV10-7078_003.jpg", "BV10-7078_004.jpg"],
+        iiif: ""
+      };
+    </script>
+
+    
 

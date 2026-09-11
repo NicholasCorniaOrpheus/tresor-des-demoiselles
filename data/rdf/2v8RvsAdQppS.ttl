@@ -1,0 +1,53 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:2v8RvsAdQppS-FQUa2h9qDRVY a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:2v8RvsAdQppS ;
+    schema:datePublished "1833" ;
+    schema:volumeNumber 1 .
+
+tdd:2v8RvsAdQppS-HdEKswFStiYv a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ffGPdUcNKsB8 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2v8RvsAdQppS .
+
+tdd:2v8RvsAdQppS-YBd4aMw2XFwM a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Nd9015faaea9c4658bb18672214edd427" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:2v8RvsAdQppS ;
+    schema:datePublished "1833" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:12977376> .
+
+tdd:2v8RvsAdQppS-gxTUEeAvkNAV a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:2v8RvsAdQppS .
+
+tdd:2v8RvsAdQppS-nzPajWEtuVfT a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2v8RvsAdQppS .
+
+tdd:2v8RvsAdQppS a rdfs:Resource ;
+    rdfs:label "Les guides de Murat. Quadrille brillant" ;
+    dcterms:contributor tdd:ffGPdUcNKsB8,
+        tdd:jUohUDQ7mo5u ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Les guides de Murat : quadrille brillant" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:HKt9yvCZmpw6 .
+

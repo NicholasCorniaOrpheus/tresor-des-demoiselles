@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Une larme. Mélodie sympathique variée",
+    "aliases": null,
+    "description": "Extrait de l'Oasis de l'étude",
+    "base_name": "Une larme. Mélodie sympathique variée",
+    "filename": "Une larme. Mélodie sympathique variée.md",
+    "id": "2hgUsD4tB9J5",
+    "n_id": 14363648808179225658
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi",
+        "publication_date": "1855-09",
+        "label": "Journal des dames et des demoiselles. Guide complet de tous les travaux de dames"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ku7b5p7YSdzi",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Antoine Scard"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88853",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+          "label": "Royal Conservatory of Brussels"
+        },
+        "note": "Edition belge.",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+            "label": "Brussels"
+          }
+        ],
+        "publication_date": "1855-09"
+      }
+    ],
+    "title": [
+      "Une larme : mélodie sympathique variée ; extrait de l'Oasis de l'étude / par A. Scard"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": null,
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WHdDug4Xwv3G",
+        "label": "mélodie"
+      }
+    ]
+  }
+}

@@ -12,20 +12,28 @@
   "statements": {
     "instance_of": [
       {
-        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
-        "label": "waltz"
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
       }
     ],
     "has_part": null,
     "part_of": [
       {
         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
-        "publication_date": "1879-01-01",
+        "publication_date": "1879-10-01",
         "volume": 47,
         "label": "Journal des demoiselles"
       }
     ],
     "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7rCN58jGBfxB",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+          "label": "dedicatee"
+        },
+        "label": "Marie Antonine Joséphine de Gramont"
+      },
       {
         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
         "role": {
@@ -75,6 +83,12 @@
       }
     ],
     "language": null,
-    "based_on": null
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
+        "label": "waltz"
+      }
+    ]
   }
 }

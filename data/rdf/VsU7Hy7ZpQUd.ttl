@@ -1,0 +1,50 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:VsU7Hy7ZpQUd-LW3w3gLGZAqr a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N11bb8cc3b1144ccdbb16eba48edc2af6" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:VsU7Hy7ZpQUd ;
+    schema:datePublished "1855-09" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88856> .
+
+tdd:VsU7Hy7ZpQUd-P7GCqzegXQ8K a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:m7feHGwGuNLg ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:VsU7Hy7ZpQUd .
+
+tdd:VsU7Hy7ZpQUd-RbamHzVkbfZ6 a rdf:Statement ;
+    rdf:object tdd:5vMfYTL9wGVi ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:VsU7Hy7ZpQUd ;
+    schema:datePublished "1855-09" .
+
+tdd:VsU7Hy7ZpQUd-SSfaQHVnAZ4L a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:VsU7Hy7ZpQUd .
+
+tdd:VsU7Hy7ZpQUd-athtr9tg3xtj a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:VsU7Hy7ZpQUd .
+
+tdd:VsU7Hy7ZpQUd a rdfs:Resource ;
+    rdfs:label "La saison des beaux jours. Églogue" ;
+    dcterms:contributor tdd:m7feHGwGuNLg ;
+    dcterms:isPartOf tdd:5vMfYTL9wGVi ;
+    dcterms:title "La saison des beaux jours : églogue / paroles et musique de Marc Constantin" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:GYx2286NJMuS .
+

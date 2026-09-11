@@ -1,54 +1,61 @@
 metadata:
   class: Manifestation
   label: Danse villageoise. air de danse antique
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Danse villageoise. air de danse antique
   filename: Danse villageoise. air de danse antique.md
   id: fuQNwtNrhyNk
   n_id: 782134062029983220385
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
-    label: classical dance music
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
-    publication_date: 1882-01-01
-    volume: 52
-    label: Journal des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1884
+      volume: 52
+      label: Journal des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Hortense Wild
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Hortense Wild
   has_version:
-  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88118
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
-      label: Royal Conservatory of Brussels
-    publication_date: 1884-01-01
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
-    external_source: null
+    - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88118
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+        label: Royal Conservatory of Brussels
+      publication_date: 1884
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      external_source:
   title:
-  - 'Danse villageoise : air de danse antique'
+    - "Danse villageoise : air de danse antique"
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
-  depicts: null
-  about: null
-  language: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
   based_on:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4
-    label: Le Lac des fées
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4
+      label: Le Lac des fées
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
+      label: classical dance music
 assets:
-  local_asset_path: null
-  iiif: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/fuQNwtNrhyNk.json
+  local_asset_path: ./assets/RCB-BV10-7424_1884-1
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1884-1/BV10-7424_1884-1_001.jpg
+  jpg:
+    - BV10-7424_1884-1_001.jpg
+    - BV10-7424_1884-1_002.jpg
+    - BV10-7424_1884-1_003.jpg
+    - BV10-7424_1884-1_004.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/fuQNwtNrhyNk.json
 content:
-  markdown_content: ''
+  markdown_content: ""

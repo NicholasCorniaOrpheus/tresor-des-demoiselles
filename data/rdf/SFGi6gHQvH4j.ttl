@@ -7,40 +7,40 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:SFGi6gHQvH4j-4VkyBje2TCWb a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:PBr2jjFrFXnm ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:SFGi6gHQvH4j .
-
-tdd:SFGi6gHQvH4j-C8PdAsY55rNr a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:SFGi6gHQvH4j .
-
-tdd:SFGi6gHQvH4j-Hhfc9C8kgzxq a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:SFGi6gHQvH4j ;
-    schema:datePublished "1839-01-01"^^xsd:date ;
-    schema:volumeNumber 7 .
-
-tdd:SFGi6gHQvH4j-KJW4jLcErjxu a rdf:Statement ;
+tdd:SFGi6gHQvH4j-XVd5XUxcEaaB a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:CaRovnpexber ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:SFGi6gHQvH4j .
 
-tdd:SFGi6gHQvH4j-LBnBwSdVV9ms a rdf:Statement ;
+tdd:SFGi6gHQvH4j-ZjiioaRgCwS6 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:SFGi6gHQvH4j .
+
+tdd:SFGi6gHQvH4j-cDbHKkSWJz9F a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PBr2jjFrFXnm ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:SFGi6gHQvH4j .
+
+tdd:SFGi6gHQvH4j-jMV9L4UtHMxD a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:SFGi6gHQvH4j ;
+    schema:datePublished "1839-01-01" ;
+    schema:volumeNumber 7 .
+
+tdd:SFGi6gHQvH4j-nGn8ZoWXTcHP a rdf:Statement ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359990> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest> ;
-    rdf:object "N66a16cea1fa54fc88ecff5d9087f8dc3" ;
+    rdf:object "Nfe67880e133b4b7a833344e037d81413" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:SFGi6gHQvH4j ;
-    schema:datePublished "1839-01-01"^^xsd:date ;
+    schema:datePublished "1839-01-01" ;
     schema:url <https://mdz-nbn-resolving.de/details:bsb10359990> .
 
 tdd:SFGi6gHQvH4j a rdfs:Resource ;
@@ -50,5 +50,6 @@ tdd:SFGi6gHQvH4j a rdfs:Resource ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "L'Elisir d'amore. Quadrille" ;
     dcterms:type "Manifestation" ;
-    wdt:P31 tdd:HKt9yvCZmpw6 .
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:HKt9yvCZmpw6 .
 

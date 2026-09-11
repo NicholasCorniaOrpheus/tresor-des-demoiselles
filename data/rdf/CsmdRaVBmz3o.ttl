@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:CsmdRaVBmz3o a rdfs:Resource ;
+    rdfs:label "Schott Music" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q536259> ;
+    dcterms:type "Organisation" ;
+    wdt:P131 tdd:BxHoLQMESXU2 ;
+    wdt:P17 tdd:B2DaBkDtqy5R ;
+    wdt:P31 tdd:Tk5wRTQJ7aUs ;
+    skos:altLabel "B. Schott" .
+

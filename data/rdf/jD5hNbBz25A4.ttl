@@ -1,0 +1,19 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix gnd: <https://d-nb.info/standards/elementset/gnd#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:jD5hNbBz25A4 a rdfs:Resource ;
+    rdfs:label "Camille Schubert" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q2935070> ;
+    dcterms:type "Agent" ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    skos:altLabel "Camille Prilipp" ;
+    gnd:relatedTerm tdd:5vMfYTL9wGVi ;
+    schema:gender tdd:hkA3uvTGSDnD ;
+    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs" .
+

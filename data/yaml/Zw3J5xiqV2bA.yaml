@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  description:
+  aliases:
+  label: spouse
+  base_name: spouse
+  filename: spouse.md
+  id: Zw3J5xiqV2bA
+  n_id: 658908805321280696705
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
+      label: occupation
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q1196129
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Zw3J5xiqV2bA.json
+content:
+  markdown_content: ""

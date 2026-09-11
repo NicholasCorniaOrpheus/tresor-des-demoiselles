@@ -1,0 +1,39 @@
+metadata:
+  class: Agent
+  label: Victor Rifaut
+  aliases:
+    - Louis Victor Étienne Rifaut
+  description:
+  base_name: Victor Rifaut
+  filename: Victor Rifaut.md
+  id: YEJrXGtRWrUF
+  n_id: 623528425962104549545
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+    - http://www.wikidata.org/entity/Q4394898
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY
+      label: arranger
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi
+      label: Journal des dames et des demoiselles. Guide complet de tous les travaux de dames
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/YEJrXGtRWrUF.json
+content:
+  markdown_content: ""

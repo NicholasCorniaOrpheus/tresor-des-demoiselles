@@ -1,29 +1,30 @@
 metadata:
   class: Agent
   label: C.A. Boulanger
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: C.A. Boulanger
   filename: C.A. Boulanger.md
   id: d3bH5kZvxqbQ
   n_id: 722829806594194071784
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
-    label: human
-  date_of_birth: null
-  described_by_source: null
-  date_of_death: null
-  place_of_birth: null
-  place_of_death: null
-  sex_or_gender: null
-  identifier: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+  identifier:
   occupation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-    label: composer
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/d3bH5kZvxqbQ.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/d3bH5kZvxqbQ.json
 content:
-  markdown_content: ''
+  markdown_content: ""

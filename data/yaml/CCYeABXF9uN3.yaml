@@ -1,46 +1,48 @@
 metadata:
   class: Manifestation
   label: Journal des demoiselles (1841)
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Journal des demoiselles (1841)
   filename: Journal des demoiselles (1841).md
   id: CCYeABXF9uN3
   n_id: 210173903518750209808
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
-    label: periodical
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+      label: periodical
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
-    volume: 9
-    publication_date: 1841-01-01
-    label: Journal des demoiselles
-  contributor: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      volume: 9
+      publication_date: 1841-01-01
+      label: Journal des demoiselles
+  contributor:
   has_version:
-  - permalink: https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21287762010003338
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6TWgDcxqkKDN
-      label: Austrian National Library
-    publication_date: 1841-01-01
-    external_source: https://viewer.onb.ac.at/10A4EB6F/
-    IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/10A4EB6F
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
-  title: null
-  instrumentation: null
-  depicts: null
-  about: null
+    - permalink: https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21287762010003338
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6TWgDcxqkKDN
+        label: Austrian National Library
+      publication_date: 1841-01-01
+      external_source: https://viewer.onb.ac.at/10A4EB6F/
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/10A4EB6F
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+  title:
+  instrumentation:
+  depicts:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
-  based_on: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
 assets:
-  local_asset_path: null
-  iiif: https://api.onb.ac.at/iiif/presentation/v3/manifest/10A4EB6F
+  local_asset_path:
+  iiif:
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/10A4EB6F
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/CCYeABXF9uN3.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/CCYeABXF9uN3.json
 content:
-  markdown_content: ''
+  markdown_content: ""

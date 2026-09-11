@@ -1,0 +1,35 @@
+metadata:
+  class: Work
+  description:
+  aliases:
+    - Le pre aux clercs
+  label: Le pré aux clercs
+  base_name: Le pré aux clercs
+  filename: Le pré aux clercs.md
+  id: JEJVgyKnT7Q9
+  n_id: 334623506427802899388
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp
+      label: dramatico-musical work
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q3226048
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
+      label: opera
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Ferdinand Hérold
+  based_on:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/JEJVgyKnT7Q9.json
+content:
+  markdown_content: ""

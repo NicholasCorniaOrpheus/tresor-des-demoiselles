@@ -1,71 +1,101 @@
 metadata:
   class: Manifestation
   label: Dieu le voit
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Dieu le voit
   filename: Dieu le voit.md
   id: gRR8aAYdEX54
   n_id: 792637777608565348001
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
-    label: song
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
-    label: Trésor des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+      label: Trésor des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/c5Sr2gJUocsM
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
-      label: lyricist
-    label: Auguste Richomme
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AouufLb7bx5R
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Paul Henrion
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/c5Sr2gJUocsM
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+        label: lyricist
+      label: Auguste Richomme
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AouufLb7bx5R
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Paul Henrion
   has_version:
-  - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
-      label: Orpheus Instituut
-    place_of_publication:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
-      label: Brussels
+    - permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+        label: Orpheus Instituut
+      place_of_publication:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+        label: Brussels
   title:
-  - 'Dieu le voit: Mélodie'
+    - "Dieu le voit: Mélodie"
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
-    quantity: 1
-    label: voice
-  depicts: null
-  based_on: null
-  about: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 1
+      label: voice
+  depicts:
+  based_on:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+      label: song
 assets:
   local_asset_path: ./assets/OI-20143702p36
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p36/orp-henri-dieulev-20143702p36-fs-00001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p36/orp-henri-dieulev-20143702p36-fs-00001.jpg
   jpg:
-  - orp-henri-dieulev-20143702p36-fs-00001.jpg
-  - orp-henri-dieulev-20143702p36-fs-00002.jpg
-  - orp-henri-dieulev-20143702p36-fs-00003.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/gRR8aAYdEX54.json
+    - orp-henri-dieulev-20143702p36-fs-00001.jpg
+    - orp-henri-dieulev-20143702p36-fs-00002.jpg
+    - orp-henri-dieulev-20143702p36-fs-00003.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/gRR8aAYdEX54.json
 content:
-  markdown_content: "### Lyrics\n\nLe petit nid d’oiseau \nplus faible qu’un roseau\n\
-    tremble et penche sur la branche!\nà le voir suspendu \nsur la cime de l’abime\n\
-    on le croirait perdu! perdu!\n\npour lui; ne craignez rien!\npour lui; ne craignez\
-    \ rien\ncar, si petit qu’il soit \nDieu le voit!\n\nLe petit rosier nain\ncaché\
-    \ dans le ravin,\nmince et grèle il chancelle!\nun rien peut le flétrir!\nle passage\
-    \ d’un orage\ndoit le fair mourir mourir?\n\npour lui; ne craignez rien!\npour\
-    \ lui; ne craignez rien\ncar, si petit qu’il soit \nDieu le voit!\n\nLe petit\
-    \ ange blond\ndans son lit tout mignon,\ns’il s’agite vite vite\nsa mère est dans\
-    \ l’effroi\nque d’alarmes, que de larmes!\njeune mère pourquoi? pourquoi?\n\n\
-    pour lui; ne craignez rien!\npour lui; ne craignez rien\ncar, si petit qu’il soit\
-    \ \nDieu le voit!"
+  markdown_content: |-
+    ### Lyrics
+
+    Le petit nid d’oiseau 
+    plus faible qu’un roseau
+    tremble et penche sur la branche!
+    à le voir suspendu 
+    sur la cime de l’abime
+    on le croirait perdu! perdu!
+
+    pour lui; ne craignez rien!
+    pour lui; ne craignez rien
+    car, si petit qu’il soit 
+    Dieu le voit!
+
+    Le petit rosier nain
+    caché dans le ravin,
+    mince et grèle il chancelle!
+    un rien peut le flétrir!
+    le passage d’un orage
+    doit le fair mourir mourir?
+
+    pour lui; ne craignez rien!
+    pour lui; ne craignez rien
+    car, si petit qu’il soit 
+    Dieu le voit!
+
+    Le petit ange blond
+    dans son lit tout mignon,
+    s’il s’agite vite vite
+    sa mère est dans l’effroi
+    que d’alarmes, que de larmes!
+    jeune mère pourquoi? pourquoi?
+
+    pour lui; ne craignez rien!
+    pour lui; ne craignez rien
+    car, si petit qu’il soit 
+    Dieu le voit!

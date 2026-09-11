@@ -61,7 +61,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/SUrWQhaKnmHL.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/SUrWQhaKnmHL.json";
     </script>
 
 
@@ -70,6 +70,10 @@
 
 
 ## Statements
+???+ abstract "instance of"
+    - [chamber opera](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GFGuESLqMKpn)
+    - [operetta](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM)
+
 ???+ abstract "part of"
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
         * publication date: 1877-01-01

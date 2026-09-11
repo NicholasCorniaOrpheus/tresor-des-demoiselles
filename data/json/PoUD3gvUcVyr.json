@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "description": "handwritten or printed form of musical notation that uses musical symbols to indicate the pitches, rhythms, or chords of a song or instrumental musical piece",
+    "aliases": [
+      "sheet music",
+      "score",
+      "partiture"
+    ],
+    "label": "notated music",
+    "base_name": "notated music",
+    "filename": "notated music.md",
+    "id": "PoUD3gvUcVyr",
+    "n_id": 449811764690758467864
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      {
+        "http": "//www.wikidata.org/entity/Q187947"
+      }
+    ],
+    "form_of_creative_work": null,
+    "contributor": null,
+    "has_version": null,
+    "instrumentation": null,
+    "part_of": null,
+    "title": null,
+    "based_on": null
+  }
+}

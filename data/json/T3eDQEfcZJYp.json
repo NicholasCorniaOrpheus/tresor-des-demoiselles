@@ -12,37 +12,37 @@
   "statements": {
     "instance_of": [
       {
-        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd",
-        "label": "programme music"
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
       }
     ],
     "has_part": null,
     "part_of": [
       {
         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
-        "publication_date": "1889-01-01",
-        "volume": 51,
+        "publication_date": 1889,
+        "volume": 57,
         "label": "Journal des demoiselles"
       }
     ],
     "contributor": [
       {
-        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jrncQaEniubd",
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2yrMbZSDVHNx",
         "role": {
           "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
           "label": "composer"
         },
-        "label": "Octave Fouque"
+        "label": "Jean-Baptiste Weckerlin"
       }
     ],
     "has_version": [
       {
-        "permalink": "https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88113",
+        "permalink": "https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88115",
         "holding_institution": {
           "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
           "label": "Royal Conservatory of Brussels"
         },
-        "publication_date": "1889-01-01",
+        "publication_date": 1883,
         "place_of_publication": [
           {
             "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
@@ -65,6 +65,12 @@
     "depicts": null,
     "about": null,
     "language": null,
-    "based_on": null
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FNU55ruFFYjd",
+        "label": "programme music"
+      }
+    ]
   }
 }

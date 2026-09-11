@@ -7,22 +7,22 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:mApx5hxvaHZz-8eXDHEVgKkxk a rdf:Statement ;
+tdd:mApx5hxvaHZz-6y9C3kiPHxEk a rdf:Statement ;
     bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1865." ;
     bf:electronicLocator <https://archive.org/details/bub_gb_EV4EAAAAYAAJ> ;
     bf:heldBy tdd:G9FZhC6pNp69 ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N7464d6e023ad4636b0778316b991f56b" ;
+    rdf:object "N72dbeeb029b44110b52868921c294108" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:mApx5hxvaHZz ;
-    schema:datePublished "1865-01-01"^^xsd:date ;
+    schema:datePublished "1865-01-01" ;
     schema:url <https://archive.org/details/bub_gb_EV4EAAAAYAAJ> .
 
-tdd:mApx5hxvaHZz-eohBtFxfZD5G a rdf:Statement ;
+tdd:mApx5hxvaHZz-Pwq2bNomZDk3 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:mApx5hxvaHZz ;
-    schema:datePublished "1865-01-01"^^xsd:date ;
+    schema:datePublished "1865-01-01" ;
     schema:volumeNumber 33 .
 
 tdd:mApx5hxvaHZz a rdfs:Resource ;

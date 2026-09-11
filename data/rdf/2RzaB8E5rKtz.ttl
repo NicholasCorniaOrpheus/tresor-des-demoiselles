@@ -1,0 +1,14 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:2RzaB8E5rKtz a rdfs:Resource ;
+    rdfs:label "Auguste Carré" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q141410743> ;
+    dcterms:type "Agent" ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    schema:gender tdd:hkA3uvTGSDnD ;
+    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz" .
+

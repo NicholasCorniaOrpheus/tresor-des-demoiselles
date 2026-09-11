@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,related_to_value
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,date_of_birth,,,,,,,,,,,,
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,described_by_source,,,,,,,,,,,,
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,date_of_death,,,,,,,,,,,,
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,place_of_birth,,,,,,,,,,,,
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,place_of_death,,,,,,,,,,,,
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,identifier,,,,,,,,,,,,
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,occupation,,,,,,,,,,,,
+Agent,Délia Belloni,['Delia Belloni'],,Délia Belloni,Délia Belloni.md,QefcFcp5yGSk,467261816870547082464,related_to,,,,,,,,,,,,

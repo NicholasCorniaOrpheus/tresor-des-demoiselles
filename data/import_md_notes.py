@@ -6,9 +6,9 @@ import yaml, os
 
 credentials = utilities.json2dict("./config/credentials.json")
 
-source_dir = "./vault/entity"
+source_dir = "./tresor-des-demoiselles/entity"
 
-assets_dir = "./vault/assets"
+assets_dir = "./tresor-des-demoiselles/assets"
 
 yaml_dir = "./yaml"
 
@@ -54,7 +54,7 @@ statements.add_labels_to_statements(
 print("Extract assets files and IIIF manifest...")
 assets.extract_assets_from_local_paths(
     yaml_dir=yaml_dir,
-    vault_path="./vault",
+    vault_path="./tresor-des-demoiselles",
     vault_base_url=credentials["kblight"]["vault_url"],
 )
 

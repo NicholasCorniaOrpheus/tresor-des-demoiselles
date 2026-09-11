@@ -1,21 +1,22 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: language
   base_name: language
   filename: language.md
   id: dqFtJQZDwkjb
   n_id: 739360235349907777650
 statements:
-  instance_of: null
-  subclass_of: null
-  described_by_source: null
+  instance_of:
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q34770
+    - http://www.wikidata.org/entity/Q34770
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/dqFtJQZDwkjb.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/dqFtJQZDwkjb.json
 content:
-  markdown_content: ''
+  markdown_content: ""

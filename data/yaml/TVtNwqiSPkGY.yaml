@@ -1,0 +1,35 @@
+metadata:
+  class: Agent
+  label: Félicien David
+  aliases:
+    - Félicien-César David
+  description:
+  base_name: Félicien David
+  filename: Félicien David.md
+  id: TVtNwqiSPkGY
+  n_id: 525992304202142748993
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+    - http://www.wikidata.org/entity/Q951933
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  related_to:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/5/58/0Felicien_David.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/TVtNwqiSPkGY.json
+content:
+  markdown_content: ""

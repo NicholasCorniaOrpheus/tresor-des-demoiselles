@@ -1,0 +1,67 @@
+metadata:
+  class: Manifestation
+  label: Les roses de mai. Quadrille brillant
+  aliases:
+  description:
+  base_name: Les roses de mai. Quadrille brillant
+  filename: Les roses de mai. Quadrille brillant.md
+  id: nhhVWRK57VWH
+  n_id: 922349666360413557855
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1833
+      volume: 1
+      label: Journal des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j
+        label: dedicatee
+      label: Abonnés du Journal des Demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ffGPdUcNKsB8
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: V. M. Bernhardt
+  has_version:
+    - permalink: https://anet.be/record/ap/opacap/c:lvd:12977270
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+          label: Brussels
+      publication_date: 1833
+  title:
+    - "Les roses de mai: quadrille brillant"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6
+      label: quadrille
+assets:
+  local_asset_path: ./assets/RCA-12977270
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12977270/RCA-12977270_001.jpg
+  jpg:
+    - RCA-12977270_001.jpg
+    - RCA-12977270_002.jpg
+    - RCA-12977270_003.jpg
+    - RCA-12977270_004.jpg
+    - RCA-12977270_005.jpg
+    - RCA-12977270_006.jpg
+    - RCA-12977270_007.jpg
+    - RCA-12977270_008.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/nhhVWRK57VWH.json
+content:
+  markdown_content: ""

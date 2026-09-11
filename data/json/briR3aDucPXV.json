@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "anonymous",
+    "aliases": null,
+    "description": null,
+    "base_name": "anonymous",
+    "filename": "anonymous.md",
+    "id": "briR3aDucPXV",
+    "n_id": 698618920788719297934
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q4233718"
+    ],
+    "occupation": null,
+    "related_to": null
+  }
+}

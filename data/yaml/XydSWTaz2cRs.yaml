@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  description:
+  aliases:
+  label: choir
+  base_name: choir
+  filename: choir.md
+  id: XydSWTaz2cRs
+  n_id: 618577961210965767646
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cifmNoRzoHNK
+      label: type of musical group
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q131186
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/XydSWTaz2cRs.json
+content:
+  markdown_content: ""

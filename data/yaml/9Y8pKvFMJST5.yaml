@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: composer
   base_name: composer
   filename: composer.md
@@ -9,15 +9,16 @@ metadata:
   n_id: 155355568732664046690
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
-    label: occupation
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
+      label: occupation
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q36834
+    - http://www.wikidata.org/entity/Q36834
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/9Y8pKvFMJST5.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/9Y8pKvFMJST5.json
 content:
-  markdown_content: ''
+  markdown_content: ""

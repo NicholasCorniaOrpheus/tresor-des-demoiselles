@@ -1,0 +1,21 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:RNwEeP5MdCkK-aSqBksdpjtvi a rdf:Statement ;
+    bf:Role tdd:C9iK8tYqjNbr ;
+    rdf:object tdd:S4YqwhiP6ga4 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:RNwEeP5MdCkK .
+
+tdd:RNwEeP5MdCkK a rdfs:Resource ;
+    rdfs:label "Le prophète" ;
+    dcterms:contributor tdd:S4YqwhiP6ga4 ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q263297> ;
+    dcterms:type "Work" ;
+    wdt:P31 tdd:XaBZqJUPUbCp ;
+    wdt:P7937 tdd:NwTUKgXApENs .
+

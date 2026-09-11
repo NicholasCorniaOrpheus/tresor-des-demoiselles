@@ -1,0 +1,28 @@
+metadata:
+  class: Organisation
+  label: Abonnés du Journal des Demoiselles
+  aliases:
+    - Subscribers of the Journal des Demoiselles
+  description:
+  base_name: Abonnés du Journal des Demoiselles
+  filename: Abonnés du Journal des Demoiselles.md
+  id: jUohUDQ7mo5u
+  n_id: 855774974975647529733
+statements:
+  instance_of:
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+  identifier:
+  occupation:
+  related_to:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/jUohUDQ7mo5u.json
+content:
+  markdown_content: ""

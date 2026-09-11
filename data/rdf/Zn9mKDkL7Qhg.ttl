@@ -7,21 +7,21 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Zn9mKDkL7Qhg-Kfn2wYYxpYVj a rdf:Statement ;
+tdd:Zn9mKDkL7Qhg-PZMwh47UD8Le a rdf:Statement ;
     bf:electronicLocator <https://archive.org/details/journaldesdemoi08unkngoog> ;
     bf:heldBy tdd:HzNj4duEtJSX ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N2b643b4de8e4411fb3c02f0f0b17d767" ;
+    rdf:object "Nc697ddaf234c4200a2457bd916a7e040" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:Zn9mKDkL7Qhg ;
-    schema:datePublished "1874-01-01"^^xsd:date ;
+    schema:datePublished "1874-01-01" ;
     schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
 
-tdd:Zn9mKDkL7Qhg-aGrfKxtUwiE9 a rdf:Statement ;
+tdd:Zn9mKDkL7Qhg-R3zTyQqaUymr a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Zn9mKDkL7Qhg ;
-    schema:datePublished "1874-01-01"^^xsd:date ;
+    schema:datePublished "1874-01-01" ;
     schema:volumeNumber 42 .
 
 tdd:Zn9mKDkL7Qhg a rdfs:Resource ;

@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: voice
   base_name: voice
   filename: voice.md
@@ -9,15 +9,16 @@ metadata:
   n_id: 721869170272909956550
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/e2BQmjur6FrK
-    label: type of musical instrument
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/e2BQmjur6FrK
+      label: type of musical instrument
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q17172850
+    - http://www.wikidata.org/entity/Q17172850
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/cyw32uWwiuUQ.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/cyw32uWwiuUQ.json
 content:
-  markdown_content: ''
+  markdown_content: ""

@@ -1,74 +1,108 @@
 metadata:
   class: Manifestation
   label: Captivité
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Captivité
   filename: Captivité.md
   id: HhZTHayappCf
   n_id: 323857509826393716367
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
-    label: song
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
-    publication_date: 1853-01-01
-    label: Trésor des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+      publication_date: 1853-01-01
+      label: Trésor des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP]
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
-      label: lyricist
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AouufLb7bx5R
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Paul Henrion
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP]
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+        label: lyricist
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AouufLb7bx5R
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Paul Henrion
   has_version:
-  - holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
-      label: Orpheus Instituut
-    permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
-    place_of_publication:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
-      label: Brussels
-    publisher:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
-      label: François Desterbecq
+    - holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+        label: Orpheus Instituut
+      permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+      place_of_publication:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+        label: Brussels
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
+        label: François Desterbecq
   title:
-  - 'Captivité: Mélodie.'
+    - "Captivité: Mélodie."
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
-    quantity: 1
-    label: voice
-  depicts: null
-  based_on: null
-  about: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 1
+      label: voice
+  depicts:
+  based_on:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+      label: song
 assets:
   local_asset_path: ./assets/OI-20143702p45
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p45/orp-henri-captivi-20143702p45-fs-00001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p45/orp-henri-captivi-20143702p45-fs-00001.jpg
   jpg:
-  - orp-henri-captivi-20143702p45-fs-00001.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/HhZTHayappCf.json
+    - orp-henri-captivi-20143702p45-fs-00001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/HhZTHayappCf.json
 content:
-  markdown_content: "### Lyrics\n\nPrends, petit oiseau, \nce que je te donne\ndit\
-    \ l’enfant à son prisonnier,\ndu gateau pour ta faim mignonne,\navec le sucre\
-    \ qui foisonne,\net du frais plantin printanier.\n\nAh! répond tout en peine,\n\
-    Ah! répond tout en peine\nun regard attristé:\nJ’ai mon grain dans la plaine,\n\
-    rendez-moi \nah! rendez-moi ma liberté.\n\nJe sais des chansons \nqu’il te faut\
-    \ apprendre,\ndit l’enfant à son prisonnier,\ndes chansons, que par la voix tendre,\n\
-    il me sera si doux d’entendre,\nsous l’azur du ciel printanier.\n\nAh! répond\
-    \ tout en peine,\nAh! répond tout en peine\nun regard attristé:\nJ’ai mon grain\
-    \ dans la plaine,\nrendez-moi \nah! rendez-moi ma liberté.\n\nLes jours seront\
-    \ beaux \nles nuits seront belles\ndit l’enfant à son prisonnier,\nj’apporte au\
-    \ sommeil de tes ailes,\ndes fleurs et des mousses nouvelles\nqu’embaume un parfum\
-    \ printanier.\n\nAh! répond tout en peine,\nAh! répond tout en peine\nun regard\
-    \ attristé:\nJ’ai mon grain dans la plaine,\nrendez-moi \nah! rendez-moi ma liberté."
+  markdown_content: |-
+    ### Lyrics
+
+    Prends, petit oiseau, 
+    ce que je te donne
+    dit l’enfant à son prisonnier,
+    du gateau pour ta faim mignonne,
+    avec le sucre qui foisonne,
+    et du frais plantin printanier.
+
+    Ah! répond tout en peine,
+    Ah! répond tout en peine
+    un regard attristé:
+    J’ai mon grain dans la plaine,
+    rendez-moi 
+    ah! rendez-moi ma liberté.
+
+    Je sais des chansons 
+    qu’il te faut apprendre,
+    dit l’enfant à son prisonnier,
+    des chansons, que par la voix tendre,
+    il me sera si doux d’entendre,
+    sous l’azur du ciel printanier.
+
+    Ah! répond tout en peine,
+    Ah! répond tout en peine
+    un regard attristé:
+    J’ai mon grain dans la plaine,
+    rendez-moi 
+    ah! rendez-moi ma liberté.
+
+    Les jours seront beaux 
+    les nuits seront belles
+    dit l’enfant à son prisonnier,
+    j’apporte au sommeil de tes ailes,
+    des fleurs et des mousses nouvelles
+    qu’embaume un parfum printanier.
+
+    Ah! répond tout en peine,
+    Ah! répond tout en peine
+    un regard attristé:
+    J’ai mon grain dans la plaine,
+    rendez-moi 
+    ah! rendez-moi ma liberté.

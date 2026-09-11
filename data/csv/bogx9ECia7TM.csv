@@ -1,5 +1,12 @@
-class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
-Concept,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
-Concept,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,subclass_of,,,,,
-Concept,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,described_by_source,,,,,
-Concept,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,identifier,,,,,http://www.wikidata.org/entity/Q170384
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value,form_of_creative_work_value,contributor_value,has_version_value,instrumentation_value,part_of_value,title_value,based_on_value
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,subclass_of,,,,,,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,described_by_source,,,,,,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,identifier,,,,,http://www.wikidata.org/entity/Q170384,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,form_of_creative_work,,,,,,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,contributor,,,,,,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,has_version,,,,,,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,instrumentation,,,,,,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,part_of,,,,,,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,title,,,,,,,,,,,,
+Manifestation,,,operetta,operetta,operetta.md,bogx9ECia7TM,697523583217046111608,based_on,,,,,,,,,,,,

@@ -1,21 +1,22 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: Ghent University
   base_name: university
   filename: university.md
   id: MBm7WVmvSg7a
   n_id: 395614123650352442405
 statements:
-  instance_of: null
-  subclass_of: null
-  described_by_source: null
+  instance_of:
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q3918
+    - http://www.wikidata.org/entity/Q3918
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/MBm7WVmvSg7a.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/MBm7WVmvSg7a.json
 content:
-  markdown_content: ''
+  markdown_content: ""

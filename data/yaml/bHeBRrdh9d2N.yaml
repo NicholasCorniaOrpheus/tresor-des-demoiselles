@@ -1,0 +1,112 @@
+metadata:
+  class: Manifestation
+  label: Marianne. Opéra-comique en un acte
+  aliases:
+  description:
+  base_name: Marianne. Opéra-comique en un acte
+  filename: Marianne. Opéra-comique en un acte.md
+  id: bHeBRrdh9d2N
+  n_id: 686644898565417769676
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+      publication_date: 1861
+      volume: 18
+      label: Magasin des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2jgpRvqzUYNF
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz
+        label: librettist
+      label: Augustin Challamel
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4cmvbqajFNRE
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: François Bazin
+  has_version:
+    - permalink: https://anet.be/record/ap/opacap/c:lvd:13208499
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1861
+  title:
+    - "Marianne : opéra-comique en un acte"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs
+      quantity: 1
+      label: choir
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 2
+      label: voice
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Dr2VYNgaa4XN
+      label: opéra comique
+assets:
+  local_asset_path: ./assets/RCA-13208499
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-13208499/RCA-13208499_001.jpg
+  jpg:
+    - RCA-13208499_001.jpg
+    - RCA-13208499_002.jpg
+    - RCA-13208499_003.jpg
+    - RCA-13208499_004.jpg
+    - RCA-13208499_005.jpg
+    - RCA-13208499_006.jpg
+    - RCA-13208499_007.jpg
+    - RCA-13208499_008.jpg
+    - RCA-13208499_009.jpg
+    - RCA-13208499_010.jpg
+    - RCA-13208499_011.jpg
+    - RCA-13208499_012.jpg
+    - RCA-13208499_013.jpg
+    - RCA-13208499_014.jpg
+    - RCA-13208499_015.jpg
+    - RCA-13208499_016.jpg
+    - RCA-13208499_017.jpg
+    - RCA-13208499_018.jpg
+    - RCA-13208499_019.jpg
+    - RCA-13208499_020.jpg
+    - RCA-13208499_021.jpg
+    - RCA-13208499_022.jpg
+    - RCA-13208499_023.jpg
+    - RCA-13208499_024.jpg
+    - RCA-13208499_025.jpg
+    - RCA-13208499_026.jpg
+    - RCA-13208499_027.jpg
+    - RCA-13208499_028.jpg
+    - RCA-13208499_029.jpg
+    - RCA-13208499_030.jpg
+    - RCA-13208499_031.jpg
+    - RCA-13208499_032.jpg
+    - RCA-13208499_033.jpg
+    - RCA-13208499_034.jpg
+    - RCA-13208499_035.jpg
+    - RCA-13208499_036.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/bHeBRrdh9d2N.json
+content:
+  markdown_content: |-
+    The opera is divided in seven pieces.
+
+    1. Choeur et ronde
+    2. Romance
+    3. Duo
+    4. Récitatif et air
+    5. Couplets
+    6. Duo
+    7. Ronde

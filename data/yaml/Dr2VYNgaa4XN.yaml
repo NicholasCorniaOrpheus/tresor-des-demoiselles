@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  description:
+  aliases:
+    - opera comique
+  label: opéra comique
+  base_name: opéra comique
+  filename: opéra comique.md
+  id: Dr2VYNgaa4XN
+  n_id: 244375566676705382417
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP
+      label: type of musical work
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q785479
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Dr2VYNgaa4XN.json
+content:
+  markdown_content: ""

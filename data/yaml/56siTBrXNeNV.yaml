@@ -1,41 +1,40 @@
 metadata:
   class: Agent
   label: Marie Lasseveur
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Marie Lasseveur
   filename: Marie Lasseveur.md
   id: 56siTBrXNeNV
   n_id: 63671561017350787230
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
-    label: human
-  date_of_birth: null
-  described_by_source: null
-  date_of_death: null
-  place_of_birth: null
-  place_of_death: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
   sex_or_gender:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
-    label: female
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
   identifier:
-  - http://wikidata.org/entity/Q126722513
+    - http://wikidata.org/entity/Q126722513
   occupation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-    label: composer
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
-    label: editor
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE
-    label: music critic
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
+      label: editor
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2tShtkMed9AE
+      label: music critic
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/56siTBrXNeNV.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/56siTBrXNeNV.json
 content:
-  markdown_content: 'Editor and main writer of the editorial columns _Revue musicale_
-    and _Éducation musicale_, the latter in collaboration with the composer and virtuosa
-    [Juliette Dillon](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta).
+  markdown_content: |-
+    Editor and main writer of the editorial columns _Revue musicale_ and _Éducation musicale_, the latter in collaboration with the composer and virtuosa [Juliette Dillon](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/KFESriHnhBta).
 
-
-    According to our sources, it seems that she started her column in 1853.'
+    According to our sources, it seems that she started her column in 1853.

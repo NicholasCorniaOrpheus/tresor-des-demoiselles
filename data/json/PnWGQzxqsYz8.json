@@ -12,8 +12,8 @@
   "statements": {
     "instance_of": [
       {
-        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU",
-        "label": "polka"
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
       }
     ],
     "has_part": null,
@@ -31,6 +31,14 @@
           "label": "composer"
         },
         "label": "Alexandre Fessy"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+          "label": "dedicatee"
+        },
+        "label": "Abonnés du Journal des Demoiselles"
       }
     ],
     "has_version": [
@@ -71,6 +79,12 @@
       {
         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Vrznz6W5khox",
         "label": "Le val d'Andorre"
+      }
+    ],
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU",
+        "label": "polka"
       }
     ]
   }

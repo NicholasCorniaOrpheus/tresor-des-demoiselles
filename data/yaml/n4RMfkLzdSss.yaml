@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  description:
+  aliases:
+    - fragmented
+  label: incomplete
+  base_name: incomplete
+  filename: incomplete.md
+  id: n4RMfkLzdSss
+  n_id: 908851936518842184574
+statements:
+  instance_of:
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q100349848
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/n4RMfkLzdSss.json
+content:
+  markdown_content: ""

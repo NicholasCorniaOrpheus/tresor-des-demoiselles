@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: duet
   base_name: duet
   filename: duet.md
@@ -9,15 +9,16 @@ metadata:
   n_id: 486926581164492393362
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP
-    label: type of musical work
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP
+      label: type of musical work
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q109940
+    - http://www.wikidata.org/entity/Q109940
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Rbyhy2fEYa2g.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Rbyhy2fEYa2g.json
 content:
-  markdown_content: ''
+  markdown_content: ""

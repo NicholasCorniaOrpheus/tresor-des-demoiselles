@@ -1,0 +1,67 @@
+metadata:
+  class: Manifestation
+  label: Le pré aux clercs. Ouverture arrangée pour le piano avec acct. de violon
+  aliases:
+  description: Only piano part survived
+  base_name: Le pré aux clercs. Ouverture arrangée pour le piano avec acct. de violon
+  filename: Le pré aux clercs. Ouverture arrangée pour le piano avec acct. de violon.md
+  id: FgGSNR8FMujM
+  n_id: 282115599862583565457
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/n4RMfkLzdSss
+      label: incomplete
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi
+      label: Journal des dames et des demoiselles. Guide complet de tous les travaux de dames
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YEJrXGtRWrUF
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY
+        label: arranger
+      label: Victor Rifaut
+  has_version:
+    - permalink: https://go.wander.be/record/opacap/c:lvd:15416833
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+          label: Brussels
+      note: Edition belge.
+  title:
+    - "Le pré aux clercs : ouverture arrangée pour le piano avec acct. de violon (ad libitum)"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Un5sANwGQqnd
+      quantity: 1
+      label: violin
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JEJVgyKnT7Q9
+      label: Le pré aux clercs
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FJbVhQcQoVGQ
+      label: overture
+assets:
+  local_asset_path: ./assets/RCA-15416833
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-15416833/RCA-15416833_001.jpg
+  jpg:
+    - RCA-15416833_001.jpg
+    - RCA-15416833_002.jpg
+    - RCA-15416833_003.jpg
+    - RCA-15416833_004.jpg
+    - RCA-15416833_005.jpg
+    - RCA-15416833_006.jpg
+    - RCA-15416833_007.jpg
+    - RCA-15416833_008.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/FgGSNR8FMujM.json
+content:
+  markdown_content: ""

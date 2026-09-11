@@ -7,55 +7,55 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:SUrWQhaKnmHL-2SV46oxDRzJQ a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:VcpJBubpN5Jf ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:SUrWQhaKnmHL .
-
-tdd:SUrWQhaKnmHL-83RK87XfTaQz a rdf:Statement ;
-    bf:electronicLocator <https://ks15.imslp.org/files/imglnks/usimg/5/5a/IMSLP250564-SIBLEY1802.24274.9db4-39087011142348concert.pdf> ;
-    bf:heldBy tdd:gAK3b5Jh5UVf ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N493a9cb16bec4e52bf60bb385701f677" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:SUrWQhaKnmHL ;
-    schema:datePublished "1877-01-01"^^xsd:date ;
-    schema:url <https://imslp.org/wiki/Un_concert_chez_les_demoiselles_de_Saint-Cyr_(Bord%C3%A8se%2C_Luigi)> .
-
-tdd:SUrWQhaKnmHL-BVQ2VmyvkK2r a rdf:Statement ;
+tdd:SUrWQhaKnmHL-59tfnsxBoDAG a rdf:Statement ;
     wdt:P1114 "3" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:SUrWQhaKnmHL .
 
-tdd:SUrWQhaKnmHL-GYnGRnJZYGv8 a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N2c2f6961e1da46c8b4d0bd505d726195" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:SUrWQhaKnmHL ;
-    schema:datePublished "1877-01-01"^^xsd:date ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88151> .
-
-tdd:SUrWQhaKnmHL-NEJKNgMFjXJs a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:SUrWQhaKnmHL ;
-    schema:datePublished "1877-01-01"^^xsd:date ;
-    schema:volumeNumber 45 .
-
-tdd:SUrWQhaKnmHL-UmyhrTgJCzP2 a rdf:Statement ;
+tdd:SUrWQhaKnmHL-Byi7Lot97FEM a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:SUrWQhaKnmHL .
 
-tdd:SUrWQhaKnmHL-eGrBBFcoB6pb a rdf:Statement ;
+tdd:SUrWQhaKnmHL-EQeZZh4BJVQV a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N8e88a321400e4a5888a431a1e598df31" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:SUrWQhaKnmHL ;
+    schema:datePublished "1877-01-01" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88151> .
+
+tdd:SUrWQhaKnmHL-JjKNhHMZFkQr a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:VcpJBubpN5Jf ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:SUrWQhaKnmHL .
+
+tdd:SUrWQhaKnmHL-K2Dz9iqTaPt7 a rdf:Statement ;
+    bf:electronicLocator <https://ks15.imslp.org/files/imglnks/usimg/5/5a/IMSLP250564-SIBLEY1802.24274.9db4-39087011142348concert.pdf> ;
+    bf:heldBy tdd:gAK3b5Jh5UVf ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N704dc4d101144b9abfb7ae4f12144df6" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:SUrWQhaKnmHL ;
+    schema:datePublished "1877-01-01" ;
+    schema:url <https://imslp.org/wiki/Un_concert_chez_les_demoiselles_de_Saint-Cyr_(Bord%C3%A8se%2C_Luigi)> .
+
+tdd:SUrWQhaKnmHL-cNiuAYx9sf38 a rdf:Statement ;
     bf:Role tdd:Mgp8YUwRv3Jz ;
     rdf:object tdd:NQKrs6QNuU6A ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:SUrWQhaKnmHL .
+
+tdd:SUrWQhaKnmHL-gPUZf7gSQ5LP a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:SUrWQhaKnmHL ;
+    schema:datePublished "1877-01-01" ;
+    schema:volumeNumber 45 .
 
 tdd:SUrWQhaKnmHL a rdfs:Resource ;
     rdfs:label "Un concert chez les demoiselles de Saint-Cyr" ;
@@ -64,5 +64,7 @@ tdd:SUrWQhaKnmHL a rdfs:Resource ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Un concert chez les demoiselles de Saint-Cyr: opérette en un acte" ;
     dcterms:type "Manifestation" ;
+    wdt:P31 tdd:GFGuESLqMKpn,
+        tdd:bogx9ECia7TM ;
     wdt:P870 tdd:fcrABEiDKbza .
 

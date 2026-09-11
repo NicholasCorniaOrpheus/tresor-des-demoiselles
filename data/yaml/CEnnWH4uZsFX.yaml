@@ -1,21 +1,22 @@
 metadata:
   class: Place
   label: Amsterdam
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Amsterdam
   filename: Amsterdam.md
   id: CEnnWH4uZsFX
   n_id: 210987821370184692728
 statements:
   identifier:
-  - http://wikidata.org/entity/Q727
+    - http://wikidata.org/entity/Q727
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dggAjTSBZEfA
-    label: Netherlands
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dggAjTSBZEfA
+      label: Netherlands
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/CEnnWH4uZsFX.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/CEnnWH4uZsFX.json
 content:
-  markdown_content: ''
+  markdown_content: ""

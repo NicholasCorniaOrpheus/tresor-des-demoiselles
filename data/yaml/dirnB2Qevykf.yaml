@@ -1,0 +1,64 @@
+metadata:
+  class: Manifestation
+  label: Zabella. Schottisch
+  aliases:
+  description:
+  base_name: Zabella. Schottisch
+  filename: Zabella. Schottisch.md
+  id: dirnB2Qevykf
+  n_id: 737047620179249545684
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi
+      publication_date: 1860-11
+      volume:
+      label: Journal des dames et des demoiselles. Guide complet de tous les travaux de dames
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eio68muLsyCF
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Ed. Billard
+  has_version:
+    - permalink: https://anet.be/record/ap/opacap/c:lvd:12977313
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+          label: Brussels
+      publication_date: 1860-11
+      publisher:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jD5hNbBz25A4
+          label: Camille Schubert
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CsmdRaVBmz3o
+          label: Schott Music
+  title:
+    - "Zabella: schottisch"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P3xwqK2mHjC7
+      label: schottische
+assets:
+  local_asset_path: ./assets/RCA-12977313
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12977313/RCA-12977313_001.jpg
+  jpg:
+    - RCA-12977313_001.jpg
+    - RCA-12977313_002.jpg
+    - RCA-12977313_003.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/dirnB2Qevykf.json
+content:
+  markdown_content: ""

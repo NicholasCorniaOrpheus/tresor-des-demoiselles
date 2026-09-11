@@ -1,0 +1,113 @@
+metadata:
+  class: Manifestation
+  label: Frère et soeur. Opera comique et un acte
+  aliases:
+  description:
+  base_name: Frère et soeur. Opera comique et un acte
+  filename: Frère et soeur. Opera comique et un acte.md
+  id: R7b4nrbTGyCv
+  n_id: 476645772981952459936
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+      publication_date: 1853
+      volume: 10
+      label: Magasin des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VcpJBubpN5Jf
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Louis Bordèse
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2YakjmMCnSKo
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz
+        label: librettist
+      label: Édouard Plouvier
+  has_version:
+    - permalink: https://anet.be/record/ap/opacap/c:lvd:13225458
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1853
+  title:
+    - "Frère et soeur : opera comique et un acte"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs
+      quantity: 1
+      label: choir
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 5
+      label: voice
+  depicts:
+  about:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bogx9ECia7TM
+      label: operetta
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GFGuESLqMKpn
+      label: chamber opera
+assets:
+  local_asset_path: ./assets/RCA-13225458
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-13225458/RCA-13225458_001.jpg
+  jpg:
+    - RCA-13225458_001.jpg
+    - RCA-13225458_002.jpg
+    - RCA-13225458_003.jpg
+    - RCA-13225458_004.jpg
+    - RCA-13225458_005.jpg
+    - RCA-13225458_006.jpg
+    - RCA-13225458_007.jpg
+    - RCA-13225458_008.jpg
+    - RCA-13225458_009.jpg
+    - RCA-13225458_010.jpg
+    - RCA-13225458_011.jpg
+    - RCA-13225458_012.jpg
+    - RCA-13225458_013.jpg
+    - RCA-13225458_014.jpg
+    - RCA-13225458_015.jpg
+    - RCA-13225458_016.jpg
+    - RCA-13225458_017.jpg
+    - RCA-13225458_018.jpg
+    - RCA-13225458_019.jpg
+    - RCA-13225458_020.jpg
+    - RCA-13225458_021.jpg
+    - RCA-13225458_022.jpg
+    - RCA-13225458_023.jpg
+    - RCA-13225458_024.jpg
+    - RCA-13225458_025.jpg
+    - RCA-13225458_026.jpg
+    - RCA-13225458_027.jpg
+    - RCA-13225458_028.jpg
+    - RCA-13225458_029.jpg
+    - RCA-13225458_030.jpg
+    - RCA-13225458_031.jpg
+    - RCA-13225458_032.jpg
+    - RCA-13225458_033.jpg
+    - RCA-13225458_034.jpg
+    - RCA-13225458_035.jpg
+    - RCA-13225458_036.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/R7b4nrbTGyCv.json
+content:
+  markdown_content: |-
+    0. Ouverture
+    1. Choeur et Couplet
+    2. Ballade
+    3. Romance
+    4. Air
+    5. Duo
+    6. Romance
+    7. Final

@@ -1,85 +1,56 @@
 metadata:
   class: Organisation
   label: Journal des demoiselles
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Journal des demoiselles
   filename: Journal des demoiselles.md
   id: NS7S3TJjbHvU
   n_id: 421441232247743728610
 statements:
   identifier:
-  - http://wikidata.org/entity/Q40163826
+    - http://wikidata.org/entity/Q40163826
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
-    label: periodical
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+      label: periodical
   described_by_source:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP
-    label: Agents of Change
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP
+      label: Agents of Change
   inception:
-  - value: 1833-02-01
+    - value: 1833-02-01
   location:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-    address: Boulevard des Italiens, 1
-    label: Paris
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+      address: Boulevard des Italiens, 1
+      label: Paris
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
-    label: France
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
+      label: France
   dissolved:
-  - value: 1922-01-01
+    - value: 1922-01-01
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VahNSkW7JbTC
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
-      label: editor
-    label: Jeanne-Justine Fouqueau de Pussy
-  official_website: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VahNSkW7JbTC
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK
+        label: editor
+      label: Jeanne-Justine Fouqueau de Pussy
+  official_website:
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/NS7S3TJjbHvU.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/NS7S3TJjbHvU.json
 content:
-  markdown_content: 'Parisian periodical founded in 1833 and published _Au Bureau
-    du Journal_.
+  markdown_content: |-
+    Parisian periodical founded in 1833 and published _Au Bureau du Journal_.
 
+    The complete volumes are part of the [Gerritsen Women's History Collection of Aletta H. Jacobs](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YRK5MZJvXEBP), and available via [ProRequest](https://about.proquest.com/en/products-services/gerritsen/) via institutional log-in.
 
-    The complete volumes are part of the [Gerritsen Women''s History Collection of
-    Aletta H. Jacobs](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YRK5MZJvXEBP),
-    and available via [ProRequest](https://about.proquest.com/en/products-services/gerritsen/)
-    via institutional log-in.
+    Collected volumes for each year are scattered in several libraries around the world, not always including clothes patterns and musical scores.
 
-
-    Collected volumes for each year are scattered in several libraries around the
-    world, not always including clothes patterns and musical scores.
-
-
-    | Holding institution                     | permalink                                                                                    |
-    volumes                           | notes                                                                                                           |
-
-    | --------------------------------------- | --------------------------------------------------------------------------------------------
-    | --------------------------------- | ---------------------------------------------------------------------------------------------------------------
-    |
-
-    | [Royal Library of Belgium](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2osPtS3ax4Hc)            |
-    [16033265](http://opac.kbr.be/Library/doc/SYRACUSE/16033265)                                 |
-    1833-1852                         | According to ISBD notes, the first issue of
-    the _Jorunal_ in [Belgium](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R)
-    is 1842 by [Jean Baptiste Bruylant](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP).
-    |
-
-    | [University of Leuven](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hpUpv7QsMNuH)                |
-    [9921906770101471](https://lib.is/lbsn9921906770101471)                                      |
-    1841, 1874-1876, 1880-1894        |                                                                                                                 |
-
-    | [Hendrik Conscience Heritage Library](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8XggxUT6Zokh)
-    | [815557](https://go.wander.be/record/opacap/c:lvd:815557)                                    |
-    1838, 1840-1852, 1857, 1860, 1878 | Digitized volumes are available via Google
-    Books.                                                               |
-
-    | [Munich Digitization Center](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh)          |
-    [query by ISSN number](https://www.digitale-sammlungen.de/en/search?query=%28ISSN+1161-5672)
-    |                                   |                                                                                                                 |
-
-    | [Harvard University](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX)                  |
-    [990053803900203941](https://id.lib.harvard.edu/alma/990053803900203941/catalog)             |                                   |
-    Some volumes are available via [Internet Archive](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G9FZhC6pNp69).                                                            |'
+    | Holding institution                     | permalink                                                                                    | volumes                           | notes                                                                                                           |
+    | --------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+    | [Royal Library of Belgium](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2osPtS3ax4Hc)            | [16033265](http://opac.kbr.be/Library/doc/SYRACUSE/16033265)                                 | 1833-1852                         | According to ISBD notes, the first issue of the _Jorunal_ in [Belgium](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R) is 1842 by [Jean Baptiste Bruylant](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Habre5ErbtGP). |
+    | [University of Leuven](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hpUpv7QsMNuH)                | [9921906770101471](https://lib.is/lbsn9921906770101471)                                      | 1841, 1874-1876, 1880-1894        |                                                                                                                 |
+    | [Hendrik Conscience Heritage Library](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8XggxUT6Zokh) | [815557](https://go.wander.be/record/opacap/c:lvd:815557)                                    | 1838, 1840-1852, 1857, 1860, 1878 | Digitized volumes are available via Google Books.                                                               |
+    | [Munich Digitization Center](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh)          | [query by ISSN number](https://www.digitale-sammlungen.de/en/search?query=%28ISSN+1161-5672) |                                   |                                                                                                                 |
+    | [Harvard University](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HzNj4duEtJSX)                  | [990053803900203941](https://id.lib.harvard.edu/alma/990053803900203941/catalog)             |                                   | Some volumes are available via [Internet Archive](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G9FZhC6pNp69).                                                            |

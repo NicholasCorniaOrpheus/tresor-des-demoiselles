@@ -61,7 +61,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/bk8xqxzLgPA8.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/bk8xqxzLgPA8.json";
     </script>
 
 
@@ -103,10 +103,10 @@
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
       window.kbGraphConfig.assets = {
-        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
         local_path: "/",
         images: [],
-        iiif: "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k999675n/manifest.json"
+        iiif: "['https://gallica.bnf.fr/iiif/ark:/12148/bpt6k999675n/manifest.json']"
       };
     </script>
 

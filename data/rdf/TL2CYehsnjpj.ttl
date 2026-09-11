@@ -7,59 +7,59 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:TL2CYehsnjpj-35GUxbBoDUqR a rdf:Statement ;
-    bf:heldBy tdd:MzUK38XpCjqB ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N4e7ef611962b42a5b42d7447fe34a280" ;
+tdd:TL2CYehsnjpj-8DA3kzHKMztw a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N908c04f189e6434caaa99bb4030c7fc2" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:TL2CYehsnjpj ;
-    schema:datePublished "1861-01-01"^^xsd:date ;
+    schema:datePublished "1853-06-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:TL2CYehsnjpj-JfgxnK5wgujo a rdf:Statement ;
+    bf:Note "Part of Magasin des demoiselles, vol. 9" ;
+    bf:electronicLocator <https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP479520-PMLP777286-Ettling_-_Op59_Songe_de_bonheur_-_pf-BDH.pdf> ;
+    bf:heldBy tdd:gAK3b5Jh5UVf ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Na7c9e248cd3b40c28fb3440724396491" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:TL2CYehsnjpj ;
+    schema:datePublished "1853-01-01" ;
+    schema:url <https://imslp.org/wiki/Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile)> .
+
+tdd:TL2CYehsnjpj-NLAcRi7PF6jw a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:TL2CYehsnjpj ;
+    schema:datePublished "1852-01-01" ;
+    schema:volumeNumber 9 .
+
+tdd:TL2CYehsnjpj-Zjj4HeQ4hHq4 a rdf:Statement ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nabd894a4a26444ed86307151942da67d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:TL2CYehsnjpj ;
+    schema:datePublished "1861-01-01" ;
     schema:url <http://ark.bnf.fr/ark:/12148/cb42940871v> .
 
-tdd:TL2CYehsnjpj-GqFURvpqq3Cv a rdf:Statement ;
+tdd:TL2CYehsnjpj-huWpFJWgCeCL a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:TL2CYehsnjpj ;
+    schema:datePublished "1853-06-01" .
+
+tdd:TL2CYehsnjpj-mp8HtkZNNYSi a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:PMhy6ZVncrXN ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:TL2CYehsnjpj .
 
-tdd:TL2CYehsnjpj-GuBufsong3EV a rdf:Statement ;
-    rdf:object tdd:HuT8aF2rGmzB ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:TL2CYehsnjpj ;
-    schema:datePublished "1852-01-01"^^xsd:date ;
-    schema:volumeNumber 9 .
-
-tdd:TL2CYehsnjpj-MVQxuZHJiszS a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nf3935936e4fb4b8190ef897d6b214e53" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:TL2CYehsnjpj ;
-    schema:datePublished "1853-06-01"^^xsd:date ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:TL2CYehsnjpj-S8DZnzWwdmev a rdf:Statement ;
+tdd:TL2CYehsnjpj-oXyy64j8pzAP a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:TL2CYehsnjpj .
-
-tdd:TL2CYehsnjpj-XCfvh54MKTng a rdf:Statement ;
-    bf:Note "Part of Magasin des demoiselles, vol. 9" ;
-    bf:electronicLocator <https://s9.imslp.org/files/imglnks/usimg/d/d5/IMSLP479520-PMLP777286-Ettling_-_Op59_Songe_de_bonheur_-_pf-BDH.pdf> ;
-    bf:heldBy tdd:gAK3b5Jh5UVf ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nd6d2c6066aad4bcd82df54f11a85a5d8" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:TL2CYehsnjpj ;
-    schema:datePublished "1853-01-01"^^xsd:date ;
-    schema:url <https://imslp.org/wiki/Songe_de_bonheur%2C_Op.59_(Ettling%2C_%C3%89mile)> .
-
-tdd:TL2CYehsnjpj-nTvUYtG5qSQB a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:TL2CYehsnjpj ;
-    schema:datePublished "1853-06-01"^^xsd:date .
 
 tdd:TL2CYehsnjpj a rdfs:Resource ;
     rdfs:label "Songe de Bonheur" ;
@@ -68,5 +68,6 @@ tdd:TL2CYehsnjpj a rdfs:Resource ;
         tdd:VWaxuELqVfKN ;
     dcterms:title "Songe de Bonheur. Suite de Valses. N. 1-3" ;
     dcterms:type "Manifestation" ;
-    wdt:P31 tdd:LTZ2PAutKcZC .
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:LTZ2PAutKcZC .
 

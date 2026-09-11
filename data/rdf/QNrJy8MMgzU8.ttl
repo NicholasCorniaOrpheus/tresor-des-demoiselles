@@ -3,7 +3,6 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:QNrJy8MMgzU8 a rdfs:Resource ;
     rdfs:label "Louise Jeanne Cécile Ruelens" ;
@@ -11,9 +10,9 @@ tdd:QNrJy8MMgzU8 a rdfs:Resource ;
     dcterms:type "Agent" ;
     wdt:P1343 tdd:S2Htsbzzq7aP ;
     wdt:P31 tdd:TudsDJnQvonk ;
-    schema:birthDate "1818-03-15"^^xsd:date ;
+    schema:birthDate "1818-03-15" ;
     schema:birthPlace tdd:CnfhMurv8zu8 ;
-    schema:deathDate "1884-06-04"^^xsd:date ;
+    schema:deathDate "1884-06-04" ;
     schema:gender tdd:6vopxa7szAQ4 ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nQTxNAy4WtLK" .
 

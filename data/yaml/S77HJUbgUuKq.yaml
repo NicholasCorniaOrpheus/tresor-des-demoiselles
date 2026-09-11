@@ -1,68 +1,71 @@
 metadata:
   class: Manifestation
   label: Le Voyageurs de nuit
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Le Voyageurs de nuit
   filename: Le Voyageurs de nuit.md
   id: S77HJUbgUuKq
   n_id: 497105225027774752391
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
-    label: song
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
-    volume: 7
-    publication_date: 1839-01-01
-    label: Journal des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      volume: 7
+      publication_date: 1839-01-01
+      label: Journal des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5KtRTRb3rbmX
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Emile Millet
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XudZsfnJCkRh
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
-      label: lyricist
-    label: Amable Tastu
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5KtRTRb3rbmX
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Emile Millet
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XudZsfnJCkRh
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+        label: lyricist
+      label: Amable Tastu
   has_version:
-  - permalink: https://mdz-nbn-resolving.de/details:bsb10359990
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh
-      label: Munich Digitization Center
-    publication_date: 1839-01-01
-    external_source: https://www.digitale-sammlungen.de/en/view/bsb10359990
-    IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
+    - permalink: https://mdz-nbn-resolving.de/details:bsb10359990
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PSaEANSLWUfh
+        label: Munich Digitization Center
+      publication_date: 1839-01-01
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10359990
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
   title:
-  - 'Le Voyageurs de nuit: Chansonette'
+    - "Le Voyageurs de nuit: Chansonette"
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4
-    quantity: 1
-    label: guitar
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
-    quantity: 1
-    label: voice
-  depicts: null
-  about: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oVWVztHMuzF4
+      quantity: 1
+      label: guitar
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 1
+      label: voice
+  depicts:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
-  based_on: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+      label: song
 assets:
   local_asset_path: ./assets/MDZ-10359990_3
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/MDZ-10359990_3/001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/MDZ-10359990_3/001.jpg
   jpg:
-  - 001.jpg
-  - 002.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/S77HJUbgUuKq.json
+    - 001.jpg
+    - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/S77HJUbgUuKq.json
 content:
-  markdown_content: ''
+  markdown_content: ""

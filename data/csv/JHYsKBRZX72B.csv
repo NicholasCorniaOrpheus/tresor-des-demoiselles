@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,historian,historian,historian.md,JHYsKBRZX72B,335800935703995147297,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ,occupation,,,
+Concept,,,historian,historian,historian.md,JHYsKBRZX72B,335800935703995147297,subclass_of,,,,,
+Concept,,,historian,historian,historian.md,JHYsKBRZX72B,335800935703995147297,described_by_source,,,,,
+Concept,,,historian,historian,historian.md,JHYsKBRZX72B,335800935703995147297,identifier,,,,,http://www.wikidata.org/entity/Q201788

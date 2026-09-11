@@ -1,22 +1,23 @@
 metadata:
   class: Place
   label: Belgium
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Belgium
   filename: Belgium.md
   id: B2DaBkDtqy5R
   n_id: 185796549893605538228
 statements:
   identifier:
-  - http://wikidata.org/entity/Q31
-  country: null
+    - http://wikidata.org/entity/Q31
+  country:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
-    label: country
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
+      label: country
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/B2DaBkDtqy5R.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/B2DaBkDtqy5R.json
 content:
-  markdown_content: ''
+  markdown_content: ""

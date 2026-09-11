@@ -1,61 +1,81 @@
 metadata:
   class: Manifestation
   label: Aria Bettina tiré de l'opéra "La jeunesse d'Henri V d' Angleterre"
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Aria Bettina tiré de l'opéra "La jeunesse d'Henri V d' Angleterre"
   filename: Aria Bettina tiré de l'opéra "La jeunesse d'Henri V d' Angleterre".md
   id: FqEYDTDQHpZZ
   n_id: 285361847974345653070
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL
-    label: aria
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
-    publication_date: 1882-01-01
-    volume: 50
-    label: Journal des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1882
+      volume: 50
+      label: Journal des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Hortense Wild
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/briR3aDucPXV
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY
+        label: arranger
+      label: anonymous
   has_version:
-  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=157420
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
-      label: Royal Conservatory of Brussels
-    publication_date: 1882-01-01
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
-    external_source: null
+    - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=157420
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+        label: Royal Conservatory of Brussels
+      publication_date: 1882-01-01
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      external_source:
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+        label: Journal des demoiselles
   title:
-  - 'Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l''opéra La jeunesse d''Henri
-    V d'' Angleterre'
+    - "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre"
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
-    quantity: 1
-    label: voice
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
-  depicts: null
-  about: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 1
+      label: voice
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
   based_on:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM
-    label: La gioventù di Enrico Quinto
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM
+      label: La gioventù di Enrico Quinto
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL
+      label: aria
 assets:
-  local_asset_path: null
-  iiif: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/FqEYDTDQHpZZ.json
+  local_asset_path: ./assets/RCB-BV20-2049
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV20-2049/BV20-2049_001.jpg
+  jpg:
+    - BV20-2049_001.jpg
+    - BV20-2049_002.jpg
+    - BV20-2049_003.jpg
+    - BV20-2049_004.jpg
+    - BV20-2049_005.jpg
+    - BV20-2049_006.jpg
+    - BV20-2049_007.jpg
+    - BV20-2049_008.jpg
+    - BV20-2049_009.jpg
+    - BV20-2049_010.jpg
+    - BV20-2049_011.jpg
+    - BV20-2049_012.jpg
+    - BV20-2049_013.jpg
+    - BV20-2049_014.jpg
+    - BV20-2049_015.jpg
+    - BV20-2049_016.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/FqEYDTDQHpZZ.json
 content:
-  markdown_content: Excerpt from the first act of the [Ferdinand Hérold](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf)'s
-    opera inspired by the Shakespearean play [Henry V](https://www.wikidata.org/wiki/Q495954).
+  markdown_content: Excerpt from the first act of the [Ferdinand Hérold](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf)'s opera inspired by the Shakespearean play [Henry V](https://www.wikidata.org/wiki/Q495954).

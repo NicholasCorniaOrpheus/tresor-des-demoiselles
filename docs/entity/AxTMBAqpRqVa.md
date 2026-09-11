@@ -61,7 +61,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/AxTMBAqpRqVa.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/AxTMBAqpRqVa.json";
     </script>
 
 
@@ -106,10 +106,10 @@
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
       window.kbGraphConfig.assets = {
-        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/",
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
         local_path: "/",
         images: [],
-        iiif: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest"
+        iiif: "['https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359990/manifest']"
       };
     </script>
 

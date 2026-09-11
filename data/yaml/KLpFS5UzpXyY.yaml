@@ -1,0 +1,30 @@
+metadata:
+  class: Agent
+  label: Étienne Desmier d'Archiac
+  aliases:
+  description:
+  base_name: Étienne Desmier d'Archiac
+  filename: Étienne Desmier d'Archiac.md
+  id: KLpFS5UzpXyY
+  n_id: 357620561013614709579
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+  occupation:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/KLpFS5UzpXyY.json
+content:
+  markdown_content: ""

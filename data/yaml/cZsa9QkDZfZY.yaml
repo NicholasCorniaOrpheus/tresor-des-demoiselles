@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: music arranger
   base_name: arranger
   filename: arranger.md
@@ -9,15 +9,16 @@ metadata:
   n_id: 713158431471657609333
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
-    label: occupation
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
+      label: occupation
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q1643514
+    - http://www.wikidata.org/entity/Q1643514
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/cZsa9QkDZfZY.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/cZsa9QkDZfZY.json
 content:
-  markdown_content: ''
+  markdown_content: ""

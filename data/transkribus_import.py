@@ -14,8 +14,8 @@ transkribus_session = transkribus.api_login(
 collection_id = 2353709
 document_id = 14756063  # 1857
 # document_id = 15041783 # 1859
-output_dir = "./vault/assets/OI-20144531"  # 1857
-# output_dir = "./vault/assets/OI-20144506" # 1859
+output_dir = "./tresor-des-demoiselles/assets/OI-20144531"  # 1857
+# output_dir = "./tresor-des-demoiselles/assets/OI-20144506" # 1859
 
 # test_xml = Path(output_dir) / "20144531_007.xml"
 

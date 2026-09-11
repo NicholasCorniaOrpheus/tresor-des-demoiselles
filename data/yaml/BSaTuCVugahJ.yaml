@@ -1,21 +1,22 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: research institute
   base_name: research institute
   filename: research institute.md
   id: BSaTuCVugahJ
   n_id: 194618031563378501026
 statements:
-  instance_of: null
-  subclass_of: null
-  described_by_source: null
+  instance_of:
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q31855
+    - http://www.wikidata.org/entity/Q31855
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/BSaTuCVugahJ.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/BSaTuCVugahJ.json
 content:
-  markdown_content: ''
+  markdown_content: ""

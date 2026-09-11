@@ -7,24 +7,24 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ZxvgXLzDfsvr-hnM4DfgPJCFG a rdf:Statement ;
+tdd:ZxvgXLzDfsvr-FHGvLzJwSdSh a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:ZxvgXLzDfsvr ;
+    schema:datePublished "1866-01-01" ;
+    schema:volumeNumber 16 .
+
+tdd:ZxvgXLzDfsvr-aW3dB6ZAvnVB a rdf:Statement ;
     bf:Note "Only issues 1-5 are present." ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10360013> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360013/manifest> ;
-    rdf:object "N09dd465c05e04164b356cef8cbdf658c" ;
+    rdf:object "N443f0bac5994499182d93bf37b0e55cd" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:ZxvgXLzDfsvr ;
-    schema:datePublished "1866-01-01"^^xsd:date ;
+    schema:datePublished "1866-01-01" ;
     schema:url <https://mdz-nbn-resolving.de/details:bsb10360013> .
-
-tdd:ZxvgXLzDfsvr-mvj5hFKxvFEC a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:ZxvgXLzDfsvr ;
-    schema:datePublished "1866-01-01"^^xsd:date ;
-    schema:volumeNumber 16 .
 
 tdd:ZxvgXLzDfsvr a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1866)" ;

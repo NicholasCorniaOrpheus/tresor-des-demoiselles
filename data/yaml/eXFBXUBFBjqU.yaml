@@ -1,22 +1,23 @@
 metadata:
   class: Place
   label: Germany
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Germany
   filename: Germany.md
   id: eXFBXUBFBjqU
   n_id: 753474992218913880167
 statements:
   identifier:
-  - http://www.wikidata.org/entity/Q183
-  country: null
+    - http://www.wikidata.org/entity/Q183
+  country:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
-    label: country
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Aut3aeGdqhKq
+      label: country
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/eXFBXUBFBjqU.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/eXFBXUBFBjqU.json
 content:
-  markdown_content: ''
+  markdown_content: ""

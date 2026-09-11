@@ -1,0 +1,45 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:dirnB2Qevykf-5Jeb5ukXqo3G a rdf:Statement ;
+    rdf:object tdd:5vMfYTL9wGVi ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:dirnB2Qevykf ;
+    schema:datePublished "1860-11" .
+
+tdd:dirnB2Qevykf-7vDdnSM46jjH a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:dirnB2Qevykf .
+
+tdd:dirnB2Qevykf-FXrEAqpLQZGe a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:eio68muLsyCF ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:dirnB2Qevykf .
+
+tdd:dirnB2Qevykf-XRyCgyMPtdST a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d,
+        tdd:BxHoLQMESXU2 ;
+    rdf:object "N31f6409ec5584b158bc802bdd43b13a5" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:dirnB2Qevykf ;
+    schema:datePublished "1860-11" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:12977313> .
+
+tdd:dirnB2Qevykf a rdfs:Resource ;
+    rdfs:label "Zabella. Schottisch" ;
+    dcterms:contributor tdd:eio68muLsyCF ;
+    dcterms:isPartOf tdd:5vMfYTL9wGVi ;
+    dcterms:title "Zabella: schottisch" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:P3xwqK2mHjC7 .
+

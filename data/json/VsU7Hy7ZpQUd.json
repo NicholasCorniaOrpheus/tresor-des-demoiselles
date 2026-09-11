@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "La saison des beaux jours. Églogue",
+    "aliases": null,
+    "description": null,
+    "base_name": "La saison des beaux jours. Églogue",
+    "filename": "La saison des beaux jours. Églogue.md",
+    "id": "VsU7Hy7ZpQUd",
+    "n_id": 575074656723280133678
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi",
+        "publication_date": "1855-09",
+        "label": "Journal des dames et des demoiselles. Guide complet de tous les travaux de dames"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/m7feHGwGuNLg",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Marc Constantin"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88856",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+          "label": "Royal Conservatory of Brussels"
+        },
+        "note": null,
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+            "label": "Brussels"
+          }
+        ],
+        "publication_date": "1855-09"
+      }
+    ],
+    "title": [
+      "La saison des beaux jours : églogue / paroles et musique de Marc Constantin"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+        "quantity": 1,
+        "label": "voice"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": null,
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GYx2286NJMuS",
+        "label": "eclogue"
+      }
+    ]
+  }
+}

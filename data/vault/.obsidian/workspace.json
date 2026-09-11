@@ -23,36 +23,12 @@
             }
           },
           {
-            "id": "2cf38ddb97987dd8",
+            "id": "c35f9ae7710851dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entity/Cracoviana. pour le piano.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cracoviana. pour le piano"
-            }
-          },
-          {
-            "id": "08558577bb14bdd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Le soir. Rêverie pour piano.md",
+                "file": "Quadrille sur l'opéra Le prophète.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -67,11 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Le soir. Rêverie pour piano"
+              "title": "Quadrille sur l'opéra Le prophète"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Ope",
+                "query": "file:  Meye",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,53 +208,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "08558577bb14bdd2",
+  "active": "9131230921203baf",
   "lastOpenFiles": [
-    "Félicien David.md",
-    "Le soir. Rêverie pour piano.md",
-    "entity/Cracoviana. pour le piano.md",
+    "assets/RCA-15416833/RCA-15416833_008.jpg",
+    "assets/RCA-15416833/RCA-15416833_007.jpg",
+    "assets/RCA-15416833/RCA-15416833_006.jpg",
+    "assets/RCA-15416833/RCA-15416833_005.jpg",
+    "assets/RCA-15416833/RCA-15416833_004.jpg",
+    "assets/RCA-15416833/RCA-15416833_002.jpg",
+    "assets/RCA-15416833/RCA-15416833_003.jpg",
+    "assets/RCA-15416833/RCA-15416833_001.jpg",
+    "assets/RCA-15416833",
+    "assets/RCA-14018031/RCA-14018031_052.jpg",
+    "assets/RCA-14018031/RCA-14018031_051.jpg",
+    "assets/RCA-14018031/RCA-14018031_050.jpg",
+    "assets/RCA-14018031",
+    "assets/RCA-13148947",
+    "assets/RCA-12977361",
+    "assets/RCA-12977300",
+    "assets/RCA-12977282",
+    "Le prophète.md",
+    "Quadrille sur l'opéra Le prophète.md",
+    "Giacomo Meyerbeer.md",
     "manifestation_list.base",
     "Frère et soeur. Opera comique et un acte.md",
-    "La meunière sans-souci. Opérette en un acte.md",
-    "Auguste Carré.md",
-    "Ernest Boulanger.md",
-    "Les guides de Murat. Quadrille brillant.md",
-    "entity/operetta.md",
-    "entity/Le Farouche ennemi. Opérette en un acte.md",
+    "Colombine. Valse élégante, suivie de. Les gardes nobles. Quadrille militaire.md",
+    "Le menuet de la cour. Esquisse musicale dans le style Louis XV.md",
+    "minuet.md",
     "La crainte et l'émotion. Quadrille élégant.md",
-    "Zabella. Schottisch.md",
-    "Schott Music.md",
     "Camille Schubert.md",
-    "Les roses de mai. Quadrille brillant.md",
-    "Marianne. Opéra-comique en un acte.md",
-    "V. M. Bernhardt.md",
-    "choir.md",
-    "opéra comique.md",
-    "Augustin Challamel.md",
-    "historian.md",
-    "François Bazin.md",
-    "Une larme. Mélodie sympathique variée.md",
-    "entity/Ange ployez votre aile! rêverie.md",
-    "Le réveil de la nature. Duetto pour soprano et mezzo-soprano.md",
-    "A. Vialon.md",
-    "entities.base",
-    "assets/OI-20143702p18/20143702p18_003.jpg",
-    "assets/OI-20143702p18/20143702p18_002.jpg",
-    "assets/OI-20143702p18/20143702p18_001.jpg",
-    "assets/OI-20143702p18",
-    "assets/RCB-88151/IMSLP250564-SIBLEY1802.24274.9db4-39087011142348concert.pdf",
-    "assets/RCB-88151/Unconfirmed 540822.crdownload",
-    "assets/RCB-88151",
-    "assets/figures/journal_plate_6_1838.jpg",
-    "assets/figures/Unconfirmed 271586.crdownload",
-    "assets/figures/journal_plate_239_1849.jpg",
-    "assets/figures/Unconfirmed 278263.crdownload",
-    "assets/figures/journal_plate_194_1839.jpg",
-    "assets/figures/Unconfirmed 606295.crdownload",
-    "assets/figures/journal_plate_6_1839.jpg",
-    "assets/figures/Unconfirmed 622159.crdownload",
-    "assets/figures/journal_plate_146_1836.jpg",
-    "assets/figures/journal_plate_40_1847.jpg",
-    "assets/figures/journal_plate_40_18.jpg"
+    "Le pré aux clercs. Ouverture arrangée pour le piano avec acct. de violon.md",
+    "Neptune. Quadrille pour le piano.md",
+    "Abonnés du Journal des Demoiselles.md",
+    "Abonées du Journal des Dames et Demoiselles.md",
+    "Charles Le Corbeiller.md",
+    "incomplete.md",
+    "Victor Rifaut.md",
+    "Le pré aux clercs.md",
+    "violin.md",
+    "La fille du golfe. Opéra-comique en un acte.md",
+    "La reine mozab. Opéra-comique en un acte.md",
+    "Jules Duprato.md",
+    "assets/RCA-15681836",
+    "assets/RCA-14016062",
+    "assets/RCA-13225495",
+    "Charles Nuitter.md",
+    "Léo Delibes.md",
+    "entity/Cracoviana. pour le piano.md",
+    "Le soir. Rêverie pour piano.md"
   ]
 }

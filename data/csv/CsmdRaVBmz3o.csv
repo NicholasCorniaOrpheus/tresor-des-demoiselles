@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,location_label,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Schott Music,['B. Schott'],,Schott Music,Schott Music.md,CsmdRaVBmz3o,224375691132873607917,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs,publisher,,,,,,,,,,
+Organisation,Schott Music,['B. Schott'],,Schott Music,Schott Music.md,CsmdRaVBmz3o,224375691132873607917,described_by_source,,,,,,,,,,,,
+Organisation,Schott Music,['B. Schott'],,Schott Music,Schott Music.md,CsmdRaVBmz3o,224375691132873607917,inception,,,,,,,,,,,,
+Organisation,Schott Music,['B. Schott'],,Schott Music,Schott Music.md,CsmdRaVBmz3o,224375691132873607917,location,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2,Brussels,,,,,,
+Organisation,Schott Music,['B. Schott'],,Schott Music,Schott Music.md,CsmdRaVBmz3o,224375691132873607917,dissolved,,,,,,,,,,,,
+Organisation,Schott Music,['B. Schott'],,Schott Music,Schott Music.md,CsmdRaVBmz3o,224375691132873607917,contributor,,,,,,,,,,,,
+Organisation,Schott Music,['B. Schott'],,Schott Music,Schott Music.md,CsmdRaVBmz3o,224375691132873607917,official_website,,,,,,,,,,,,
+Organisation,Schott Music,['B. Schott'],,Schott Music,Schott Music.md,CsmdRaVBmz3o,224375691132873607917,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q536259,,
+Organisation,Schott Music,['B. Schott'],,Schott Music,Schott Music.md,CsmdRaVBmz3o,224375691132873607917,country,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R,Belgium

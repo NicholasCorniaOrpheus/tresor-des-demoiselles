@@ -2,11 +2,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:RYU7rRDeh5zs a rdfs:Resource ;
     rdfs:label "Royal Conservatory of Antwerp" ;
-    dcterms:created "1898-01-01"^^xsd:date ;
+    dcterms:created "1898-01-01" ;
     dcterms:identifier <http://www.wikidata.org/entity/Q2665388> ;
     dcterms:type "Organisation" ;
     wdt:P17 tdd:B2DaBkDtqy5R ;

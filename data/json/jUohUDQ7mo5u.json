@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Abonnés du Journal des Demoiselles",
+    "aliases": [
+      "Subscribers of the Journal des Demoiselles"
+    ],
+    "description": null,
+    "base_name": "Abonnés du Journal des Demoiselles",
+    "filename": "Abonnés du Journal des Demoiselles.md",
+    "id": "jUohUDQ7mo5u",
+    "n_id": 855774974975647529733
+  },
+  "statements": {
+    "instance_of": null,
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": null,
+    "identifier": null,
+    "occupation": null,
+    "related_to": null
+  }
+}

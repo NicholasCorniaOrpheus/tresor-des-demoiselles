@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,date_of_birth,,,,,,,,,,,,,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,described_by_source,,,,,,,,,,,,,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,date_of_death,,,,,,,,,,,,,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,place_of_birth,,,,,,,,,,,,,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,place_of_death,,,,,,,,,,,,,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q2935070,,,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs,publisher,,
+Agent,Camille Schubert,['Camille Prilipp'],,Camille Schubert,Camille Schubert.md,jD5hNbBz25A4,850077702619513170713,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi,Journal des dames et des demoiselles. Guide complet de tous les travaux de dames

@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:LiRnHQgHVwqd-4QXWrbr9QE82 a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:LiRnHQgHVwqd ;
-    schema:datePublished "1855-11-01"^^xsd:date ;
-    schema:volumeNumber 23 .
-
-tdd:LiRnHQgHVwqd-Ty7dugcTMS5G a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:dzhMAzwriP43 ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:LiRnHQgHVwqd .
-
-tdd:LiRnHQgHVwqd-b6DnCGGtb6xe a rdf:Statement ;
+tdd:LiRnHQgHVwqd-36oVLfYk4RZo a rdf:Statement ;
     bf:Note "dedicated to M.me C. Houillon" ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N1a55226b99eb479c91f8530089c3903a" ;
+    rdf:object "Nc8c99a80341f4b028d95a14454b88279" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:LiRnHQgHVwqd ;
-    schema:datePublished "1855-11-01"^^xsd:date ;
+    schema:datePublished "1855-11-01" ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:LiRnHQgHVwqd-e97hVnZG4gBq a rdf:Statement ;
+tdd:LiRnHQgHVwqd-7qxb79KmbH6Q a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:LiRnHQgHVwqd ;
+    schema:datePublished "1855-11-01" ;
+    schema:volumeNumber 23 .
+
+tdd:LiRnHQgHVwqd-X3FXntYsrnx2 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn" ;
     rdf:predicate wdt:P870 ;
+    rdf:subject tdd:LiRnHQgHVwqd .
+
+tdd:LiRnHQgHVwqd-hRMuviWqhNDK a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:dzhMAzwriP43 ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:LiRnHQgHVwqd .
 
 tdd:LiRnHQgHVwqd a rdfs:Resource ;
@@ -42,5 +42,6 @@ tdd:LiRnHQgHVwqd a rdfs:Resource ;
     dcterms:isPartOf tdd:NS7S3TJjbHvU ;
     dcterms:title "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan" ;
     dcterms:type "Manifestation" ;
-    wdt:P31 tdd:HKt9yvCZmpw6 .
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:HKt9yvCZmpw6 .
 

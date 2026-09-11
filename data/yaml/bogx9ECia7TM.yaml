@@ -1,7 +1,7 @@
 metadata:
-  class: Concept
-  description: null
-  aliases: null
+  class: Manifestation
+  description:
+  aliases:
   label: operetta
   base_name: operetta
   filename: operetta.md
@@ -9,15 +9,24 @@ metadata:
   n_id: 697523583217046111608
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP
-    label: type of musical work
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP
+      label: type of musical work
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q170384
+    - http://www.wikidata.org/entity/Q170384
+  form_of_creative_work:
+  contributor:
+  has_version:
+  instrumentation:
+  part_of:
+  title:
+  based_on:
 assets:
-  iiif: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/bogx9ECia7TM.json
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/bogx9ECia7TM.json
 content:
-  markdown_content: ''
+  markdown_content: ""

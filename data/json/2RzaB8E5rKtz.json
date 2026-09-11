@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Auguste Carré",
+    "aliases": null,
+    "description": null,
+    "base_name": "Auguste Carré",
+    "filename": "Auguste Carré.md",
+    "id": "2RzaB8E5rKtz",
+    "n_id": 8686032033154632272
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q141410743"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+        "label": "librettist"
+      }
+    ],
+    "related_to": null
+  }
+}

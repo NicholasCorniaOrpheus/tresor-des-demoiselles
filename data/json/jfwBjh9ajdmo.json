@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Eliza Henrietta Sartoris-de L'Aigle",
+    "aliases": [
+      "Eliza Henrietta Sartoris",
+      "Marquise de l'Aigle"
+    ],
+    "description": null,
+    "base_name": "Eliza Henrietta Sartoris-de L'Aigle",
+    "filename": "Eliza Henrietta Sartoris-de L'Aigle.md",
+    "id": "jfwBjh9ajdmo",
+    "n_id": 859804840717625197335
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ],
+    "identifier": null,
+    "occupation": null,
+    "related_to": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
+        "label": "Hortense Wild"
+      }
+    ]
+  }
+}

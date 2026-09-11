@@ -2,25 +2,26 @@ metadata:
   class: Place
   label: Paris
   aliases:
-  - Parigi
-  - Parijs
-  description: null
+    - Parigi
+    - Parijs
+  description:
   base_name: Paris
   filename: Paris.md
   id: 7VQdaj7JW86d
   n_id: 113098095564124119824
 statements:
   identifier:
-  - http://wikidata.org/entity/Q90
+    - http://wikidata.org/entity/Q90
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
-    label: France
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
+      label: France
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Kd5wMW8fYWBe
-    label: city
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Kd5wMW8fYWBe
+      label: city
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/7VQdaj7JW86d.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/7VQdaj7JW86d.json
 content:
-  markdown_content: ''
+  markdown_content: ""

@@ -1,0 +1,67 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:R7b4nrbTGyCv-3mQaES6UyuWu a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N3ba7db6a654041aa8728869046d1b0d3" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:R7b4nrbTGyCv ;
+    schema:datePublished "1853" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:13225458> .
+
+tdd:R7b4nrbTGyCv-EhD8Vc7jiAdb a rdf:Statement ;
+    wdt:P1114 "5" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:R7b4nrbTGyCv .
+
+tdd:R7b4nrbTGyCv-VgMgfnEYPA3H a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:VcpJBubpN5Jf ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:R7b4nrbTGyCv .
+
+tdd:R7b4nrbTGyCv-ZNaaYt9fUURj a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:R7b4nrbTGyCv .
+
+tdd:R7b4nrbTGyCv-ajhNn8Nn4GiW a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:R7b4nrbTGyCv .
+
+tdd:R7b4nrbTGyCv-bBWXxS4xiV4P a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:2YakjmMCnSKo ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:R7b4nrbTGyCv .
+
+tdd:R7b4nrbTGyCv-dUCA88fx4JtG a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:R7b4nrbTGyCv ;
+    schema:datePublished "1853" ;
+    schema:volumeNumber 10 .
+
+tdd:R7b4nrbTGyCv a rdfs:Resource ;
+    rdfs:label "Frère et soeur. Opera comique et un acte" ;
+    dcterms:contributor tdd:2YakjmMCnSKo,
+        tdd:VcpJBubpN5Jf ;
+    dcterms:isPartOf tdd:HuT8aF2rGmzB ;
+    dcterms:title "Frère et soeur : opera comique et un acte" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:GFGuESLqMKpn,
+        tdd:bogx9ECia7TM ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

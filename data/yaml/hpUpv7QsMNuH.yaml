@@ -2,31 +2,32 @@ metadata:
   class: Organisation
   label: University of Leuven
   aliases:
-  - KU Leuven
-  description: null
+    - KU Leuven
+  description:
   base_name: University of Leuven
   filename: University of Leuven.md
   id: hpUpv7QsMNuH
   n_id: 821623994667663319662
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a
-    label: university
-  described_by_source: null
-  inception: null
-  location: null
-  dissolved: null
-  contributor: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MBm7WVmvSg7a
+      label: university
+  described_by_source:
+  inception:
+  location:
+  dissolved:
+  contributor:
   official_website:
-  - https://kuleuven.limo.libis.be/
+    - https://kuleuven.limo.libis.be/
   identifier:
-  - http://www.wikidata.org/entity/Q833670
+    - http://www.wikidata.org/entity/Q833670
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
-    label: Belgium
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+      label: Belgium
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/hpUpv7QsMNuH.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/hpUpv7QsMNuH.json
 content:
-  markdown_content: ''
+  markdown_content: ""

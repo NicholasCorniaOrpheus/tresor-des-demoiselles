@@ -1,34 +1,35 @@
 metadata:
   class: Organisation
   label: Magasin des demoiselles
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Magasin des demoiselles
   filename: Magasin des demoiselles.md
   id: HuT8aF2rGmzB
   n_id: 328161716426853765096
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
-    label: periodical
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+      label: periodical
   described_by_source:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP
-    label: Agents of Change
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/S2Htsbzzq7aP
+      label: Agents of Change
   inception:
-  - value: 1844-01-01
-  location: null
+    - value: 1844-01-01
+  location:
   dissolved:
-  - value: 1896-01-01
-  contributor: null
-  official_website: null
+    - value: 1896-01-01
+  contributor:
+  official_website:
   identifier:
-  - http://www.wikidata.org/entity/Q88566529
+    - http://www.wikidata.org/entity/Q88566529
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
-    label: France
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
+      label: France
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/HuT8aF2rGmzB.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/HuT8aF2rGmzB.json
 content:
-  markdown_content: ''
+  markdown_content: ""

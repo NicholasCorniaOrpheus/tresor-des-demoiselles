@@ -1,0 +1,34 @@
+metadata:
+  class: Agent
+  label: Jules Duprato
+  aliases:
+  description:
+  base_name: Jules Duprato
+  filename: Jules Duprato.md
+  id: 9aBMsq9wJBR3
+  n_id: 156095743576188206104
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+    - http://www.wikidata.org/entity/Q376547
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  related_to:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/d/d4/Jules_Duprato.png?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/9aBMsq9wJBR3.json
+content:
+  markdown_content: ""

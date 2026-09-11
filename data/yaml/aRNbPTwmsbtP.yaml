@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: mazurka
   base_name: mazurka
   filename: mazurka.md
@@ -9,15 +9,16 @@ metadata:
   n_id: 668806311544781823963
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
-    label: classical dance music
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
+      label: classical dance music
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q151942
+    - http://www.wikidata.org/entity/Q151942
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/aRNbPTwmsbtP.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/aRNbPTwmsbtP.json
 content:
-  markdown_content: ''
+  markdown_content: ""

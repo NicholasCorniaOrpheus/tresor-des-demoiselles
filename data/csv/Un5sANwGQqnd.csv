@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['violon'],violin,violin,violin.md,Un5sANwGQqnd,552487394574931269245,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/e2BQmjur6FrK,type of musical instrument,,,
+Concept,,['violon'],violin,violin,violin.md,Un5sANwGQqnd,552487394574931269245,subclass_of,,,,,
+Concept,,['violon'],violin,violin,violin.md,Un5sANwGQqnd,552487394574931269245,described_by_source,,,,,
+Concept,,['violon'],violin,violin,violin.md,Un5sANwGQqnd,552487394574931269245,identifier,,,,,http://www.wikidata.org/entity/Q8355

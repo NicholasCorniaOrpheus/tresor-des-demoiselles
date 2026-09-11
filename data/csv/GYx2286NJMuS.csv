@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,eclogue,eclogue,eclogue.md,GYx2286NJMuS,300106577600296292742,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,eclogue,eclogue,eclogue.md,GYx2286NJMuS,300106577600296292742,subclass_of,,,,,
+Concept,,,eclogue,eclogue,eclogue.md,GYx2286NJMuS,300106577600296292742,described_by_source,,,,,
+Concept,,,eclogue,eclogue,eclogue.md,GYx2286NJMuS,300106577600296292742,identifier,,,,,http://www.wikidata.org/entity/Q11072974

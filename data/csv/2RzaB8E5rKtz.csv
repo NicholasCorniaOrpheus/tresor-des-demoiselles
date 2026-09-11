@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,date_of_birth,,,,,,,,,,,,,
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,described_by_source,,,,,,,,,,,,,
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,date_of_death,,,,,,,,,,,,,
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,place_of_birth,,,,,,,,,,,,,
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,place_of_death,,,,,,,,,,,,,
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q141410743,,,
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz,librettist,
+Agent,Auguste Carré,,,Auguste Carré,Auguste Carré.md,2RzaB8E5rKtz,8686032033154632272,related_to,,,,,,,,,,,,,

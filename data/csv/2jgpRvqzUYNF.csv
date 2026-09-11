@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,date_of_birth,,,,,,,,,,,,,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,described_by_source,,,,,,,,,,,,,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,date_of_death,,,,,,,,,,,,,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,place_of_birth,,,,,,,,,,,,,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,place_of_death,,,,,,,,,,,,,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q2871549,,,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JHYsKBRZX72B,historian,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz,librettist,
+Agent,Augustin Challamel,,,Augustin Challamel,Augustin Challamel.md,2jgpRvqzUYNF,15089894660197464184,related_to,,,,,,,,,,,,,

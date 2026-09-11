@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: dedicatee
   base_name: dedicatee
   filename: dedicatee.md
@@ -9,15 +9,16 @@ metadata:
   n_id: 275172074504200080593
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
-    label: occupation
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ
+      label: occupation
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q28008298
+    - http://www.wikidata.org/entity/Q28008298
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/FM6DzoKyNv6j.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/FM6DzoKyNv6j.json
 content:
-  markdown_content: ''
+  markdown_content: ""

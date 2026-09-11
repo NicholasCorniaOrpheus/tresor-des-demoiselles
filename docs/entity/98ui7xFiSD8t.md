@@ -4,9 +4,10 @@
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/98ui7xFiSD8t.json){ .md-button }
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/98ui7xFiSD8t.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/98ui7xFiSD8t.csv){ .md-button }
+[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1879-1){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1879-1/BV10-7424_1879-1_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: La vallée de chevreuse. suite de valses
@@ -61,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/98ui7xFiSD8t.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/98ui7xFiSD8t.json";
     </script>
 
 
@@ -71,14 +72,16 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - [waltz](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC)
+    - [notated music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr)
 
 ???+ abstract "part of"
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
-        * publication date: 1879-01-01
+        * publication date: 1879-10-01
         * volume: 47
 
 ???+ abstract "contributor"
+    - [Marie Antonine Joséphine de Gramont](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7rCN58jGBfxB)
+        * role: [dedicatee](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j)
     - [Hortense Wild](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa)
         * role: [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)
 
@@ -102,8 +105,31 @@
 ???+ abstract "about"
     - [landscape](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2z8JMC92FAK6)
 
+???+ abstract "form of creative work"
+    - [waltz](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC)
 
 
 
 
+
+
+## Digital Assets
+
+??? abstract "Digitised images"
+    <div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
+        <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
+    </div>
+
+    <!-- Configure OpenSeadragon -->
+    <script>
+      window.kbGraphConfig = window.kbGraphConfig || {};
+      window.kbGraphConfig.assets = {
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
+        local_path: "assets/RCB-BV10-7424_1879-1/",
+        images: ["BV10-7424_1879-1_001.jpg", "BV10-7424_1879-1_002.jpg", "BV10-7424_1879-1_003.jpg", "BV10-7424_1879-1_004.jpg", "BV10-7424_1879-1_005.jpg", "BV10-7424_1879-1_006.jpg"],
+        iiif: ""
+      };
+    </script>
+
+    
 

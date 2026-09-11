@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "class": "Concept",
+    "class": "Manifestation",
     "description": null,
     "aliases": null,
     "label": "operetta",
@@ -20,6 +20,13 @@
     "described_by_source": null,
     "identifier": [
       "http://www.wikidata.org/entity/Q170384"
-    ]
+    ],
+    "form_of_creative_work": null,
+    "contributor": null,
+    "has_version": null,
+    "instrumentation": null,
+    "part_of": null,
+    "title": null,
+    "based_on": null
   }
 }

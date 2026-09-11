@@ -1,0 +1,35 @@
+metadata:
+  class: Agent
+  label: Eliza Henrietta Sartoris-de L'Aigle
+  aliases:
+    - Eliza Henrietta Sartoris
+    - Marquise de l'Aigle
+  description:
+  base_name: Eliza Henrietta Sartoris-de L'Aigle
+  filename: Eliza Henrietta Sartoris-de L'Aigle.md
+  id: jfwBjh9ajdmo
+  n_id: 859804840717625197335
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
+  identifier:
+  occupation:
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
+      label: Hortense Wild
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/jfwBjh9ajdmo.json
+content:
+  markdown_content: ""

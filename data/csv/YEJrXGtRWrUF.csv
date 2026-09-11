@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,date_of_birth,,,,,,,,,,,,,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,described_by_source,,,,,,,,,,,,,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,date_of_death,,,,,,,,,,,,,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,place_of_birth,,,,,,,,,,,,,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,place_of_death,,,,,,,,,,,,,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q4394898,,,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY,arranger,,
+Agent,Victor Rifaut,['Louis Victor Étienne Rifaut'],,Victor Rifaut,Victor Rifaut.md,YEJrXGtRWrUF,623528425962104549545,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi,Journal des dames et des demoiselles. Guide complet de tous les travaux de dames

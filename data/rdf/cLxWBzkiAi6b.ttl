@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:cLxWBzkiAi6b-ViSMJRrHELbv a rdf:Statement ;
+tdd:cLxWBzkiAi6b-5FkQ8xYNdJQT a rdf:Statement ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11327125> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11327125/manifest> ;
-    rdf:object "N51f3e795c99546caa5bd08fb9ea5074d" ;
+    rdf:object "Na0757703cbf547fa9e9f5e7d5f55fa37" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:cLxWBzkiAi6b ;
-    schema:datePublished "1876-01-01"^^xsd:date ;
+    schema:datePublished "1876-01-01" ;
     schema:url <https://mdz-nbn-resolving.de/details:bsb11327125> .
 
-tdd:cLxWBzkiAi6b-bApMWkQFxJwo a rdf:Statement ;
-    bf:electronicLocator <https://archive.org/details/journaldesdemoi11unkngoog> ;
-    bf:heldBy tdd:HzNj4duEtJSX ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nd69e70dbe5764aaf9eceb70d5dc29e8d" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:cLxWBzkiAi6b ;
-    schema:datePublished "1876-01-01"^^xsd:date ;
-    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
-
-tdd:cLxWBzkiAi6b-j3Unh97nVyWg a rdf:Statement ;
+tdd:cLxWBzkiAi6b-hvKU7rD2VgJ8 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:cLxWBzkiAi6b ;
-    schema:datePublished "1876-01-01"^^xsd:date ;
+    schema:datePublished "1876-01-01" ;
     schema:volumeNumber 44 .
+
+tdd:cLxWBzkiAi6b-kUwMVrGjq6us a rdf:Statement ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemoi11unkngoog> ;
+    bf:heldBy tdd:HzNj4duEtJSX ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nbabd025c0c084e9a8521578f70b297dd" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:cLxWBzkiAi6b ;
+    schema:datePublished "1876-01-01" ;
+    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
 
 tdd:cLxWBzkiAi6b a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1876)" ;

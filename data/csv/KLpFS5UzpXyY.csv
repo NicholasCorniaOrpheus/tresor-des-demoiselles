@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value
+Agent,Étienne Desmier d'Archiac,,,Étienne Desmier d'Archiac,Étienne Desmier d'Archiac.md,KLpFS5UzpXyY,357620561013614709579,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,
+Agent,Étienne Desmier d'Archiac,,,Étienne Desmier d'Archiac,Étienne Desmier d'Archiac.md,KLpFS5UzpXyY,357620561013614709579,date_of_birth,,,,,,,,,,,
+Agent,Étienne Desmier d'Archiac,,,Étienne Desmier d'Archiac,Étienne Desmier d'Archiac.md,KLpFS5UzpXyY,357620561013614709579,described_by_source,,,,,,,,,,,
+Agent,Étienne Desmier d'Archiac,,,Étienne Desmier d'Archiac,Étienne Desmier d'Archiac.md,KLpFS5UzpXyY,357620561013614709579,date_of_death,,,,,,,,,,,
+Agent,Étienne Desmier d'Archiac,,,Étienne Desmier d'Archiac,Étienne Desmier d'Archiac.md,KLpFS5UzpXyY,357620561013614709579,place_of_birth,,,,,,,,,,,
+Agent,Étienne Desmier d'Archiac,,,Étienne Desmier d'Archiac,Étienne Desmier d'Archiac.md,KLpFS5UzpXyY,357620561013614709579,place_of_death,,,,,,,,,,,
+Agent,Étienne Desmier d'Archiac,,,Étienne Desmier d'Archiac,Étienne Desmier d'Archiac.md,KLpFS5UzpXyY,357620561013614709579,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,
+Agent,Étienne Desmier d'Archiac,,,Étienne Desmier d'Archiac,Étienne Desmier d'Archiac.md,KLpFS5UzpXyY,357620561013614709579,identifier,,,,,,,,,,,
+Agent,Étienne Desmier d'Archiac,,,Étienne Desmier d'Archiac,Étienne Desmier d'Archiac.md,KLpFS5UzpXyY,357620561013614709579,occupation,,,,,,,,,,,

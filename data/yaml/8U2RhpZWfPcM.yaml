@@ -1,8 +1,8 @@
 metadata:
   class: Work
-  description: null
+  description:
   aliases:
-  - La jeunesse d'Henri V d' Angleterre
+    - La jeunesse d'Henri V d' Angleterre
   label: La gioventù di Enrico Quinto
   base_name: La gioventù di Enrico Quinto
   filename: La gioventù di Enrico Quinto.md
@@ -10,25 +10,26 @@ metadata:
   n_id: 133230906684343307758
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp
-    label: dramatico-musical work
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp
+      label: dramatico-musical work
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q136822375
+    - http://www.wikidata.org/entity/Q136822375
   form_of_creative_work:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
-    label: opera
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NwTUKgXApENs
+      label: opera
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Ferdinand Hérold
-  based_on: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Ferdinand Hérold
+  based_on:
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/8U2RhpZWfPcM.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/8U2RhpZWfPcM.json
 content:
-  markdown_content: ''
+  markdown_content: ""

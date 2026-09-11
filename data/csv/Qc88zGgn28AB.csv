@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,date_of_birth,,,,,,,,,,,,,
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,described_by_source,,,,,,,,,,,,,
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,date_of_death,,,,,,,,,,,,,
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,place_of_birth,,,,,,,,,,,,,
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,place_of_death,,,,,,,,,,,,,
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q947276,,,
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz,librettist,
+Agent,Charles Nuitter,,,Charles Nuitter,Charles Nuitter.md,Qc88zGgn28AB,466337818240889567523,related_to,,,,,,,,,,,,,

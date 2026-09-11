@@ -1,68 +1,71 @@
 metadata:
   class: Manifestation
-  label: 'Le soir: mélodie transcrite pour soprano'
-  aliases: null
-  description: null
+  label: "Le soir: mélodie transcrite pour soprano"
+  aliases:
+  description:
   base_name: Le soir
   filename: Le soir.md
   id: dJRZgT58Xf8A
   n_id: 728198642634042432977
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
-    label: song
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
-    volume: 4
-    label: Trésor des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+      volume: 4
+      label: Trésor des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NRPF64xecNgD
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
-      label: lyricist
-    reference_URL: https://anet.be/record/opacap/c:lvd:12971546
-    label: Marceline Desbordes-Valmore
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gBejS4d5MNmC
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    reference_URL: https://anet.be/record/opacap/c:lvd:12971546
-    label: François de Coninck
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NRPF64xecNgD
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+        label: lyricist
+      reference_URL: https://anet.be/record/opacap/c:lvd:12971546
+      label: Marceline Desbordes-Valmore
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gBejS4d5MNmC
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      reference_URL: https://anet.be/record/opacap/c:lvd:12971546
+      label: François de Coninck
   has_version:
-  - holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
-      label: Royal Conservatory of Antwerp
-    permalink: https://anet.be/record/opacap/c:lvd:12971546
-    place_of_publication:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
-      label: Brussels
-    publisher:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
-      label: François Desterbecq
+    - holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      permalink: https://anet.be/record/opacap/c:lvd:12971546
+      place_of_publication:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+        label: Brussels
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
+        label: François Desterbecq
   title:
-  - 'Le soir: mélodie transcrite pour soprano'
+    - "Le soir: mélodie transcrite pour soprano"
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
-    quantity: 1
-    label: voice
-  depicts: null
-  based_on: null
-  about: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 1
+      label: voice
+  depicts:
+  based_on:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+      label: song
 assets:
   local_asset_path: ./assets/RCA-12971546
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/RCA-12971546/20260608141705109_0017.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12971546/20260608141705109_0017.jpg
   jpg:
-  - 20260608141705109_0017.jpg
-  - 20260608141705109_0018.jpg
-  - 20260608141705109_0019.jpg
-  - 20260608141705109_0020.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/dJRZgT58Xf8A.json
+    - 20260608141705109_0017.jpg
+    - 20260608141705109_0018.jpg
+    - 20260608141705109_0019.jpg
+    - 20260608141705109_0020.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/dJRZgT58Xf8A.json
 content:
-  markdown_content: ''
+  markdown_content: ""

@@ -4,9 +4,10 @@
 [JSON :material-code-json:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/json/FqEYDTDQHpZZ.json){ .md-button }
 [RDF :material-vector-link:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/rdf/FqEYDTDQHpZZ.ttl){ .md-button }
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/FqEYDTDQHpZZ.csv){ .md-button }
+[:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/RCB-BV20-2049){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV20-2049/BV20-2049_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Aria Bettina tiré de l'opéra "La jeunesse d'Henri V d' Angleterre"
@@ -61,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/FqEYDTDQHpZZ.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/FqEYDTDQHpZZ.json";
     </script>
 
 
@@ -71,16 +72,16 @@
 
 ## Statements
 ???+ abstract "instance of"
-    - [aria](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL)
+    - [notated music](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr)
 
 ???+ abstract "part of"
     - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
-        * publication date: 1882-01-01
+        * publication date: 1882
         * volume: 50
 
 ???+ abstract "contributor"
-    - [Hortense Wild](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa)
-        * role: [composer](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5)
+    - [anonymous](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/briR3aDucPXV)
+        * role: [arranger](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY)
 
 ???+ abstract "has version"
     - 
@@ -88,6 +89,7 @@
         * holding institution: [Royal Conservatory of Brussels](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj)
         * publication date: 1882-01-01
         * place of publication: [Paris](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d)
+        * publisher: [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
 
 ???+ abstract "title"
     - Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre
@@ -104,6 +106,9 @@
 ???+ abstract "based on"
     - [La gioventù di Enrico Quinto](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM)
 
+???+ abstract "form of creative work"
+    - [aria](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL)
+
 
 
 ## Notes
@@ -111,4 +116,24 @@ Excerpt from the first act of the [Ferdinand Hérold](https://nicholascorniaorph
 
 
 
+
+## Digital Assets
+
+??? abstract "Digitised images"
+    <div id="openseadragon-container" style="height: 800px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #333;">
+        <div id="osd-viewer" style="width: 100%; height: 100%;"></div>
+    </div>
+
+    <!-- Configure OpenSeadragon -->
+    <script>
+      window.kbGraphConfig = window.kbGraphConfig || {};
+      window.kbGraphConfig.assets = {
+        base_github_url: "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/",
+        local_path: "assets/RCB-BV20-2049/",
+        images: ["BV20-2049_001.jpg", "BV20-2049_002.jpg", "BV20-2049_003.jpg", "BV20-2049_004.jpg", "BV20-2049_005.jpg", "BV20-2049_006.jpg", "BV20-2049_007.jpg", "BV20-2049_008.jpg", "BV20-2049_009.jpg", "BV20-2049_010.jpg", "BV20-2049_011.jpg", "BV20-2049_012.jpg", "BV20-2049_013.jpg", "BV20-2049_014.jpg", "BV20-2049_015.jpg", "BV20-2049_016.jpg"],
+        iiif: ""
+      };
+    </script>
+
+    
 

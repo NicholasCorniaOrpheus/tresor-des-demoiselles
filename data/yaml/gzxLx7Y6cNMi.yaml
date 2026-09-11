@@ -1,81 +1,117 @@
 metadata:
   class: Manifestation
   label: Le Bouquet
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Le Bouquet
   filename: Le Bouquet.md
   id: gzxLx7Y6cNMi
   n_id: 804783152921677327420
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
-    label: song
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
-    volume: 9
-    publication_date: 1852-01-01
-    label: Magasin des demoiselles
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
-    publication_date: 1853-01-01
-    label: Trésor des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+      volume: 9
+      publication_date: 1852-01-01
+      label: Magasin des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN
+      publication_date: 1853-01-01
+      label: Trésor des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/axFwXa8k5P4u
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
-      label: lyricist
-    label: Eugène Talbot
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/axFwXa8k5P4u
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Eugène Talbot
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/axFwXa8k5P4u
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+        label: lyricist
+      label: Eugène Talbot
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/axFwXa8k5P4u
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Eugène Talbot
   has_version:
-  - holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
-      label: Orpheus Instituut
-    permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
-    place_of_publication:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
-      label: Brussels
-    publisher:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
-      label: François Desterbecq
+    - holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nvkQnSyBbvsT
+        label: Orpheus Instituut
+      permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186
+      place_of_publication:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+        label: Brussels
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR
+        label: François Desterbecq
   title:
-  - 'Le Bouquet: Chansonette.'
+    - "Le Bouquet: Chansonette."
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
-    quantity: 1
-    label: voice
-  depicts: null
-  based_on: null
-  about: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 1
+      label: voice
+  depicts:
+  based_on:
+  about:
   language:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
-    label: French
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU
+      label: song
 assets:
   local_asset_path: ./assets/OI-20143702p33
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/OI-20143702p33/orp-talbo-lebouqu-20143702p33-fs-00001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p33/orp-talbo-lebouqu-20143702p33-fs-00001.jpg
   jpg:
-  - orp-talbo-lebouqu-20143702p33-fs-00001.jpg
-  - orp-talbo-lebouqu-20143702p33-fs-00002.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/gzxLx7Y6cNMi.json
+    - orp-talbo-lebouqu-20143702p33-fs-00001.jpg
+    - orp-talbo-lebouqu-20143702p33-fs-00002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/gzxLx7Y6cNMi.json
 content:
-  markdown_content: "### Lyrics\n\nPour composer un bouquet,\njeunes filles si gentilles,\n\
-    Pour composer un bouquet,\nPrenez un brin de muguet\nPuis choisissez une rose,\n\
-    Et sans vouloir autre chose\nDe votre élégante main,\nCueillez deux brins de jasmins\n\
-    \nC’est le plus joli bouquet,\nJeunes filles, si gentilles\nC’est le plus joli\
-    \ bouquet,\nPour orner votre corset,\nah ah ah ah\n\nRose veut dire beauté, \n\
-    Jeunes filles si gentilles,\nRose veut dire beauté,\nEt muguet simplicité;\nLes\
-    \ parfums dont on s’enivre,\nEt que le jasmin nous livre\nsont un emblème charmant\n\
-    des vertus et du talent\n\nC’est le plus joli bouquet,\nJeunes filles, si gentilles\n\
-    C’est le plus joli bouquet,\nPour orner votre corset,\nah ah ah ah\n\nTalent,\
-    \ vertus et beauté, \njeunes filles si gentilles,\nTalent, vertus et beauté\n\
-    veulent la simplicité\nOui, ces fleurs que l’on admire,\nQu’avec bonheur on respire,\n\
-    Jeunes filles ornez vous\nde leurs parfums les plus doux\n\nC’est là le plus beau\
-    \ bouquet,\nJeunes filles si gentilles,\nc’est là le plus beau bouquet,\nDon charmant\
-    \ que Dieu vous fait!\nah! ah! ah! ah!"
+  markdown_content: |-
+    ### Lyrics
+
+    Pour composer un bouquet,
+    jeunes filles si gentilles,
+    Pour composer un bouquet,
+    Prenez un brin de muguet
+    Puis choisissez une rose,
+    Et sans vouloir autre chose
+    De votre élégante main,
+    Cueillez deux brins de jasmins
+
+    C’est le plus joli bouquet,
+    Jeunes filles, si gentilles
+    C’est le plus joli bouquet,
+    Pour orner votre corset,
+    ah ah ah ah
+
+    Rose veut dire beauté, 
+    Jeunes filles si gentilles,
+    Rose veut dire beauté,
+    Et muguet simplicité;
+    Les parfums dont on s’enivre,
+    Et que le jasmin nous livre
+    sont un emblème charmant
+    des vertus et du talent
+
+    C’est le plus joli bouquet,
+    Jeunes filles, si gentilles
+    C’est le plus joli bouquet,
+    Pour orner votre corset,
+    ah ah ah ah
+
+    Talent, vertus et beauté, 
+    jeunes filles si gentilles,
+    Talent, vertus et beauté
+    veulent la simplicité
+    Oui, ces fleurs que l’on admire,
+    Qu’avec bonheur on respire,
+    Jeunes filles ornez vous
+    de leurs parfums les plus doux
+
+    C’est là le plus beau bouquet,
+    Jeunes filles si gentilles,
+    c’est là le plus beau bouquet,
+    Don charmant que Dieu vous fait!
+    ah! ah! ah! ah!

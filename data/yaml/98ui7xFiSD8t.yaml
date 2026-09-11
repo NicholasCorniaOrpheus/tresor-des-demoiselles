@@ -1,56 +1,70 @@
 metadata:
   class: Manifestation
   label: La vallée de chevreuse. suite de valses
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: La vallée de chevreuse. suite de valses
   filename: La vallée de chevreuse. suite de valses.md
   id: 98ui7xFiSD8t
   n_id: 146951892600794357747
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC
-    label: waltz
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
-    publication_date: 1879-01-01
-    volume: 47
-    label: Journal des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1879-10-01
+      volume: 47
+      label: Journal des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Hortense Wild
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7rCN58jGBfxB
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j
+        label: dedicatee
+      label: Marie Antonine Joséphine de Gramont
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Hortense Wild
   has_version:
-  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89103
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
-      label: Royal Conservatory of Brussels
-    publication_date: 1879-01-01
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
-    external_source: null
+    - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89103
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+        label: Royal Conservatory of Brussels
+      publication_date: 1879-01-01
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      external_source:
   title:
-  - 'La vallée de chevreuse : suite de valses'
+    - "La vallée de chevreuse : suite de valses"
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
   depicts:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku
-    label: Chevreuse
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku
+      label: Chevreuse
   about:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2z8JMC92FAK6
-    label: landscape
-  language: null
-  based_on: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2z8JMC92FAK6
+      label: landscape
+  language:
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC
+      label: waltz
 assets:
-  local_asset_path: null
-  iiif: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/98ui7xFiSD8t.json
+  local_asset_path: ./assets/RCB-BV10-7424_1879-1
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1879-1/BV10-7424_1879-1_001.jpg
+  jpg:
+    - BV10-7424_1879-1_001.jpg
+    - BV10-7424_1879-1_002.jpg
+    - BV10-7424_1879-1_003.jpg
+    - BV10-7424_1879-1_004.jpg
+    - BV10-7424_1879-1_005.jpg
+    - BV10-7424_1879-1_006.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/98ui7xFiSD8t.json
 content:
-  markdown_content: ''
+  markdown_content: ""

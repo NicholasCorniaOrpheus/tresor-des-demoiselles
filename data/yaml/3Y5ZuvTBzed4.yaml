@@ -1,34 +1,35 @@
 metadata:
   class: Agent
   label: Albert Grisar
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Albert Grisar
   filename: Albert Grisar.md
   id: 3Y5ZuvTBzed4
   n_id: 31519510024821367859
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
-    label: human
-  date_of_birth: null
-  described_by_source: null
-  date_of_death: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
   place_of_birth:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8
-    label: Antwerp
-  place_of_death: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CnfhMurv8zu8
+      label: Antwerp
+  place_of_death:
   sex_or_gender:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
-    label: male
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
   identifier:
-  - http://www.wikidata.org/entity/Q2003880
+    - http://www.wikidata.org/entity/Q2003880
   occupation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-    label: composer
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
 assets:
   image: https://upload.wikimedia.org/wikipedia/commons/e/ef/Albert_Grisar.jpg
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/3Y5ZuvTBzed4.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/3Y5ZuvTBzed4.json
 content:
-  markdown_content: ''
+  markdown_content: ""

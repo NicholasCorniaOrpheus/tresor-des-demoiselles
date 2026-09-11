@@ -6,24 +6,24 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:AgTowXcdYL6T-4ReNZQKELTFt a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:PiqNkd3hzjnY ;
-    rdf:predicate dcterms:contributor ;
+tdd:AgTowXcdYL6T-7JFAFNHbK6ZV a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:AgTowXcdYL6T .
 
-tdd:AgTowXcdYL6T-Zdh6cQWZzbdQ a rdf:Statement ;
+tdd:AgTowXcdYL6T-RVJUWzo5aVPB a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nfe105d12629c41069f49a910d3758379" ;
+    rdf:object "N70a20b7f794b46499508ddb8ade6ecb9" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:AgTowXcdYL6T ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:AgTowXcdYL6T-eo69qXxWRcEN a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
+tdd:AgTowXcdYL6T-bixLdu6nyPek a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PiqNkd3hzjnY ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:AgTowXcdYL6T .
 
 tdd:AgTowXcdYL6T a rdfs:Resource ;
@@ -32,7 +32,8 @@ tdd:AgTowXcdYL6T a rdfs:Resource ;
     dcterms:isPartOf tdd:VWaxuELqVfKN ;
     dcterms:title "Thalie: Polka mazurka." ;
     dcterms:type "Manifestation" ;
-    wdt:P31 tdd:U66A6PCCFAfU,
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:U66A6PCCFAfU,
         tdd:aRNbPTwmsbtP ;
     wdt:P870 tdd:fcrABEiDKbza .
 

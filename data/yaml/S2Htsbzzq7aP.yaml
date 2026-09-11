@@ -1,37 +1,34 @@
 metadata:
   class: Organisation
-  label: Agents of Change. Women Editors and Socio-Cultural Transformation in Europe
-    1710-1920
+  label: Agents of Change. Women Editors and Socio-Cultural Transformation in Europe 1710-1920
   aliases:
-  - WeChangeEd
-  description: 'Agents of Change: Women Editors and Socio-Cultural Transformation
-    in Europe, 1710-1920″ (acronym WeChangEd) was an ERC Starting Grant project directed
-    by Marianne Van Remoortel and based at the Department of Literary Studies, Ghent
-    University, Belgium.'
+    - WeChangeEd
+  description: "Agents of Change: Women Editors and Socio-Cultural Transformation in Europe, 1710-1920″ (acronym WeChangEd) was an ERC Starting Grant project directed by Marianne Van Remoortel and based at the Department of Literary Studies, Ghent University, Belgium."
   base_name: Agents of Change
   filename: Agents of Change.md
   id: S2Htsbzzq7aP
   n_id: 495362537776268128620
 statements:
-  instance_of: null
+  instance_of:
   described_by_source:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
-    label: Wikidata
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
+      label: Wikidata
   inception:
-  - value: 2015-01-01
+    - value: 2015-01-01
   dissolved:
-  - value: 2021-01-01
+    - value: 2021-01-01
   location:
-  - null
+    -
   country:
-  - null
-  identifier: null
-  contributor: null
+    -
+  identifier:
+  contributor:
   official_website:
-  - https://www.wechanged.ugent.be/
+    - https://www.wechanged.ugent.be/
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/S2Htsbzzq7aP.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/S2Htsbzzq7aP.json
 content:
-  markdown_content: ''
+  markdown_content: ""

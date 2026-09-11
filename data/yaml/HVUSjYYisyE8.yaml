@@ -1,7 +1,7 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: piano
   base_name: piano
   filename: piano.md
@@ -9,15 +9,16 @@ metadata:
   n_id: 319481291853761649099
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/e2BQmjur6FrK
-    label: type of musical instrument
-  subclass_of: null
-  described_by_source: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/e2BQmjur6FrK
+      label: type of musical instrument
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q5994
+    - http://www.wikidata.org/entity/Q5994
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/HVUSjYYisyE8.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/HVUSjYYisyE8.json
 content:
-  markdown_content: ''
+  markdown_content: ""

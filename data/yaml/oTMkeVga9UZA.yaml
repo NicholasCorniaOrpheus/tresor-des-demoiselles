@@ -1,7 +1,7 @@
 metadata:
   class: Organisation
   label: de Peellaert
-  aliases: null
+  aliases:
   description: Belgian noble family
   base_name: de Peellaert
   filename: de Peellaert.md
@@ -9,22 +9,23 @@ metadata:
   n_id: 937791757600616639504
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LWCE9BBAwpmz
-    label: noble family
-  described_by_source: null
-  inception: null
-  location: null
-  dissolved: null
-  contributor: null
-  official_website: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LWCE9BBAwpmz
+      label: noble family
+  described_by_source:
+  inception:
+  location:
+  dissolved:
+  contributor:
+  official_website:
   identifier:
-  - http://www.wikidata.org/entity/Q13417114
+    - http://www.wikidata.org/entity/Q13417114
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
-    label: Belgium
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+      label: Belgium
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/oTMkeVga9UZA.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/oTMkeVga9UZA.json
 content:
-  markdown_content: ''
+  markdown_content: ""

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Le menuet de la cour. Esquisse musicale dans le style Louis XV",
+    "aliases": null,
+    "description": null,
+    "base_name": "Le menuet de la cour. Esquisse musicale dans le style Louis XV",
+    "filename": "Le menuet de la cour. Esquisse musicale dans le style Louis XV.md",
+    "id": "3BYKUjCdUh95",
+    "n_id": 24086690270367731124
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi",
+        "publication_date": "1863-03",
+        "volume": null,
+        "label": "Journal des dames et des demoiselles. Guide complet de tous les travaux de dames"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jD5hNbBz25A4",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Camille Schubert"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://anet.be/record/ap/opacap/c:lvd:13148947",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+          "label": "Royal Conservatory of Antwerp"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+            "label": "Brussels"
+          }
+        ],
+        "publication_date": 1863,
+        "publisher": null
+      }
+    ],
+    "title": [
+      "Le menuet de la cour : esquisse musicale dans le style Louis XV pour piano, op. 294"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": null,
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/QGNp7BLtRf3R",
+        "label": "minuet"
+      }
+    ]
+  }
+}

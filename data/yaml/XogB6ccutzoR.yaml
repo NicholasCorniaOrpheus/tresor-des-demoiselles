@@ -1,35 +1,36 @@
 metadata:
   class: Agent
   label: François Desterbecq
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: François Desterbecq
   filename: François Desterbecq.md
   id: XogB6ccutzoR
   n_id: 614974964237194452386
 statements:
   identifier:
-  - http://wikidata.org/entity/Q46999103
+    - http://wikidata.org/entity/Q46999103
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
-    label: human
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
   occupation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs
-    label: publisher
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs
+      label: publisher
   described_by_source:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
-    label: Wikidata
-  place_of_birth: null
-  date_of_birth: null
-  place_of_death: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XP2eoc3jqCp2
+      label: Wikidata
+  place_of_birth:
+  date_of_birth:
+  place_of_death:
   date_of_death:
-  - value: 1896-01-01
+    - value: 1896-01-01
   sex_or_gender:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
-    label: male
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/XogB6ccutzoR.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/XogB6ccutzoR.json
 content:
-  markdown_content: ''
+  markdown_content: ""

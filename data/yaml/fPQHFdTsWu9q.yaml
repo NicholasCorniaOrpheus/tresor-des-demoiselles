@@ -1,35 +1,36 @@
 metadata:
   class: Organisation
   label: La mélodie
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: La mélodie
   filename: La mélodie.md
   id: fPQHFdTsWu9q
   n_id: 771272426233161451886
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
-    label: periodical
-  described_by_source: null
-  inception: null
-  location: null
-  dissolved: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ue6ZuYvAVpqW
+      label: periodical
+  described_by_source:
+  inception:
+  location:
+  dissolved:
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs
-      label: publisher
-    label: Joseph Meynne
-  official_website: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4k5EPcbvKbQE
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs
+        label: publisher
+      label: Joseph Meynne
+  official_website:
   identifier:
-  - https://anet.be/record/opacap/c:lvd:13165961
+    - https://anet.be/record/opacap/c:lvd:13165961
   country:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
-    label: Belgium
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+      label: Belgium
 assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-  iiif: null
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/fPQHFdTsWu9q.json
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/fPQHFdTsWu9q.json
 content:
-  markdown_content: ''
+  markdown_content: ""

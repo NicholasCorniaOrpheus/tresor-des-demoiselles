@@ -1,0 +1,128 @@
+metadata:
+  class: Manifestation
+  label: La reine mozab. Opéra-comique en un acte
+  aliases:
+  description:
+  base_name: La reine mozab. Opéra-comique en un acte
+  filename: La reine mozab. Opéra-comique en un acte.md
+  id: F6XCdYmXePGk
+  n_id: 269900208100152535890
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HuT8aF2rGmzB
+      publication_date: 1860
+      volume: 16
+      label: Magasin des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9aBMsq9wJBR3
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Jules Duprato
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2RzaB8E5rKtz
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz
+        label: librettist
+      label: Auguste Carré
+  has_version:
+    - permalink: https://anet.be/record/ap/opacap/c:lvd:14018031
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs
+        label: Royal Conservatory of Antwerp
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1860
+  title:
+    - "La reine mozab : opéra-comique en un acte"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs
+      quantity: 1
+      label: choir
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 3
+      label: voice
+  depicts:
+  about:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Dr2VYNgaa4XN
+      label: opéra comique
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/GFGuESLqMKpn
+      label: chamber opera
+assets:
+  local_asset_path: ./assets/RCA-14018031
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-14018031/RCA-14018031_001.jpg
+  jpg:
+    - RCA-14018031_001.jpg
+    - RCA-14018031_002.jpg
+    - RCA-14018031_003.jpg
+    - RCA-14018031_004.jpg
+    - RCA-14018031_005.jpg
+    - RCA-14018031_006.jpg
+    - RCA-14018031_007.jpg
+    - RCA-14018031_008.jpg
+    - RCA-14018031_009.jpg
+    - RCA-14018031_010.jpg
+    - RCA-14018031_011.jpg
+    - RCA-14018031_012.jpg
+    - RCA-14018031_013.jpg
+    - RCA-14018031_014.jpg
+    - RCA-14018031_015.jpg
+    - RCA-14018031_016.jpg
+    - RCA-14018031_017.jpg
+    - RCA-14018031_018.jpg
+    - RCA-14018031_019.jpg
+    - RCA-14018031_020.jpg
+    - RCA-14018031_021.jpg
+    - RCA-14018031_022.jpg
+    - RCA-14018031_023.jpg
+    - RCA-14018031_024.jpg
+    - RCA-14018031_025.jpg
+    - RCA-14018031_026.jpg
+    - RCA-14018031_027.jpg
+    - RCA-14018031_028.jpg
+    - RCA-14018031_029.jpg
+    - RCA-14018031_030.jpg
+    - RCA-14018031_031.jpg
+    - RCA-14018031_032.jpg
+    - RCA-14018031_033.jpg
+    - RCA-14018031_034.jpg
+    - RCA-14018031_035.jpg
+    - RCA-14018031_036.jpg
+    - RCA-14018031_037.jpg
+    - RCA-14018031_038.jpg
+    - RCA-14018031_039.jpg
+    - RCA-14018031_040.jpg
+    - RCA-14018031_041.jpg
+    - RCA-14018031_042.jpg
+    - RCA-14018031_043.jpg
+    - RCA-14018031_044.jpg
+    - RCA-14018031_045.jpg
+    - RCA-14018031_046.jpg
+    - RCA-14018031_047.jpg
+    - RCA-14018031_048.jpg
+    - RCA-14018031_049.jpg
+    - RCA-14018031_050.jpg
+    - RCA-14018031_051.jpg
+    - RCA-14018031_052.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/F6XCdYmXePGk.json
+content:
+  markdown_content: |-
+    1. Introduction, choeur et récitatif
+    2. Air
+    3. Couplets de Petit Poucet
+    4. Duo
+    5. Ronde de la Rose
+    6. Prière
+    7. Finale

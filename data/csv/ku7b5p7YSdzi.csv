@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,date_of_birth,,,,,,,,,,,,,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,described_by_source,,,,,,,,,,,,,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,date_of_death,,,,,,,,,,,,,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,place_of_birth,,,,,,,,,,,,,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,place_of_death,,,,,,,,,,,,,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,identifier,,,,,,,,,,https://viaf.org/en/viaf/124849147,,,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY,arranger,
+Agent,Antoine Scard,,,Antoine Scard,Antoine Scard.md,ku7b5p7YSdzi,885206937329719475050,related_to,,,,,,,,,,,,,

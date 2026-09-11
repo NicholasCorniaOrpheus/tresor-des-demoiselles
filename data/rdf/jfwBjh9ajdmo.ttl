@@ -1,0 +1,17 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix gnd: <https://d-nb.info/standards/elementset/gnd#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:jfwBjh9ajdmo a rdfs:Resource ;
+    rdfs:label "Eliza Henrietta Sartoris-de L'Aigle" ;
+    dcterms:type "Agent" ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    skos:altLabel "Eliza Henrietta Sartoris",
+        "Marquise de l'Aigle" ;
+    gnd:relatedTerm tdd:26TsCae57TVa ;
+    schema:gender tdd:6vopxa7szAQ4 .
+

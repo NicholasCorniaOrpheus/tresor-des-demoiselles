@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,pavane,pavane,pavane.md,ZLwPhzZnXfKu,646568542327211276619,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,pavane,pavane,pavane.md,ZLwPhzZnXfKu,646568542327211276619,subclass_of,,,,,
+Concept,,,pavane,pavane,pavane.md,ZLwPhzZnXfKu,646568542327211276619,described_by_source,,,,,
+Concept,,,pavane,pavane,pavane.md,ZLwPhzZnXfKu,646568542327211276619,identifier,,,,,http://www.wikidata.org/entity/Q180853

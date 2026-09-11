@@ -1,58 +1,67 @@
 metadata:
   class: Manifestation
   label: Les fées du lac. valse brillante pour piano
-  aliases: null
-  description: null
+  aliases:
+  description:
   base_name: Les fées du lac. valse brillante pour piano
   filename: Les fées du lac. valse brillante pour piano.md
   id: 8PAPGoxTCgLt
   n_id: 131471279971456226342
 statements:
   instance_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC
-    label: waltz
-  has_part: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
   part_of:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
-    publication_date: 1882-01-01
-    volume: 50
-    label: Journal des demoiselles
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1882
+      volume: 50
+      label: Journal des demoiselles
   contributor:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ui6pfXfmqxPM
-    role:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
-      label: composer
-    label: Léon Vasseur
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ui6pfXfmqxPM
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Léon Vasseur
   has_version:
-  - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88116
-    holding_institution:
-      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
-      label: Royal Conservatory of Brussels
-    publication_date: 1882-01-01
-    place_of_publication:
-    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
-      label: Paris
-    external_source: null
+    - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88116
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+        label: Royal Conservatory of Brussels
+      publication_date: 1882
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      external_source:
   title:
-  - 'Les fées du lac : valse brillante pour piano'
+    - "Les fées du lac : valse brillante pour piano"
   instrumentation:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
-    quantity: 1
-    label: piano
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
   depicts:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i35bPNVVTFXP
-    label: mythical character
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i35bPNVVTFXP
+      label: mythical character
   about:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RixYXzFHfhqy
-    label: mythology
-  language: null
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RixYXzFHfhqy
+      label: mythology
+  language:
   based_on:
-  - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4
-    label: Le Lac des fées
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gviox6r658Y4
+      label: Le Lac des fées
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC
+      label: waltz
 assets:
-  local_asset_path: null
-  iiif: null
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/8PAPGoxTCgLt.json
+  local_asset_path: ./assets/RCB-BV10-7424_1882-1
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1882-1/RCB-BV10-7424_1882-1_001.jpg
+  jpg:
+    - BV10-7424_1882-1_001.jpg
+    - BV10-7424_1882-1_002.jpg
+    - BV10-7424_1882-1_003.jpg
+    - BV10-7424_1882-1_004.jpg
+    - BV10-7424_1882-1_005.jpg
+    - BV10-7424_1882-1_006.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/8PAPGoxTCgLt.json
 content:
-  markdown_content: ''
+  markdown_content: ""

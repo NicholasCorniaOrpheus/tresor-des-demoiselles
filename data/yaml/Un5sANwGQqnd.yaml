@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  description:
+  aliases:
+    - violon
+  label: violin
+  base_name: violin
+  filename: violin.md
+  id: Un5sANwGQqnd
+  n_id: 552487394574931269245
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/e2BQmjur6FrK
+      label: type of musical instrument
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q8355
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Un5sANwGQqnd.json
+content:
+  markdown_content: ""

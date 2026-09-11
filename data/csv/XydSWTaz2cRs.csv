@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,choir,choir,choir.md,XydSWTaz2cRs,618577961210965767646,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cifmNoRzoHNK,type of musical group,,,
+Concept,,,choir,choir,choir.md,XydSWTaz2cRs,618577961210965767646,subclass_of,,,,,
+Concept,,,choir,choir,choir.md,XydSWTaz2cRs,618577961210965767646,described_by_source,,,,,
+Concept,,,choir,choir,choir.md,XydSWTaz2cRs,618577961210965767646,identifier,,,,,http://www.wikidata.org/entity/Q131186

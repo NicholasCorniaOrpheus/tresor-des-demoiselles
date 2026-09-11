@@ -3,7 +3,6 @@
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tdd:XogB6ccutzoR a rdfs:Resource ;
     rdfs:label "François Desterbecq" ;
@@ -11,7 +10,7 @@ tdd:XogB6ccutzoR a rdfs:Resource ;
     dcterms:type "Agent" ;
     wdt:P1343 tdd:XP2eoc3jqCp2 ;
     wdt:P31 tdd:TudsDJnQvonk ;
-    schema:deathDate "1896-01-01"^^xsd:date ;
+    schema:deathDate "1896-01-01" ;
     schema:gender tdd:hkA3uvTGSDnD ;
     schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs" .
 

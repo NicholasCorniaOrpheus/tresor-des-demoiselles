@@ -1,21 +1,22 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: female
   base_name: female
   filename: female.md
   id: 6vopxa7szAQ4
   n_id: 101660381002636031111
 statements:
-  instance_of: null
-  subclass_of: null
-  described_by_source: null
+  instance_of:
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q6581072
+    - http://www.wikidata.org/entity/Q6581072
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/6vopxa7szAQ4.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/6vopxa7szAQ4.json
 content:
-  markdown_content: ''
+  markdown_content: ""

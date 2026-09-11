@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: Schott Music
+  aliases:
+    - B. Schott
+  description:
+  base_name: Schott Music
+  filename: Schott Music.md
+  id: CsmdRaVBmz3o
+  n_id: 224375691132873607917
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Tk5wRTQJ7aUs
+      label: publisher
+  described_by_source:
+  inception:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+      label: Brussels
+  dissolved:
+  contributor:
+  official_website:
+  identifier:
+    - http://www.wikidata.org/entity/Q536259
+  country:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R
+      label: Belgium
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/CsmdRaVBmz3o.json
+content:
+  markdown_content: ""

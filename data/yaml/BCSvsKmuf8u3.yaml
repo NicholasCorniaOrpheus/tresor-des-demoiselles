@@ -1,21 +1,22 @@
 metadata:
   class: Concept
-  description: null
-  aliases: null
+  description:
+  aliases:
   label: exoticism
   base_name: exoticism
   filename: exoticism.md
   id: BCSvsKmuf8u3
   n_id: 189501758154487923382
 statements:
-  instance_of: null
-  subclass_of: null
-  described_by_source: null
+  instance_of:
+  subclass_of:
+  described_by_source:
   identifier:
-  - http://www.wikidata.org/entity/Q368949
+    - http://www.wikidata.org/entity/Q368949
 assets:
-  iiif: null
+  iiif:
+  bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/BCSvsKmuf8u3.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/BCSvsKmuf8u3.json
 content:
-  markdown_content: ''
+  markdown_content: ""

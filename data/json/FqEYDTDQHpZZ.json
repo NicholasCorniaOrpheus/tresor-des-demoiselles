@@ -12,27 +12,27 @@
   "statements": {
     "instance_of": [
       {
-        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL",
-        "label": "aria"
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
       }
     ],
     "has_part": null,
     "part_of": [
       {
         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
-        "publication_date": "1882-01-01",
+        "publication_date": 1882,
         "volume": 50,
         "label": "Journal des demoiselles"
       }
     ],
     "contributor": [
       {
-        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/briR3aDucPXV",
         "role": {
-          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
-          "label": "composer"
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY",
+          "label": "arranger"
         },
-        "label": "Hortense Wild"
+        "label": "anonymous"
       }
     ],
     "has_version": [
@@ -49,7 +49,11 @@
             "label": "Paris"
           }
         ],
-        "external_source": null
+        "external_source": null,
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+          "label": "Journal des demoiselles"
+        }
       }
     ],
     "title": [
@@ -79,6 +83,12 @@
       {
         "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8U2RhpZWfPcM",
         "label": "La gioventù di Enrico Quinto"
+      }
+    ],
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WnBSn3vmYiYL",
+        "label": "aria"
       }
     ]
   }

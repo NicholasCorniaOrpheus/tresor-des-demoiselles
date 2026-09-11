@@ -12,8 +12,8 @@
   "statements": {
     "instance_of": [
       {
-        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
-        "label": "classical dance music"
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
       }
     ],
     "has_part": null,
@@ -31,6 +31,15 @@
           "label": "composer"
         },
         "label": "Hortense Wild"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jfwBjh9ajdmo",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+          "label": "dedicatee"
+        },
+        "note": "A Madame la Marquise de L'Aigle",
+        "label": "Eliza Henrietta Sartoris-de L'Aigle"
       }
     ],
     "has_version": [
@@ -71,6 +80,12 @@
       }
     ],
     "language": null,
-    "based_on": null
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ZLwPhzZnXfKu",
+        "label": "pavane"
+      }
+    ]
   }
 }

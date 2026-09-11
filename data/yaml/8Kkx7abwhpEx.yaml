@@ -1,0 +1,57 @@
+metadata:
+  class: Manifestation
+  label: Souvenir de Galluis. Mélodie variée
+  aliases:
+  description: Extrait de l'Oasis de l'étude
+  base_name: Souvenir de Galluis. Mélodie variée
+  filename: Souvenir de Galluis. Mélodie variée.md
+  id: 8Kkx7abwhpEx
+  n_id: 130242755462030593425
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi
+      publication_date: 1855-09
+      label: Journal des dames et des demoiselles. Guide complet de tous les travaux de dames
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ku7b5p7YSdzi
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Antoine Scard
+  has_version:
+    - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88855
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+        label: Royal Conservatory of Brussels
+      note:
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2
+          label: Brussels
+      publication_date: 1855-09
+  title:
+    - "Souvenir de Galluis : mélodie variée : Extrait de L' Oasis de l' étude / par A. Scard"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WHdDug4Xwv3G
+      label: mélodie
+assets:
+  local_asset_path: ./assets/RCB-BV14-2029_1855-2
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-2/RCB-BV14-2029_1855-2-1_001.jpg
+  jpg:
+    - BV14-2029_1855-2_001.jpg
+    - BV14-2029_1855-2_002.jpg
+    - BV14-2029_1855-2_003.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/8Kkx7abwhpEx.json
+content:
+  markdown_content: ""
