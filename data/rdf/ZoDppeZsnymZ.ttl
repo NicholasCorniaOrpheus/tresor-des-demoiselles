@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ZoDppeZsnymZ-2nfVf92HLfLN a rdf:Statement ;
+tdd:ZoDppeZsnymZ-HnGumi5WxbKr a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:26TsCae57TVa ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ZoDppeZsnymZ .
+
+tdd:ZoDppeZsnymZ-SdGFVXFBdc8X a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ZoDppeZsnymZ ;
     schema:datePublished "1890" ;
     schema:volumeNumber 58 .
 
-tdd:ZoDppeZsnymZ-F3x8pFsruyyP a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N508e6d90d7b94bdda30a4a6168ccf54a" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:ZoDppeZsnymZ ;
-    schema:datePublished "1890" ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88119> .
-
-tdd:ZoDppeZsnymZ-NKCF7bmaG3rg a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:26TsCae57TVa ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:ZoDppeZsnymZ .
-
-tdd:ZoDppeZsnymZ-b6oMxbuxPVks a rdf:Statement ;
+tdd:ZoDppeZsnymZ-cXViDekhqcZi a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:ZoDppeZsnymZ .
+
+tdd:ZoDppeZsnymZ-nECABeeF5Fo6 a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nec359a437a0047a29f5ee8faf3cb6e5a" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:ZoDppeZsnymZ ;
+    schema:datePublished "1890" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88119> .
 
 tdd:ZoDppeZsnymZ a rdfs:Resource ;
     rdfs:label "Ondine" ;

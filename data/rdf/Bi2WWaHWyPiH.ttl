@@ -6,32 +6,32 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:Bi2WWaHWyPiH-3KD8jD7EaJoc a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:Bi2WWaHWyPiH .
-
-tdd:Bi2WWaHWyPiH-4YQUUGhBrjs6 a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nb9ba7c7c383c40efa27f544232b9e65c" ;
-    rdf:predicate wdt:P747 ;
+tdd:Bi2WWaHWyPiH-7mqDYgqEibLg a rdf:Statement ;
+    rdf:object tdd:5vMfYTL9wGVi ;
+    rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Bi2WWaHWyPiH ;
-    schema:datePublished "1856" ;
-    schema:url <https://anet.be/record/ap/opacap/c:lvd:12977300> .
+    schema:datePublished "1856" .
 
-tdd:Bi2WWaHWyPiH-7CSnWcGVPmAU a rdf:Statement ;
+tdd:Bi2WWaHWyPiH-ZCNmqPdBaNFP a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:jD5hNbBz25A4 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Bi2WWaHWyPiH .
 
-tdd:Bi2WWaHWyPiH-RWWDsNpQFA92 a rdf:Statement ;
-    rdf:object tdd:5vMfYTL9wGVi ;
-    rdf:predicate dcterms:isPartOf ;
+tdd:Bi2WWaHWyPiH-hHqGyxRuCrfR a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N9c0d4012ae6f4b47b9b72d64298718a8" ;
+    rdf:predicate wdt:P747 ;
     rdf:subject tdd:Bi2WWaHWyPiH ;
-    schema:datePublished "1856" .
+    schema:datePublished "1856" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:12977300> .
+
+tdd:Bi2WWaHWyPiH-jxfQawUrki3o a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Bi2WWaHWyPiH .
 
 tdd:Bi2WWaHWyPiH a rdfs:Resource ;
     rdfs:label "Colombine. Valse élégante, suivie de. Les gardes nobles. Quadrille militaire" ;

@@ -58,6 +58,6 @@ assets:
     - 2026-08-10_15-38-13_00006.jpg
     - 2026-08-10_15-38-14_00007.jpg
     - 2026-08-10_15-38-26_00008.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/BZM7enxiSFFc.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/BZM7enxiSFFc.json
 content:
   markdown_content: ""

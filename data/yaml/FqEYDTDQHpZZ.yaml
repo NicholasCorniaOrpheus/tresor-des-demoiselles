@@ -76,6 +76,6 @@ assets:
     - BV20-2049_014.jpg
     - BV20-2049_015.jpg
     - BV20-2049_016.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/FqEYDTDQHpZZ.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/FqEYDTDQHpZZ.json
 content:
   markdown_content: Excerpt from the first act of the [Ferdinand Hérold](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JT3QvpNMS2Cf)'s opera inspired by the Shakespearean play [Henry V](https://www.wikidata.org/wiki/Q495954).

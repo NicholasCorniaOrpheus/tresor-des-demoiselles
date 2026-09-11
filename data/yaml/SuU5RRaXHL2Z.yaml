@@ -29,6 +29,6 @@ assets:
   image: https://upload.wikimedia.org/wikipedia/commons/0/08/Fromental_Halevy_by_Etienne_Carjat-crop.jpg
   iiif:
   bibtex: ""
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/SuU5RRaXHL2Z.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/SuU5RRaXHL2Z.json
 content:
   markdown_content: ""

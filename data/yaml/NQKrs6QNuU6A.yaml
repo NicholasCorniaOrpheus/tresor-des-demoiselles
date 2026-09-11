@@ -32,6 +32,6 @@ assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
   iiif:
   bibtex: ""
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/NQKrs6QNuU6A.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/NQKrs6QNuU6A.json
 content:
   markdown_content: ""

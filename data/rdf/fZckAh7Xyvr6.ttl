@@ -7,45 +7,45 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:fZckAh7Xyvr6-C6XGWTJ6qyzP a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:9ePx7t3aBbVw ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:fZckAh7Xyvr6 .
-
-tdd:fZckAh7Xyvr6-PtGqmCYkRrWy a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:fZckAh7Xyvr6 ;
-    schema:datePublished "1856-11-01" ;
-    schema:volumeNumber 24 .
-
-tdd:fZckAh7Xyvr6-QELPjQWk4fEe a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:fZckAh7Xyvr6 .
-
-tdd:fZckAh7Xyvr6-T9UXxYhme4KE a rdf:Statement ;
+tdd:fZckAh7Xyvr6-BecbbZtGmFeW a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:iqUisMc9DuzZ ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:fZckAh7Xyvr6 .
 
-tdd:fZckAh7Xyvr6-kHDoLNYyK339 a rdf:Statement ;
+tdd:fZckAh7Xyvr6-G8pegx7TqVML a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:fZckAh7Xyvr6 .
 
-tdd:fZckAh7Xyvr6-n2vVLFabpwpE a rdf:Statement ;
+tdd:fZckAh7Xyvr6-NQ3c7Bd6MRym a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nb6bcb435cfa24c59a5d8ca74bccc827d" ;
+    rdf:object "N4387ee371e394909b9d66aeedbf5eb03" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:fZckAh7Xyvr6 ;
     schema:datePublished "1856-11-01" ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:fZckAh7Xyvr6-VFqa4rDs5bD7 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:9ePx7t3aBbVw ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:fZckAh7Xyvr6 .
+
+tdd:fZckAh7Xyvr6-Z62HZVByLp9Z a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:fZckAh7Xyvr6 .
+
+tdd:fZckAh7Xyvr6-f6JzpNTGXLNM a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:fZckAh7Xyvr6 ;
+    schema:datePublished "1856-11-01" ;
+    schema:volumeNumber 24 .
 
 tdd:fZckAh7Xyvr6 a rdfs:Resource ;
     rdfs:label "Enfant, sais-tu?" ;

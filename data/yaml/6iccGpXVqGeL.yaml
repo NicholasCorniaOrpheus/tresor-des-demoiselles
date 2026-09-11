@@ -28,6 +28,6 @@ assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
   iiif:
   bibtex: ""
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/6iccGpXVqGeL.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/6iccGpXVqGeL.json
 content:
   markdown_content: ""

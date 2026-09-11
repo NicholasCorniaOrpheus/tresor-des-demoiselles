@@ -106,7 +106,7 @@ assets:
     - RCA-13225495_042.jpg
     - RCA-13225495_043.jpg
     - RCA-13225495_044.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/6CfxBFVtuyuN.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/6CfxBFVtuyuN.json
 content:
   markdown_content: |-
     0. Introduction

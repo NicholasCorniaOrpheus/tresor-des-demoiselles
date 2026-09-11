@@ -67,7 +67,7 @@ assets:
   jpg:
     - orp-delis-lelivre-20143702p34-fs-00001.jpg
     - orp-delis-lelivre-20143702p34-fs-00002.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/ETrdTiZTknRK.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ETrdTiZTknRK.json
 content:
   markdown_content: |-
     ### Lyrics

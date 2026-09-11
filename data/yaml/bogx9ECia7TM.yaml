@@ -27,6 +27,6 @@ assets:
   local_asset_path:
   iiif:
   bibtex: ""
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/bogx9ECia7TM.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/bogx9ECia7TM.json
 content:
   markdown_content: ""

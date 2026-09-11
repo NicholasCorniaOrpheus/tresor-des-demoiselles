@@ -7,19 +7,19 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:CCYeABXF9uN3-NrDAFMhJ2QCw a rdf:Statement ;
+tdd:CCYeABXF9uN3-588jFWFARpW5 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:CCYeABXF9uN3 ;
     schema:datePublished "1841-01-01" ;
     schema:volumeNumber 9 .
 
-tdd:CCYeABXF9uN3-RfimYPPXuSNj a rdf:Statement ;
+tdd:CCYeABXF9uN3-SvuXcCDAy5GV a rdf:Statement ;
     bf:electronicLocator <https://viewer.onb.ac.at/10A4EB6F/> ;
     bf:heldBy tdd:6TWgDcxqkKDN ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.onb.ac.at/iiif/presentation/v3/manifest/10A4EB6F> ;
-    rdf:object "N1d832e694f654c4db7cb9d77f91a4bf1" ;
+    rdf:object "N6904c81d06e348a0b7c05aa9ace5fcac" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:CCYeABXF9uN3 ;
     schema:datePublished "1841-01-01" ;

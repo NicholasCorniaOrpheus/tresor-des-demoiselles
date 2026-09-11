@@ -9,7 +9,7 @@ base_url = credentials["kblight"]["base_url"]
 
 vault_base_url = credentials["kblight"]["vault_url"]
 
-graph_base_url = vault_base_url.replace("/tresor-des-demoiselles", "")
+graph_base_url = credentials["kblight"]["graph_base_url"]
 
 vault_dir = "./tresor-des-demoiselles"
 

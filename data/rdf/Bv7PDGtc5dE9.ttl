@@ -7,43 +7,43 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Bv7PDGtc5dE9-7KL684xpXb5f a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:26TsCae57TVa ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:Bv7PDGtc5dE9 .
-
-tdd:Bv7PDGtc5dE9-8nTMGreQQfRM a rdf:Statement ;
+tdd:Bv7PDGtc5dE9-CrQEuKwgH2rP a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:Bv7PDGtc5dE9 .
 
-tdd:Bv7PDGtc5dE9-LvExNuib6d2C a rdf:Statement ;
+tdd:Bv7PDGtc5dE9-GnfYJhhXZxWD a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Na6386abdd3e543818d0b2a2f7455cb1e" ;
+    rdf:object "Nd096da593d3f4670a45d5d67be62d16f" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:Bv7PDGtc5dE9 ;
     schema:datePublished "1876-01-01" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89100> .
 
-tdd:Bv7PDGtc5dE9-gVGsr2Bna8wT a rdf:Statement ;
+tdd:Bv7PDGtc5dE9-XVZ9AC5wWcft a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Bv7PDGtc5dE9 ;
     schema:datePublished "1876-01-01" ;
     schema:volumeNumber 44 .
 
-tdd:Bv7PDGtc5dE9-naCPcnD6bHpN a rdf:Statement ;
+tdd:Bv7PDGtc5dE9-Y4iPXoU7Z7zh a rdf:Statement ;
     bf:Note "3 sonatines for piano, Op. 20" ;
     bf:heldBy tdd:MzUK38XpCjqB ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Ne5394008ef9f4ad3adbd8556946ae358" ;
+    rdf:object "Nbf721f62c9574af08e4aa9eb7c884683" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:Bv7PDGtc5dE9 ;
     schema:datePublished "1872-01-01" ;
     schema:url <https://catalogue.bnf.fr/ark:/12148/cb433379188> .
+
+tdd:Bv7PDGtc5dE9-gTzrLDUCqMXN a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:26TsCae57TVa ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Bv7PDGtc5dE9 .
 
 tdd:Bv7PDGtc5dE9 a rdfs:Resource ;
     rdfs:label "3me sonatine. musique de Mlle H. Wild" ;

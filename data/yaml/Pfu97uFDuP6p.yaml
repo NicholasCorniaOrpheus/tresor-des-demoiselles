@@ -70,6 +70,6 @@ assets:
     - BV14-2029_1856-1_003.jpg
     - BV14-2029_1856-1_004.jpg
     - BV14-2029_1856-1_005.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Pfu97uFDuP6p.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Pfu97uFDuP6p.json
 content:
   markdown_content: ""

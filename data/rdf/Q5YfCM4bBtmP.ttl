@@ -7,41 +7,41 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Q5YfCM4bBtmP-KM7TbWqAwLRE a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:Q5YfCM4bBtmP ;
-    schema:datePublished "1838-01-01" ;
-    schema:volumeNumber 6 .
-
-tdd:Q5YfCM4bBtmP-PfWnSAHycdSR a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:PBr2jjFrFXnm ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:Q5YfCM4bBtmP .
-
-tdd:Q5YfCM4bBtmP-crDnArennzxy a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
-    rdf:object "N3ecbd47beea14c98affcb439dae621e0" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:Q5YfCM4bBtmP ;
-    schema:datePublished "1838-01-01" ;
-    schema:url <https://www.digitale-sammlungen.de/en/view/bsb10359989> .
-
-tdd:Q5YfCM4bBtmP-jHiVKd4WX9pJ a rdf:Statement ;
+tdd:Q5YfCM4bBtmP-Ma4LGgTV55F3 a rdf:Statement ;
     bf:Role tdd:cZsa9QkDZfZY ;
     rdf:object tdd:3v4q5PWHnZcN ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Q5YfCM4bBtmP .
 
-tdd:Q5YfCM4bBtmP-nihoDagfEr8D a rdf:Statement ;
+tdd:Q5YfCM4bBtmP-SuLv6Mojr6hW a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:Q5YfCM4bBtmP .
+
+tdd:Q5YfCM4bBtmP-VTN3nVLB6qZj a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PBr2jjFrFXnm ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Q5YfCM4bBtmP .
+
+tdd:Q5YfCM4bBtmP-jLPKHTw8tC4W a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
+    rdf:object "N6071c854eae04ee4b235201da97d643c" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Q5YfCM4bBtmP ;
+    schema:datePublished "1838-01-01" ;
+    schema:url <https://www.digitale-sammlungen.de/en/view/bsb10359989> .
+
+tdd:Q5YfCM4bBtmP-jjAbnve4sYQZ a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:Q5YfCM4bBtmP ;
+    schema:datePublished "1838-01-01" ;
+    schema:volumeNumber 6 .
 
 tdd:Q5YfCM4bBtmP a rdfs:Resource ;
     rdfs:label "Quadrille. Parisina" ;

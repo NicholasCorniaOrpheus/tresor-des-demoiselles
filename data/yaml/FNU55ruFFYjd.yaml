@@ -20,6 +20,6 @@ assets:
   iiif:
   bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/FNU55ruFFYjd.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/FNU55ruFFYjd.json
 content:
   markdown_content: ""

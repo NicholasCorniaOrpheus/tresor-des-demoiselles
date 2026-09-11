@@ -8,24 +8,24 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:6XQw6vXJb4qt-RcNSnbZ5rYT6 a rdf:Statement ;
+tdd:6XQw6vXJb4qt-AyFPPe7VWFAm a rdf:Statement ;
     bf:Note "Reprint of vol. 25 of 1857 probably using the same printing plates of the original Parisian edition." ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate wdt:P144 ;
     rdf:subject tdd:6XQw6vXJb4qt .
 
-tdd:6XQw6vXJb4qt-dLC9rBHGQZQn a rdf:Statement ;
+tdd:6XQw6vXJb4qt-d4iWxYHFBkiG a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:6XQw6vXJb4qt ;
     schema:datePublished "1857-01-01" ;
     schema:volumeNumber 25 .
 
-tdd:6XQw6vXJb4qt-hdj37LSwkygi a rdf:Statement ;
+tdd:6XQw6vXJb4qt-kMaxPAsmtcgn a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2,
         tdd:CEnnWH4uZsFX ;
-    rdf:object "Nb7d6cf0c348c407cacb516e4bc0c771c" ;
+    rdf:object "N12fb14fd2fd44e949aecefd3071ad4c7" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:6XQw6vXJb4qt ;
     schema:datePublished "1857-01-01" ;

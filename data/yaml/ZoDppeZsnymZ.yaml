@@ -60,6 +60,6 @@ assets:
     - BV10-7424_1890-1_004.jpg
     - BV10-7424_1890-1_005.jpg
     - BV10-7424_1890-1_006.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/ZoDppeZsnymZ.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ZoDppeZsnymZ.json
 content:
   markdown_content: ""

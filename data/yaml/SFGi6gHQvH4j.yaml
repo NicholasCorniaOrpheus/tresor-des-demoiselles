@@ -60,6 +60,6 @@ assets:
     - 002.jpg
     - 003.jpg
     - 004.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/SFGi6gHQvH4j.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/SFGi6gHQvH4j.json
 content:
   markdown_content: ""

@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:fuQNwtNrhyNk-FzfBAQMFeP42 a rdf:Statement ;
+tdd:fuQNwtNrhyNk-7sEoUdyPVeQm a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:fuQNwtNrhyNk .
 
-tdd:fuQNwtNrhyNk-HsGNCBobxxdE a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:fuQNwtNrhyNk ;
-    schema:datePublished "1884" ;
-    schema:volumeNumber 52 .
+tdd:fuQNwtNrhyNk-GszWZisZbv8T a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:26TsCae57TVa ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:fuQNwtNrhyNk .
 
-tdd:fuQNwtNrhyNk-LAv64MqDKio8 a rdf:Statement ;
+tdd:fuQNwtNrhyNk-KBqqiS8dpv4r a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N6bff280f3fe24500bfa6f3175a836aa1" ;
+    rdf:object "N4e08e30e681641ad832e77318cc5b42c" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:fuQNwtNrhyNk ;
     schema:datePublished "1884" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88118> .
 
-tdd:fuQNwtNrhyNk-PFJ3ataEHhaX a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:26TsCae57TVa ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:fuQNwtNrhyNk .
+tdd:fuQNwtNrhyNk-mxFRYZVHk27e a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:fuQNwtNrhyNk ;
+    schema:datePublished "1884" ;
+    schema:volumeNumber 52 .
 
 tdd:fuQNwtNrhyNk a rdfs:Resource ;
     rdfs:label "Danse villageoise. air de danse antique" ;

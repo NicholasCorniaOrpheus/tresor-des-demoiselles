@@ -61,6 +61,6 @@ assets:
     - RCB-BV10-7424_1_002.jpg
     - RCB-BV10-7424_1_003.jpg
     - RCB-BV10-7424_1_004.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/HcCqx9kcHttd.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/HcCqx9kcHttd.json
 content:
   markdown_content: ""

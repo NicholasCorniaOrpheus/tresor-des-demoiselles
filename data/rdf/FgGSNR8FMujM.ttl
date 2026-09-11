@@ -7,32 +7,32 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:FgGSNR8FMujM-EMRLxX4H9vj7 a rdf:Statement ;
-    bf:Role tdd:cZsa9QkDZfZY ;
-    rdf:object tdd:YEJrXGtRWrUF ;
-    rdf:predicate dcterms:contributor ;
+tdd:FgGSNR8FMujM-MnQipBpne6Mq a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:FgGSNR8FMujM .
 
-tdd:FgGSNR8FMujM-MDnNFpDB9gpG a rdf:Statement ;
+tdd:FgGSNR8FMujM-NSDV4HFTQojB a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Un5sANwGQqnd" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:FgGSNR8FMujM .
 
-tdd:FgGSNR8FMujM-UZm7aK7uAhjq a rdf:Statement ;
+tdd:FgGSNR8FMujM-PX3pmXYNoy6M a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:YEJrXGtRWrUF ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:FgGSNR8FMujM .
+
+tdd:FgGSNR8FMujM-bwhZDY73LRfr a rdf:Statement ;
     bf:Note "Edition belge." ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N4fa4be21c5ab41028537323b47cbda4a" ;
+    rdf:object "N8b44f8e4bfe14b9e9ace5bda0993a60a" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:FgGSNR8FMujM ;
     schema:url <https://go.wander.be/record/opacap/c:lvd:15416833> .
-
-tdd:FgGSNR8FMujM-dB55MJKnfb8v a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:FgGSNR8FMujM .
 
 tdd:FgGSNR8FMujM a rdfs:Resource ;
     rdfs:label "Le pré aux clercs. Ouverture arrangée pour le piano avec acct. de violon" ;

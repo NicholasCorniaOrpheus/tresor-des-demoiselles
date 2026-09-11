@@ -50,6 +50,6 @@ assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p21/orp-mouvi-volevit-20143702p21-ps-00001.jpg
   jpg:
     - orp-mouvi-volevit-20143702p21-ps-00001.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/VqKwz7CTAa94.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/VqKwz7CTAa94.json
 content:
   markdown_content: ""

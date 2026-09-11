@@ -71,6 +71,6 @@ assets:
   jpg:
     - 001.jpg
     - 002.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Dny65A3KJPvG.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Dny65A3KJPvG.json
 content:
   markdown_content: ""

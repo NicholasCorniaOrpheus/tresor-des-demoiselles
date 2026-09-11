@@ -7,29 +7,29 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:VqKwz7CTAa94-Cq2skhWbbetu a rdf:Statement ;
+tdd:VqKwz7CTAa94-6nJqNnknSNCR a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:VqKwz7CTAa94 .
+
+tdd:VqKwz7CTAa94-M677nrcmypEg a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N90a6e6c5dd964593816635ddf2945e40" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:VqKwz7CTAa94 ;
+    schema:datePublished "1857-01-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:VqKwz7CTAa94-eyCbo7G5bD9b a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:VqKwz7CTAa94 ;
     schema:datePublished "1857-01-01" ;
     schema:volumeNumber 25 .
 
-tdd:VqKwz7CTAa94-Fhbhg2bYCjMF a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N51b6c426be6f4257bf4050e701c0ef0d" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:VqKwz7CTAa94 ;
-    schema:datePublished "1857-01-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:VqKwz7CTAa94-RT4NyCXByBtV a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:VqKwz7CTAa94 .
-
-tdd:VqKwz7CTAa94-X4fgy8VZbHgT a rdf:Statement ;
+tdd:VqKwz7CTAa94-nm2CwT8KhmWc a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:YKxiqAW7Evgt ;
     rdf:predicate dcterms:contributor ;

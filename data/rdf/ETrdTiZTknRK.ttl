@@ -7,51 +7,51 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ETrdTiZTknRK-6WdLFy83V3S8 a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:NJj4eNcAg37w ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:ETrdTiZTknRK .
-
-tdd:ETrdTiZTknRK-9K4GkpdQQfad a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:ETrdTiZTknRK .
-
-tdd:ETrdTiZTknRK-AuXzjfdynTn2 a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:ETrdTiZTknRK .
-
-tdd:ETrdTiZTknRK-XfmNWvkfrLfu a rdf:Statement ;
+tdd:ETrdTiZTknRK-6zNEmEaKqf2C a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nd73fcbc14a874ee19a992132b6264a8b" ;
+    rdf:object "N41528fd0e760469581112e9b9ad18731" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:ETrdTiZTknRK ;
     schema:datePublished "1853-01-01" ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:ETrdTiZTknRK-hfS2jykHFZz6 a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:ETrdTiZTknRK ;
-    schema:datePublished "1853-01-01" .
+tdd:ETrdTiZTknRK-FiXWZem4xatm a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:ETrdTiZTknRK .
 
-tdd:ETrdTiZTknRK-nFRvVsMfa3xy a rdf:Statement ;
+tdd:ETrdTiZTknRK-HmoVcLNGSaYv a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:Pfj3svCdi9rS ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:ETrdTiZTknRK .
 
-tdd:ETrdTiZTknRK-nLifZki7rcUk a rdf:Statement ;
+tdd:ETrdTiZTknRK-M4Xit9fEsJa2 a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:ETrdTiZTknRK ;
+    schema:datePublished "1853-01-01" .
+
+tdd:ETrdTiZTknRK-Sw4rHvGTBRYH a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ETrdTiZTknRK ;
     schema:datePublished "1852-01-01" ;
     schema:volumeNumber 9 .
+
+tdd:ETrdTiZTknRK-Y4gsRMHjmE8L a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:ETrdTiZTknRK .
+
+tdd:ETrdTiZTknRK-oPMTLh6RWBym a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:NJj4eNcAg37w ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ETrdTiZTknRK .
 
 tdd:ETrdTiZTknRK a rdfs:Resource ;
     rdfs:label "Le Livre du coeur" ;

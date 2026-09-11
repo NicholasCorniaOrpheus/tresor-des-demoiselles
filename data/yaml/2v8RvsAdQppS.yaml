@@ -58,6 +58,6 @@ assets:
     - RCA-12977376_002.jpg
     - RCA-12977376_003.jpg
     - RCA-12977376_004.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/2v8RvsAdQppS.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/2v8RvsAdQppS.json
 content:
   markdown_content: ""

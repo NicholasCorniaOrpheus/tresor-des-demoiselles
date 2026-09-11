@@ -28,6 +28,6 @@ assets:
   image: https://upload.wikimedia.org/wikipedia/commons/e/ef/Matteo_Carcassi_%281792-1853%29.jpg
   iiif:
   bibtex: ""
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/6wJL3XGBiSDj.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/6wJL3XGBiSDj.json
 content:
   markdown_content: ""

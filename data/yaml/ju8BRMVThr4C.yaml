@@ -59,6 +59,6 @@ assets:
     - orp-delio-mandoli-20143702p31-ps-00002.jpg
     - orp-delio-mandoli-20143702p31-ps-00003.jpg
     - orp-delio-mandoli-20143702p31-ps-00004.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/ju8BRMVThr4C.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ju8BRMVThr4C.json
 content:
   markdown_content: ""

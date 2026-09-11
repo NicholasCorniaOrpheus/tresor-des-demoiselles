@@ -41,6 +41,6 @@ assets:
   iiif: []
   bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/62Xi6xL89ovo.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/62Xi6xL89ovo.json
 content:
   markdown_content: ""

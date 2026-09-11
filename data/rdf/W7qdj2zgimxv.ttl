@@ -7,43 +7,43 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:W7qdj2zgimxv-3EZiLnN9gNZr a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:W7qdj2zgimxv ;
-    schema:volumeNumber 1 .
-
-tdd:W7qdj2zgimxv-5oYt3ZopvQj6 a rdf:Statement ;
+tdd:W7qdj2zgimxv-3qdLTwMeVdft a rdf:Statement ;
     wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:W7qdj2zgimxv .
 
-tdd:W7qdj2zgimxv-6cHwevQ2b2hf a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N137db71abbc145e9b811409954dc5261" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:W7qdj2zgimxv ;
-    schema:url <https://anet.be/record/opacap/c:lvd:12971499> .
-
-tdd:W7qdj2zgimxv-8PXEfzqmSUCd a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:Je7moMztSRaR ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:W7qdj2zgimxv .
-
-tdd:W7qdj2zgimxv-Q2bmV8r3jrbk a rdf:Statement ;
+tdd:W7qdj2zgimxv-6jR6mYmFT96U a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:5BX54FRugrpJ ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:W7qdj2zgimxv .
 
-tdd:W7qdj2zgimxv-n6cUBTjsfRML a rdf:Statement ;
+tdd:W7qdj2zgimxv-Dij5wEmSnqcD a rdf:Statement ;
     wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:W7qdj2zgimxv .
+
+tdd:W7qdj2zgimxv-GSDgCGdqi2AA a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:Je7moMztSRaR ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:W7qdj2zgimxv .
+
+tdd:W7qdj2zgimxv-a7xLtZgFWSRx a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:W7qdj2zgimxv ;
+    schema:volumeNumber 1 .
+
+tdd:W7qdj2zgimxv-ecNBzBwHYnQ4 a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N7a50bcd8e88949baac200d6913d9d5a3" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:W7qdj2zgimxv ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971499> .
 
 tdd:W7qdj2zgimxv a rdfs:Resource ;
     rdfs:label "Ange ployez votre aile! rêverie" ;

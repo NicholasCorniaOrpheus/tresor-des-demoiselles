@@ -6,49 +6,49 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:Pfu97uFDuP6p-3GnFkZn3YRkF a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:Pfu97uFDuP6p .
-
-tdd:Pfu97uFDuP6p-3o24JUrrrfYu a rdf:Statement ;
-    rdf:object tdd:5vMfYTL9wGVi ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:Pfu97uFDuP6p ;
-    schema:datePublished "1856-09" .
-
-tdd:Pfu97uFDuP6p-PMSV6dxHpXvj a rdf:Statement ;
+tdd:Pfu97uFDuP6p-ANuxGDJb2heW a rdf:Statement ;
     wdt:P1114 "2" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-YMD6jZD5ckDL a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:ku7b5p7YSdzi ;
-    rdf:predicate dcterms:contributor ;
+tdd:Pfu97uFDuP6p-B8pHN3C8aK7p a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-ceUkYg9ewrVR a rdf:Statement ;
+tdd:Pfu97uFDuP6p-LB4DGzt3GqXG a rdf:Statement ;
+    rdf:object tdd:5vMfYTL9wGVi ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:Pfu97uFDuP6p ;
+    schema:datePublished "1856-09" .
+
+tdd:Pfu97uFDuP6p-TgJhG4HKNY4d a rdf:Statement ;
     bf:Role tdd:FM6DzoKyNv6j ;
     rdf:object tdd:QefcFcp5yGSk ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-hcJnfWxDmYCj a rdf:Statement ;
+tdd:Pfu97uFDuP6p-XSjFRDicA9LS a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:3vDTjkF6fXYz ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Pfu97uFDuP6p .
+
+tdd:Pfu97uFDuP6p-ZTp83389doPV a rdf:Statement ;
     bf:Note "Edition belge." ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N36976d170d554d0591e432b18cb48d53" ;
+    rdf:object "Ncd1b1ca2f8334ad581d7ae28e001cc85" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:Pfu97uFDuP6p ;
     schema:datePublished "1856-09" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88508> .
 
-tdd:Pfu97uFDuP6p-nP9MasQdSVC5 a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:3vDTjkF6fXYz ;
+tdd:Pfu97uFDuP6p-ZfePRqADYP4U a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ku7b5p7YSdzi ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Pfu97uFDuP6p .
 

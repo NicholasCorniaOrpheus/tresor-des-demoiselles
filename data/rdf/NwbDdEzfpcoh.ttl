@@ -7,46 +7,46 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:NwbDdEzfpcoh-FxThj8BgedQY a rdf:Statement ;
+tdd:NwbDdEzfpcoh-Av2LyUH9H7r2 a rdf:Statement ;
     bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
     bf:heldBy tdd:MzUK38XpCjqB ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
-    rdf:object "Nd366b7c918404e589130074537bed14f" ;
+    rdf:object "N0e393078e5b746f9a3d00920dcff5695" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:NwbDdEzfpcoh ;
     schema:datePublished "1878" ;
     schema:url <https://catalogue.bnf.fr/ark:/12148/cb43140041g> .
 
-tdd:NwbDdEzfpcoh-LmAhVyvnAv4S a rdf:Statement ;
+tdd:NwbDdEzfpcoh-Fvzh4jCxv7Cc a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:NwbDdEzfpcoh .
+
+tdd:NwbDdEzfpcoh-GCNA3GEQq2iG a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:NwbDdEzfpcoh ;
     schema:datePublished "1874" ;
     schema:volumeNumber 42 .
 
-tdd:NwbDdEzfpcoh-MbzPkXbZheWn a rdf:Statement ;
+tdd:NwbDdEzfpcoh-GqqqPz4Ss3XC a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:VKzHPzJxYHNi ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:NwbDdEzfpcoh .
 
-tdd:NwbDdEzfpcoh-R7u7MUCz2Dwf a rdf:Statement ;
+tdd:NwbDdEzfpcoh-WZKri9sMrayB a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nd4ae62c008b9438cbf679c3faa565b37" ;
+    rdf:object "Nf755b821f271457f807beee43ca2a8d1" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:NwbDdEzfpcoh ;
     schema:datePublished "1874" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=70336> .
 
-tdd:NwbDdEzfpcoh-Z2HuQ3yfqpEX a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:NwbDdEzfpcoh .
-
-tdd:NwbDdEzfpcoh-eSJkbrrBg3KH a rdf:Statement ;
+tdd:NwbDdEzfpcoh-XjZhL4cwmpW9 a rdf:Statement ;
     bf:Role tdd:Mgp8YUwRv3Jz ;
     rdf:object tdd:4Z9bCRmwDbS7 ;
     rdf:predicate dcterms:contributor ;

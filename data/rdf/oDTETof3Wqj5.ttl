@@ -7,17 +7,17 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:oDTETof3Wqj5-4Mj3KJgLQypk a rdf:Statement ;
+tdd:oDTETof3Wqj5-cfK9wH8Z8ajq a rdf:Statement ;
     bf:electronicLocator <https://archive.org/details/journaldesdemoi09unkngoog> ;
     bf:heldBy tdd:HzNj4duEtJSX ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nf3888f9adf174c4e9f274e92e860fece" ;
+    rdf:object "Nb2334c1b0c48425285957ff6bce9dbf0" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:oDTETof3Wqj5 ;
     schema:datePublished "1891-01-01" ;
     schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
 
-tdd:oDTETof3Wqj5-aGbbCbQNTGV3 a rdf:Statement ;
+tdd:oDTETof3Wqj5-ixt2QKCjvGK2 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:oDTETof3Wqj5 ;

@@ -50,6 +50,6 @@ assets:
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p43/orp-scola-ninon-20143702p43-ps-00001.jpg
   jpg:
     - orp-scola-ninon-20143702p43-ps-00001.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/L66sykV3wKxG.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/L66sykV3wKxG.json
 content:
   markdown_content: ""

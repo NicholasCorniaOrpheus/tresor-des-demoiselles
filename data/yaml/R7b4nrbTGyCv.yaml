@@ -100,7 +100,7 @@ assets:
     - RCA-13225458_034.jpg
     - RCA-13225458_035.jpg
     - RCA-13225458_036.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/R7b4nrbTGyCv.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/R7b4nrbTGyCv.json
 content:
   markdown_content: |-
     0. Ouverture

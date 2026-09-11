@@ -80,7 +80,7 @@ assets:
     - 014.jpg
     - 015.jpg
     - 016.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/GSSHKs8X5aRE.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/GSSHKs8X5aRE.json
 content:
   markdown_content: |-
     This chamber opera seems to have been specifically composed for the _Journal_.

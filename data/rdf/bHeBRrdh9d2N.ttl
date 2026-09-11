@@ -7,47 +7,47 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:bHeBRrdh9d2N-B6bw2WKMFtgn a rdf:Statement ;
+tdd:bHeBRrdh9d2N-4D4niZUHSESx a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:2jgpRvqzUYNF ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:bHeBRrdh9d2N .
+
+tdd:bHeBRrdh9d2N-Pdzjr8iVKQmU a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:bHeBRrdh9d2N .
+
+tdd:bHeBRrdh9d2N-a5F8yFhcxK9Z a rdf:Statement ;
+    wdt:P1114 "2" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:bHeBRrdh9d2N .
+
+tdd:bHeBRrdh9d2N-e53kGK36GG89 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:bHeBRrdh9d2N .
 
-tdd:bHeBRrdh9d2N-Grdbrbmq797n a rdf:Statement ;
+tdd:bHeBRrdh9d2N-gUQX2HdA96tf a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:bHeBRrdh9d2N ;
     schema:datePublished "1861" ;
     schema:volumeNumber 18 .
 
-tdd:bHeBRrdh9d2N-QN3doBEDfHHp a rdf:Statement ;
-    wdt:P1114 "2" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:bHeBRrdh9d2N .
-
-tdd:bHeBRrdh9d2N-Z4h75mWhoLpN a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:bHeBRrdh9d2N .
-
-tdd:bHeBRrdh9d2N-Zygj5jZno3zP a rdf:Statement ;
+tdd:bHeBRrdh9d2N-gptRHCdiKvsW a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:4cmvbqajFNRE ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:bHeBRrdh9d2N .
 
-tdd:bHeBRrdh9d2N-iMwZeNdKPz9s a rdf:Statement ;
-    bf:Role tdd:Mgp8YUwRv3Jz ;
-    rdf:object tdd:2jgpRvqzUYNF ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:bHeBRrdh9d2N .
-
-tdd:bHeBRrdh9d2N-iNdwtgXT7PJP a rdf:Statement ;
+tdd:bHeBRrdh9d2N-jFb8ZUG8K98m a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N0a57ea03cd6144c782c6333c72aead11" ;
+    rdf:object "N28266131b8b34dadbc724461366ab899" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:bHeBRrdh9d2N ;
     schema:datePublished "1861" ;

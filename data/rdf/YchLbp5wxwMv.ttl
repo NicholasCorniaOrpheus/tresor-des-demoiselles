@@ -6,24 +6,24 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:YchLbp5wxwMv-2aVQMDUGvB6q a rdf:Statement ;
+tdd:YchLbp5wxwMv-BdS5yj54rjvB a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N2f28e625fd6f456daa6d39df115f1d23" ;
+    rdf:object "Nc3fbce55deb943308c610ccb8aa72933" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:YchLbp5wxwMv ;
     schema:url <https://go.wander.be/record/opacap/c:lvd:12977282> .
 
-tdd:YchLbp5wxwMv-5sCSusNnHxhZ a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:YchLbp5wxwMv .
-
-tdd:YchLbp5wxwMv-VmaHugvvuMZV a rdf:Statement ;
+tdd:YchLbp5wxwMv-T4VCxUC66q9u a rdf:Statement ;
     bf:Role tdd:FM6DzoKyNv6j ;
     rdf:object tdd:jUohUDQ7mo5u ;
     rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:YchLbp5wxwMv .
+
+tdd:YchLbp5wxwMv-dKFqbSUKcG89 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:YchLbp5wxwMv .
 
 tdd:YchLbp5wxwMv a rdfs:Resource ;

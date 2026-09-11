@@ -7,43 +7,43 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:KWMc2MyB5896-2AXRv9Qdbt7a a rdf:Statement ;
+tdd:KWMc2MyB5896-44oWQU86dxB9 a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N88e6f6a6c0884bd2a81c2ed80ff98daa" ;
+    rdf:object "Nc201c88fc20e439983863dbf3345b521" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:KWMc2MyB5896 ;
     schema:url <https://anet.be/record/opacap/c:lvd:13279473> .
 
-tdd:KWMc2MyB5896-9BqxwdVmBB6g a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
+tdd:KWMc2MyB5896-BS9SVpZKuyDe a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:3At93rnWJp3u ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:KWMc2MyB5896 .
 
-tdd:KWMc2MyB5896-DtJXrUfHzCaC a rdf:Statement ;
+tdd:KWMc2MyB5896-ZC3zzSEwnjix a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:KWMc2MyB5896 .
 
-tdd:KWMc2MyB5896-TrC57svYis6M a rdf:Statement ;
+tdd:KWMc2MyB5896-c9beRVz29dv5 a rdf:Statement ;
     bf:Role tdd:3At93rnWJp3u ;
     rdf:object tdd:PGagqrY8C5Aa ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:KWMc2MyB5896 .
 
-tdd:KWMc2MyB5896-mgychVB4GBVd a rdf:Statement ;
+tdd:KWMc2MyB5896-eaXrLov4CPyE a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:KWMc2MyB5896 .
+
+tdd:KWMc2MyB5896-nuAvzxuqLn87 a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:KWMc2MyB5896 ;
     schema:volumeNumber 2 .
-
-tdd:KWMc2MyB5896-ndS6MsNtN89s a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:3At93rnWJp3u ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:KWMc2MyB5896 .
 
 tdd:KWMc2MyB5896 a rdfs:Resource ;
     rdfs:label "La brune Thérèse" ;

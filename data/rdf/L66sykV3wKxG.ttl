@@ -7,29 +7,29 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:L66sykV3wKxG-GG72KkuEx3Lf a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Ne2fb711c49844b3baf21fb7aa27b74c3" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:L66sykV3wKxG ;
-    schema:datePublished "1856-03-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:L66sykV3wKxG-c2TC2zSZe8K6 a rdf:Statement ;
+tdd:L66sykV3wKxG-452sQVCuZLrY a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:bqLWPNXVxrhM ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:L66sykV3wKxG .
 
-tdd:L66sykV3wKxG-mGQx26gZZ8fD a rdf:Statement ;
+tdd:L66sykV3wKxG-Uje8BDfvDMJ7 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:L66sykV3wKxG ;
     schema:datePublished "1856-03-01" ;
     schema:volumeNumber 24 .
 
-tdd:L66sykV3wKxG-mgWytvByDpW4 a rdf:Statement ;
+tdd:L66sykV3wKxG-YHDnSNpR7UgE a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N043cd2df7c864180b31769eb13714864" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:L66sykV3wKxG ;
+    schema:datePublished "1856-03-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:L66sykV3wKxG-YR2hgtxfVUdS a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;

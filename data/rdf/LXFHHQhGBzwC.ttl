@@ -7,43 +7,43 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:LXFHHQhGBzwC-6FzHMwdwzZAo a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N92a1f8e692874a9fbd3a239ec434d2c7" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:LXFHHQhGBzwC ;
-    schema:url <https://anet.be/record/opacap/c:lvd:12971543> .
-
-tdd:LXFHHQhGBzwC-WsHnaAt8wrhR a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:LXFHHQhGBzwC .
-
-tdd:LXFHHQhGBzwC-Zj4PwA6XALk2 a rdf:Statement ;
+tdd:LXFHHQhGBzwC-8NjU4CDxwnCe a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:ctiBvfKCHD9m ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:LXFHHQhGBzwC .
 
-tdd:LXFHHQhGBzwC-ZpGQRzFZhpFP a rdf:Statement ;
+tdd:LXFHHQhGBzwC-Mz7vYqxHFeWo a rdf:Statement ;
     wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:LXFHHQhGBzwC .
 
-tdd:LXFHHQhGBzwC-mE6DntAmdBgh a rdf:Statement ;
+tdd:LXFHHQhGBzwC-Nq5kBGi6bqUU a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:i2BmdHj6e6Q9 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:LXFHHQhGBzwC .
 
-tdd:LXFHHQhGBzwC-mW3FHpycZxip a rdf:Statement ;
+tdd:LXFHHQhGBzwC-VixGxotYXLju a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:LXFHHQhGBzwC ;
     schema:volumeNumber 3 .
+
+tdd:LXFHHQhGBzwC-cgXNMqw7RYYo a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Nbe80b23dd9824e368a3715b775a43eeb" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:LXFHHQhGBzwC ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971543> .
+
+tdd:LXFHHQhGBzwC-dKnuoJSdT849 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:LXFHHQhGBzwC .
 
 tdd:LXFHHQhGBzwC a rdfs:Resource ;
     rdfs:label "Espoir en Dieu: chants du crépuscule" ;

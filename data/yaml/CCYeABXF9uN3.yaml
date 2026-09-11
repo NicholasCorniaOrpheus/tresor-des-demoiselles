@@ -43,6 +43,6 @@ assets:
     - https://api.onb.ac.at/iiif/presentation/v3/manifest/10A4EB6F
   bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/CCYeABXF9uN3.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/CCYeABXF9uN3.json
 content:
   markdown_content: ""

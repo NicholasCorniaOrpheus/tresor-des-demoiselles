@@ -7,23 +7,23 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:XaiM46r49HmY-2fqiEfUTAatK a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
-    rdf:object "N8f82ddf2788d4037911405f09ce743f1" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:XaiM46r49HmY ;
-    schema:datePublished "1838-01-01" ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359989> .
-
-tdd:XaiM46r49HmY-iHopyegFNhkp a rdf:Statement ;
+tdd:XaiM46r49HmY-74cqFyvsHHm4 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:XaiM46r49HmY ;
     schema:datePublished "1838-01-01" ;
     schema:volumeNumber 6 .
+
+tdd:XaiM46r49HmY-LDn7biYdwpYH a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
+    rdf:object "Nff3567338c724c659cddf33ba5c51d5e" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:XaiM46r49HmY ;
+    schema:datePublished "1838-01-01" ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359989> .
 
 tdd:XaiM46r49HmY a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1838)" ;

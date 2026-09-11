@@ -30,6 +30,6 @@ assets:
   image: https://upload.wikimedia.org/wikipedia/commons/5/58/0Felicien_David.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
   iiif:
   bibtex: ""
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/TVtNwqiSPkGY.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/TVtNwqiSPkGY.json
 content:
   markdown_content: ""

@@ -116,7 +116,7 @@ assets:
     - RCA-14018031_050.jpg
     - RCA-14018031_051.jpg
     - RCA-14018031_052.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/F6XCdYmXePGk.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/F6XCdYmXePGk.json
 content:
   markdown_content: |-
     1. Introduction, choeur et récitatif

@@ -52,6 +52,6 @@ assets:
     - BV14-2029_1855-2_001.jpg
     - BV14-2029_1855-2_002.jpg
     - BV14-2029_1855-2_003.jpg
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/8Kkx7abwhpEx.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/8Kkx7abwhpEx.json
 content:
   markdown_content: ""

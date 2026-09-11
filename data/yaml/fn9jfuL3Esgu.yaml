@@ -43,6 +43,6 @@ assets:
     - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359987/manifest
   bibtex: ""
   image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/fn9jfuL3Esgu.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/fn9jfuL3Esgu.json
 content:
   markdown_content: ""

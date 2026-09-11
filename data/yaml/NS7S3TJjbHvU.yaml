@@ -38,7 +38,7 @@ assets:
   image: https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg
   iiif:
   bibtex: ""
-  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/NS7S3TJjbHvU.json
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/NS7S3TJjbHvU.json
 content:
   markdown_content: |-
     Parisian periodical founded in 1833 and published _Au Bureau du Journal_.

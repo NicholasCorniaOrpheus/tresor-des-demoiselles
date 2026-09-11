@@ -7,20 +7,20 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ZxvgXLzDfsvr-FHGvLzJwSdSh a rdf:Statement ;
+tdd:ZxvgXLzDfsvr-AXfnhnGvh6Uf a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ZxvgXLzDfsvr ;
     schema:datePublished "1866-01-01" ;
     schema:volumeNumber 16 .
 
-tdd:ZxvgXLzDfsvr-aW3dB6ZAvnVB a rdf:Statement ;
+tdd:ZxvgXLzDfsvr-HDuXsnBnNyhk a rdf:Statement ;
     bf:Note "Only issues 1-5 are present." ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10360013> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10360013/manifest> ;
-    rdf:object "N443f0bac5994499182d93bf37b0e55cd" ;
+    rdf:object "N43c831b00e0e40fb8d98e323901114a5" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:ZxvgXLzDfsvr ;
     schema:datePublished "1866-01-01" ;

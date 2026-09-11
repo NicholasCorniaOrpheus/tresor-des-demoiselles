@@ -7,23 +7,23 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:gDmz3Fec5GTc-SsVZRXuRmGw4 a rdf:Statement ;
+tdd:gDmz3Fec5GTc-JqauCbWrb82k a rdf:Statement ;
+    bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k9996748> ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9996748/manifest.json> ;
+    rdf:object "N37e00ba1ca0546f792f40d58733d433d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:gDmz3Fec5GTc ;
+    schema:datePublished "1886-01-01" ;
+    schema:url <http://catalogue.bnf.fr/ark:/12148/cb32810582s> .
+
+tdd:gDmz3Fec5GTc-esLboWDXFSiQ a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:gDmz3Fec5GTc ;
     schema:datePublished "1886-01-01" ;
     schema:volumeNumber 42 .
-
-tdd:gDmz3Fec5GTc-YEQYCCguojxa a rdf:Statement ;
-    bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k9996748> ;
-    bf:heldBy tdd:MzUK38XpCjqB ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9996748/manifest.json> ;
-    rdf:object "N742095b8bae44f259abd71d48184567a" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:gDmz3Fec5GTc ;
-    schema:datePublished "1886-01-01" ;
-    schema:url <http://catalogue.bnf.fr/ark:/12148/cb32810582s> .
 
 tdd:gDmz3Fec5GTc a rdfs:Resource ;
     rdfs:label "Magasin des demoiselles (1886)" ;

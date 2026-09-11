@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:BZM7enxiSFFc-BCNi6fudx36A a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:BZM7enxiSFFc ;
-    schema:datePublished "1867" ;
-    schema:volumeNumber 35 .
+tdd:BZM7enxiSFFc-96urdS2pW4qi a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:TVtNwqiSPkGY ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:BZM7enxiSFFc .
 
-tdd:BZM7enxiSFFc-DjNUD899JxXt a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N102292beaacc4d4cafaec50d1e2db9b2" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:BZM7enxiSFFc ;
-    schema:datePublished "1867" ;
-    schema:url <https://go.wander.be/record/opacap/c:lvd:15681836> .
-
-tdd:BZM7enxiSFFc-Q2PUx4qKwovC a rdf:Statement ;
+tdd:BZM7enxiSFFc-H3ErNUmieqRF a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:BZM7enxiSFFc .
 
-tdd:BZM7enxiSFFc-SrUqnUzJ8SMN a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:TVtNwqiSPkGY ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:BZM7enxiSFFc .
+tdd:BZM7enxiSFFc-JpzPE2h3iZax a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nce962761bd0c476981aff1691468687f" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:BZM7enxiSFFc ;
+    schema:datePublished "1867" ;
+    schema:url <https://go.wander.be/record/opacap/c:lvd:15681836> .
+
+tdd:BZM7enxiSFFc-PbyzEKuQEpUg a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:BZM7enxiSFFc ;
+    schema:datePublished "1867" ;
+    schema:volumeNumber 35 .
 
 tdd:BZM7enxiSFFc a rdfs:Resource ;
     rdfs:label "Le soir. Rêverie pour piano" ;
