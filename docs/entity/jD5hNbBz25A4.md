@@ -6,7 +6,7 @@
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/jD5hNbBz25A4.csv){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Agent
     - label: Camille Schubert
@@ -62,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/jD5hNbBz25A4.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/jD5hNbBz25A4.json";
     </script>
 
 

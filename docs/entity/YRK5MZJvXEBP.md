@@ -6,7 +6,7 @@
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/YRK5MZJvXEBP.csv){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Organisation
     - label: Gerritsen Women's History Collection of Aletta H. Jacobs
@@ -61,7 +61,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/YRK5MZJvXEBP.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/YRK5MZJvXEBP.json";
     </script>
 
 

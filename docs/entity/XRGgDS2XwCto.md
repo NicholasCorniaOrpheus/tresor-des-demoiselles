@@ -62,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/XRGgDS2XwCto.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/XRGgDS2XwCto.json";
     </script>
 
 

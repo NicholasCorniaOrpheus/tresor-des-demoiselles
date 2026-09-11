@@ -6,7 +6,7 @@
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/7LoWAKaDbbUb.csv){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Organisation
     - label: Biblioteca civica di Verona
@@ -61,7 +61,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/7LoWAKaDbbUb.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/7LoWAKaDbbUb.json";
     </script>
 
 

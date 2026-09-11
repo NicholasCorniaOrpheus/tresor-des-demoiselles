@@ -6,7 +6,7 @@
 [CSV :material-table:](https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/csv/5vMfYTL9wGVi.csv){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Organisation
     - label: Journal des dames et des demoiselles. Guide complet de tous les travaux de dames
@@ -62,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/5vMfYTL9wGVi.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/5vMfYTL9wGVi.json";
     </script>
 
 

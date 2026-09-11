@@ -7,7 +7,7 @@
 [:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1889-1){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/BV10-7424_1889-1/BV10-7424_1889-1_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1889-1/BV10-7424_1889-1_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Cracoviana. pour le piano
@@ -62,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/T3eDQEfcZJYp.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/T3eDQEfcZJYp.json";
     </script>
 
 

@@ -7,7 +7,7 @@
 [:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/OI-20143702p28){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p27/orp-revel-emilie-20143702p28/orp-pilet-lesluti-20143702p28-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p28/orp-pilet-lesluti-20143702p28-fs-00001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Les lutins de Bretagne
@@ -62,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/LiRnHQgHVwqd.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/LiRnHQgHVwqd.json";
     </script>
 
 

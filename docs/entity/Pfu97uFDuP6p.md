@@ -7,7 +7,7 @@
 [:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1856-1){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1856-1/RCB-BV14-2029_1856-1_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1856-1/BV14-2029_1856-1_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Le réveil de la nature. Duetto pour soprano et mezzo-soprano
@@ -62,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/Pfu97uFDuP6p.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Pfu97uFDuP6p.json";
     </script>
 
 

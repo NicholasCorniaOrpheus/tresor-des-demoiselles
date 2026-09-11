@@ -7,7 +7,7 @@
 [:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-2){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-2/RCB-BV14-2029_1855-2-1_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-2/BV14-2029_1855-2-1_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: Souvenir de Galluis. Mélodie variée
@@ -63,7 +63,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/8Kkx7abwhpEx.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/8Kkx7abwhpEx.json";
     </script>
 
 

@@ -7,7 +7,7 @@
 [:material-github: assets folder](https://github.com/NicholasCorniaOrpheus/tresor-des-demoiselles/tree/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-3){ .md-button }
 
 
-<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-3/RCB-BV14-2029_1855-3_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
+<img src="https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1855-3/BV14-2029_1855-3_001.jpg" width="200" height="300" style="float:left; margin-right:20px; border: 1px solid #eee;">
 !!! note "metadata"
     - class: Manifestation
     - label: La saison des beaux jours. Églogue
@@ -62,7 +62,7 @@
     <!-- Configure D3 graph -->
     <script>
       window.kbGraphConfig = window.kbGraphConfig || {};
-      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/main/data/VsU7Hy7ZpQUd.json";
+      window.kbGraphConfig.graphUrl = "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/VsU7Hy7ZpQUd.json";
     </script>
 
 
