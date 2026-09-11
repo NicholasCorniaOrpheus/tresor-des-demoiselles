@@ -7,50 +7,50 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:6CfxBFVtuyuN-6qDYpQ3gwo3S a rdf:Statement ;
+tdd:6CfxBFVtuyuN-2Mkrkct8bpVh a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Ne661d96fb48647a5aa687cebe0141a41" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:6CfxBFVtuyuN ;
+    schema:datePublished "1863" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:13225495> .
+
+tdd:6CfxBFVtuyuN-6z2K4SLErYNX a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:6CfxBFVtuyuN .
+
+tdd:6CfxBFVtuyuN-G3Xa2Hmgfo49 a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:6CfxBFVtuyuN ;
     schema:datePublished "1863" ;
     schema:volumeNumber 20 .
 
-tdd:6CfxBFVtuyuN-7ELVpGbSCDNs a rdf:Statement ;
-    wdt:P1114 "4" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:6CfxBFVtuyuN .
-
-tdd:6CfxBFVtuyuN-96JGuDUCma66 a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nd82fbb93f599446ab42705d791420e5f" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:6CfxBFVtuyuN ;
-    schema:datePublished "1863" ;
-    schema:url <https://anet.be/record/ap/opacap/c:lvd:13225495> .
-
-tdd:6CfxBFVtuyuN-Nw76MxFJZHv9 a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:6CfxBFVtuyuN .
-
-tdd:6CfxBFVtuyuN-Siw56ATgzkeK a rdf:Statement ;
+tdd:6CfxBFVtuyuN-Mrx5Y8rcvaK9 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:6CfxBFVtuyuN .
 
-tdd:6CfxBFVtuyuN-TwAFDspajiv3 a rdf:Statement ;
+tdd:6CfxBFVtuyuN-RiT5z5JNwFhc a rdf:Statement ;
     bf:Role tdd:Mgp8YUwRv3Jz ;
     rdf:object tdd:2RzaB8E5rKtz ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:6CfxBFVtuyuN .
 
-tdd:6CfxBFVtuyuN-mGDHePYH9Y6e a rdf:Statement ;
+tdd:6CfxBFVtuyuN-ZvpmjB7Vraff a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:M5XPBvFV3pSm ;
     rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:6CfxBFVtuyuN .
+
+tdd:6CfxBFVtuyuN-diaibCWBQZs4 a rdf:Statement ;
+    wdt:P1114 "4" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:6CfxBFVtuyuN .
 
 tdd:6CfxBFVtuyuN a rdfs:Resource ;

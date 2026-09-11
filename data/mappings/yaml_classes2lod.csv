@@ -1,7 +1,7 @@
 yaml_class,namespace,class,class_URI,color,default_image
-Agent,dcterms,Agent,http://purl.org/dc/terms/Agent,#8e1a4a,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
-Concept,skos,Concept,http://www.w3.org/2004/02/skos/core#Concept,#2B423C,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png
-Manifestation,dcterms,PhysicalResource,http://purl.org/dc/terms/PhysicalResource,#BA430B,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
-Organisation,bf,Organization,http://id.loc.gov/ontologies/bibframe/Organization,#792B4F,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png
-Place,bf,Place,http://id.loc.gov/ontologies/bibframe/Place,#2B423C,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png
-Work,bf,Work,http://id.loc.gov/ontologies/bibframe/Work,#4a6c6f,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png
+Agent,dcterms,Agent,http://purl.org/dc/terms/Agent,#8e1a4a,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+Concept,skos,Concept,http://www.w3.org/2004/02/skos/core#Concept,#2B423C,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png
+Manifestation,dcterms,PhysicalResource,http://purl.org/dc/terms/PhysicalResource,#BA430B,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png
+Organisation,bf,Organization,http://id.loc.gov/ontologies/bibframe/Organization,#792B4F,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png
+Place,bf,Place,http://id.loc.gov/ontologies/bibframe/Place,#2B423C,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png
+Work,bf,Work,http://id.loc.gov/ontologies/bibframe/Work,#4a6c6f,https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png

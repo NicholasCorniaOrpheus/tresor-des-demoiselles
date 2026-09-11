@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:gyh3ExubqN2H-FUjnxrWSmJR4 a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:gyh3ExubqN2H .
-
-tdd:gyh3ExubqN2H-FxaKQKYz4RiF a rdf:Statement ;
+tdd:gyh3ExubqN2H-Fi8FpcqLqvCN a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:7iBtPDhpSi6a ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:gyh3ExubqN2H .
 
-tdd:gyh3ExubqN2H-faKiGYB7cocJ a rdf:Statement ;
+tdd:gyh3ExubqN2H-S38AHDWzFQon a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:gyh3ExubqN2H .
+
+tdd:gyh3ExubqN2H-SQdGpLMoerLd a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N8c351ae5340948d18c26c20ce0b7a0d3" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:gyh3ExubqN2H ;
+    schema:datePublished "1856-01-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:gyh3ExubqN2H-Wxc4An6DpAsC a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:gyh3ExubqN2H ;
     schema:datePublished "1856-01-01" ;
     schema:volumeNumber 23 .
-
-tdd:gyh3ExubqN2H-hWo28VP9oHti a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N78aea154e4c14fe78f83c9cc078fa094" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:gyh3ExubqN2H ;
-    schema:datePublished "1856-01-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
 tdd:gyh3ExubqN2H a rdfs:Resource ;
     rdfs:label "L'Aubépine" ;

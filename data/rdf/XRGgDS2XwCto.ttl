@@ -7,49 +7,49 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:XRGgDS2XwCto-GFMNYcwZwQ7X a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
+tdd:XRGgDS2XwCto-ANPUyUkxNope a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:5BX54FRugrpJ ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:XRGgDS2XwCto .
 
-tdd:XRGgDS2XwCto-GP89uCZgNcix a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:XRGgDS2XwCto ;
-    schema:datePublished "1849-01-01" .
-
-tdd:XRGgDS2XwCto-PeiT7uSuMV9e a rdf:Statement ;
+tdd:XRGgDS2XwCto-LiZPhcvdXeEt a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:XRGgDS2XwCto ;
     schema:datePublished "1849-01-01" ;
     schema:volumeNumber 17 .
 
-tdd:XRGgDS2XwCto-T57mcU39w4j7 a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Ndd9bcdc6264e4c6ea75ff01ca814e498" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:XRGgDS2XwCto ;
-    schema:datePublished "1849-01-01" ;
-    schema:url <https://anet.be/record/opacap/c:lvd:12971526> .
-
-tdd:XRGgDS2XwCto-Voy4ddDfQe6m a rdf:Statement ;
+tdd:XRGgDS2XwCto-PNtuNwWzrqq2 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:XRGgDS2XwCto .
 
-tdd:XRGgDS2XwCto-aMKHmhCHeK7r a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:CXpPMVRq6JaP ;
-    rdf:predicate dcterms:contributor ;
+tdd:XRGgDS2XwCto-cK3TH8DoyD6j a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:XRGgDS2XwCto .
 
-tdd:XRGgDS2XwCto-oPCBDGHGJkdU a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:5BX54FRugrpJ ;
+tdd:XRGgDS2XwCto-duuzckUEdRc7 a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N2c48d20c11974e8e92c940b803ee8c2a" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:XRGgDS2XwCto ;
+    schema:datePublished "1849-01-01" ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971526> .
+
+tdd:XRGgDS2XwCto-eZhnitxHg5XE a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:XRGgDS2XwCto ;
+    schema:datePublished "1849-01-01" .
+
+tdd:XRGgDS2XwCto-nDbmgWeVNHTr a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:CXpPMVRq6JaP ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:XRGgDS2XwCto .
 

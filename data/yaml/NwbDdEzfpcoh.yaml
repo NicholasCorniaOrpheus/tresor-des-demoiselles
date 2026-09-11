@@ -73,7 +73,7 @@ assets:
   iiif:
     - https://gallica.bnf.fr/ark:/12148/bpt6k1281624n
   bibtex: ""
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/NwbDdEzfpcoh.json
 content:
   markdown_content: ""

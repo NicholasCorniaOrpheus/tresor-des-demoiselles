@@ -27,9 +27,9 @@
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "guitar",
+                "piano",
                 "voice",
-                "piano"
+                "guitar"
             ],
             "language": [
                 "French"
@@ -60,7 +60,7 @@
                 "city"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -85,7 +85,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -119,7 +119,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -141,7 +141,7 @@
                 "Canada"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -160,14 +160,14 @@
                 "periodical"
             ],
             "date": [
-                "1896-01-01",
-                "1844-01-01"
+                "1844-01-01",
+                "1896-01-01"
             ],
             "place": [
                 "France"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -192,7 +192,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -248,7 +248,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -273,7 +273,7 @@
                 "France"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -307,7 +307,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -341,7 +341,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -349,8 +349,8 @@
         "location": "/entity/FiFAWv3HUTn6",
         "properties": {
             "label": [
-                "Le Mariage chinois",
-                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay."
+                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay.",
+                "Le Mariage chinois"
             ],
             "class": [
                 "Manifestation"
@@ -367,8 +367,8 @@
                 "1856-03-01"
             ],
             "contributor": [
-                "Charles-Henri Plantade",
-                "Eugène de Lonlay"
+                "Eugène de Lonlay",
+                "Charles-Henri Plantade"
             ],
             "holding institution": [
                 "Orpheus Instituut"
@@ -418,8 +418,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -461,7 +461,7 @@
                 "opera singer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -480,7 +480,7 @@
                 "type of musical instrument"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -505,7 +505,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -524,7 +524,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -543,7 +543,7 @@
                 "type of musical group"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -584,7 +584,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -608,7 +608,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -641,8 +641,8 @@
         "location": "/entity/2hgUsD4tB9J5",
         "properties": {
             "label": [
-                "Une larme : mélodie sympathique variée ; extrait de l'Oasis de l'étude / par A. Scard",
-                "Une larme. Mélodie sympathique variée"
+                "Une larme. Mélodie sympathique variée",
+                "Une larme : mélodie sympathique variée ; extrait de l'Oasis de l'étude / par A. Scard"
             ],
             "class": [
                 "Manifestation"
@@ -684,8 +684,8 @@
         "location": "/entity/T3eDQEfcZJYp",
         "properties": {
             "label": [
-                "Cracoviana: pour le piano",
-                "Cracoviana. pour le piano"
+                "Cracoviana. pour le piano",
+                "Cracoviana: pour le piano"
             ],
             "class": [
                 "Manifestation"
@@ -740,7 +740,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -765,7 +765,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -798,9 +798,9 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
+                "piano",
                 "choir",
-                "voice",
-                "piano"
+                "voice"
             ],
             "language": [
                 "French"
@@ -834,7 +834,7 @@
                 "mythical character"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -852,7 +852,7 @@
             ],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -886,7 +886,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -911,7 +911,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -930,7 +930,7 @@
                 "language"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -953,8 +953,8 @@
                 "Journal des demoiselles"
             ],
             "date": [
-                "1856-11-01",
-                "1856-01-01"
+                "1856-01-01",
+                "1856-11-01"
             ],
             "contributor": [
                 "Remiehleki"
@@ -991,8 +991,8 @@
                 "notated music"
             ],
             "part of": [
-                "La mélodie",
-                "Trésor des demoiselles"
+                "Trésor des demoiselles",
+                "La mélodie"
             ],
             "date": [
                 "1852-01-01"
@@ -1003,19 +1003,19 @@
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp",
-                "Royal Conservatory of Brussels",
-                "Orpheus Instituut"
+                "Orpheus Instituut",
+                "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
             ],
             "place": [
-                "Brussels",
-                "Ghent"
+                "Ghent",
+                "Brussels"
             ],
             "form of creative work": [
                 "duet"
@@ -1043,7 +1043,7 @@
                 "sourcing circumstance"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1068,7 +1068,7 @@
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -1103,8 +1103,8 @@
                 "piano"
             ],
             "place": [
-                "Brussels",
-                "Paris"
+                "Paris",
+                "Brussels"
             ],
             "form of creative work": [
                 "quadrille"
@@ -1135,7 +1135,7 @@
                 "opera"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -1183,7 +1183,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1191,8 +1191,8 @@
         "location": "/entity/bHeBRrdh9d2N",
         "properties": {
             "label": [
-                "Marianne : opéra-comique en un acte",
-                "Marianne. Opéra-comique en un acte"
+                "Marianne. Opéra-comique en un acte",
+                "Marianne : opéra-comique en un acte"
             ],
             "class": [
                 "Manifestation"
@@ -1209,8 +1209,8 @@
                 1861
             ],
             "contributor": [
-                "François Bazin",
-                "Augustin Challamel"
+                "Augustin Challamel",
+                "François Bazin"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
@@ -1258,8 +1258,8 @@
                 "1859-01-01"
             ],
             "contributor": [
-                "François Desterbecq",
-                "Louise Jeanne Cécile Ruelens"
+                "Louise Jeanne Cécile Ruelens",
+                "François Desterbecq"
             ],
             "language": [
                 "French"
@@ -1284,7 +1284,7 @@
                 "country"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -1300,7 +1300,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1326,26 +1326,26 @@
                 "1851-01-01"
             ],
             "contributor": [
-                "Antoine Louis Clapisson",
-                "Frédéric de Courcy"
+                "Frédéric de Courcy",
+                "Antoine Louis Clapisson"
             ],
             "holding institution": [
                 "Bibliothèque nationale de France",
                 "Royal Conservatory of Antwerp",
-                "Royal Conservatory of Brussels",
-                "Orpheus Instituut"
+                "Orpheus Instituut",
+                "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
             ],
             "place": [
-                "Brussels",
+                "Paris",
                 "Ghent",
-                "Paris"
+                "Brussels"
             ],
             "form of creative work": [
                 "song"
@@ -1373,11 +1373,11 @@
                 "male"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -1385,8 +1385,8 @@
         "location": "/entity/FqEYDTDQHpZZ",
         "properties": {
             "label": [
-                "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\"",
-                "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre"
+                "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre",
+                "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\""
             ],
             "class": [
                 "Manifestation"
@@ -1445,7 +1445,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1490,7 +1490,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1515,8 +1515,8 @@
                 "1837-01-01"
             ],
             "holding institution": [
-                "Munich Digitization Center",
-                "Harvard University"
+                "Harvard University",
+                "Munich Digitization Center"
             ],
             "language": [
                 "French"
@@ -1525,7 +1525,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -1559,7 +1559,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -1578,7 +1578,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1597,7 +1597,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1624,7 +1624,7 @@
                 "opera"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -1702,8 +1702,8 @@
                 "piano"
             ],
             "place": [
-                "Brussels",
-                "Paris"
+                "Paris",
+                "Brussels"
             ],
             "based_on": [
                 "Le Carillonneur de Bruges"
@@ -1745,9 +1745,9 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
+                "piano",
                 "choir",
-                "voice",
-                "piano"
+                "voice"
             ],
             "language": [
                 "French"
@@ -1784,7 +1784,7 @@
                 "France"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -1792,8 +1792,8 @@
         "location": "/entity/nhhVWRK57VWH",
         "properties": {
             "label": [
-                "Les roses de mai. Quadrille brillant",
-                "Les roses de mai: quadrille brillant"
+                "Les roses de mai: quadrille brillant",
+                "Les roses de mai. Quadrille brillant"
             ],
             "class": [
                 "Manifestation"
@@ -1810,8 +1810,8 @@
                 1833
             ],
             "contributor": [
-                "V. M. Bernhardt",
-                "Abonnés du Journal des Demoiselles"
+                "Abonnés du Journal des Demoiselles",
+                "V. M. Bernhardt"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
@@ -1845,7 +1845,7 @@
                 "type of library"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1867,7 +1867,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -1883,7 +1883,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1899,7 +1899,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1917,7 +1917,7 @@
             ],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -1939,8 +1939,8 @@
                 "Journal des demoiselles"
             ],
             "contributor": [
-                "Eliza Henrietta Sartoris-de L'Aigle",
-                "Hortense Wild"
+                "Hortense Wild",
+                "Eliza Henrietta Sartoris-de L'Aigle"
             ],
             "holding institution": [
                 "Royal Conservatory of Brussels"
@@ -1975,7 +1975,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -1994,7 +1994,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -2019,7 +2019,7 @@
                 "librettist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -2044,7 +2044,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -2063,7 +2063,7 @@
                 "type of musical group"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -2086,15 +2086,15 @@
                 "periodical"
             ],
             "contributor": [
-                "François Desterbecq",
-                "Louise Jeanne Cécile Ruelens"
+                "Louise Jeanne Cécile Ruelens",
+                "François Desterbecq"
             ],
             "place": [
                 "Brussels",
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -2113,7 +2113,7 @@
                 "digital library"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -2140,7 +2140,7 @@
                 "opera"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -2194,7 +2194,7 @@
                 "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -2219,7 +2219,7 @@
                 "opera"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -2290,7 +2290,7 @@
                 "opera"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -2308,7 +2308,7 @@
             ],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -2330,7 +2330,7 @@
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -2390,8 +2390,8 @@
                 "piano"
             ],
             "place": [
-                "Brussels",
-                "Paris"
+                "Paris",
+                "Brussels"
             ],
             "form of creative work": [
                 "schottische"
@@ -2429,8 +2429,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "violin",
-                "piano"
+                "piano",
+                "violin"
             ],
             "place": [
                 "Brussels"
@@ -2464,7 +2464,7 @@
                 "United States"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -2492,7 +2492,7 @@
                 "music educator"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -2526,7 +2526,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -2560,7 +2560,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -2595,7 +2595,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -2614,7 +2614,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -2636,8 +2636,8 @@
                 "female"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/f/f8/Portrait_de_Marceline_Desbordes_%28cropped%29.jpg"
@@ -2659,7 +2659,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -2678,7 +2678,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -2704,16 +2704,16 @@
                 1860
             ],
             "contributor": [
-                "Auguste Carré",
-                "Jules Duprato"
+                "Jules Duprato",
+                "Auguste Carré"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
+                "piano",
                 "choir",
-                "voice",
-                "piano"
+                "voice"
             ],
             "language": [
                 "French"
@@ -2740,15 +2740,15 @@
                 "Manifestation"
             ],
             "aliases": [
-                "score",
                 "partiture",
+                "score",
                 "sheet music"
             ],
             "description": [
                 "handwritten or printed form of musical notation that uses musical symbols to indicate the pitches, rhythms, or chords of a song or instrumental musical piece"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -2767,7 +2767,7 @@
                 "human"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -2800,8 +2800,8 @@
         "location": "/entity/7sLxino2QMBv",
         "properties": {
             "label": [
-                "La Pervenche. Polka des Demoiselles",
-                "La Pervenche"
+                "La Pervenche",
+                "La Pervenche. Polka des Demoiselles"
             ],
             "class": [
                 "Manifestation"
@@ -2879,7 +2879,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -2898,7 +2898,7 @@
                 "type of musical instrument"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -2920,7 +2920,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -2928,8 +2928,8 @@
         "location": "/entity/U3dAsUoxKKnK",
         "properties": {
             "label": [
-                "Histoire d'une Fleur",
-                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano."
+                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano.",
+                "Histoire d'une Fleur"
             ],
             "class": [
                 "Manifestation"
@@ -2946,8 +2946,8 @@
                 "1857-01-01"
             ],
             "contributor": [
-                "Georges de Nevers",
                 "Florine Mouvielle",
+                "Georges de Nevers",
                 "Marie Lasseveur"
             ],
             "holding institution": [
@@ -2986,7 +2986,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3005,7 +3005,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3039,7 +3039,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -3061,15 +3061,15 @@
                 "Trésor des demoiselles"
             ],
             "contributor": [
-                "Émile Barateau",
-                "Francesco Masini"
+                "Francesco Masini",
+                "Émile Barateau"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -3100,7 +3100,7 @@
                 "type of musical instrument"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3119,7 +3119,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3142,7 +3142,7 @@
                 "Brussels"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -3167,7 +3167,7 @@
                 "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -3186,7 +3186,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3211,7 +3211,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -3236,7 +3236,7 @@
                 "opera"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -3257,7 +3257,7 @@
                 "digital library"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -3276,7 +3276,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3284,8 +3284,8 @@
         "location": "/entity/TL2CYehsnjpj",
         "properties": {
             "label": [
-                "Songe de Bonheur",
-                "Songe de Bonheur. Suite de Valses. N. 1-3"
+                "Songe de Bonheur. Suite de Valses. N. 1-3",
+                "Songe de Bonheur"
             ],
             "class": [
                 "Manifestation"
@@ -3301,9 +3301,9 @@
             ],
             "date": [
                 "1853-01-01",
+                "1853-06-01",
                 "1852-01-01",
-                "1861-01-01",
-                "1853-06-01"
+                "1861-01-01"
             ],
             "contributor": [
                 "Emile Ettling"
@@ -3317,8 +3317,8 @@
                 "piano"
             ],
             "place": [
-                "Brussels",
-                "Paris"
+                "Paris",
+                "Brussels"
             ],
             "form of creative work": [
                 "waltz"
@@ -3350,8 +3350,8 @@
                 1878
             ],
             "contributor": [
-                "Paul Dubourg",
-                "Victor Massé"
+                "Victor Massé",
+                "Paul Dubourg"
             ],
             "holding institution": [
                 "Bibliothèque nationale de France",
@@ -3371,7 +3371,7 @@
                 "operetta"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -3395,20 +3395,20 @@
                 "Magasin des demoiselles"
             ],
             "date": [
-                "1852-01-01",
-                "1856-01-01"
+                "1856-01-01",
+                "1852-01-01"
             ],
             "contributor": [
-                "Charles de Montfort",
                 "Marie Caroline Miolan-Carvalho",
-                "J. Sommereau"
+                "J. Sommereau",
+                "Charles de Montfort"
             ],
             "holding institution": [
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -3449,8 +3449,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -3489,11 +3489,11 @@
                 "male"
             ],
             "occupation": [
-                "lyricist",
-                "pastor"
+                "pastor",
+                "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -3515,11 +3515,11 @@
                 "male"
             ],
             "occupation": [
-                "publisher",
-                "composer"
+                "composer",
+                "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -3546,7 +3546,7 @@
                 "opera"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -3620,7 +3620,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -3628,8 +3628,8 @@
         "location": "/entity/S77HJUbgUuKq",
         "properties": {
             "label": [
-                "Le Voyageurs de nuit",
-                "Le Voyageurs de nuit: Chansonette"
+                "Le Voyageurs de nuit: Chansonette",
+                "Le Voyageurs de nuit"
             ],
             "class": [
                 "Manifestation"
@@ -3646,16 +3646,16 @@
                 "1839-01-01"
             ],
             "contributor": [
-                "Emile Millet",
-                "Amable Tastu"
+                "Amable Tastu",
+                "Emile Millet"
             ],
             "holding institution": [
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "guitar",
+                "piano",
                 "voice",
-                "piano"
+                "guitar"
             ],
             "language": [
                 "French"
@@ -3692,7 +3692,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -3720,7 +3720,7 @@
                 "arranger"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -3743,7 +3743,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -3764,7 +3764,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3783,7 +3783,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3802,7 +3802,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -3818,7 +3818,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3842,7 +3842,7 @@
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -3864,7 +3864,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -3880,7 +3880,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -3906,16 +3906,16 @@
             ],
             "contributor": [
                 "Francesco Masini",
-                "Laure Jourdain",
-                "Joseph Vimeux"
+                "Joseph Vimeux",
+                "Laure Jourdain"
             ],
             "holding institution": [
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "guitar",
+                "piano",
                 "voice",
-                "piano"
+                "guitar"
             ],
             "language": [
                 "French"
@@ -3935,8 +3935,8 @@
         "location": "/entity/Q5YfCM4bBtmP",
         "properties": {
             "label": [
-                "Deux Madones. Romance",
-                "Quadrille. Parisina"
+                "Quadrille. Parisina",
+                "Deux Madones. Romance"
             ],
             "class": [
                 "Manifestation"
@@ -3994,7 +3994,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -4020,8 +4020,8 @@
                 1833
             ],
             "contributor": [
-                "V. M. Bernhardt",
-                "Abonnés du Journal des Demoiselles"
+                "Abonnés du Journal des Demoiselles",
+                "V. M. Bernhardt"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
@@ -4044,8 +4044,8 @@
         "location": "/entity/LiRnHQgHVwqd",
         "properties": {
             "label": [
-                "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan",
-                "Les lutins de Bretagne"
+                "Les lutins de Bretagne",
+                "Les lutins de Bretagne: Quadrille pour piano a quatre mains. N.1 Les Jan Gant Etan"
             ],
             "class": [
                 "Manifestation"
@@ -4111,7 +4111,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -4130,7 +4130,7 @@
                 "country"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -4152,7 +4152,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -4186,7 +4186,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -4252,16 +4252,16 @@
             ],
             "contributor": [
                 "Francesco Masini",
-                "Émile Barateau",
-                "Joseph Vimeux"
+                "Joseph Vimeux",
+                "Émile Barateau"
             ],
             "holding institution": [
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "guitar",
+                "piano",
                 "voice",
-                "piano"
+                "guitar"
             ],
             "language": [
                 "French"
@@ -4302,8 +4302,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -4338,7 +4338,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -4360,16 +4360,16 @@
                 "Trésor des demoiselles"
             ],
             "contributor": [
-                "Robert Julien Van Maldeghem",
                 "de Peellaert",
+                "Robert Julien Van Maldeghem",
                 "Eugeen Edward Stroobant"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -4404,16 +4404,16 @@
                 "1853-01-01"
             ],
             "contributor": [
-                "Louis Rauis",
-                "Victor Lefèvre"
+                "Victor Lefèvre",
+                "Louis Rauis"
             ],
             "holding institution": [
-                "Royal Library of Belgium",
-                "Orpheus Instituut"
+                "Orpheus Instituut",
+                "Royal Library of Belgium"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -4444,7 +4444,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -4463,8 +4463,8 @@
                 "notated music"
             ],
             "part of": [
-                "Trésor des demoiselles",
-                "Journal des demoiselles"
+                "Journal des demoiselles",
+                "Trésor des demoiselles"
             ],
             "date": [
                 "1849-01-01"
@@ -4477,8 +4477,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -4515,15 +4515,15 @@
                 "1866-01-01"
             ],
             "contributor": [
-                "Jules Pillevestre",
-                "Élisa Adam-Boisgontier"
+                "Élisa Adam-Boisgontier",
+                "Jules Pillevestre"
             ],
             "holding institution": [
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -4561,7 +4561,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -4619,7 +4619,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -4679,7 +4679,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -4695,7 +4695,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -4718,7 +4718,7 @@
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -4787,7 +4787,7 @@
                 "type of fictional character"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -4876,7 +4876,7 @@
                 "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -4884,8 +4884,8 @@
         "location": "/entity/gzxLx7Y6cNMi",
         "properties": {
             "label": [
-                "Le Bouquet: Chansonette.",
-                "Le Bouquet"
+                "Le Bouquet",
+                "Le Bouquet: Chansonette."
             ],
             "class": [
                 "Manifestation"
@@ -4900,8 +4900,8 @@
                 "Magasin des demoiselles"
             ],
             "date": [
-                "1852-01-01",
-                "1853-01-01"
+                "1853-01-01",
+                "1852-01-01"
             ],
             "contributor": [
                 "Eugène Talbot"
@@ -4910,8 +4910,8 @@
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -4942,7 +4942,7 @@
                 "country"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -4976,7 +4976,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -4998,7 +4998,7 @@
                 "Italy"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -5032,7 +5032,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -5065,8 +5065,8 @@
         "location": "/entity/caTPx3dAfP6L",
         "properties": {
             "label": [
-                "Renouveau. bluette",
-                "Renouveau : bluette"
+                "Renouveau : bluette",
+                "Renouveau. bluette"
             ],
             "class": [
                 "Manifestation"
@@ -5089,8 +5089,8 @@
                 "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -5115,7 +5115,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5137,15 +5137,15 @@
                 "Trésor des demoiselles"
             ],
             "contributor": [
-                "Marceline Desbordes-Valmore",
-                "François de Coninck"
+                "François de Coninck",
+                "Marceline Desbordes-Valmore"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -5171,15 +5171,15 @@
                 "Concept"
             ],
             "aliases": [
-                "lied",
-                "lieder"
+                "lieder",
+                "lied"
             ],
             "description": [],
             "instance of": [
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5195,7 +5195,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5220,7 +5220,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5239,7 +5239,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5265,7 +5265,7 @@
                 "arranger"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5284,11 +5284,11 @@
                 "human"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5309,7 +5309,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5331,8 +5331,8 @@
                 "male"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/0/07/Pierre_Dupont_LACMA_AC1992.229.130.jpg"
@@ -5360,7 +5360,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5376,7 +5376,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5400,11 +5400,11 @@
                 "male"
             ],
             "occupation": [
-                "publisher",
-                "composer"
+                "composer",
+                "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5425,7 +5425,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5452,7 +5452,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5474,7 +5474,7 @@
                 "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5496,12 +5496,12 @@
                 "male"
             ],
             "occupation": [
-                "librettist",
+                "translator",
                 "lyricist",
-                "translator"
+                "librettist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5526,7 +5526,7 @@
                 "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5534,8 +5534,8 @@
         "location": "/entity/ETrdTiZTknRK",
         "properties": {
             "label": [
-                "Le Livre du coeur: Méditation.",
-                "Le Livre du coeur"
+                "Le Livre du coeur",
+                "Le Livre du coeur: Méditation."
             ],
             "class": [
                 "Manifestation"
@@ -5550,19 +5550,19 @@
                 "Magasin des demoiselles"
             ],
             "date": [
-                "1852-01-01",
-                "1853-01-01"
+                "1853-01-01",
+                "1852-01-01"
             ],
             "contributor": [
-                "Victor Mabille",
-                "Eugène Delisle"
+                "Eugène Delisle",
+                "Victor Mabille"
             ],
             "holding institution": [
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -5595,7 +5595,7 @@
                 "classical dance music"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5620,7 +5620,7 @@
                 "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5634,16 +5634,16 @@
                 "Place"
             ],
             "aliases": [
+                "US",
                 "USA",
-                "United States of America",
-                "US"
+                "United States of America"
             ],
             "description": [],
             "instance of": [
                 "country"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -5664,7 +5664,7 @@
                 "type of musical instrument"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5672,8 +5672,8 @@
         "location": "/entity/gRR8aAYdEX54",
         "properties": {
             "label": [
-                "Dieu le voit: Mélodie",
-                "Dieu le voit"
+                "Dieu le voit",
+                "Dieu le voit: Mélodie"
             ],
             "class": [
                 "Manifestation"
@@ -5694,8 +5694,8 @@
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -5734,7 +5734,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5750,7 +5750,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5775,7 +5775,7 @@
                 "librettist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5800,7 +5800,7 @@
                 "editor"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5824,7 +5824,7 @@
                 "France"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -5856,7 +5856,7 @@
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -5874,7 +5874,7 @@
             ],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5901,7 +5901,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -5935,7 +5935,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -5951,7 +5951,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -5978,7 +5978,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -6012,7 +6012,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -6031,7 +6031,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -6047,7 +6047,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -6115,9 +6115,9 @@
                 "Magasin des demoiselles"
             ],
             "date": [
-                "1852-01-01",
                 "1853-01-01",
                 "1853-04-01",
+                "1852-01-01",
                 "1861-01-01"
             ],
             "contributor": [
@@ -6130,15 +6130,15 @@
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
             ],
             "place": [
-                "Brussels",
-                "Paris"
+                "Paris",
+                "Brussels"
             ],
             "form of creative work": [
                 "romance"
@@ -6163,7 +6163,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -6197,7 +6197,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -6220,7 +6220,7 @@
                 "Vienna"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -6244,7 +6244,7 @@
                 "2015-01-01"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -6313,7 +6313,7 @@
                 "opera"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -6338,7 +6338,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -6346,8 +6346,8 @@
         "location": "/entity/6CfxBFVtuyuN",
         "properties": {
             "label": [
-                "La meunière sans-souci : opérette en un acte",
-                "La meunière sans-souci. Opérette en un acte"
+                "La meunière sans-souci. Opérette en un acte",
+                "La meunière sans-souci : opérette en un acte"
             ],
             "class": [
                 "Manifestation"
@@ -6364,16 +6364,16 @@
                 1863
             ],
             "contributor": [
-                "Auguste Carré",
-                "Ernest Boulanger"
+                "Ernest Boulanger",
+                "Auguste Carré"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
+                "piano",
                 "choir",
-                "voice",
-                "piano"
+                "voice"
             ],
             "language": [
                 "French"
@@ -6404,7 +6404,7 @@
                 "country"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -6448,7 +6448,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -6474,8 +6474,8 @@
                 "Jeanne-Justine Fouqueau de Pussy"
             ],
             "place": [
-                "France",
-                "Paris"
+                "Paris",
+                "France"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg"
@@ -6522,7 +6522,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -6556,7 +6556,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -6570,8 +6570,8 @@
                 "Agent"
             ],
             "aliases": [
-                "Durand, Schœnewerk & Cie",
-                "Durand & Cie"
+                "Durand & Cie",
+                "Durand, Schœnewerk & Cie"
             ],
             "description": [],
             "instance of": [
@@ -6627,7 +6627,7 @@
             ],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -6728,7 +6728,7 @@
             ],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -6755,7 +6755,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -6774,7 +6774,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -6797,11 +6797,11 @@
             ],
             "occupation": [
                 "composer",
-                "editor",
-                "music critic"
+                "music critic",
+                "editor"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -6826,7 +6826,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -6894,7 +6894,7 @@
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -6928,7 +6928,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -6962,8 +6962,8 @@
                 "French"
             ],
             "place": [
-                "Brussels",
-                "Amsterdam"
+                "Amsterdam",
+                "Brussels"
             ],
             "based_on": [
                 "Journal des demoiselles"
@@ -6991,11 +6991,11 @@
                 "male"
             ],
             "occupation": [
-                "librettist",
-                "historian"
+                "historian",
+                "librettist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7020,7 +7020,7 @@
                 "physician"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7045,7 +7045,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7061,7 +7061,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -7082,11 +7082,11 @@
                 "public library"
             ],
             "place": [
-                "Belgium",
-                "Antwerp"
+                "Antwerp",
+                "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -7111,7 +7111,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7133,7 +7133,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7158,7 +7158,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7177,7 +7177,7 @@
                 "type of library"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -7204,7 +7204,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7272,7 +7272,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7297,7 +7297,7 @@
                 "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7316,7 +7316,7 @@
                 "human"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7335,7 +7335,7 @@
                 "classical dance music"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -7404,7 +7404,7 @@
                 "Netherlands"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -7418,15 +7418,15 @@
                 "Place"
             ],
             "aliases": [
-                "Frankrijk",
-                "Francia"
+                "Francia",
+                "Frankrijk"
             ],
             "description": [],
             "instance of": [
                 "country"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -7440,8 +7440,8 @@
                 "Agent"
             ],
             "aliases": [
-                "Mme Adam Boisgontier",
-                "Elisa Adam-Boisgontier"
+                "Elisa Adam-Boisgontier",
+                "Mme Adam Boisgontier"
             ],
             "description": [],
             "gender": [
@@ -7451,7 +7451,7 @@
                 "librettist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7473,7 +7473,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7492,7 +7492,7 @@
                 "type of library"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -7514,7 +7514,7 @@
                 "female"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7522,8 +7522,8 @@
         "location": "/entity/PnWGQzxqsYz8",
         "properties": {
             "label": [
-                "Polka sur le Val D'Andorre d'Halevy: pour piano",
-                "Polka sur le Val D'Andorre d'Halevy"
+                "Polka sur le Val D'Andorre d'Halevy",
+                "Polka sur le Val D'Andorre d'Halevy: pour piano"
             ],
             "class": [
                 "Manifestation"
@@ -7590,7 +7590,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -7606,7 +7606,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -7633,7 +7633,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7651,7 +7651,7 @@
             ],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -7672,7 +7672,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -7703,8 +7703,8 @@
                 "Louis Bordèse"
             ],
             "holding institution": [
-                "Royal Conservatory of Brussels",
-                "International Music Score Library Project"
+                "International Music Score Library Project",
+                "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
                 "voice",
@@ -7717,7 +7717,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -7769,7 +7769,7 @@
                 "opera"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/work.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -7794,7 +7794,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -7815,7 +7815,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -7823,8 +7823,8 @@
         "location": "/entity/8Kkx7abwhpEx",
         "properties": {
             "label": [
-                "Souvenir de Galluis : mélodie variée : Extrait de L' Oasis de l' étude / par A. Scard",
-                "Souvenir de Galluis. Mélodie variée"
+                "Souvenir de Galluis. Mélodie variée",
+                "Souvenir de Galluis : mélodie variée : Extrait de L' Oasis de l' étude / par A. Scard"
             ],
             "class": [
                 "Manifestation"
@@ -7880,8 +7880,8 @@
                 "Journal des demoiselles"
             ],
             "date": [
-                "1876-01-01",
-                "1872-01-01"
+                "1872-01-01",
+                "1876-01-01"
             ],
             "contributor": [
                 "Hortense Wild"
@@ -7916,7 +7916,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -7924,8 +7924,8 @@
         "location": "/entity/Ao5Ame5q39g9",
         "properties": {
             "label": [
-                "Le Corbeille de roses. Valse brillante",
-                "Le Corbeille de roses"
+                "Le Corbeille de roses",
+                "Le Corbeille de roses. Valse brillante"
             ],
             "class": [
                 "Manifestation"
@@ -7978,11 +7978,11 @@
                 "research institute"
             ],
             "place": [
-                "Belgium",
-                "Ghent"
+                "Ghent",
+                "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -7990,8 +7990,8 @@
         "location": "/entity/HhZTHayappCf",
         "properties": {
             "label": [
-                "Captivité",
-                "Captivité: Mélodie."
+                "Captivité: Mélodie.",
+                "Captivité"
             ],
             "class": [
                 "Manifestation"
@@ -8014,8 +8014,8 @@
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -8046,7 +8046,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -8070,7 +8070,7 @@
                 "female"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -8142,16 +8142,16 @@
                 "1836-01-01"
             ],
             "contributor": [
-                "Matteo Carcassi",
-                "C.A. Boulanger"
+                "C.A. Boulanger",
+                "Matteo Carcassi"
             ],
             "holding institution": [
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "guitar",
+                "piano",
                 "voice",
-                "piano"
+                "guitar"
             ],
             "language": [
                 "French"
@@ -8194,7 +8194,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -8219,8 +8219,8 @@
                 "1876-01-01"
             ],
             "holding institution": [
-                "Munich Digitization Center",
-                "Harvard University"
+                "Harvard University",
+                "Munich Digitization Center"
             ],
             "language": [
                 "French"
@@ -8229,7 +8229,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -8254,7 +8254,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -8273,7 +8273,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -8332,7 +8332,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -8348,7 +8348,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -8370,8 +8370,8 @@
             ],
             "occupation": [
                 "composer",
-                "editor",
-                "music critic"
+                "music critic",
+                "editor"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/8/89/Juliette_Dillon_d%C3%A9tail.jpg"
@@ -8395,7 +8395,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -8420,7 +8420,7 @@
                 "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -8446,16 +8446,16 @@
                 "1856-09"
             ],
             "contributor": [
-                "Délia Belloni",
                 "A. Vialon",
+                "Délia Belloni",
                 "Antoine Scard"
             ],
             "holding institution": [
                 "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -8486,7 +8486,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -8500,15 +8500,15 @@
                 "Place"
             ],
             "aliases": [
-                "Antwerpen",
-                "Anvers"
+                "Anvers",
+                "Antwerpen"
             ],
             "description": [],
             "place": [
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -8542,7 +8542,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -8558,7 +8558,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -8577,11 +8577,11 @@
                 "human"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -8606,7 +8606,7 @@
                 "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -8631,7 +8631,7 @@
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -8650,7 +8650,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -8679,8 +8679,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "language": [
                 "French"
@@ -8714,11 +8714,11 @@
                 "male"
             ],
             "occupation": [
-                "librettist",
-                "composer"
+                "composer",
+                "librettist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -8732,8 +8732,8 @@
                 "Agent"
             ],
             "aliases": [
-                "Marquise de l'Aigle",
-                "Eliza Henrietta Sartoris"
+                "Eliza Henrietta Sartoris",
+                "Marquise de l'Aigle"
             ],
             "description": [],
             "instance of": [
@@ -8743,7 +8743,7 @@
                 "female"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -8794,8 +8794,8 @@
                 "1856-01-01"
             ],
             "contributor": [
-                "Adolphe Aimé Lecadre",
-                "Charles Delioux"
+                "Charles Delioux",
+                "Adolphe Aimé Lecadre"
             ],
             "holding institution": [
                 "Orpheus Instituut"
@@ -8883,9 +8883,9 @@
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "guitar",
+                "piano",
                 "voice",
-                "piano"
+                "guitar"
             ],
             "language": [
                 "French"
@@ -8918,7 +8918,7 @@
                 "Austria"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -8937,7 +8937,7 @@
                 "country"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -8961,7 +8961,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -8983,7 +8983,7 @@
                 "male"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9008,7 +9008,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9016,8 +9016,8 @@
         "location": "/entity/VsU7Hy7ZpQUd",
         "properties": {
             "label": [
-                "La saison des beaux jours : églogue / paroles et musique de Marc Constantin",
-                "La saison des beaux jours. Églogue"
+                "La saison des beaux jours. Églogue",
+                "La saison des beaux jours : églogue / paroles et musique de Marc Constantin"
             ],
             "class": [
                 "Manifestation"
@@ -9040,8 +9040,8 @@
                 "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "voice",
-                "piano"
+                "piano",
+                "voice"
             ],
             "place": [
                 "Brussels"
@@ -9084,7 +9084,7 @@
                 "Paris"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
             ]
         }
     },
@@ -9133,7 +9133,7 @@
                 "female"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9155,8 +9155,8 @@
                 "female"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/b/b6/Amable_Tastu_by_Constance_Mayer.jpg"
@@ -9178,7 +9178,7 @@
                 "occupation"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -9200,7 +9200,7 @@
                 "male"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9219,7 +9219,7 @@
                 "type of musical work"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -9235,7 +9235,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -9259,7 +9259,7 @@
                 "Germany"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -9283,11 +9283,11 @@
                 "male"
             ],
             "occupation": [
-                "publisher",
-                "composer"
+                "composer",
+                "publisher"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9312,12 +9312,12 @@
                 "1857-01-01"
             ],
             "contributor": [
-                "Suzanne Battaille",
-                "Eugène Braulart"
+                "Eugène Braulart",
+                "Suzanne Battaille"
             ],
             "holding institution": [
-                "Orpheus Instituut",
-                "Biblioteca civica di Verona"
+                "Biblioteca civica di Verona",
+                "Orpheus Instituut"
             ],
             "instrumentation": [
                 "piano"
@@ -9337,8 +9337,8 @@
         "location": "/entity/9Rc8SbHP9LwF",
         "properties": {
             "label": [
-                "Neptune: quadrille pour le piano",
-                "Neptune. Quadrille pour le piano"
+                "Neptune. Quadrille pour le piano",
+                "Neptune: quadrille pour le piano"
             ],
             "class": [
                 "Manifestation"
@@ -9379,8 +9379,8 @@
         "location": "/entity/AgTowXcdYL6T",
         "properties": {
             "label": [
-                "Thalie: Polka mazurka.",
-                "Thalie"
+                "Thalie",
+                "Thalie: Polka mazurka."
             ],
             "class": [
                 "Manifestation"
@@ -9439,7 +9439,7 @@
                 "translator"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9464,7 +9464,7 @@
                 "editor"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9488,7 +9488,7 @@
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -9502,8 +9502,8 @@
                 "Place"
             ],
             "aliases": [
-                "Gent",
-                "Gand"
+                "Gand",
+                "Gent"
             ],
             "description": [],
             "instance of": [
@@ -9513,7 +9513,7 @@
                 "Belgium"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/place.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
             ]
         }
     },
@@ -9535,11 +9535,11 @@
                 "male"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9564,7 +9564,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9580,7 +9580,7 @@
             "aliases": [],
             "description": [],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/concept.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
             ]
         }
     },
@@ -9627,7 +9627,7 @@
                 "composer"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9649,7 +9649,7 @@
                 "United States"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/organisation.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
             ]
         }
     },
@@ -9674,7 +9674,7 @@
                 "librettist"
             ],
             "image": [
-                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png"
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },

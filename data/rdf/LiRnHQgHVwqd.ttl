@@ -7,34 +7,34 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:LiRnHQgHVwqd-8Sm7FaYL62TL a rdf:Statement ;
+tdd:LiRnHQgHVwqd-69FT26oUuqYQ a rdf:Statement ;
     bf:Note "dedicated to M.me C. Houillon" ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Na734e02c709a431899c1fcff63ed16e8" ;
+    rdf:object "Ndc16b081da774432ad1715a054048691" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:LiRnHQgHVwqd ;
     schema:datePublished "1855-11-01" ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:LiRnHQgHVwqd-YE65CzWsUKow a rdf:Statement ;
-    rdf:object tdd:NS7S3TJjbHvU ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:LiRnHQgHVwqd ;
-    schema:datePublished "1855-11-01" ;
-    schema:volumeNumber 23 .
-
-tdd:LiRnHQgHVwqd-d3SC5Tf9vj4d a rdf:Statement ;
+tdd:LiRnHQgHVwqd-H4QaGEfWBNWi a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:LiRnHQgHVwqd .
 
-tdd:LiRnHQgHVwqd-kwxLNumAdq8s a rdf:Statement ;
+tdd:LiRnHQgHVwqd-SzraX9oWeaBo a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:dzhMAzwriP43 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:LiRnHQgHVwqd .
+
+tdd:LiRnHQgHVwqd-joM4zsuQi9qa a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:LiRnHQgHVwqd ;
+    schema:datePublished "1855-11-01" ;
+    schema:volumeNumber 23 .
 
 tdd:LiRnHQgHVwqd a rdfs:Resource ;
     rdfs:label "Les lutins de Bretagne" ;

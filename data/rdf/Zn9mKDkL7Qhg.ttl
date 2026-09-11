@@ -7,22 +7,22 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Zn9mKDkL7Qhg-JR7gcEoNr2DG a rdf:Statement ;
-    bf:electronicLocator <https://archive.org/details/journaldesdemoi08unkngoog> ;
-    bf:heldBy tdd:HzNj4duEtJSX ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N99c10005082240db8aa1eb77531117b0" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:Zn9mKDkL7Qhg ;
-    schema:datePublished "1874-01-01" ;
-    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
-
-tdd:Zn9mKDkL7Qhg-Ni7k5impz5gQ a rdf:Statement ;
+tdd:Zn9mKDkL7Qhg-7obaxeeFNzL6 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Zn9mKDkL7Qhg ;
     schema:datePublished "1874-01-01" ;
     schema:volumeNumber 42 .
+
+tdd:Zn9mKDkL7Qhg-dwxrbhLng2zo a rdf:Statement ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemoi08unkngoog> ;
+    bf:heldBy tdd:HzNj4duEtJSX ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N29dbeae67d784128b461200c6c1ad9dd" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Zn9mKDkL7Qhg ;
+    schema:datePublished "1874-01-01" ;
+    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
 
 tdd:Zn9mKDkL7Qhg a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1874)" ;

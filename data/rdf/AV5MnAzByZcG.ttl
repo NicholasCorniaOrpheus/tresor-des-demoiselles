@@ -6,29 +6,29 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:AV5MnAzByZcG-3LkrKQy7YsiR a rdf:Statement ;
+tdd:AV5MnAzByZcG-3zYEoA5fp3Pj a rdf:Statement ;
     rdf:object tdd:5vMfYTL9wGVi ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:AV5MnAzByZcG ;
     schema:datePublished "1860-11" .
 
-tdd:AV5MnAzByZcG-CyyrQVNSPfse a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:7VQdaj7JW86d,
-        tdd:BxHoLQMESXU2 ;
-    rdf:object "Nb70a5a4b07d84596a5409eb346702228" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:AV5MnAzByZcG ;
-    schema:datePublished "1860-11" ;
-    schema:url <https://anet.be/record/ap/opacap/c:lvd:12977319> .
-
-tdd:AV5MnAzByZcG-HA35szZDsQsu a rdf:Statement ;
+tdd:AV5MnAzByZcG-7bNYJM23c4eK a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:jD5hNbBz25A4 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:AV5MnAzByZcG .
 
-tdd:AV5MnAzByZcG-ZLj5d8qkieV2 a rdf:Statement ;
+tdd:AV5MnAzByZcG-AjCc9vzvtXLJ a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d,
+        tdd:BxHoLQMESXU2 ;
+    rdf:object "Nc35c983550a044ffb8e05f710340e35e" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:AV5MnAzByZcG ;
+    schema:datePublished "1860-11" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:12977319> .
+
+tdd:AV5MnAzByZcG-F8FyvbYtvwj3 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;

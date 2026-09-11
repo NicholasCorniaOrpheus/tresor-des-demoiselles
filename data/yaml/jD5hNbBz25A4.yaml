@@ -31,7 +31,7 @@ statements:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5vMfYTL9wGVi
       label: Journal des dames et des demoiselles. Guide complet de tous les travaux de dames
 assets:
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
   iiif:
   bibtex: ""
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/jD5hNbBz25A4.json

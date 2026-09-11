@@ -24,7 +24,7 @@ statements:
   title:
   based_on:
 assets:
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/manifestation.png
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png
   local_asset_path:
   iiif:
   bibtex: ""

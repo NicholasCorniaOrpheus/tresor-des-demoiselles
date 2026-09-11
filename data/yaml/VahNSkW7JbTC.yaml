@@ -30,7 +30,7 @@ statements:
     - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
       label: female
 assets:
-  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/vault/assets/agent.png
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
   iiif:
   bibtex: ""
   graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/VahNSkW7JbTC.json

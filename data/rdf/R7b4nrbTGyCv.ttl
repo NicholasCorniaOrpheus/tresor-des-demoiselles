@@ -7,49 +7,49 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:R7b4nrbTGyCv-3TyMfReTriRW a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:VcpJBubpN5Jf ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:R7b4nrbTGyCv .
-
-tdd:R7b4nrbTGyCv-C5tWsDBN6aa9 a rdf:Statement ;
+tdd:R7b4nrbTGyCv-4o6wmcSRbLSJ a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:R7b4nrbTGyCv .
 
-tdd:R7b4nrbTGyCv-NUZbEzK2Euoy a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nc29662ab51844e669d3ce579da457d68" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:R7b4nrbTGyCv ;
-    schema:datePublished "1853" ;
-    schema:url <https://anet.be/record/ap/opacap/c:lvd:13225458> .
-
-tdd:R7b4nrbTGyCv-YpRW9W9PF6UJ a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
+tdd:R7b4nrbTGyCv-Dy8eu3nAkKpE a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:VcpJBubpN5Jf ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:R7b4nrbTGyCv .
 
-tdd:R7b4nrbTGyCv-eZjFLBTBZtHr a rdf:Statement ;
+tdd:R7b4nrbTGyCv-NTt2zc7Z9gG7 a rdf:Statement ;
     bf:Role tdd:Mgp8YUwRv3Jz ;
     rdf:object tdd:2YakjmMCnSKo ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:R7b4nrbTGyCv .
 
-tdd:R7b4nrbTGyCv-iyTckSeSeRXq a rdf:Statement ;
+tdd:R7b4nrbTGyCv-PSdj6FHCAYTs a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:R7b4nrbTGyCv ;
     schema:datePublished "1853" ;
     schema:volumeNumber 10 .
 
-tdd:R7b4nrbTGyCv-n24wURKBbXqv a rdf:Statement ;
+tdd:R7b4nrbTGyCv-RmsXiXqgdxNt a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N7b35249930074ef4bc0ce77756ed3c68" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:R7b4nrbTGyCv ;
+    schema:datePublished "1853" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:13225458> .
+
+tdd:R7b4nrbTGyCv-TdofVetbrF97 a rdf:Statement ;
     wdt:P1114 "5" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:R7b4nrbTGyCv .
+
+tdd:R7b4nrbTGyCv-burfxXAbJJVo a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:R7b4nrbTGyCv .
 

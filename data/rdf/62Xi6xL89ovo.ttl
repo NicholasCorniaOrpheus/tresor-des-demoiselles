@@ -7,22 +7,22 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:62Xi6xL89ovo-VbkKspemb5Dv a rdf:Statement ;
-    bf:electronicLocator <https://archive.org/details/journaldesdemoi10unkngoog> ;
-    bf:heldBy tdd:HzNj4duEtJSX ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nc6fe3e8c1afb49009b5cbb4404b8409a" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:62Xi6xL89ovo ;
-    schema:datePublished "1884-01-01" ;
-    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
-
-tdd:62Xi6xL89ovo-b9auuxVttQVD a rdf:Statement ;
+tdd:62Xi6xL89ovo-DAsXVFrgAo63 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:62Xi6xL89ovo ;
     schema:datePublished "1884-01-01" ;
     schema:volumeNumber 52 .
+
+tdd:62Xi6xL89ovo-ijS5ievfLzUX a rdf:Statement ;
+    bf:electronicLocator <https://archive.org/details/journaldesdemoi10unkngoog> ;
+    bf:heldBy tdd:HzNj4duEtJSX ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nda9eab6d8a5248f2a41cde5de6e4e1a9" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:62Xi6xL89ovo ;
+    schema:datePublished "1884-01-01" ;
+    schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
 
 tdd:62Xi6xL89ovo a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1884)" ;

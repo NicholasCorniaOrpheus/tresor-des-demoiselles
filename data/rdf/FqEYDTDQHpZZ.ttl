@@ -7,38 +7,38 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:FqEYDTDQHpZZ-7gQRkETpto9w a rdf:Statement ;
-    bf:Role tdd:cZsa9QkDZfZY ;
-    rdf:object tdd:briR3aDucPXV ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:FqEYDTDQHpZZ .
-
-tdd:FqEYDTDQHpZZ-QjRppegapFXi a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:FqEYDTDQHpZZ .
-
-tdd:FqEYDTDQHpZZ-X3hCax7gGR69 a rdf:Statement ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N06e385fa6859435f9b9b2645b8970a8f" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:FqEYDTDQHpZZ ;
-    schema:datePublished "1882-01-01" ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=157420> .
-
-tdd:FqEYDTDQHpZZ-anSAwcswjy4Z a rdf:Statement ;
+tdd:FqEYDTDQHpZZ-6LWnXMMvx3Fx a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:FqEYDTDQHpZZ ;
     schema:datePublished "1882" ;
     schema:volumeNumber 50 .
 
-tdd:FqEYDTDQHpZZ-nJskhrQ4WYhw a rdf:Statement ;
+tdd:FqEYDTDQHpZZ-ThzZg7qEg9oj a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
+    rdf:subject tdd:FqEYDTDQHpZZ .
+
+tdd:FqEYDTDQHpZZ-XjANRPSu9TkA a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:FqEYDTDQHpZZ .
+
+tdd:FqEYDTDQHpZZ-hmCbCWc6Mx94 a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N36fbd4929c7747b1aae5005ffe72e51d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:FqEYDTDQHpZZ ;
+    schema:datePublished "1882-01-01" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=157420> .
+
+tdd:FqEYDTDQHpZZ-mvq76EE9KJAc a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:briR3aDucPXV ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:FqEYDTDQHpZZ .
 
 tdd:FqEYDTDQHpZZ a rdfs:Resource ;

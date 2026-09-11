@@ -7,45 +7,45 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:bXeCi7hg9Gqt-295effLizzFm a rdf:Statement ;
-    bf:Note "Hommage à Madame la Baronne de Peellaert" ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    rdf:object "Nfea2303d86504515bd86b3c0d48ca94e" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:bXeCi7hg9Gqt ;
-    schema:url <https://anet.be/record/opacap/c:lvd:12971523> .
-
-tdd:bXeCi7hg9Gqt-E49AY7GJtApg a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:RjYJceWjXaJJ ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:bXeCi7hg9Gqt .
-
-tdd:bXeCi7hg9Gqt-HVUhkGgmbj8q a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:oTMkeVga9UZA ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:bXeCi7hg9Gqt .
-
-tdd:bXeCi7hg9Gqt-WvTepTYgBw5h a rdf:Statement ;
+tdd:bXeCi7hg9Gqt-CiBpa8PoYvgq a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:bXeCi7hg9Gqt ;
     schema:volumeNumber 2 .
 
-tdd:bXeCi7hg9Gqt-aUCmCAcntAKS a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:bXeCi7hg9Gqt .
-
-tdd:bXeCi7hg9Gqt-akquyq9uPaCM a rdf:Statement ;
+tdd:bXeCi7hg9Gqt-KG2bJjbb4KHE a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:YWYUY7mvkVNd ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:bXeCi7hg9Gqt .
 
-tdd:bXeCi7hg9Gqt-bJHUJtX8Y3W3 a rdf:Statement ;
+tdd:bXeCi7hg9Gqt-V7vX5jhEt4Wt a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:RjYJceWjXaJJ ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-Xz5eBKT8dnh8 a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:oTMkeVga9UZA ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-jXsWoVsADYeX a rdf:Statement ;
+    bf:Note "Hommage à Madame la Baronne de Peellaert" ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    rdf:object "Ncfd503ab45634864b75dd98723636996" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:bXeCi7hg9Gqt ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971523> .
+
+tdd:bXeCi7hg9Gqt-mFZt3ifzveUW a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-naHvztCHzBJh a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;

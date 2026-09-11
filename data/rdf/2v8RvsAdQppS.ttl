@@ -7,39 +7,39 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:2v8RvsAdQppS-5cTaD4CA9x4n a rdf:Statement ;
+tdd:2v8RvsAdQppS-9b2Kf9BMqZMo a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:2v8RvsAdQppS ;
     schema:datePublished "1833" ;
     schema:volumeNumber 1 .
 
-tdd:2v8RvsAdQppS-JWRpFMBGUcEr a rdf:Statement ;
+tdd:2v8RvsAdQppS-XKH2MVueVtCm a rdf:Statement ;
     bf:Role tdd:FM6DzoKyNv6j ;
     rdf:object tdd:jUohUDQ7mo5u ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:2v8RvsAdQppS .
 
-tdd:2v8RvsAdQppS-WnpKZHwoDUSg a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:ffGPdUcNKsB8 ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:2v8RvsAdQppS .
-
-tdd:2v8RvsAdQppS-XLwNCieixJea a rdf:Statement ;
+tdd:2v8RvsAdQppS-erkBuPuE7pRr a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:2v8RvsAdQppS .
 
-tdd:2v8RvsAdQppS-XbKGaU4iGCxp a rdf:Statement ;
+tdd:2v8RvsAdQppS-fudbLWxXv5wo a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N06a8afe395c0469b8839ca12259a7ae4" ;
+    rdf:object "Nb299ca096fe44a68a932f9fcca2f7f54" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:2v8RvsAdQppS ;
     schema:datePublished "1833" ;
     schema:url <https://anet.be/record/ap/opacap/c:lvd:12977376> .
+
+tdd:2v8RvsAdQppS-nxyG962FnDtF a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ffGPdUcNKsB8 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2v8RvsAdQppS .
 
 tdd:2v8RvsAdQppS a rdfs:Resource ;
     rdfs:label "Les guides de Murat. Quadrille brillant" ;

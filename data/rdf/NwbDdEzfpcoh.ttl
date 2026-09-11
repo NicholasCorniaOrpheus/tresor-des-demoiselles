@@ -7,50 +7,50 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:NwbDdEzfpcoh-Av2LyUH9H7r2 a rdf:Statement ;
-    bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
-    bf:heldBy tdd:MzUK38XpCjqB ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
-    rdf:object "N0e393078e5b746f9a3d00920dcff5695" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:NwbDdEzfpcoh ;
-    schema:datePublished "1878" ;
-    schema:url <https://catalogue.bnf.fr/ark:/12148/cb43140041g> .
-
-tdd:NwbDdEzfpcoh-Fvzh4jCxv7Cc a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:NwbDdEzfpcoh .
-
-tdd:NwbDdEzfpcoh-GCNA3GEQq2iG a rdf:Statement ;
+tdd:NwbDdEzfpcoh-3dNWwQZPBpdj a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:NwbDdEzfpcoh ;
     schema:datePublished "1874" ;
     schema:volumeNumber 42 .
 
-tdd:NwbDdEzfpcoh-GqqqPz4Ss3XC a rdf:Statement ;
+tdd:NwbDdEzfpcoh-6ADQk4jFmb64 a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:VKzHPzJxYHNi ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:NwbDdEzfpcoh .
 
-tdd:NwbDdEzfpcoh-WZKri9sMrayB a rdf:Statement ;
+tdd:NwbDdEzfpcoh-Hdkb4kScfegz a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:4Z9bCRmwDbS7 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:NwbDdEzfpcoh .
+
+tdd:NwbDdEzfpcoh-XJMgTNiNaSN3 a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nf755b821f271457f807beee43ca2a8d1" ;
+    rdf:object "N693dbfb7f97b4ff191b62b895d24d95a" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:NwbDdEzfpcoh ;
     schema:datePublished "1874" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=70336> .
 
-tdd:NwbDdEzfpcoh-XjZhL4cwmpW9 a rdf:Statement ;
-    bf:Role tdd:Mgp8YUwRv3Jz ;
-    rdf:object tdd:4Z9bCRmwDbS7 ;
-    rdf:predicate dcterms:contributor ;
+tdd:NwbDdEzfpcoh-aaaJRptruEnb a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:NwbDdEzfpcoh .
+
+tdd:NwbDdEzfpcoh-g3yNQsPkqdpo a rdf:Statement ;
+    bf:electronicLocator <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://gallica.bnf.fr/ark:/12148/bpt6k1281624n> ;
+    rdf:object "N7feb29130606496fb636f3091e189140" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:NwbDdEzfpcoh ;
+    schema:datePublished "1878" ;
+    schema:url <https://catalogue.bnf.fr/ark:/12148/cb43140041g> .
 
 tdd:NwbDdEzfpcoh a rdfs:Resource ;
     rdfs:label "Un Loi Somptuaire. opérette en deux actes" ;

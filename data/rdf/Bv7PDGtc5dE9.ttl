@@ -7,42 +7,42 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:Bv7PDGtc5dE9-CrQEuKwgH2rP a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:Bv7PDGtc5dE9 .
-
-tdd:Bv7PDGtc5dE9-GnfYJhhXZxWD a rdf:Statement ;
+tdd:Bv7PDGtc5dE9-8ycyaxjYsCQF a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nd096da593d3f4670a45d5d67be62d16f" ;
+    rdf:object "N0e814262dd994d3f851f8ccea13f5e0c" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:Bv7PDGtc5dE9 ;
     schema:datePublished "1876-01-01" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89100> .
 
-tdd:Bv7PDGtc5dE9-XVZ9AC5wWcft a rdf:Statement ;
+tdd:Bv7PDGtc5dE9-Bz8qjxAixZNi a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:26TsCae57TVa ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Bv7PDGtc5dE9 .
+
+tdd:Bv7PDGtc5dE9-GeZJY9xTdc4c a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Bv7PDGtc5dE9 ;
     schema:datePublished "1876-01-01" ;
     schema:volumeNumber 44 .
 
-tdd:Bv7PDGtc5dE9-Y4iPXoU7Z7zh a rdf:Statement ;
+tdd:Bv7PDGtc5dE9-dA5ckAeLNj3m a rdf:Statement ;
     bf:Note "3 sonatines for piano, Op. 20" ;
     bf:heldBy tdd:MzUK38XpCjqB ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nbf721f62c9574af08e4aa9eb7c884683" ;
+    rdf:object "N91230703fc8e4de9a1eb782716914e45" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:Bv7PDGtc5dE9 ;
     schema:datePublished "1872-01-01" ;
     schema:url <https://catalogue.bnf.fr/ark:/12148/cb433379188> .
 
-tdd:Bv7PDGtc5dE9-gTzrLDUCqMXN a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:26TsCae57TVa ;
-    rdf:predicate dcterms:contributor ;
+tdd:Bv7PDGtc5dE9-gpqWxEs2AjMT a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:Bv7PDGtc5dE9 .
 
 tdd:Bv7PDGtc5dE9 a rdfs:Resource ;

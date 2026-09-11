@@ -7,40 +7,40 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ju8BRMVThr4C-3cyF92aAQmJu a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:GtHJaJBarc2K ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:ju8BRMVThr4C .
+tdd:ju8BRMVThr4C-2Vvyucm4U6VD a rdf:Statement ;
+    bf:Note "au Docteur Lecadre, probaly [Adolphe Aimé Lecadre](http://www.wikidata.org/entity/Q105833783)." ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N63133b6e9bd449338ea50d8c0ec2d22b" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:ju8BRMVThr4C ;
+    schema:datePublished "1856-01-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:ju8BRMVThr4C-8sMdxtiYNUgD a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:nBadkY3jYgWe ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:ju8BRMVThr4C .
-
-tdd:ju8BRMVThr4C-GV9j9YBP5cTu a rdf:Statement ;
+tdd:ju8BRMVThr4C-D8PWEFMSmUBG a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ju8BRMVThr4C ;
     schema:datePublished "1856-01-01" ;
     schema:volumeNumber 23 .
 
-tdd:ju8BRMVThr4C-JGVd38zGXoMu a rdf:Statement ;
+tdd:ju8BRMVThr4C-T4xNte6Mw2KZ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:nBadkY3jYgWe ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ju8BRMVThr4C .
+
+tdd:ju8BRMVThr4C-fNR5ZqpQmBng a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:ju8BRMVThr4C .
 
-tdd:ju8BRMVThr4C-bqNkcQG3wfEs a rdf:Statement ;
-    bf:Note "au Docteur Lecadre, probaly [Adolphe Aimé Lecadre](http://www.wikidata.org/entity/Q105833783)." ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N1d82f96d721d4592bb0d548c2af73e44" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:ju8BRMVThr4C ;
-    schema:datePublished "1856-01-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+tdd:ju8BRMVThr4C-mhKAsE5Trkpp a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:GtHJaJBarc2K ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ju8BRMVThr4C .
 
 tdd:ju8BRMVThr4C a rdfs:Resource ;
     rdfs:label "Mandoline. Sérénade." ;

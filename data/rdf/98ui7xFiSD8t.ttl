@@ -7,38 +7,38 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:98ui7xFiSD8t-6PEivyVGYCfR a rdf:Statement ;
+tdd:98ui7xFiSD8t-JvcaLBdKFSeF a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:98ui7xFiSD8t ;
     schema:datePublished "1879-10-01" ;
     schema:volumeNumber 47 .
 
-tdd:98ui7xFiSD8t-EyCdKdWYtjcE a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:7rCN58jGBfxB ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:98ui7xFiSD8t .
-
-tdd:98ui7xFiSD8t-Jfbwoag6hoF6 a rdf:Statement ;
+tdd:98ui7xFiSD8t-RvAbTG8j2EfZ a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N7e839523202d44a990ded92445dfbf57" ;
+    rdf:object "N0023967f8c5b4687896a3f77e19bb6e6" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:98ui7xFiSD8t ;
     schema:datePublished "1879-01-01" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89103> .
 
-tdd:98ui7xFiSD8t-UQe8BoLxyFgq a rdf:Statement ;
+tdd:98ui7xFiSD8t-UjsRczhCwfXB a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:98ui7xFiSD8t .
+
+tdd:98ui7xFiSD8t-kP3bfyB2o9EB a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:26TsCae57TVa ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:98ui7xFiSD8t .
 
-tdd:98ui7xFiSD8t-WfgesXN8NmzY a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
+tdd:98ui7xFiSD8t-oEgcuhjA2F7q a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:7rCN58jGBfxB ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:98ui7xFiSD8t .
 
 tdd:98ui7xFiSD8t a rdfs:Resource ;
