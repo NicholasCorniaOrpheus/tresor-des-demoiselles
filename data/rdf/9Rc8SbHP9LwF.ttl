@@ -6,34 +6,34 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:9Rc8SbHP9LwF-FEBXhexMYEwS a rdf:Statement ;
+tdd:9Rc8SbHP9LwF-3ecqF3S7qseq a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:9Rc8SbHP9LwF .
 
-tdd:9Rc8SbHP9LwF-GNcq3GsLWgHH a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:3pfFtL7PyMqL ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:9Rc8SbHP9LwF .
-
-tdd:9Rc8SbHP9LwF-JP78QTudY6De a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nf000c57df6084f94a163010b939605cc" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:9Rc8SbHP9LwF ;
-    schema:datePublished "1853" ;
-    schema:url <https://go.wander.be/record/opacap/c:lvd:12977361> .
-
-tdd:9Rc8SbHP9LwF-JtKUfVt832mM a rdf:Statement ;
+tdd:9Rc8SbHP9LwF-FU3sAoiPzQuw a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:ckc24LpP764N ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:9Rc8SbHP9LwF .
 
-tdd:9Rc8SbHP9LwF-dyxxK4BxmsH9 a rdf:Statement ;
+tdd:9Rc8SbHP9LwF-Ln65xR7bfuh5 a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N8c6009c1b12e453b98acc687375861b3" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:9Rc8SbHP9LwF ;
+    schema:datePublished "1853" ;
+    schema:url <https://go.wander.be/record/opacap/c:lvd:12977361> .
+
+tdd:9Rc8SbHP9LwF-YY38MNq6Uv8W a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:3pfFtL7PyMqL ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:9Rc8SbHP9LwF .
+
+tdd:9Rc8SbHP9LwF-oQHiwxV6vyxP a rdf:Statement ;
     rdf:object tdd:5vMfYTL9wGVi ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:9Rc8SbHP9LwF ;

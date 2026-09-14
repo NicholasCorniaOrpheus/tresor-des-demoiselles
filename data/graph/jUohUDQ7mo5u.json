@@ -13,10 +13,28 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12977282/RCA-12977282_001.jpg"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JMs7RV45f7Nm",
+      "label": "Juliette. Redowa. Par Maurant",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_19/CR-02772_19_001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JXP3n3t3zVbG",
+      "label": "Julia-redowa. À ma soeur Julie. Par Célestin Demeur",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_25/CR-02772_25_001.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nhhVWRK57VWH",
       "label": "Les roses de mai. Quadrille brillant",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12977270/RCA-12977270_001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TMthL5XA7Hbe",
+      "label": "Le val fleuri. Quadrille pour le piano. Par Achille Decombes",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_20/CR-02772_20_001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2v8RvsAdQppS",
@@ -25,10 +43,46 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12977376/RCA-12977376_001.jpg"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/92k2TrjpQoSN",
+      "label": "Prussen Schottisch",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_26/CR-02772_26_001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JAMwnD46n8SM",
+      "label": "Fanny. polka pour le piano. Par A. Daguin",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_21/CR-02772_21_001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pwixv9i4zdSe",
+      "label": "Maïa. Polka mazurka. Par A. Morin",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_18/CR-02772_18_001.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
       "label": "Polka sur le Val D'Andorre d'Halevy",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7078/RCB-BV10-7078_001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gPwrHDShoQZ9",
+      "label": "La maison isolée. Cantilène. Paroles et musique d'Eugène Talbot",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_24/CR-02772_24_001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oCXudSphqf9d",
+      "label": "Delia. Polka-mazurka. Par Albin de Leïris",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_22/CR-02772_22_001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3uXhFz4koKyE",
+      "label": "Le carnaval au pensionnat. Quadrille. J. B. Tolbecque",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_23/CR-02772_23_001.jpg"
     }
   ],
   "links": [
@@ -38,7 +92,22 @@
       "property": "contributor"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JMs7RV45f7Nm",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JXP3n3t3zVbG",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+      "property": "contributor"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/nhhVWRK57VWH",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TMthL5XA7Hbe",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
       "property": "contributor"
     },
@@ -48,7 +117,37 @@
       "property": "contributor"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/92k2TrjpQoSN",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JAMwnD46n8SM",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pwixv9i4zdSe",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+      "property": "contributor"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PnWGQzxqsYz8",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gPwrHDShoQZ9",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/oCXudSphqf9d",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+      "property": "contributor"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3uXhFz4koKyE",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
       "property": "contributor"
     }

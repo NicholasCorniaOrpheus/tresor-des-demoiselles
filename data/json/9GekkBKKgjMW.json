@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "sibling",
+    "base_name": "sibling",
+    "filename": "sibling.md",
+    "id": "9GekkBKKgjMW",
+    "n_id": 149753180971466743918
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q31184"
+    ]
+  }
+}

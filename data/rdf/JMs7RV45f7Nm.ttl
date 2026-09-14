@@ -1,0 +1,43 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:JMs7RV45f7Nm-7eNVNLkrVDAo a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:JMs7RV45f7Nm .
+
+tdd:JMs7RV45f7Nm-FuQmNjjXrxF4 a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    rdf:object "N9ae0e2902636421bb73d21fb242b1d5f" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:JMs7RV45f7Nm ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61729> .
+
+tdd:JMs7RV45f7Nm-Nh46G9XxpWWh a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:SeXwxsETv2Gv ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:JMs7RV45f7Nm .
+
+tdd:JMs7RV45f7Nm-iQRoCkSHjkh6 a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:JMs7RV45f7Nm .
+
+tdd:JMs7RV45f7Nm a rdfs:Resource ;
+    rdfs:label "Juliette. Redowa. Par Maurant" ;
+    dcterms:contributor tdd:SeXwxsETv2Gv,
+        tdd:jUohUDQ7mo5u ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Juliette : redowa / par Maurant" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:2gCyPUvK3LoF .
+

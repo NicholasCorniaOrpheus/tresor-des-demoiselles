@@ -1,0 +1,55 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:gPwrHDShoQZ9-AzyVG4CL6Jud a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    rdf:object "N241eb50bccbc40c0a70d561dc2c37fdd" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:gPwrHDShoQZ9 ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61734> .
+
+tdd:gPwrHDShoQZ9-DFoBePXHYjmG a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:gPwrHDShoQZ9 .
+
+tdd:gPwrHDShoQZ9-JCwCF7qVrDZ8 a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:axFwXa8k5P4u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:gPwrHDShoQZ9 .
+
+tdd:gPwrHDShoQZ9-QBrydZ39RPqR a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:gPwrHDShoQZ9 .
+
+tdd:gPwrHDShoQZ9-VLiDfuSSSTAG a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:axFwXa8k5P4u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:gPwrHDShoQZ9 .
+
+tdd:gPwrHDShoQZ9-jQs7BCs2upMs a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:gPwrHDShoQZ9 .
+
+tdd:gPwrHDShoQZ9 a rdfs:Resource ;
+    rdfs:label "La maison isolée. Cantilène. Paroles et musique d'Eugène Talbot" ;
+    dcterms:contributor tdd:axFwXa8k5P4u,
+        tdd:jUohUDQ7mo5u ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "La maison isolée : cantilène / paroles et musique d'Eugène Talbot" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

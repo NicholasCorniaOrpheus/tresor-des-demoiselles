@@ -1,0 +1,14 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix gnd: <https://d-nb.info/standards/elementset/gnd#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:g6GkTxFENv6x a rdfs:Resource ;
+    rdfs:label "A. Daguin" ;
+    dcterms:type "Agent" ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    gnd:relatedTerm tdd:NS7S3TJjbHvU ;
+    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5" .
+

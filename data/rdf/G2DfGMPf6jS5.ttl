@@ -6,48 +6,48 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:G2DfGMPf6jS5-DnMnHJSkhL6u a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:G2DfGMPf6jS5 .
-
-tdd:G2DfGMPf6jS5-EmmASxZRti3r a rdf:Statement ;
+tdd:G2DfGMPf6jS5-5oBuWET5sN8T a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:2iKRPNbFtmcd ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:G2DfGMPf6jS5 .
 
-tdd:G2DfGMPf6jS5-V9pFv68sk4cS a rdf:Statement ;
+tdd:G2DfGMPf6jS5-CbKLYQvUob5e a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:G2DfGMPf6jS5 .
 
-tdd:G2DfGMPf6jS5-cfVddz57b7zm a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:ZfmKav6XRoha ;
-    rdf:predicate dcterms:contributor ;
+tdd:G2DfGMPf6jS5-Vtfyjro2QNwM a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N684ccc215ba74617863199410b1b42da" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:G2DfGMPf6jS5 ;
+    schema:datePublished "1853-01-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:G2DfGMPf6jS5-fjPdkFTR7CLa a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:G2DfGMPf6jS5 .
 
-tdd:G2DfGMPf6jS5-hfnNtLHzpzUa a rdf:Statement ;
+tdd:G2DfGMPf6jS5-nQWmoC6ZBUFL a rdf:Statement ;
     bf:electronicLocator <https://uurl.kbr.be/1477349> ;
     bf:heldBy tdd:2osPtS3ax4Hc ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Na69837c0ef7b4097b112d21ff51d5d19" ;
+    rdf:object "Nee7d0a6d87fa4d9eb1db362980718e33" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:G2DfGMPf6jS5 ;
     schema:datePublished "1853-01-01" ;
     schema:url <https://uurl.kbr.be/bib/16059097> .
 
-tdd:G2DfGMPf6jS5-o3scEfdQTRwY a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nf3f629845f414946a5be46eb67e65aeb" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:G2DfGMPf6jS5 ;
-    schema:datePublished "1853-01-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+tdd:G2DfGMPf6jS5-oHuFE9u4wpC9 a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:ZfmKav6XRoha ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:G2DfGMPf6jS5 .
 
 tdd:G2DfGMPf6jS5 a rdfs:Resource ;
     rdfs:label "Le Pinson" ;

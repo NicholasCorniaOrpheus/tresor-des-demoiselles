@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,subclass_of_label,described_by_source_value,identifier_value
+Concept,,['redova'],redowa,redowa,redowa.md,2gCyPUvK3LoF,13826951794579538848,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,,
+Concept,,['redova'],redowa,redowa,redowa.md,2gCyPUvK3LoF,13826951794579538848,subclass_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew,classical dance music,,
+Concept,,['redova'],redowa,redowa,redowa.md,2gCyPUvK3LoF,13826951794579538848,described_by_source,,,,,,
+Concept,,['redova'],redowa,redowa,redowa.md,2gCyPUvK3LoF,13826951794579538848,identifier,,,,,,http://www.wikidata.org/entity/Q3422966

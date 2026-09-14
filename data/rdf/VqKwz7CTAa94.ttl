@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:VqKwz7CTAa94-9HvrUgbrFbcz a rdf:Statement ;
+tdd:VqKwz7CTAa94-JDD3MgerQzoC a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:VqKwz7CTAa94 ;
     schema:datePublished "1857-01-01" ;
     schema:volumeNumber 25 .
 
-tdd:VqKwz7CTAa94-FCzqtkmdrATr a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:VqKwz7CTAa94 .
+tdd:VqKwz7CTAa94-SxrARjjBm53Y a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Na2f3b575835a46e284adc3d812bb405d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:VqKwz7CTAa94 ;
+    schema:datePublished "1857-01-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:VqKwz7CTAa94-NBdGBiqA7m9k a rdf:Statement ;
+tdd:VqKwz7CTAa94-YvjdFR4reZMW a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:YKxiqAW7Evgt ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:VqKwz7CTAa94 .
 
-tdd:VqKwz7CTAa94-bY5JPgFAHq7v a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nf65f9244b9944655ab50dd65429ec8ef" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:VqKwz7CTAa94 ;
-    schema:datePublished "1857-01-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+tdd:VqKwz7CTAa94-kPZ8aoApU7Da a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:VqKwz7CTAa94 .
 
 tdd:VqKwz7CTAa94 a rdfs:Resource ;
     rdfs:label "Vole Vite" ;

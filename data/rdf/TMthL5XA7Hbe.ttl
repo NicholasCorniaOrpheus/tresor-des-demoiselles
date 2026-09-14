@@ -1,0 +1,43 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:TMthL5XA7Hbe-9tjiCtrgWvhK a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:TMthL5XA7Hbe .
+
+tdd:TMthL5XA7Hbe-KmQvr3pP7kgd a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:iNNYKR2Wjhuv ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:TMthL5XA7Hbe .
+
+tdd:TMthL5XA7Hbe-coWQcLpx2U4D a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:TMthL5XA7Hbe .
+
+tdd:TMthL5XA7Hbe-dv3r3utqGP2z a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    rdf:object "N381100c291ac4c849f0392b9f35f7858" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:TMthL5XA7Hbe ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61730> .
+
+tdd:TMthL5XA7Hbe a rdfs:Resource ;
+    rdfs:label "Le val fleuri. Quadrille pour le piano. Par Achille Decombes" ;
+    dcterms:contributor tdd:iNNYKR2Wjhuv,
+        tdd:jUohUDQ7mo5u ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Le val fleuri : quadrille pour le piano / par Achille Decombes" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:HKt9yvCZmpw6 .
+

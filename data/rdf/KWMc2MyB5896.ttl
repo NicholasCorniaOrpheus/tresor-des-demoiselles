@@ -7,43 +7,43 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:KWMc2MyB5896-2Qn7GEjKR8nk a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:3At93rnWJp3u ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:KWMc2MyB5896 .
-
-tdd:KWMc2MyB5896-7x9D8WWMkSAR a rdf:Statement ;
-    bf:Role tdd:3At93rnWJp3u ;
-    rdf:object tdd:PGagqrY8C5Aa ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:KWMc2MyB5896 .
-
-tdd:KWMc2MyB5896-Jr2SbMFKTZeW a rdf:Statement ;
+tdd:KWMc2MyB5896-67zwZMiLucU3 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:KWMc2MyB5896 .
 
-tdd:KWMc2MyB5896-NU2qstP9aoXs a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:KWMc2MyB5896 ;
-    schema:volumeNumber 2 .
+tdd:KWMc2MyB5896-6EjBKKZuWX8B a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:3At93rnWJp3u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:KWMc2MyB5896 .
 
-tdd:KWMc2MyB5896-SQrsp8MuC96H a rdf:Statement ;
+tdd:KWMc2MyB5896-9ERDYjxgQcgP a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:KWMc2MyB5896 .
 
-tdd:KWMc2MyB5896-kcdx8YvZRnLn a rdf:Statement ;
+tdd:KWMc2MyB5896-ThPvwzfrYyBA a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N36f0e4d19f324b93986d6f9ef6344ebe" ;
+    rdf:object "N44e8ac3822254393be76f88eff031cb8" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:KWMc2MyB5896 ;
     schema:url <https://anet.be/record/opacap/c:lvd:13279473> .
+
+tdd:KWMc2MyB5896-g5RvJYk8GoeS a rdf:Statement ;
+    bf:Role tdd:3At93rnWJp3u ;
+    rdf:object tdd:PGagqrY8C5Aa ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:KWMc2MyB5896 .
+
+tdd:KWMc2MyB5896-jYAYSBpai22r a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:KWMc2MyB5896 ;
+    schema:volumeNumber 2 .
 
 tdd:KWMc2MyB5896 a rdfs:Resource ;
     rdfs:label "La brune Thérèse" ;

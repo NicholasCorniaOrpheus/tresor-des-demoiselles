@@ -7,39 +7,39 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:2v8RvsAdQppS-6eQYFKN8wPyq a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:2v8RvsAdQppS .
-
-tdd:2v8RvsAdQppS-DypMZgLjtjzs a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:jUohUDQ7mo5u ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:2v8RvsAdQppS .
-
-tdd:2v8RvsAdQppS-RmiBFJcKkNdu a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:ffGPdUcNKsB8 ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:2v8RvsAdQppS .
-
-tdd:2v8RvsAdQppS-SgN4TvKW65vQ a rdf:Statement ;
+tdd:2v8RvsAdQppS-HHUAWWvobhgr a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:2v8RvsAdQppS ;
     schema:datePublished "1833" ;
     schema:volumeNumber 1 .
 
-tdd:2v8RvsAdQppS-m9EfwnvunJvm a rdf:Statement ;
+tdd:2v8RvsAdQppS-MxUiBatgRUaM a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ffGPdUcNKsB8 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2v8RvsAdQppS .
+
+tdd:2v8RvsAdQppS-RxT2bZqpCtPp a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N75dbb6db93bc4b23acaa7efa6a5612a8" ;
+    rdf:object "N6be54b2a64674afa8bf26340b551a9e9" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:2v8RvsAdQppS ;
     schema:datePublished "1833" ;
     schema:url <https://anet.be/record/ap/opacap/c:lvd:12977376> .
+
+tdd:2v8RvsAdQppS-SSrduqACRjht a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:2v8RvsAdQppS .
+
+tdd:2v8RvsAdQppS-ikxqPfYgoY8b a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2v8RvsAdQppS .
 
 tdd:2v8RvsAdQppS a rdfs:Resource ;
     rdfs:label "Les guides de Murat. Quadrille brillant" ;

@@ -7,29 +7,29 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:8PAPGoxTCgLt-4dyMsCe4DMwv a rdf:Statement ;
+tdd:8PAPGoxTCgLt-6DPtWAC3YbLG a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:Ui6pfXfmqxPM ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:8PAPGoxTCgLt .
+
+tdd:8PAPGoxTCgLt-8PbL23BEjM28 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:8PAPGoxTCgLt .
 
-tdd:8PAPGoxTCgLt-AqDabKW5mpTr a rdf:Statement ;
+tdd:8PAPGoxTCgLt-B4jPj5ckLU7k a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:8PAPGoxTCgLt ;
     schema:datePublished "1882" ;
     schema:volumeNumber 50 .
 
-tdd:8PAPGoxTCgLt-ZiHqdNCATEjU a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:Ui6pfXfmqxPM ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:8PAPGoxTCgLt .
-
-tdd:8PAPGoxTCgLt-acXiWXBqp3kf a rdf:Statement ;
+tdd:8PAPGoxTCgLt-BbCThnWhZUe7 a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N8b43f473f56a4affb2e9968379a82878" ;
+    rdf:object "N77f9a9bd0be348ad9a04fd95ba3b0727" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:8PAPGoxTCgLt ;
     schema:datePublished "1882" ;

@@ -7,34 +7,34 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:hs4rWBqGPmab-DhY97N3LgAV5 a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N1738ea93c59e4066aa353e704d3d8340" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:hs4rWBqGPmab ;
-    schema:datePublished "1855-11-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:hs4rWBqGPmab-Jwwnvkf6mzCu a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:TyP7T2zkXYhF ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:hs4rWBqGPmab .
-
-tdd:hs4rWBqGPmab-KD9uyHfxiFB6 a rdf:Statement ;
+tdd:hs4rWBqGPmab-3GbD7gKmyeJV a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:QKKdeXjo8w7N ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:hs4rWBqGPmab .
 
-tdd:hs4rWBqGPmab-KG9VpWDcaUeL a rdf:Statement ;
+tdd:hs4rWBqGPmab-BBPnfwmwg82C a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:hs4rWBqGPmab .
 
-tdd:hs4rWBqGPmab-YPBCKJWS2swE a rdf:Statement ;
+tdd:hs4rWBqGPmab-kkhKiiQxR3Tp a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:TyP7T2zkXYhF ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:hs4rWBqGPmab .
+
+tdd:hs4rWBqGPmab-ku4CBP5EkVQ5 a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N9847c599d1d843deb6cdfa6320bd6ebf" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:hs4rWBqGPmab ;
+    schema:datePublished "1855-11-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:hs4rWBqGPmab-nHs4DTSw69Rh a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:hs4rWBqGPmab ;

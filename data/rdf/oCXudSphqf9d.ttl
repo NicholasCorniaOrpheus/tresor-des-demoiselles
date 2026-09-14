@@ -1,0 +1,43 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:oCXudSphqf9d-754NCWmYx5Qc a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:oCXudSphqf9d .
+
+tdd:oCXudSphqf9d-HpGSDQ4bfquZ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:d3ATGHtkH8gd ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:oCXudSphqf9d .
+
+tdd:oCXudSphqf9d-a9PghUkZJcaa a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    rdf:object "N72a272298b394c079183b8f4248606f9" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:oCXudSphqf9d ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61732> .
+
+tdd:oCXudSphqf9d-aCp3yMdk6u7T a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:oCXudSphqf9d .
+
+tdd:oCXudSphqf9d a rdfs:Resource ;
+    rdfs:label "Delia. Polka-mazurka. Par Albin de Leïris" ;
+    dcterms:contributor tdd:d3ATGHtkH8gd,
+        tdd:jUohUDQ7mo5u ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Delia : polka-mazurka / par Albin de Leïris" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:U66A6PCCFAfU .
+

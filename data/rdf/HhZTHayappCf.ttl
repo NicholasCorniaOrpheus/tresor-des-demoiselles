@@ -6,41 +6,41 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:HhZTHayappCf-DHBm9vd7neRd a rdf:Statement ;
+tdd:HhZTHayappCf-4W8vajLvyPZU a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Neb1e7f42c45b496a96e33255e4feff18" ;
+    rdf:object "N19157d4e6ca348a9b36265787740616a" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:HhZTHayappCf ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
 
-tdd:HhZTHayappCf-Mb4DD3yzB7vx a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
+tdd:HhZTHayappCf-Cbt7QEDikYt8 a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP]> ;
+    rdf:predicate dcterms:contributor ;
     rdf:subject tdd:HhZTHayappCf .
 
-tdd:HhZTHayappCf-X9gUw6XkqLcE a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:HhZTHayappCf .
-
-tdd:HhZTHayappCf-YePmhbMPZXEo a rdf:Statement ;
+tdd:HhZTHayappCf-YXScHEJc3RpJ a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:HhZTHayappCf ;
     schema:datePublished "1853-01-01" .
 
-tdd:HhZTHayappCf-ZNcboVCwxe7z a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:AouufLb7bx5R ;
-    rdf:predicate dcterms:contributor ;
+tdd:HhZTHayappCf-aPb3pthiJYsa a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
     rdf:subject tdd:HhZTHayappCf .
 
-tdd:HhZTHayappCf-gzxquWwJzP3L a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CXpPMVRq6JaP]> ;
+tdd:HhZTHayappCf-hqj8C4rqshoJ a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:HhZTHayappCf .
+
+tdd:HhZTHayappCf-mxVgQ2P7QLoy a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:AouufLb7bx5R ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:HhZTHayappCf .
 

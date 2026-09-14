@@ -1,0 +1,43 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:92k2TrjpQoSN-JzLSrCWAVoRd a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    rdf:object "N76be05f0f75a4297bf1537e74b7d4098" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:92k2TrjpQoSN ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61736> .
+
+tdd:92k2TrjpQoSN-QUmepctWDcCz a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:92k2TrjpQoSN .
+
+tdd:92k2TrjpQoSN-aeTQnFFNkGvy a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:92k2TrjpQoSN .
+
+tdd:92k2TrjpQoSN-gDUvUUFkPWAx a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:MzKoxNkE4So3 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:92k2TrjpQoSN .
+
+tdd:92k2TrjpQoSN a rdfs:Resource ;
+    rdfs:label "Prussen Schottisch" ;
+    dcterms:contributor tdd:MzKoxNkE4So3,
+        tdd:jUohUDQ7mo5u ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Prussen Schottisch Eugène Bousquet" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:P3xwqK2mHjC7 .
+

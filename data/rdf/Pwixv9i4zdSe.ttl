@@ -1,0 +1,44 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:Pwixv9i4zdSe-6dvvzY9m7NQq a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:HVwFKDmktcqF ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Pwixv9i4zdSe .
+
+tdd:Pwixv9i4zdSe-J8BCGsYws9gC a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Pwixv9i4zdSe .
+
+tdd:Pwixv9i4zdSe-da8dDDTLybH5 a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    rdf:object "N6a0488f7212341c0bbd99f11468b9750" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Pwixv9i4zdSe ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61728> .
+
+tdd:Pwixv9i4zdSe-froyrSKZ5kyC a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Pwixv9i4zdSe .
+
+tdd:Pwixv9i4zdSe a rdfs:Resource ;
+    rdfs:label "Maïa. Polka mazurka. Par A. Morin" ;
+    dcterms:contributor tdd:HVwFKDmktcqF,
+        tdd:jUohUDQ7mo5u ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Maïa : polka mazurka / par A. Morin" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:U66A6PCCFAfU,
+        tdd:aRNbPTwmsbtP .
+

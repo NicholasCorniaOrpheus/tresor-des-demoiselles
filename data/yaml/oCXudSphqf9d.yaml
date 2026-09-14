@@ -1,0 +1,57 @@
+metadata:
+  class: Manifestation
+  label: Delia. Polka-mazurka. Par Albin de Leïris
+  aliases:
+  description:
+  base_name: Delia. Polka-mazurka. Par Albin de Leïris
+  filename: Delia. Polka-mazurka. Par Albin de Leïris.md
+  id: oCXudSphqf9d
+  n_id: 932425773057839154989
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date:
+      label: Journal des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j
+        label: dedicatee
+      label: Abonnés du Journal des Demoiselles
+    - role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/d3ATGHtkH8gd
+      label: Albin de Leiris
+  has_version:
+    - permalink: https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61732
+      publication_date:
+      place_of_publication:
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj
+        label: Royal Conservatory of Brussels
+  title:
+    - "Delia : polka-mazurka / par Albin de Leïris"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU
+      label: polka
+assets:
+  local_asset_path: ./assets/RCB-CR-02772_22
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_22/CR-02772_22_001.jpg
+  jpg:
+    - CR-02772_22_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/oCXudSphqf9d.json
+content:
+  markdown_content: ""

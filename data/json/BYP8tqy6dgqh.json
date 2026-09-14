@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Jean-Baptiste-Joseph Tolbecque",
+    "aliases": null,
+    "description": null,
+    "base_name": "Jean-Baptiste-Joseph Tolbecque",
+    "filename": "Jean-Baptiste-Joseph Tolbecque.md",
+    "id": "BYP8tqy6dgqh",
+    "n_id": 196718247647047260837
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1797
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1869
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q15407271"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "label": "Journal des demoiselles"
+      }
+    ]
+  }
+}

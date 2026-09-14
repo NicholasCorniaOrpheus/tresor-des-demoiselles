@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,date_of_birth,,,,,,,,,,,,,
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,described_by_source,,,,,,,,,,,,,
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,date_of_death,,,,,,,,,,,,,
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,place_of_birth,,,,,,,,,,,,,
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,place_of_death,,,,,,,,,,,,,
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,sex_or_gender,,,,,,,,,,,,,
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,identifier,,,,,,,,,,,,,
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,A. Morin,,,A. Morin,A. Morin.md,HVwFKDmktcqF,319651508044499679973,related_to,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU,Journal des demoiselles

@@ -7,39 +7,39 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:nhhVWRK57VWH-57jbkzrqxFHb a rdf:Statement ;
+tdd:nhhVWRK57VWH-2k6n6rBtXp5s a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N91aef6be5a084aa0b0c3c852b16a3b6e" ;
+    rdf:object "N79177ef93a0945f0bba7be60663af1e1" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:nhhVWRK57VWH ;
     schema:datePublished "1833" ;
     schema:url <https://anet.be/record/ap/opacap/c:lvd:12977270> .
 
-tdd:nhhVWRK57VWH-NXuCaBjFZw6Y a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:jUohUDQ7mo5u ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:nhhVWRK57VWH .
-
-tdd:nhhVWRK57VWH-THRgR8wPfSpB a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:ffGPdUcNKsB8 ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:nhhVWRK57VWH .
-
-tdd:nhhVWRK57VWH-gXMpnNCoJtb3 a rdf:Statement ;
+tdd:nhhVWRK57VWH-JqhJDr2Hpf76 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:nhhVWRK57VWH .
 
-tdd:nhhVWRK57VWH-io3krFmQPZPY a rdf:Statement ;
+tdd:nhhVWRK57VWH-JznPUgXoyWCG a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:nhhVWRK57VWH ;
     schema:datePublished "1833" ;
     schema:volumeNumber 1 .
+
+tdd:nhhVWRK57VWH-amp8bB3aHw7v a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ffGPdUcNKsB8 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:nhhVWRK57VWH .
+
+tdd:nhhVWRK57VWH-bVAHtLG79jM5 a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:nhhVWRK57VWH .
 
 tdd:nhhVWRK57VWH a rdfs:Resource ;
     rdfs:label "Les roses de mai. Quadrille brillant" ;

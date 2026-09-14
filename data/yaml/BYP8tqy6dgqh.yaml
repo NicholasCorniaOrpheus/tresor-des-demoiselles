@@ -1,0 +1,38 @@
+metadata:
+  class: Agent
+  label: Jean-Baptiste-Joseph Tolbecque
+  aliases:
+  description:
+  base_name: Jean-Baptiste-Joseph Tolbecque
+  filename: Jean-Baptiste-Joseph Tolbecque.md
+  id: BYP8tqy6dgqh
+  n_id: 196718247647047260837
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+    - value: 1797
+  described_by_source:
+  date_of_death:
+    - value: 1869
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+    - http://www.wikidata.org/entity/Q15407271
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      label: Journal des demoiselles
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/BYP8tqy6dgqh.json
+content:
+  markdown_content: ""

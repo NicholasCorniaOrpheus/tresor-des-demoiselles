@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "A. Daguin",
+    "aliases": null,
+    "description": null,
+    "base_name": "A. Daguin",
+    "filename": "A. Daguin.md",
+    "id": "g6GkTxFENv6x",
+    "n_id": 785705980485826114284
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": null,
+    "identifier": null,
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "label": "Journal des demoiselles"
+      }
+    ]
+  }
+}

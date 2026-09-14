@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Le val fleuri. Quadrille pour le piano. Par Achille Decombes",
+    "aliases": null,
+    "description": null,
+    "base_name": "Le val fleuri. Quadrille pour le piano. Par Achille Decombes",
+    "filename": "Le val fleuri. Quadrille pour le piano. Par Achille Decombes.md",
+    "id": "TMthL5XA7Hbe",
+    "n_id": 523098084767226247944
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "publication_date": null,
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jUohUDQ7mo5u",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+          "label": "dedicatee"
+        },
+        "label": "Abonnés du Journal des Demoiselles"
+      },
+      {
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iNNYKR2Wjhuv",
+        "label": "Achille Decombes"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61730",
+        "publication_date": null,
+        "place_of_publication": null,
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+          "label": "Royal Conservatory of Brussels"
+        }
+      }
+    ],
+    "title": [
+      "Le val fleuri : quadrille pour le piano / par Achille Decombes"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": null,
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
+        "label": "quadrille"
+      }
+    ]
+  }
+}

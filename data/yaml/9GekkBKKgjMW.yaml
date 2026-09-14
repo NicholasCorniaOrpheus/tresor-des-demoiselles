@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  description:
+  aliases:
+  label: sibling
+  base_name: sibling
+  filename: sibling.md
+  id: 9GekkBKKgjMW
+  n_id: 149753180971466743918
+statements:
+  instance_of:
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q31184
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/9GekkBKKgjMW.json
+content:
+  markdown_content: ""

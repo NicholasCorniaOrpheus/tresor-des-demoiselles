@@ -7,19 +7,19 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:9g6aJgeHzqPk-N732qkvNDnqt a rdf:Statement ;
+tdd:9g6aJgeHzqPk-ALDZujHsoFJa a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:9g6aJgeHzqPk ;
     schema:datePublished "1844-01-01" ;
     schema:volumeNumber 12 .
 
-tdd:9g6aJgeHzqPk-itSMcswnAnpV a rdf:Statement ;
+tdd:9g6aJgeHzqPk-bY6ehFcTfYXF a rdf:Statement ;
     bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1844." ;
     bf:electronicLocator <https://archive.org/details/journaldesdemois00pari> ;
     bf:heldBy tdd:GpjEsTdNqATu ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Na5fd506ec26040d4961ee79aad6e3440" ;
+    rdf:object "Nc333cd42b1f14e0c8fc43a2f3eacc9d7" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:9g6aJgeHzqPk ;
     schema:datePublished "1844-01-01" ;

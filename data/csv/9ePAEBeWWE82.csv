@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,date_of_birth,,,,,,,,,,,,,
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,described_by_source,,,,,,,,,,,,,
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,date_of_death,,,,,,,,,,,,,
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,place_of_birth,,,,,,,,,,,,,
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,place_of_death,,,,,,,,,,,,,
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q319261,,,
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz,librettist,
+Agent,Eugène Scribe,,,Eugène Scribe,Eugène Scribe.md,9ePAEBeWWE82,157618795107467304891,related_to,,,,,,,,,,,,,

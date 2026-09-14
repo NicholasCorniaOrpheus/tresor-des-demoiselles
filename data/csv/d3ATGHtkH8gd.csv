@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,date_of_birth,,,,,,,,,,,,,,
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,described_by_source,,,,,,,,,,,,,,
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,date_of_death,,,,,,,,,,,,,,
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,place_of_birth,,,,,,,,,,,,,,
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,place_of_death,,,,,,,,,,,,,,
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,identifier,,,,,,,,,,,,,,
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Albin de Leiris,['Albin de Leïris'],,Albin de Leiris,Albin de Leiris.md,d3ATGHtkH8gd,722672154926068173404,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU,Journal des demoiselles

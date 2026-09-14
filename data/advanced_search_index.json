@@ -27,8 +27,8 @@
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "piano",
                 "voice",
+                "piano",
                 "guitar"
             ],
             "language": [
@@ -197,6 +197,51 @@
         }
     },
     {
+        "location": "/entity/kLWLt9hwDNKA",
+        "properties": {
+            "label": [
+                "La fée aux roses. Paroles de Mrs Scribe et de St Georges. Musique de F. Halévy",
+                "La fée aux roses : paroles de Mrs Scribe et de St Georges ; musique de F. Halévy"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des dames et des demoiselles. Guide complet de tous les travaux de dames"
+            ],
+            "date": [
+                1850
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "voice",
+                "piano"
+            ],
+            "language": [
+                "French"
+            ],
+            "place": [
+                "Brussels"
+            ],
+            "based_on": [
+                "la fée aux roses"
+            ],
+            "form of creative work": [
+                "romance"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-3018/BV14-3018_001.jpg"
+            ]
+        }
+    },
+    {
         "location": "/entity/YchLbp5wxwMv",
         "properties": {
             "label": [
@@ -262,8 +307,8 @@
                 "Place"
             ],
             "aliases": [
-                "Parigi",
-                "Parijs"
+                "Parijs",
+                "Parigi"
             ],
             "description": [],
             "instance of": [
@@ -349,8 +394,8 @@
         "location": "/entity/FiFAWv3HUTn6",
         "properties": {
             "label": [
-                "Le Mariage chinois",
-                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay."
+                "Le Mariage chinois: Extraite de l'Album du C.te Eugène de Lonlay.",
+                "Le Mariage chinois"
             ],
             "class": [
                 "Manifestation"
@@ -374,8 +419,8 @@
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -418,8 +463,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -573,6 +618,31 @@
         }
     },
     {
+        "location": "/entity/BYP8tqy6dgqh",
+        "properties": {
+            "label": [
+                "Jean-Baptiste-Joseph Tolbecque"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "gender": [
+                "male"
+            ],
+            "occupation": [
+                "composer"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/BCSvsKmuf8u3",
         "properties": {
             "label": [
@@ -641,8 +711,8 @@
         "location": "/entity/2hgUsD4tB9J5",
         "properties": {
             "label": [
-                "Une larme. Mélodie sympathique variée",
-                "Une larme : mélodie sympathique variée ; extrait de l'Oasis de l'étude / par A. Scard"
+                "Une larme : mélodie sympathique variée ; extrait de l'Oasis de l'étude / par A. Scard",
+                "Une larme. Mélodie sympathique variée"
             ],
             "class": [
                 "Manifestation"
@@ -684,8 +754,8 @@
         "location": "/entity/T3eDQEfcZJYp",
         "properties": {
             "label": [
-                "Cracoviana. pour le piano",
-                "Cracoviana: pour le piano"
+                "Cracoviana: pour le piano",
+                "Cracoviana. pour le piano"
             ],
             "class": [
                 "Manifestation"
@@ -773,8 +843,8 @@
         "location": "/entity/38NfsimmXazi",
         "properties": {
             "label": [
-                "Frère et soeur : opera comique et un acte",
-                "La fille du golfe. Opéra-comique en un acte"
+                "La fille du golfe. Opéra-comique en un acte",
+                "Frère et soeur : opera comique et un acte"
             ],
             "class": [
                 "Manifestation"
@@ -791,16 +861,16 @@
                 1859
             ],
             "contributor": [
-                "Charles Nuitter",
-                "Léo Delibes"
+                "Léo Delibes",
+                "Charles Nuitter"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
+                "voice",
                 "choir",
-                "voice"
+                "piano"
             ],
             "language": [
                 "French"
@@ -809,8 +879,8 @@
                 "Paris"
             ],
             "form of creative work": [
-                "opéra comique",
-                "chamber opera"
+                "chamber opera",
+                "opéra comique"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-14016062/RCA-14016062_001.jpg"
@@ -991,8 +1061,8 @@
                 "notated music"
             ],
             "part of": [
-                "Trésor des demoiselles",
-                "La mélodie"
+                "La mélodie",
+                "Trésor des demoiselles"
             ],
             "date": [
                 "1852-01-01"
@@ -1002,20 +1072,20 @@
                 "Louis Bordèse"
             ],
             "holding institution": [
-                "Royal Conservatory of Brussels",
                 "Orpheus Instituut",
-                "Royal Conservatory of Antwerp"
+                "Royal Conservatory of Antwerp",
+                "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
             ],
             "place": [
-                "Ghent",
-                "Brussels"
+                "Brussels",
+                "Ghent"
             ],
             "form of creative work": [
                 "duet"
@@ -1103,8 +1173,8 @@
                 "piano"
             ],
             "place": [
-                "Paris",
-                "Brussels"
+                "Brussels",
+                "Paris"
             ],
             "form of creative work": [
                 "quadrille"
@@ -1191,8 +1261,8 @@
         "location": "/entity/bHeBRrdh9d2N",
         "properties": {
             "label": [
-                "Marianne. Opéra-comique en un acte",
-                "Marianne : opéra-comique en un acte"
+                "Marianne : opéra-comique en un acte",
+                "Marianne. Opéra-comique en un acte"
             ],
             "class": [
                 "Manifestation"
@@ -1209,16 +1279,16 @@
                 1861
             ],
             "contributor": [
-                "Augustin Challamel",
-                "François Bazin"
+                "François Bazin",
+                "Augustin Challamel"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
+                "voice",
                 "choir",
-                "piano",
-                "voice"
+                "piano"
             ],
             "language": [
                 "French"
@@ -1238,8 +1308,8 @@
         "location": "/entity/ASrkWEECtVfe",
         "properties": {
             "label": [
-                "Trésor des demoiselles. Vingt-septième Année.",
-                "Trésor des demoiselles (1859)"
+                "Trésor des demoiselles (1859)",
+                "Trésor des demoiselles. Vingt-septième Année."
             ],
             "class": [
                 "Manifestation"
@@ -1322,36 +1392,62 @@
                 "Trésor des demoiselles"
             ],
             "date": [
-                "1852-01-01",
-                "1851-01-01"
+                "1851-01-01",
+                "1852-01-01"
             ],
             "contributor": [
                 "Antoine Louis Clapisson",
                 "Frédéric de Courcy"
             ],
             "holding institution": [
-                "Royal Conservatory of Brussels",
-                "Orpheus Instituut",
                 "Bibliothèque nationale de France",
-                "Royal Conservatory of Antwerp"
+                "Orpheus Instituut",
+                "Royal Conservatory of Antwerp",
+                "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
             ],
             "place": [
-                "Paris",
+                "Brussels",
                 "Ghent",
-                "Brussels"
+                "Paris"
             ],
             "form of creative work": [
                 "song"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p25/orp-clapi-l'emplo-20143702p25-fs-00001.jpg"
+            ]
+        }
+    },
+    {
+        "location": "/entity/eauevD6EbcxD",
+        "properties": {
+            "label": [
+                "la fée aux roses"
+            ],
+            "class": [
+                "Work"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "dramatico-musical work"
+            ],
+            "contributor": [
+                "Eugène Scribe",
+                "Fromental Halévy"
+            ],
+            "form of creative work": [
+                "opéra comique"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
             ]
         }
     },
@@ -1373,8 +1469,8 @@
                 "male"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -1385,8 +1481,8 @@
         "location": "/entity/FqEYDTDQHpZZ",
         "properties": {
             "label": [
-                "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\"",
-                "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre"
+                "Aria Bettina : n° 3 ; Ballata : n° 4 : tiré de l'opéra La jeunesse d'Henri V d' Angleterre",
+                "Aria Bettina tiré de l'opéra \"La jeunesse d'Henri V d' Angleterre\""
             ],
             "class": [
                 "Manifestation"
@@ -1400,8 +1496,8 @@
                 "Journal des demoiselles"
             ],
             "date": [
-                1882,
-                "1882-01-01"
+                "1882-01-01",
+                1882
             ],
             "contributor": [
                 "anonymous"
@@ -1410,8 +1506,8 @@
                 "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -1467,8 +1563,8 @@
                 "male"
             ],
             "occupation": [
-                "composer",
-                "writer"
+                "writer",
+                "composer"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/6/60/Jean-Baptiste_Weckerlin_par_Truchelut.png"
@@ -1495,6 +1591,43 @@
         }
     },
     {
+        "location": "/entity/JMs7RV45f7Nm",
+        "properties": {
+            "label": [
+                "Juliette. Redowa. Par Maurant",
+                "Juliette : redowa / par Maurant"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des demoiselles"
+            ],
+            "date": [],
+            "contributor": [
+                "Abonnés du Journal des Demoiselles",
+                "Nicolau Manent"
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "piano"
+            ],
+            "form of creative work": [
+                "redowa"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_19/CR-02772_19_001.jpg"
+            ]
+        }
+    },
+    {
         "location": "/entity/npBE6umqCeHL",
         "properties": {
             "label": [
@@ -1515,8 +1648,8 @@
                 "1837-01-01"
             ],
             "holding institution": [
-                "Harvard University",
-                "Munich Digitization Center"
+                "Munich Digitization Center",
+                "Harvard University"
             ],
             "language": [
                 "French"
@@ -1683,8 +1816,8 @@
                 "notated music"
             ],
             "part of": [
-                "Trésor des demoiselles",
-                "Magasin des demoiselles"
+                "Magasin des demoiselles",
+                "Trésor des demoiselles"
             ],
             "date": [
                 "1852-01-01",
@@ -1694,16 +1827,16 @@
                 "Friedrich Burgmüller"
             ],
             "holding institution": [
-                "Orpheus Instituut",
                 "Bibliothèque nationale de France",
+                "Orpheus Instituut",
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
                 "piano"
             ],
             "place": [
-                "Paris",
-                "Brussels"
+                "Brussels",
+                "Paris"
             ],
             "based_on": [
                 "Le Carillonneur de Bruges"
@@ -1745,9 +1878,9 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
+                "voice",
                 "choir",
-                "voice"
+                "piano"
             ],
             "language": [
                 "French"
@@ -1756,8 +1889,8 @@
                 "Paris"
             ],
             "form of creative work": [
-                "chamber opera",
-                "operetta"
+                "operetta",
+                "chamber opera"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-13225458/RCA-13225458_001.jpg"
@@ -1789,11 +1922,49 @@
         }
     },
     {
+        "location": "/entity/JXP3n3t3zVbG",
+        "properties": {
+            "label": [
+                "Julia-redowa : à ma soeur Julie / par Célestin Demeur",
+                "Julia-redowa. À ma soeur Julie. Par Célestin Demeur"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des demoiselles"
+            ],
+            "date": [],
+            "contributor": [
+                "Célestin Demeur",
+                "Abonnés du Journal des Demoiselles",
+                "Julie Demeur"
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "piano"
+            ],
+            "form of creative work": [
+                "redowa"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_25/CR-02772_25_001.jpg"
+            ]
+        }
+    },
+    {
         "location": "/entity/nhhVWRK57VWH",
         "properties": {
             "label": [
-                "Les roses de mai. Quadrille brillant",
-                "Les roses de mai: quadrille brillant"
+                "Les roses de mai: quadrille brillant",
+                "Les roses de mai. Quadrille brillant"
             ],
             "class": [
                 "Manifestation"
@@ -1810,8 +1981,8 @@
                 1833
             ],
             "contributor": [
-                "Abonnés du Journal des Demoiselles",
-                "V. M. Bernhardt"
+                "V. M. Bernhardt",
+                "Abonnés du Journal des Demoiselles"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
@@ -1939,8 +2110,8 @@
                 "Journal des demoiselles"
             ],
             "contributor": [
-                "Eliza Henrietta Sartoris-de L'Aigle",
-                "Hortense Wild"
+                "Hortense Wild",
+                "Eliza Henrietta Sartoris-de L'Aigle"
             ],
             "holding institution": [
                 "Royal Conservatory of Brussels"
@@ -1960,6 +2131,43 @@
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1/RCB-BV10-7424_1_001.jpg"
+            ]
+        }
+    },
+    {
+        "location": "/entity/TMthL5XA7Hbe",
+        "properties": {
+            "label": [
+                "Le val fleuri : quadrille pour le piano / par Achille Decombes",
+                "Le val fleuri. Quadrille pour le piano. Par Achille Decombes"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des demoiselles"
+            ],
+            "date": [],
+            "contributor": [
+                "Abonnés du Journal des Demoiselles",
+                "Achille Decombes"
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "piano"
+            ],
+            "form of creative work": [
+                "quadrille"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_20/CR-02772_20_001.jpg"
             ]
         }
     },
@@ -2099,6 +2307,28 @@
         }
     },
     {
+        "location": "/entity/g6GkTxFENv6x",
+        "properties": {
+            "label": [
+                "A. Daguin"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "occupation": [
+                "composer"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/G9FZhC6pNp69",
         "properties": {
             "label": [
@@ -2227,8 +2457,8 @@
         "location": "/entity/98ui7xFiSD8t",
         "properties": {
             "label": [
-                "La vallée de chevreuse : suite de valses",
-                "La vallée de chevreuse. suite de valses"
+                "La vallée de chevreuse. suite de valses",
+                "La vallée de chevreuse : suite de valses"
             ],
             "class": [
                 "Manifestation"
@@ -2266,6 +2496,31 @@
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV10-7424_1879-1/BV10-7424_1879-1_001.jpg"
+            ]
+        }
+    },
+    {
+        "location": "/entity/9ePAEBeWWE82",
+        "properties": {
+            "label": [
+                "Eugène Scribe"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "gender": [
+                "male"
+            ],
+            "occupation": [
+                "librettist"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -2363,8 +2618,8 @@
         "location": "/entity/dirnB2Qevykf",
         "properties": {
             "label": [
-                "Zabella: schottisch",
-                "Zabella. Schottisch"
+                "Zabella. Schottisch",
+                "Zabella: schottisch"
             ],
             "class": [
                 "Manifestation"
@@ -2390,8 +2645,8 @@
                 "piano"
             ],
             "place": [
-                "Paris",
-                "Brussels"
+                "Brussels",
+                "Paris"
             ],
             "form of creative work": [
                 "schottische"
@@ -2405,8 +2660,8 @@
         "location": "/entity/FgGSNR8FMujM",
         "properties": {
             "label": [
-                "Le pré aux clercs. Ouverture arrangée pour le piano avec acct. de violon",
-                "Le pré aux clercs : ouverture arrangée pour le piano avec acct. de violon (ad libitum)"
+                "Le pré aux clercs : ouverture arrangée pour le piano avec acct. de violon (ad libitum)",
+                "Le pré aux clercs. Ouverture arrangée pour le piano avec acct. de violon"
             ],
             "class": [
                 "Manifestation"
@@ -2429,8 +2684,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "violin"
+                "violin",
+                "piano"
             ],
             "place": [
                 "Brussels"
@@ -2488,8 +2743,8 @@
                 "male"
             ],
             "occupation": [
-                "music educator",
-                "composer"
+                "composer",
+                "music educator"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -2636,8 +2891,8 @@
                 "female"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/f/f8/Portrait_de_Marceline_Desbordes_%28cropped%29.jpg"
@@ -2711,9 +2966,9 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
+                "voice",
                 "choir",
-                "voice"
+                "piano"
             ],
             "language": [
                 "French"
@@ -2722,11 +2977,38 @@
                 "Paris"
             ],
             "form of creative work": [
-                "opéra comique",
-                "chamber opera"
+                "chamber opera",
+                "opéra comique"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-14018031/RCA-14018031_001.jpg"
+            ]
+        }
+    },
+    {
+        "location": "/entity/SeXwxsETv2Gv",
+        "properties": {
+            "label": [
+                "Nicolau Manent"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [
+                "Nicolau Manent i Maurant"
+            ],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "gender": [
+                "male"
+            ],
+            "occupation": [
+                "composer"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -2740,9 +3022,9 @@
                 "Manifestation"
             ],
             "aliases": [
-                "score",
+                "sheet music",
                 "partiture",
-                "sheet music"
+                "score"
             ],
             "description": [
                 "handwritten or printed form of musical notation that uses musical symbols to indicate the pitches, rhythms, or chords of a song or instrumental musical piece"
@@ -2928,8 +3210,8 @@
         "location": "/entity/U3dAsUoxKKnK",
         "properties": {
             "label": [
-                "Histoire d'une Fleur",
-                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano."
+                "Histoire d'une Fleur: Rêverie: Pour Voix de Soprano.",
+                "Histoire d'une Fleur"
             ],
             "class": [
                 "Manifestation"
@@ -2947,15 +3229,15 @@
             ],
             "contributor": [
                 "Marie Lasseveur",
-                "Georges de Nevers",
-                "Florine Mouvielle"
+                "Florine Mouvielle",
+                "Georges de Nevers"
             ],
             "holding institution": [
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -3068,8 +3350,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -3296,29 +3578,29 @@
                 "notated music"
             ],
             "part of": [
-                "Trésor des demoiselles",
-                "Magasin des demoiselles"
+                "Magasin des demoiselles",
+                "Trésor des demoiselles"
             ],
             "date": [
-                "1852-01-01",
-                "1861-01-01",
                 "1853-01-01",
-                "1853-06-01"
+                "1852-01-01",
+                "1853-06-01",
+                "1861-01-01"
             ],
             "contributor": [
                 "Emile Ettling"
             ],
             "holding institution": [
-                "International Music Score Library Project",
                 "Bibliothèque nationale de France",
-                "Orpheus Instituut"
+                "Orpheus Instituut",
+                "International Music Score Library Project"
             ],
             "instrumentation": [
                 "piano"
             ],
             "place": [
-                "Paris",
-                "Brussels"
+                "Brussels",
+                "Paris"
             ],
             "form of creative work": [
                 "waltz"
@@ -3367,8 +3649,8 @@
                 "Paris"
             ],
             "form of creative work": [
-                "chamber opera",
-                "operetta"
+                "operetta",
+                "chamber opera"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
@@ -3379,8 +3661,8 @@
         "location": "/entity/3JDQaYB6Tv2h",
         "properties": {
             "label": [
-                "Fauvette",
-                "Fauvette: Chansonette."
+                "Fauvette: Chansonette.",
+                "Fauvette"
             ],
             "class": [
                 "Manifestation"
@@ -3391,12 +3673,12 @@
                 "notated music"
             ],
             "part of": [
-                "Journal des demoiselles",
-                "Magasin des demoiselles"
+                "Magasin des demoiselles",
+                "Journal des demoiselles"
             ],
             "date": [
-                "1852-01-01",
-                "1856-01-01"
+                "1856-01-01",
+                "1852-01-01"
             ],
             "contributor": [
                 "Charles de Montfort",
@@ -3407,8 +3689,8 @@
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -3442,15 +3724,15 @@
                 "Trésor des demoiselles"
             ],
             "contributor": [
-                "Pierre Dupont",
-                "Ernest L’Épine"
+                "Ernest L’Épine",
+                "Pierre Dupont"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -3554,8 +3836,8 @@
         "location": "/entity/8PAPGoxTCgLt",
         "properties": {
             "label": [
-                "Les fées du lac : valse brillante pour piano",
-                "Les fées du lac. valse brillante pour piano"
+                "Les fées du lac. valse brillante pour piano",
+                "Les fées du lac : valse brillante pour piano"
             ],
             "class": [
                 "Manifestation"
@@ -3646,15 +3928,15 @@
                 "1839-01-01"
             ],
             "contributor": [
-                "Emile Millet",
-                "Amable Tastu"
+                "Amable Tastu",
+                "Emile Millet"
             ],
             "holding institution": [
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "piano",
                 "voice",
+                "piano",
                 "guitar"
             ],
             "language": [
@@ -3716,8 +3998,8 @@
                 "male"
             ],
             "occupation": [
-                "arranger",
-                "composer"
+                "composer",
+                "arranger"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -3736,8 +4018,8 @@
             "aliases": [],
             "description": [],
             "instance of": [
-                "human",
-                "pseudonym"
+                "pseudonym",
+                "human"
             ],
             "occupation": [
                 "composer"
@@ -3905,16 +4187,16 @@
                 "1839-01-01"
             ],
             "contributor": [
-                "Laure Jourdain",
+                "Joseph Vimeux",
                 "Francesco Masini",
-                "Joseph Vimeux"
+                "Laure Jourdain"
             ],
             "holding institution": [
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "piano",
                 "voice",
+                "piano",
                 "guitar"
             ],
             "language": [
@@ -3935,8 +4217,8 @@
         "location": "/entity/Q5YfCM4bBtmP",
         "properties": {
             "label": [
-                "Quadrille. Parisina",
-                "Deux Madones. Romance"
+                "Deux Madones. Romance",
+                "Quadrille. Parisina"
             ],
             "class": [
                 "Manifestation"
@@ -4020,8 +4302,8 @@
                 1833
             ],
             "contributor": [
-                "Abonnés du Journal des Demoiselles",
-                "V. M. Bernhardt"
+                "V. M. Bernhardt",
+                "Abonnés du Journal des Demoiselles"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
@@ -4252,15 +4534,15 @@
             ],
             "contributor": [
                 "Émile Barateau",
-                "Francesco Masini",
-                "Joseph Vimeux"
+                "Joseph Vimeux",
+                "Francesco Masini"
             ],
             "holding institution": [
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "piano",
                 "voice",
+                "piano",
                 "guitar"
             ],
             "language": [
@@ -4302,8 +4584,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -4360,16 +4642,16 @@
                 "Trésor des demoiselles"
             ],
             "contributor": [
-                "Eugeen Edward Stroobant",
+                "de Peellaert",
                 "Robert Julien Van Maldeghem",
-                "de Peellaert"
+                "Eugeen Edward Stroobant"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -4386,8 +4668,8 @@
         "location": "/entity/G2DfGMPf6jS5",
         "properties": {
             "label": [
-                "Le Pinson",
-                "Le Pinson ou le bien pour le mal"
+                "Le Pinson ou le bien pour le mal",
+                "Le Pinson"
             ],
             "class": [
                 "Manifestation"
@@ -4404,16 +4686,16 @@
                 "1853-01-01"
             ],
             "contributor": [
-                "Victor Lefèvre",
-                "Louis Rauis"
+                "Louis Rauis",
+                "Victor Lefèvre"
             ],
             "holding institution": [
-                "Orpheus Instituut",
-                "Royal Library of Belgium"
+                "Royal Library of Belgium",
+                "Orpheus Instituut"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -4463,22 +4745,22 @@
                 "notated music"
             ],
             "part of": [
-                "Journal des demoiselles",
-                "Trésor des demoiselles"
+                "Trésor des demoiselles",
+                "Journal des demoiselles"
             ],
             "date": [
                 "1849-01-01"
             ],
             "contributor": [
-                "Hippolyte Guérin",
-                "Francesco Masini"
+                "Francesco Masini",
+                "Hippolyte Guérin"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -4522,8 +4804,8 @@
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -4532,8 +4814,8 @@
                 "Paris"
             ],
             "form of creative work": [
-                "chamber opera",
-                "operetta"
+                "operetta",
+                "chamber opera"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/MDZ-10360013_1/001.jpg"
@@ -4624,6 +4906,22 @@
         }
     },
     {
+        "location": "/entity/9GekkBKKgjMW",
+        "properties": {
+            "label": [
+                "sibling"
+            ],
+            "class": [
+                "Concept"
+            ],
+            "aliases": [],
+            "description": [],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/hs4rWBqGPmab",
         "properties": {
             "label": [
@@ -4644,8 +4942,8 @@
                 "1855-11-01"
             ],
             "contributor": [
-                "Gustave de Revel",
-                "Narcisse Bousquet"
+                "Narcisse Bousquet",
+                "Gustave de Revel"
             ],
             "holding institution": [
                 "Orpheus Instituut"
@@ -4832,8 +5130,8 @@
                 "Journal des dames et des demoiselles. Guide complet de tous les travaux de dames"
             ],
             "date": [
-                1863,
-                "1863-03"
+                "1863-03",
+                1863
             ],
             "contributor": [
                 "Camille Schubert"
@@ -4884,8 +5182,8 @@
         "location": "/entity/gzxLx7Y6cNMi",
         "properties": {
             "label": [
-                "Le Bouquet",
-                "Le Bouquet: Chansonette."
+                "Le Bouquet: Chansonette.",
+                "Le Bouquet"
             ],
             "class": [
                 "Manifestation"
@@ -4896,12 +5194,12 @@
                 "notated music"
             ],
             "part of": [
-                "Trésor des demoiselles",
-                "Magasin des demoiselles"
+                "Magasin des demoiselles",
+                "Trésor des demoiselles"
             ],
             "date": [
-                "1852-01-01",
-                "1853-01-01"
+                "1853-01-01",
+                "1852-01-01"
             ],
             "contributor": [
                 "Eugène Talbot"
@@ -4910,8 +5208,8 @@
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -5089,8 +5387,8 @@
                 "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -5144,8 +5442,8 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -5261,8 +5559,8 @@
                 "male"
             ],
             "occupation": [
-                "arranger",
-                "composer"
+                "composer",
+                "arranger"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -5284,8 +5582,8 @@
                 "human"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -5331,8 +5629,8 @@
                 "male"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/0/07/Pierre_Dupont_LACMA_AC1992.229.130.jpg"
@@ -5496,9 +5794,9 @@
                 "male"
             ],
             "occupation": [
+                "librettist",
                 "translator",
-                "lyricist",
-                "librettist"
+                "lyricist"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -5531,6 +5829,43 @@
         }
     },
     {
+        "location": "/entity/92k2TrjpQoSN",
+        "properties": {
+            "label": [
+                "Prussen Schottisch Eugène Bousquet",
+                "Prussen Schottisch"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des demoiselles"
+            ],
+            "date": [],
+            "contributor": [
+                "Eugène Bousquet",
+                "Abonnés du Journal des Demoiselles"
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "piano"
+            ],
+            "form of creative work": [
+                "schottische"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_26/CR-02772_26_001.jpg"
+            ]
+        }
+    },
+    {
         "location": "/entity/ETrdTiZTknRK",
         "properties": {
             "label": [
@@ -5546,23 +5881,23 @@
                 "notated music"
             ],
             "part of": [
-                "Trésor des demoiselles",
-                "Magasin des demoiselles"
+                "Magasin des demoiselles",
+                "Trésor des demoiselles"
             ],
             "date": [
-                "1852-01-01",
-                "1853-01-01"
+                "1853-01-01",
+                "1852-01-01"
             ],
             "contributor": [
-                "Victor Mabille",
-                "Eugène Delisle"
+                "Eugène Delisle",
+                "Victor Mabille"
             ],
             "holding institution": [
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -5634,9 +5969,9 @@
                 "Place"
             ],
             "aliases": [
-                "USA",
+                "US",
                 "United States of America",
-                "US"
+                "USA"
             ],
             "description": [],
             "instance of": [
@@ -5672,8 +6007,8 @@
         "location": "/entity/gRR8aAYdEX54",
         "properties": {
             "label": [
-                "Dieu le voit",
-                "Dieu le voit: Mélodie"
+                "Dieu le voit: Mélodie",
+                "Dieu le voit"
             ],
             "class": [
                 "Manifestation"
@@ -5694,8 +6029,8 @@
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -5983,6 +6318,28 @@
         }
     },
     {
+        "location": "/entity/PpdnGxSwgUQD",
+        "properties": {
+            "label": [
+                "Julie Demeur"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "gender": [
+                "female"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/HjpKbBQc7gas",
         "properties": {
             "label": [
@@ -6072,15 +6429,15 @@
                 "1856-11-01"
             ],
             "contributor": [
-                "Louis Meyrargues",
-                "Désiré-Moyse-Joseph Ikelmer"
+                "Désiré-Moyse-Joseph Ikelmer",
+                "Louis Meyrargues"
             ],
             "holding institution": [
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -6111,34 +6468,34 @@
                 "notated music"
             ],
             "part of": [
-                "Trésor des demoiselles",
-                "Magasin des demoiselles"
+                "Magasin des demoiselles",
+                "Trésor des demoiselles"
             ],
             "date": [
+                "1853-01-01",
                 "1852-01-01",
                 "1861-01-01",
-                "1853-01-01",
                 "1853-04-01"
             ],
             "contributor": [
-                "Hippolyte Guérin",
-                "Louis Pierre Deffès"
+                "Louis Pierre Deffès",
+                "Hippolyte Guérin"
             ],
             "holding institution": [
-                "Orpheus Instituut",
                 "Bibliothèque nationale de France",
+                "Orpheus Instituut",
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
             ],
             "place": [
-                "Paris",
-                "Brussels"
+                "Brussels",
+                "Paris"
             ],
             "form of creative work": [
                 "romance"
@@ -6216,8 +6573,8 @@
                 "national library"
             ],
             "place": [
-                "Vienna",
-                "Austria"
+                "Austria",
+                "Vienna"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
@@ -6371,9 +6728,9 @@
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
+                "voice",
                 "choir",
-                "voice"
+                "piano"
             ],
             "language": [
                 "French"
@@ -6474,8 +6831,8 @@
                 "Jeanne-Justine Fouqueau de Pussy"
             ],
             "place": [
-                "Paris",
-                "France"
+                "France",
+                "Paris"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg"
@@ -6570,8 +6927,8 @@
                 "Agent"
             ],
             "aliases": [
-                "Durand, Schœnewerk & Cie",
-                "Durand & Cie"
+                "Durand & Cie",
+                "Durand, Schœnewerk & Cie"
             ],
             "description": [],
             "instance of": [
@@ -6635,8 +6992,8 @@
         "location": "/entity/Bi2WWaHWyPiH",
         "properties": {
             "label": [
-                "Colombine. Valse élégante, suivie de. Les gardes nobles. Quadrille militaire",
-                "Colombine: valse élégante, suivie de: Les gardes nobles: quadrille militaire"
+                "Colombine: valse élégante, suivie de: Les gardes nobles: quadrille militaire",
+                "Colombine. Valse élégante, suivie de. Les gardes nobles. Quadrille militaire"
             ],
             "class": [
                 "Manifestation"
@@ -6665,11 +7022,48 @@
                 "Paris"
             ],
             "form of creative work": [
-                "quadrille",
-                "waltz"
+                "waltz",
+                "quadrille"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12977300/RCA-12977300_001.jpg"
+            ]
+        }
+    },
+    {
+        "location": "/entity/JAMwnD46n8SM",
+        "properties": {
+            "label": [
+                "Fanny : polka pour le piano / par A. Daguin",
+                "Fanny. polka pour le piano. Par A. Daguin"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des demoiselles"
+            ],
+            "date": [],
+            "contributor": [
+                "A. Daguin",
+                "Abonnés du Journal des Demoiselles"
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "piano"
+            ],
+            "form of creative work": [
+                "polka"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_21/CR-02772_21_001.jpg"
             ]
         }
     },
@@ -6694,8 +7088,8 @@
                 "1839-01-01"
             ],
             "contributor": [
-                "Louis Antoine Jullien",
-                "Gaetano Donizetti"
+                "Gaetano Donizetti",
+                "Louis Antoine Jullien"
             ],
             "holding institution": [
                 "Munich Digitization Center"
@@ -6864,8 +7258,8 @@
                 "Paris"
             ],
             "form of creative work": [
-                "mazurka",
-                "polka"
+                "polka",
+                "mazurka"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p30/orp-bosch-l'aubép-20143702p30-ps-00001.jpg"
@@ -6929,6 +7323,44 @@
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
+            ]
+        }
+    },
+    {
+        "location": "/entity/Pwixv9i4zdSe",
+        "properties": {
+            "label": [
+                "Maïa. Polka mazurka. Par A. Morin",
+                "Maïa : polka mazurka / par A. Morin"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des demoiselles"
+            ],
+            "date": [],
+            "contributor": [
+                "A. Morin",
+                "Abonnés du Journal des Demoiselles"
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "piano"
+            ],
+            "form of creative work": [
+                "polka",
+                "mazurka"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_18/CR-02772_18_001.jpg"
             ]
         }
     },
@@ -7147,6 +7579,33 @@
                 "Agent"
             ],
             "aliases": [],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "gender": [
+                "male"
+            ],
+            "occupation": [
+                "composer"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
+            ]
+        }
+    },
+    {
+        "location": "/entity/d3ATGHtkH8gd",
+        "properties": {
+            "label": [
+                "Albin de Leiris"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [
+                "Albin de Leïris"
+            ],
             "description": [],
             "instance of": [
                 "human"
@@ -7456,6 +7915,27 @@
         }
     },
     {
+        "location": "/entity/2gCyPUvK3LoF",
+        "properties": {
+            "label": [
+                "redowa"
+            ],
+            "class": [
+                "Concept"
+            ],
+            "aliases": [
+                "redova"
+            ],
+            "description": [],
+            "instance of": [
+                "type of musical work"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
+            ]
+        }
+    },
+    {
         "location": "/entity/mFC9uMqxqNkK",
         "properties": {
             "label": [
@@ -7537,8 +8017,8 @@
                 "Journal des demoiselles"
             ],
             "contributor": [
-                "Abonnés du Journal des Demoiselles",
-                "Alexandre Fessy"
+                "Alexandre Fessy",
+                "Abonnés du Journal des Demoiselles"
             ],
             "holding institution": [
                 "Royal Conservatory of Brussels"
@@ -7689,8 +8169,8 @@
             "aliases": [],
             "description": [],
             "instance of": [
-                "chamber opera",
-                "operetta"
+                "operetta",
+                "chamber opera"
             ],
             "part of": [
                 "Journal des demoiselles"
@@ -7707,8 +8187,8 @@
                 "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -7820,11 +8300,49 @@
         }
     },
     {
+        "location": "/entity/gPwrHDShoQZ9",
+        "properties": {
+            "label": [
+                "La maison isolée : cantilène / paroles et musique d'Eugène Talbot",
+                "La maison isolée. Cantilène. Paroles et musique d'Eugène Talbot"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des demoiselles"
+            ],
+            "date": [],
+            "contributor": [
+                "Abonnés du Journal des Demoiselles",
+                "Eugène Talbot"
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "voice",
+                "piano"
+            ],
+            "language": [
+                "French"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_24/CR-02772_24_001.jpg"
+            ]
+        }
+    },
+    {
         "location": "/entity/8Kkx7abwhpEx",
         "properties": {
             "label": [
-                "Souvenir de Galluis. Mélodie variée",
-                "Souvenir de Galluis : mélodie variée : Extrait de L' Oasis de l' étude / par A. Scard"
+                "Souvenir de Galluis : mélodie variée : Extrait de L' Oasis de l' étude / par A. Scard",
+                "Souvenir de Galluis. Mélodie variée"
             ],
             "class": [
                 "Manifestation"
@@ -7880,8 +8398,8 @@
                 "Journal des demoiselles"
             ],
             "date": [
-                "1876-01-01",
-                "1872-01-01"
+                "1872-01-01",
+                "1876-01-01"
             ],
             "contributor": [
                 "Hortense Wild"
@@ -7924,8 +8442,8 @@
         "location": "/entity/Ao5Ame5q39g9",
         "properties": {
             "label": [
-                "Le Corbeille de roses. Valse brillante",
-                "Le Corbeille de roses"
+                "Le Corbeille de roses",
+                "Le Corbeille de roses. Valse brillante"
             ],
             "class": [
                 "Manifestation"
@@ -7978,8 +8496,8 @@
                 "research institute"
             ],
             "place": [
-                "Ghent",
-                "Belgium"
+                "Belgium",
+                "Ghent"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png"
@@ -7990,8 +8508,8 @@
         "location": "/entity/HhZTHayappCf",
         "properties": {
             "label": [
-                "Captivité",
-                "Captivité: Mélodie."
+                "Captivité: Mélodie.",
+                "Captivité"
             ],
             "class": [
                 "Manifestation"
@@ -8014,8 +8532,8 @@
                 "Orpheus Instituut"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -8149,8 +8667,8 @@
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "piano",
                 "voice",
+                "piano",
                 "guitar"
             ],
             "language": [
@@ -8219,8 +8737,8 @@
                 "1876-01-01"
             ],
             "holding institution": [
-                "Harvard University",
-                "Munich Digitization Center"
+                "Munich Digitization Center",
+                "Harvard University"
             ],
             "language": [
                 "French"
@@ -8252,6 +8770,53 @@
             ],
             "occupation": [
                 "lyricist"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
+            ]
+        }
+    },
+    {
+        "location": "/entity/HVwFKDmktcqF",
+        "properties": {
+            "label": [
+                "A. Morin"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "occupation": [
+                "composer"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
+            ]
+        }
+    },
+    {
+        "location": "/entity/iNNYKR2Wjhuv",
+        "properties": {
+            "label": [
+                "Achille Decombes"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "gender": [
+                "male"
+            ],
+            "occupation": [
+                "composer"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -8446,16 +9011,16 @@
                 "1856-09"
             ],
             "contributor": [
-                "Antoine Scard",
                 "Délia Belloni",
+                "Antoine Scard",
                 "A. Vialon"
             ],
             "holding institution": [
                 "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -8468,6 +9033,31 @@
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1856-1/BV14-2029_1856-1_001.jpg"
+            ]
+        }
+    },
+    {
+        "location": "/entity/MzKoxNkE4So3",
+        "properties": {
+            "label": [
+                "Eugène Bousquet"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "gender": [
+                "male"
+            ],
+            "occupation": [
+                "composer"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -8500,8 +9090,8 @@
                 "Place"
             ],
             "aliases": [
-                "Antwerpen",
-                "Anvers"
+                "Anvers",
+                "Antwerpen"
             ],
             "description": [],
             "place": [
@@ -8577,8 +9167,8 @@
                 "human"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -8607,6 +9197,43 @@
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
+            ]
+        }
+    },
+    {
+        "location": "/entity/oCXudSphqf9d",
+        "properties": {
+            "label": [
+                "Delia : polka-mazurka / par Albin de Leïris",
+                "Delia. Polka-mazurka. Par Albin de Leïris"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des demoiselles"
+            ],
+            "date": [],
+            "contributor": [
+                "Albin de Leiris",
+                "Abonnés du Journal des Demoiselles"
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "piano"
+            ],
+            "form of creative work": [
+                "polka"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_22/CR-02772_22_001.jpg"
             ]
         }
     },
@@ -8672,15 +9299,15 @@
                 "Trésor des demoiselles"
             ],
             "contributor": [
-                "Johannes Verhulst",
-                "Victor Hugo"
+                "Victor Hugo",
+                "Johannes Verhulst"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "language": [
                 "French"
@@ -8818,8 +9445,8 @@
         "location": "/entity/BZM7enxiSFFc",
         "properties": {
             "label": [
-                "Le soir. Rêverie pour piano",
-                "Le soir : rêverie pour piano"
+                "Le soir : rêverie pour piano",
+                "Le soir. Rêverie pour piano"
             ],
             "class": [
                 "Manifestation"
@@ -8883,8 +9510,8 @@
                 "Munich Digitization Center"
             ],
             "instrumentation": [
-                "piano",
                 "voice",
+                "piano",
                 "guitar"
             ],
             "language": [
@@ -9016,8 +9643,8 @@
         "location": "/entity/VsU7Hy7ZpQUd",
         "properties": {
             "label": [
-                "La saison des beaux jours. Églogue",
-                "La saison des beaux jours : églogue / paroles et musique de Marc Constantin"
+                "La saison des beaux jours : églogue / paroles et musique de Marc Constantin",
+                "La saison des beaux jours. Églogue"
             ],
             "class": [
                 "Manifestation"
@@ -9040,8 +9667,8 @@
                 "Royal Conservatory of Brussels"
             ],
             "instrumentation": [
-                "piano",
-                "voice"
+                "voice",
+                "piano"
             ],
             "place": [
                 "Brussels"
@@ -9155,8 +9782,8 @@
                 "female"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/b/b6/Amable_Tastu_by_Constance_Mayer.jpg"
@@ -9337,8 +9964,8 @@
         "location": "/entity/9Rc8SbHP9LwF",
         "properties": {
             "label": [
-                "Neptune: quadrille pour le piano",
-                "Neptune. Quadrille pour le piano"
+                "Neptune. Quadrille pour le piano",
+                "Neptune: quadrille pour le piano"
             ],
             "class": [
                 "Manifestation"
@@ -9355,8 +9982,8 @@
                 1853
             ],
             "contributor": [
-                "Charles Le Corbeiller",
-                "Abonées du Journal des Dames et Demoiselles"
+                "Abonées du Journal des Dames et Demoiselles",
+                "Charles Le Corbeiller"
             ],
             "holding institution": [
                 "Royal Conservatory of Antwerp"
@@ -9409,8 +10036,8 @@
                 "Brussels"
             ],
             "form of creative work": [
-                "mazurka",
-                "polka"
+                "polka",
+                "mazurka"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p44/orp-talex-thalie-20143702p44-ps-00001.jpg"
@@ -9435,8 +10062,8 @@
                 "male"
             ],
             "occupation": [
-                "translator",
-                "composer"
+                "composer",
+                "translator"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -9535,8 +10162,8 @@
                 "male"
             ],
             "occupation": [
-                "lyricist",
-                "poet"
+                "poet",
+                "lyricist"
             ],
             "image": [
                 "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
@@ -9606,6 +10233,68 @@
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fran%C3%A7ois_Bazin_par_Carjat_BNF_Gallica.png?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original"
+            ]
+        }
+    },
+    {
+        "location": "/entity/3uXhFz4koKyE",
+        "properties": {
+            "label": [
+                "Le carnaval au pensionnat : quadrille / J. B. Tolbecque",
+                "Le carnaval au pensionnat. Quadrille. J. B. Tolbecque"
+            ],
+            "class": [
+                "Manifestation"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "notated music"
+            ],
+            "part of": [
+                "Journal des demoiselles"
+            ],
+            "date": [],
+            "contributor": [
+                "Jean-Baptiste-Joseph Tolbecque",
+                "Abonnés du Journal des Demoiselles"
+            ],
+            "holding institution": [
+                "Royal Conservatory of Brussels"
+            ],
+            "instrumentation": [
+                "piano"
+            ],
+            "form of creative work": [
+                "quadrille"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_23/CR-02772_23_001.jpg"
+            ]
+        }
+    },
+    {
+        "location": "/entity/gM8jfdtRkzP9",
+        "properties": {
+            "label": [
+                "Célestin Demeur"
+            ],
+            "class": [
+                "Agent"
+            ],
+            "aliases": [],
+            "description": [],
+            "instance of": [
+                "human"
+            ],
+            "gender": [
+                "male"
+            ],
+            "occupation": [
+                "composer"
+            ],
+            "image": [
+                "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
             ]
         }
     },
@@ -9696,8 +10385,8 @@
                 "male"
             ],
             "occupation": [
-                "composer",
-                "writer"
+                "writer",
+                "composer"
             ],
             "image": [
                 "https://upload.wikimedia.org/wikipedia/commons/d/db/Octave_Fouque_par_D%C3%A9li%C3%A9%2C_d%C3%A9tail.jpg"

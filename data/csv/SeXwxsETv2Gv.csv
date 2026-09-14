@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,date_of_birth,,,1827.0,,,,,,,,,,,
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,described_by_source,,,,,,,,,,,,,,
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,date_of_death,,,,,1887.0,,,,,,,,,
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,place_of_birth,,,,,,,,,,,,,,
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,place_of_death,,,,,,,,,,,,,,
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q9049950,,,,
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Nicolau Manent,['Nicolau Manent i Maurant'],,Nicolau Manent,Nicolau Manent.md,SeXwxsETv2Gv,508485002759992770520,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU,Journal des demoiselles

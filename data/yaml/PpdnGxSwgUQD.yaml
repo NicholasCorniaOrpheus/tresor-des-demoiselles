@@ -1,0 +1,36 @@
+metadata:
+  class: Agent
+  label: Julie Demeur
+  aliases:
+  description:
+  base_name: Julie Demeur
+  filename: Julie Demeur.md
+  id: PpdnGxSwgUQD
+  n_id: 450234664287847449188
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
+  identifier:
+  occupation:
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gM8jfdtRkzP9
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9GekkBKKgjMW
+        label: sibling
+      label: Célestin Demeur
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/PpdnGxSwgUQD.json
+content:
+  markdown_content: ""
