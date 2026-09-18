@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Antoine Rocheblave",
+    "aliases": null,
+    "description": null,
+    "base_name": "Antoine Rocheblave",
+    "filename": "Antoine Rocheblave.md",
+    "id": "dotvkxrkZXYu",
+    "n_id": 738871447573030448157
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1829,
+        "reference_URL": "https://www.artlyrique.fr/personnages/Rocheblave.html"
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1882,
+        "reference_URL": "https://www.artlyrique.fr/personnages/Rocheblave.html"
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q141495527"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cZsa9QkDZfZY",
+        "label": "arranger"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "label": "Journal des demoiselles"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bbp23eR4DnZs",
+        "label": "Élisa Adam-Boisgontier"
+      }
+    ],
+    "member_of": null
+  }
+}

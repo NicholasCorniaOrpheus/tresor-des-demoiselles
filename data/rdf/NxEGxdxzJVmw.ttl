@@ -1,0 +1,59 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:NxEGxdxzJVmw-9s7WDWgKDqoi a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:NxEGxdxzJVmw ;
+    schema:datePublished "1866-09" .
+
+tdd:NxEGxdxzJVmw-AUutkPFhFKaU a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:NxEGxdxzJVmw .
+
+tdd:NxEGxdxzJVmw-UdFjfTqhPZDr a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:NxEGxdxzJVmw .
+
+tdd:NxEGxdxzJVmw-ZaSwir5RH54G a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:bbp23eR4DnZs ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:NxEGxdxzJVmw .
+
+tdd:NxEGxdxzJVmw-eH2wgUSYT3Fo a rdf:Statement ;
+    bf:heldBy tdd:LXpbq9mb5bNo ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nbbbe5bf571fd4b31b5799502b914138b" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:NxEGxdxzJVmw ;
+    schema:datePublished "1866" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991005002449706186> .
+
+tdd:NxEGxdxzJVmw-ezdCBMrHwqLP a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:dotvkxrkZXYu ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:NxEGxdxzJVmw .
+
+tdd:NxEGxdxzJVmw a rdfs:Resource ;
+    rdfs:label "Fleurettes. Ronde" ;
+    dcterms:contributor tdd:bbp23eR4DnZs,
+        tdd:dotvkxrkZXYu ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Fleurettes : ronde paroles de Mme Adam Boisgontier ; musique de A. Rocheblave." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:8FqAjuo6FtkU,
+        tdd:HSET3ivinxzc ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

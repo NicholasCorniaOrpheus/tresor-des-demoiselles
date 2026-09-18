@@ -1,0 +1,23 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix gnd: <https://d-nb.info/standards/elementset/gnd#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:G39Q2gVfxU7S-oMTpqnTLeyWC a rdf:Statement ;
+    bf:Relationship tdd:9GekkBKKgjMW ;
+    rdf:object tdd:NTcJNXAMBCUB ;
+    rdf:predicate gnd:relatedTerm ;
+    rdf:subject tdd:G39Q2gVfxU7S .
+
+tdd:G39Q2gVfxU7S a rdfs:Resource ;
+    rdfs:label "Juline Poncabaré" ;
+    dcterms:type "Agent" ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    gnd:relatedTerm tdd:NTcJNXAMBCUB ;
+    schema:gender tdd:6vopxa7szAQ4 ;
+    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5" .
+

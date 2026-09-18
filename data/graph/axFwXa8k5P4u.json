@@ -37,8 +37,8 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gPwrHDShoQZ9",
-      "label": "La maison isolée. Cantilène. Paroles et musique d'Eugène Talbot",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/at6tSFKbDWgf",
+      "label": "La maison isolée. Cantilène",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_24/CR-02772_24_001.jpg"
     }
@@ -70,7 +70,7 @@
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gPwrHDShoQZ9",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/at6tSFKbDWgf",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/axFwXa8k5P4u",
       "property": "contributor"
     },
@@ -80,7 +80,7 @@
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gPwrHDShoQZ9",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/at6tSFKbDWgf",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     }

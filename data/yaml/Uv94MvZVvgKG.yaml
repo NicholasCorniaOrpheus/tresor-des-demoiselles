@@ -1,0 +1,53 @@
+metadata:
+  class: Manifestation
+  label: Adagio de la sonate op. 13 Beethoven
+  aliases:
+  description:
+  base_name: Adagio de la sonate op. 13 Beethoven
+  filename: Adagio de la sonate op. 13 Beethoven.md
+  id: Uv94MvZVvgKG
+  n_id: 555403852492287936257
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1870-01
+      label: Journal des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/btBQvoeEkgjR
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Ludwig van Beethoven
+  has_version:
+    - permalink: https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012402829706186
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WYNgoYLdzNNR
+        label: Biblioteca comunale di Ala
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1870
+  title:
+    - Adagio de la sonate op. 13 Beethoven.
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5GQCpP8JBfZH]
+assets:
+  local_asset_path:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Uv94MvZVvgKG.json
+content:
+  markdown_content: ""

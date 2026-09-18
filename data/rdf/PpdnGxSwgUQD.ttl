@@ -1,9 +1,17 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix gnd: <https://d-nb.info/standards/elementset/gnd#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:PpdnGxSwgUQD-ZB7DQJhWkDMA a rdf:Statement ;
+    bf:Relationship tdd:9GekkBKKgjMW ;
+    rdf:object tdd:gM8jfdtRkzP9 ;
+    rdf:predicate gnd:relatedTerm ;
+    rdf:subject tdd:PpdnGxSwgUQD .
 
 tdd:PpdnGxSwgUQD a rdfs:Resource ;
     rdfs:label "Julie Demeur" ;

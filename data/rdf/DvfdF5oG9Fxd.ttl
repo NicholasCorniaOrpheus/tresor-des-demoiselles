@@ -1,0 +1,58 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:DvfdF5oG9Fxd-53PH5nR6ecWv a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Naaa60ae0592b47a98e20acbd4f1af1cc" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:DvfdF5oG9Fxd ;
+    schema:datePublished "1868" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012400539706186> .
+
+tdd:DvfdF5oG9Fxd-ELMQCJZMSSM4 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:DvfdF5oG9Fxd .
+
+tdd:DvfdF5oG9Fxd-Pt7SDUWo6H2m a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:QHHdDivjLe3k ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:DvfdF5oG9Fxd .
+
+tdd:DvfdF5oG9Fxd-ZUSDNXM5Zkrq a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:DvfdF5oG9Fxd .
+
+tdd:DvfdF5oG9Fxd-a73C9HVU5UKb a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:LkygVorE45mg ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:DvfdF5oG9Fxd .
+
+tdd:DvfdF5oG9Fxd-at4hnWtjimt9 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:DvfdF5oG9Fxd ;
+    schema:datePublished "1868-09" .
+
+tdd:DvfdF5oG9Fxd a rdfs:Resource ;
+    rdfs:label "Le chant des petits oiseaux. Mélodie" ;
+    dcterms:contributor tdd:LkygVorE45mg,
+        tdd:QHHdDivjLe3k ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Le chant des petits oiseaux : mélodie paroles de M.me C. J. de Camaret ; musique de Henri Varlet." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:WHdDug4Xwv3G ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

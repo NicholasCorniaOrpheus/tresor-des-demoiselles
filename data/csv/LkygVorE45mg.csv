@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label,member_of_value
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,date_of_birth,,,,,,,,,,,,,,,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,described_by_source,,,,,,,,,,,,,,,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,date_of_death,,,,,,,,,,,,,,,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,place_of_birth,,,,,,,,,,,,,,,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,place_of_death,,,,,,,,,,,,,,,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,identifier,,,,,,,,,,,,,,,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU,Journal des demoiselles,
+Agent,Henri Varlet,,,Henri Varlet,Henri Varlet.md,LkygVorE45mg,387005217066056948891,member_of,,,,,,,,,,,,,,,

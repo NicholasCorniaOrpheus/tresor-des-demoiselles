@@ -7,33 +7,33 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:cLxWBzkiAi6b-JmB9Rrwo7uhJ a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11327125> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11327125/manifest> ;
-    rdf:object "N9be7e73531014d62bd44dcb388c07b35" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:cLxWBzkiAi6b ;
-    schema:datePublished "1876-01-01" ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb11327125> .
-
-tdd:cLxWBzkiAi6b-L3jvAJZnjoCg a rdf:Statement ;
+tdd:cLxWBzkiAi6b-JbgtCNLu6JBc a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:cLxWBzkiAi6b ;
     schema:datePublished "1876-01-01" ;
     schema:volumeNumber 44 .
 
-tdd:cLxWBzkiAi6b-NXXuDydRHmXJ a rdf:Statement ;
+tdd:cLxWBzkiAi6b-SJ6oFbdo2joG a rdf:Statement ;
     bf:electronicLocator <https://archive.org/details/journaldesdemoi11unkngoog> ;
     bf:heldBy tdd:HzNj4duEtJSX ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Na0e5d5c4884443e5807cf90113053817" ;
+    rdf:object "N9961d5b1288d4c92858692dee7f81a84" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:cLxWBzkiAi6b ;
     schema:datePublished "1876-01-01" ;
     schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
+
+tdd:cLxWBzkiAi6b-iGjxoa4zc5bf a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11327125> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11327125/manifest> ;
+    rdf:object "N5761ef2f3d6a465b99f0480c19cc2d28" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:cLxWBzkiAi6b ;
+    schema:datePublished "1876-01-01" ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb11327125> .
 
 tdd:cLxWBzkiAi6b a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1876)" ;

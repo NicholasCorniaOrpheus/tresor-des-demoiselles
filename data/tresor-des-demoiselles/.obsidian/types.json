@@ -5,6 +5,9 @@
     "tags": "tags",
     "identifier": "multitext",
     "holding_institution": "multitext",
-    "form_of_creative_work": "multitext"
+    "form_of_creative_work": "multitext",
+    "country_of_citizenship": "multitext",
+    "about": "multitext",
+    "depicts": "multitext"
   }
 }

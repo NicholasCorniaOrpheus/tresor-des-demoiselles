@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Trento",
+    "aliases": null,
+    "description": null,
+    "base_name": "Trento",
+    "filename": "Trento.md",
+    "id": "E4xSS3mmne5W",
+    "n_id": 248700565602960039946
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q3376"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B",
+        "label": "Italy"
+      }
+    ]
+  }
+}

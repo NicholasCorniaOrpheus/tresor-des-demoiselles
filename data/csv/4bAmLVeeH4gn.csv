@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,identifier_value,occupation_value,occupation_label,related_to_value,member_of_value
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,date_of_birth,,,,,,,,,,,,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,described_by_source,,,,,,,,,,,,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,date_of_death,,,,,,,,,,,,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,place_of_birth,,,,,,,,,,,,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,place_of_death,,,,,,,,,,,,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,sex_or_gender,,,,,,,,,,,,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,identifier,,,,,,,,,http://www.wikidata.org/entity/Q141462294,,,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,occupation,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,related_to,,,,,,,,,,,,,
+Agent,Alfred Systermans,,,Alfred Systermans,Alfred Systermans.md,4bAmLVeeH4gn,53274539009764571990,member_of,,,,,,,,,,,,,

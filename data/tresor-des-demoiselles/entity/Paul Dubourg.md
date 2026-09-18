@@ -16,5 +16,9 @@ identifier:
   - http://www.wikidata.org/entity/Q140330128
 occupation:
   - "[[librettist]]"
+  - "[[lyricist]]"
 country_of_citizenship: "[[France]]"
+related_to:
+  - value: "[[Journal des demoiselles]]"
+member_of:
 ---

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Ludwig van Beethoven",
+    "aliases": null,
+    "description": null,
+    "base_name": "Ludwig van Beethoven",
+    "filename": "Ludwig van Beethoven.md",
+    "id": "btBQvoeEkgjR",
+    "n_id": 699146080862117184587
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1770
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1827
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q255"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

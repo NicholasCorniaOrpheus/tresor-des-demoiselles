@@ -2,6 +2,7 @@ metadata:
   class: Concept
   description:
   aliases:
+    - quatre mains
   label: piano four hands
   base_name: piano four hands
   filename: piano four hands.md

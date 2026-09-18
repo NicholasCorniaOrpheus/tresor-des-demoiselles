@@ -1,0 +1,37 @@
+metadata:
+  class: Agent
+  label: Théodore Botrel
+  aliases:
+  description:
+  base_name: Théodore Botrel
+  filename: Théodore Botrel.md
+  id: crb8sHGULhSY
+  n_id: 719208559405981848000
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+    - value: 1868
+  described_by_source:
+  date_of_death:
+    - value: 1925
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+    - http://www.wikidata.org/entity/Q2773178
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS
+      label: poet
+  related_to:
+  member_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/crb8sHGULhSY.json
+content:
+  markdown_content: ""

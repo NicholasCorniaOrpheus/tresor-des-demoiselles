@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "folklore",
+    "base_name": "folklore",
+    "filename": "folklore.md",
+    "id": "cPayemxUKyHY",
+    "n_id": 709432743594089548290
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q36192"
+    ]
+  }
+}

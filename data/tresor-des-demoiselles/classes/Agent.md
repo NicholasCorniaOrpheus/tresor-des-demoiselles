@@ -145,7 +145,39 @@ fields:
     options: {}
     path: fJIl1v
     id: TIGb8i
-version: "2.208"
+  - name: member_of
+    type: ObjectList
+    options:
+      displayTemplate: ""
+      itemDisplayTemplate: ""
+    path: ""
+    id: T9Bg94
+  - name: reference_URL
+    type: Input
+    options: {}
+    path: T9Bg94
+    id: p15H1e
+  - name: start_date
+    type: Input
+    options: {}
+    path: T9Bg94
+    id: LFp3EL
+  - name: end_date
+    type: Input
+    options: {}
+    path: T9Bg94
+    id: eTTHKl
+  - name: role
+    type: File
+    options: {}
+    path: T9Bg94
+    id: rQhm1a
+  - name: value
+    type: File
+    options: {}
+    path: T9Bg94
+    id: IvihVU
+version: "2.214"
 limit: 20
 mapWithTag: false
 icon: package
@@ -157,6 +189,12 @@ extends:
 savedViews: []
 favoriteView:
 fieldsOrder:
+  - T9Bg94
+  - IvihVU
+  - rQhm1a
+  - eTTHKl
+  - LFp3EL
+  - p15H1e
   - CY396p
   - kAwBpA
   - aUzFxG

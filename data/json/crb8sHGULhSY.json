@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Théodore Botrel",
+    "aliases": null,
+    "description": null,
+    "base_name": "Théodore Botrel",
+    "filename": "Théodore Botrel.md",
+    "id": "crb8sHGULhSY",
+    "n_id": 719208559405981848000
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1868
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1925
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q2773178"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS",
+        "label": "poet"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

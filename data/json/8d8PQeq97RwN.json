@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Andrée Favel",
+    "aliases": null,
+    "description": null,
+    "base_name": "Andrée Favel",
+    "filename": "Andrée Favel.md",
+    "id": "8d8PQeq97RwN",
+    "n_id": 136527059014051030865
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q137719927"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VMZCquADC29J",
+        "label": "opera singer"
+      }
+    ],
+    "related_to": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WQUYEp5MWkGH",
+        "relationship": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Zw3J5xiqV2bA",
+          "label": "spouse"
+        },
+        "label": "Louis Lacombe"
+      }
+    ],
+    "member_of": null
+  }
+}

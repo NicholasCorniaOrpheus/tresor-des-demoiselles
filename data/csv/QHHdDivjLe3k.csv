@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label,member_of_value,member_of_label
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,date_of_birth,,,,,,,,,,,,,,,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,described_by_source,,,,,,,,,,,,,,,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,date_of_death,,,,,,,,,,,,,,,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,place_of_birth,,,,,,,,,,,,,,,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,place_of_death,,,,,,,,,,,,,,,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,,,,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,identifier,,,,,,,,,,,,,,,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa,lyricist,,,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU,Journal des demoiselles,,
+Agent,C.J. de Camaret,['M.me C.J. de Camaret'],,C.J. de Camaret,C.J. de Camaret.md,QHHdDivjLe3k,459519492476079224496,member_of,,,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ki4XenmgvbN,de Camaret family

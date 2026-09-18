@@ -1,0 +1,37 @@
+metadata:
+  class: Agent
+  label: Clément Poncabaré
+  aliases:
+  description:
+  base_name: Clément Poncabaré
+  filename: Clément Poncabaré.md
+  id: NTcJNXAMBCUB
+  n_id: 421986603817837790313
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+  occupation:
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G39Q2gVfxU7S
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9GekkBKKgjMW
+        label: sibling
+      label: Juline Poncabaré
+  member_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/NTcJNXAMBCUB.json
+content:
+  markdown_content: ""

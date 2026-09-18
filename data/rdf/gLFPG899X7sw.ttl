@@ -1,0 +1,58 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:gLFPG899X7sw-Bj2MD9vEpDSK a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:gLFPG899X7sw ;
+    schema:datePublished "1868-11" .
+
+tdd:gLFPG899X7sw-QGzpQCobPMgM a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:gLFPG899X7sw .
+
+tdd:gLFPG899X7sw-TKYkLtTM9moQ a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N377c30248ccc4aab9e496ee32f76d39f" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:gLFPG899X7sw ;
+    schema:datePublished "1868" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012400889706186> .
+
+tdd:gLFPG899X7sw-fbdbjhz7wjc4 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:gLFPG899X7sw .
+
+tdd:gLFPG899X7sw-hsKSMeRhWp7x a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:8XSuzc4cjCmp ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:gLFPG899X7sw .
+
+tdd:gLFPG899X7sw-icej58gyT6e4 a rdf:Statement ;
+    bf:Role tdd:3yS9agtba9rA ;
+    rdf:object tdd:4Z9bCRmwDbS7 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:gLFPG899X7sw .
+
+tdd:gLFPG899X7sw a rdfs:Resource ;
+    rdfs:label "Le soir. Mélodie" ;
+    dcterms:contributor tdd:4Z9bCRmwDbS7,
+        tdd:8XSuzc4cjCmp ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Le soir : mélodie de Weber ; paroles de Paul Dubourg." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:WHdDug4Xwv3G ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

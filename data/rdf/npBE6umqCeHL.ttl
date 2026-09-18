@@ -7,34 +7,34 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:npBE6umqCeHL-5ZCAzp7QGTz3 a rdf:Statement ;
+tdd:npBE6umqCeHL-7Ez9dxv63ffL a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359988> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359988/manifest> ;
+    rdf:object "N5b1602e412d54def9b69c7947d8dd597" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:npBE6umqCeHL ;
+    schema:datePublished "1837-01-01" ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb10359988> .
+
+tdd:npBE6umqCeHL-9vY63PxEVkeL a rdf:Statement ;
     bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1837." ;
     bf:electronicLocator <https://archive.org/details/journaldesdemoi26unkngoog> ;
     bf:heldBy tdd:HzNj4duEtJSX ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N56bd5b240bc541938271598b9c6bd935" ;
+    rdf:object "Nfc9ceef53e4f4579be595962ca78ef2b" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:npBE6umqCeHL ;
     schema:datePublished "1837-01-01" ;
     schema:url <https://id.lib.harvard.edu/alma/990053803900203941/catalog> .
 
-tdd:npBE6umqCeHL-TpjzAvYXj7cB a rdf:Statement ;
+tdd:npBE6umqCeHL-hfX8ZnjgeNbU a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:npBE6umqCeHL ;
     schema:datePublished "1837-01-01" ;
     schema:volumeNumber 5 .
-
-tdd:npBE6umqCeHL-b2NZDxMSvvU9 a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359988> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359988/manifest> ;
-    rdf:object "Nd9624dbd5a4a4b01b8d5c341d2cff0b6" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:npBE6umqCeHL ;
-    schema:datePublished "1837-01-01" ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb10359988> .
 
 tdd:npBE6umqCeHL a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1837)" ;

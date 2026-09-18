@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Biblioteca Civica di Riva del Garda",
+    "aliases": null,
+    "description": null,
+    "base_name": "Biblioteca Civica di Riva del Garda",
+    "filename": "Biblioteca Civica di Riva del Garda.md",
+    "id": "imcKCzyxkTwE",
+    "n_id": 841221294479759260809
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
+        "label": "public library"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7ghKvwoUDWGX]"
+      }
+    ],
+    "dissolved": null,
+    "contributor": null,
+    "official_website": [
+      "http://www.comune.rivadelgarda.tn.it/biblioteca"
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q112944579"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B",
+        "label": "Italy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:UVpHqGKMxPXT a rdfs:Resource ;
+    rdfs:label "Rovereto" ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q279373> ;
+    dcterms:type "Place" ;
+    wdt:P17 tdd:VAvBZjyK4s8B .
+

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Amélie. Polka mazurka",
+    "aliases": null,
+    "description": null,
+    "base_name": "Amélie. Polka mazurka",
+    "filename": "Amélie. Polka mazurka.md",
+    "id": "QHDoUebEJgKi",
+    "n_id": 459495230094366781087
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "publication_date": "1866-09",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4bAmLVeeH4gn",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Alfred Systermans"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991005002499706186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LXpbq9mb5bNo",
+          "label": "Biblioteca Thun"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "publication_date": 1866
+      }
+    ],
+    "title": [
+      "Amélie : polka mazurka par Alfred Systermans."
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": null,
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU",
+        "label": "polka"
+      }
+    ]
+  }
+}

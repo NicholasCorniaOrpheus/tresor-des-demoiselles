@@ -8,24 +8,24 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ASrkWEECtVfe-gGyuZ6GS3VrC a rdf:Statement ;
+tdd:ASrkWEECtVfe-9vgU6ZNrdxec a rdf:Statement ;
+    bf:Role tdd:nQTxNAy4WtLK ;
+    rdf:object tdd:QNrJy8MMgzU8 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ASrkWEECtVfe .
+
+tdd:ASrkWEECtVfe-KiNPasLCczJP a rdf:Statement ;
     bf:Role tdd:Tk5wRTQJ7aUs ;
     rdf:object tdd:XogB6ccutzoR ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:ASrkWEECtVfe .
 
-tdd:ASrkWEECtVfe-i28mBLSLmUyo a rdf:Statement ;
+tdd:ASrkWEECtVfe-aF7hBrQAL56A a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ASrkWEECtVfe ;
     schema:datePublished "1859-01-01" ;
     schema:volumeNumber 27 .
-
-tdd:ASrkWEECtVfe-i85xQqPgpJEf a rdf:Statement ;
-    bf:Role tdd:nQTxNAy4WtLK ;
-    rdf:object tdd:QNrJy8MMgzU8 ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:ASrkWEECtVfe .
 
 tdd:ASrkWEECtVfe a rdfs:Resource ;
     rdfs:label "Trésor des demoiselles (1859)" ;

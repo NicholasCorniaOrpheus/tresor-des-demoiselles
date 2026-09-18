@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Benjamin Bilse",
+    "aliases": null,
+    "description": null,
+    "base_name": "Benjamin Bilse",
+    "filename": "Benjamin Bilse.md",
+    "id": "YKeuirNkbiW8",
+    "n_id": 625465978798070356911
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1816
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1902
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q457806"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

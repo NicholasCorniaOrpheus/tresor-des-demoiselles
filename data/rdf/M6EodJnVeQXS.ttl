@@ -1,0 +1,44 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:M6EodJnVeQXS-A2L9zHrgyDLc a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:M6EodJnVeQXS ;
+    schema:datePublished "1869" .
+
+tdd:M6EodJnVeQXS-BazZE2tY9QZk a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:M6EodJnVeQXS .
+
+tdd:M6EodJnVeQXS-cRf9hEKoWnqn a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N5eb878ad07d941acb6c6aaa89c995931" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:M6EodJnVeQXS ;
+    schema:datePublished "1869" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012402019706186> .
+
+tdd:M6EodJnVeQXS-eQhz2LNbi7FM a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ek3Kt26Yt2sh ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:M6EodJnVeQXS .
+
+tdd:M6EodJnVeQXS a rdfs:Resource ;
+    rdfs:label "Janine. Valse" ;
+    dcterms:contributor tdd:ek3Kt26Yt2sh ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Janine : valse par A. Marquerie." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC]> .
+

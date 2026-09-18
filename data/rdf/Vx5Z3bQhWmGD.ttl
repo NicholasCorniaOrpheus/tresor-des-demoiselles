@@ -1,0 +1,58 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:Vx5Z3bQhWmGD-52HZXfVoDNS7 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Vx5Z3bQhWmGD .
+
+tdd:Vx5Z3bQhWmGD-AzsjdAze7oyJ a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:Vx5Z3bQhWmGD ;
+    schema:datePublished "1869-01" .
+
+tdd:Vx5Z3bQhWmGD-HZHpgV39GknH a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Vx5Z3bQhWmGD .
+
+tdd:Vx5Z3bQhWmGD-NSkev7a6i9Qh a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nece9e3ae203d404b8c3dab1ec9ede295" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Vx5Z3bQhWmGD ;
+    schema:datePublished "1869" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012401289706186> .
+
+tdd:Vx5Z3bQhWmGD-SQcyb24MdxMq a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:4Z9bCRmwDbS7 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Vx5Z3bQhWmGD .
+
+tdd:Vx5Z3bQhWmGD-eeHWyCKHDn92 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ndscpsPeLQkH ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Vx5Z3bQhWmGD .
+
+tdd:Vx5Z3bQhWmGD a rdfs:Resource ;
+    rdfs:label "Souviens-toi! Mélodie" ;
+    dcterms:contributor tdd:4Z9bCRmwDbS7,
+        tdd:ndscpsPeLQkH ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Souviens-toi! : mélodie paroles de Paul Dubourg ; musique de Mendelssohn." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:WHdDug4Xwv3G ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

@@ -1,0 +1,20 @@
+metadata:
+  class: Place
+  label: Poland
+  aliases:
+  description:
+  base_name: Poland
+  filename: Poland.md
+  id: 9zb8m5j522fm
+  n_id: 164935516820538457720
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q368949
+  country:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/9zb8m5j522fm.json
+content:
+  markdown_content: ""

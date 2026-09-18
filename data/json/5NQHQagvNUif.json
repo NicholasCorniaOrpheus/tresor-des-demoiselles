@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": [
+      "catalog"
+    ],
+    "label": "catalogue",
+    "base_name": "catalogue",
+    "filename": "catalogue.md",
+    "id": "5NQHQagvNUif",
+    "n_id": 69289814037289520911
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q2352616"
+    ]
+  }
+}

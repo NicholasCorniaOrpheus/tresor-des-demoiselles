@@ -1,0 +1,53 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:8zKpJnZ9weL7-BnkeJ84JGqPV a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:8zKpJnZ9weL7 ;
+    schema:datePublished "1856-11-01" ;
+    schema:volumeNumber 24 .
+
+tdd:8zKpJnZ9weL7-RJEDYW6fQacw a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N8614592f7ada4ad1ab011da92898bdc1" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:8zKpJnZ9weL7 ;
+    schema:datePublished "1856-11-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:8zKpJnZ9weL7-WfqiSt8gQQeV a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:8zKpJnZ9weL7 .
+
+tdd:8zKpJnZ9weL7-d5MjZnskP7mk a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:NYeqU3eqcUoH ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:8zKpJnZ9weL7 .
+
+tdd:8zKpJnZ9weL7-d6Gadpeki7sE a rdf:Statement ;
+    bf:Role tdd:cZsa9QkDZfZY ;
+    rdf:object tdd:bqLWPNXVxrhM ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:8zKpJnZ9weL7 .
+
+tdd:8zKpJnZ9weL7 a rdfs:Resource ;
+    rdfs:label "L'Ouragan" ;
+    dcterms:contributor tdd:NYeqU3eqcUoH,
+        tdd:bqLWPNXVxrhM ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "L'Ouragan: Quadrille par Musard: Arrangé à quatre mains par A. Scola." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:HKt9yvCZmpw6 .
+

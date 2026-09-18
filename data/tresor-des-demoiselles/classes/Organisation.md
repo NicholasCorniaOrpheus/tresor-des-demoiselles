@@ -108,7 +108,39 @@ fields:
     options: {}
     path: 2u9wEt
     id: 3Gh93s
-version: "2.144"
+  - name: member
+    type: ObjectList
+    options:
+      displayTemplate: ""
+      itemDisplayTemplate: ""
+    path: ""
+    id: Yr9yq7
+  - name: value
+    type: File
+    options: {}
+    path: Yr9yq7
+    id: DdX3If
+  - name: reference_URL
+    type: Input
+    options: {}
+    path: Yr9yq7
+    id: ZJ8et9
+  - name: role
+    type: File
+    options: {}
+    path: Yr9yq7
+    id: qEFlJQ
+  - name: start_date
+    type: Input
+    options: {}
+    path: Yr9yq7
+    id: iDDwOV
+  - name: end_date
+    type: Input
+    options: {}
+    path: Yr9yq7
+    id: NY6yIw
+version: "2.158"
 limit: 20
 mapWithTag: false
 icon: package
@@ -120,6 +152,12 @@ extends:
 savedViews: []
 favoriteView:
 fieldsOrder:
+  - Yr9yq7
+  - DdX3If
+  - qEFlJQ
+  - NY6yIw
+  - iDDwOV
+  - ZJ8et9
   - KpfCRs
   - xvTGmM
   - T1sgCN

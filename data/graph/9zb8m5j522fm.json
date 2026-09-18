@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9zb8m5j522fm",
+      "label": "Poland",
+      "class": "Place",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/F3ZoWs87ZnXS",
+      "label": "Ancien Noël tiré des chants religieux de la Pologne",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/F3ZoWs87ZnXS",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9zb8m5j522fm",
+      "property": "about"
+    }
+  ]
+}

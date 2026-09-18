@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Ange ployez votre aile! rêverie",
+    "aliases": null,
+    "description": null,
+    "base_name": "Ange ployez votre aile! Rêverie",
+    "filename": "Ange ployez votre aile! Rêverie.md",
+    "id": "JRy7dNW2xPAn",
+    "n_id": 338851121589723654437
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VWaxuELqVfKN",
+        "volume": 1,
+        "label": "Trésor des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5BX54FRugrpJ",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Francesco Masini"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Je7moMztSRaR",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+          "label": "lyricist"
+        },
+        "label": "Émile Barateau"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://anet.be/record/opacap/c:lvd:12971499",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/RYU7rRDeh5zs",
+          "label": "Royal Conservatory of Antwerp"
+        },
+        "place_of_publication": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BxHoLQMESXU2",
+          "label": "Brussels"
+        },
+        "publisher": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XogB6ccutzoR",
+          "label": "François Desterbecq"
+        }
+      }
+    ],
+    "title": [
+      "Ange ployez votre aile! rêverie"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+        "quantity": 1,
+        "label": "voice"
+      }
+    ],
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "depicts": null,
+    "based_on": null,
+    "about": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8FqAjuo6FtkU",
+        "label": "song"
+      }
+    ]
+  }
+}

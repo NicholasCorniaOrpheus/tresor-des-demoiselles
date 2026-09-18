@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Un bal à Couatémas",
+    "aliases": null,
+    "description": "Dediée à M.me Denise",
+    "base_name": "Un bal à Couatémas",
+    "filename": "Un bal à Couatémas.md",
+    "id": "2DBAbcShdbv5",
+    "n_id": 4040486929436523441
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "publication_date": "1870-01",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G39Q2gVfxU7S",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Juline Poncabaré"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NTcJNXAMBCUB",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+          "label": "dedicatee"
+        },
+        "label": "Clément Poncabaré"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012402979706186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WYNgoYLdzNNR",
+          "label": "Biblioteca comunale di Ala"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "publication_date": 1870
+      }
+    ],
+    "title": [
+      "Un bal à Couatémas par Julien Poncabaré."
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": null,
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
+        "label": "classical dance music"
+      }
+    ]
+  }
+}

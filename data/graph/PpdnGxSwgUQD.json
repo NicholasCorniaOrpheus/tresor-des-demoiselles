@@ -7,12 +7,6 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JXP3n3t3zVbG",
-      "label": "Julia-redowa. À ma soeur Julie. Par Célestin Demeur",
-      "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_25/CR-02772_25_001.jpg"
-    },
-    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9GekkBKKgjMW",
       "label": "sibling",
       "class": "Concept",
@@ -29,6 +23,12 @@
       "label": "human",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i2mBJYGW7oT6",
+      "label": "Julia-redowa",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_25/CR-02772_25_001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gM8jfdtRkzP9",
@@ -59,12 +59,12 @@
       "property": "related_to"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JXP3n3t3zVbG",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i2mBJYGW7oT6",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PpdnGxSwgUQD",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JXP3n3t3zVbG",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i2mBJYGW7oT6",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gM8jfdtRkzP9",
       "property": "contributor"
     },

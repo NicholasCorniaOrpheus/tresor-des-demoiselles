@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,related_to_value,member_of_value
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,date_of_birth,,,,,,,,,,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,described_by_source,,,,,,,,,,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,date_of_death,,,,,,,,,,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,place_of_birth,,,,,,,,,,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,place_of_death,,,,,,,,,,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,identifier,,,,,,,,,,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,occupation,,,,,,,,,,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,related_to,,,,,,,,,,,,,
+Agent,Marie Dark,,,Marie Dark,Marie Dark.md,Q5bhDzQdpCfg,455289865061056051784,member_of,,,,,,,,,,,,,

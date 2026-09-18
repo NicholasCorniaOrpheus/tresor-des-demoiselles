@@ -1,0 +1,53 @@
+metadata:
+  class: Manifestation
+  label: Janine. Valse
+  aliases:
+  description:
+  base_name: Janine. Valse
+  filename: Janine. Valse.md
+  id: M6EodJnVeQXS
+  n_id: 393611532146097056769
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1869
+      label: Journal des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ek3Kt26Yt2sh
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Auguste Marquerie
+  has_version:
+    - permalink: https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012402019706186
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WYNgoYLdzNNR
+        label: Biblioteca comunale di Ala
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1869
+  title:
+    - "Janine : valse par A. Marquerie."
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC]
+assets:
+  local_asset_path:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/M6EodJnVeQXS.json
+content:
+  markdown_content: ""

@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label,member_of_value
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,date_of_birth,,,1837.0,,,,,,,,,,,,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,described_by_source,,,,,,,,,,,,,,,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,date_of_death,,,,,1906.0,,,,,,,,,,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,place_of_birth,,,,,,,,,,,,,,,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,place_of_death,,,,,,,,,,,,,,,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q110987337,,,,,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU,Journal des demoiselles,
+Agent,Ernest Létang,,,Ernest Létang,Ernest Létang.md,XBKYGzUx9kMC,601810743914689546921,member_of,,,,,,,,,,,,,,,

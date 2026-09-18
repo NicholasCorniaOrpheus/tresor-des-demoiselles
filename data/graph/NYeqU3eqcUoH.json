@@ -13,7 +13,7 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/g24ctTK5q9V8",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8zKpJnZ9weL7",
       "label": "L'Ouragan",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p39/orp-musar-l'ourag-20143702p39-fs-00001.jpg"
@@ -48,12 +48,12 @@
       "property": "occupation"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/g24ctTK5q9V8",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8zKpJnZ9weL7",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NYeqU3eqcUoH",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/g24ctTK5q9V8",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8zKpJnZ9weL7",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     }

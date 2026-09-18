@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,member_of_value
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,date_of_birth,,,1868.0,,,,,,,,,,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,described_by_source,,,,,,,,,,,,,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,date_of_death,,,,,1925.0,,,,,,,,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,place_of_birth,,,,,,,,,,,,,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,place_of_death,,,,,,,,,,,,,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q2773178,,,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NMBbPvkj3yAS,poet,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,related_to,,,,,,,,,,,,,,
+Agent,Théodore Botrel,,,Théodore Botrel,Théodore Botrel.md,crb8sHGULhSY,719208559405981848000,member_of,,,,,,,,,,,,,,

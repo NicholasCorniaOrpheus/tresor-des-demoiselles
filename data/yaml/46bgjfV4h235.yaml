@@ -1,0 +1,37 @@
+metadata:
+  class: Agent
+  label: Gustave Chouquet
+  aliases:
+  description:
+  base_name: Gustave Chouquet
+  filename: Gustave Chouquet.md
+  id: 46bgjfV4h235
+  n_id: 42933847100450886555
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+    - value: 1819
+  described_by_source:
+  date_of_death:
+    - value: 1886
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+    - http://www.wikidata.org/entity/Q441931
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JHYsKBRZX72B
+      label: historian
+  related_to:
+  member_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/46bgjfV4h235.json
+content:
+  markdown_content: ""

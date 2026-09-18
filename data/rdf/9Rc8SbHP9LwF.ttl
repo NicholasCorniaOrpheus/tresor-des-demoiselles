@@ -6,38 +6,38 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:9Rc8SbHP9LwF-3ecqF3S7qseq a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:9Rc8SbHP9LwF .
+tdd:9Rc8SbHP9LwF-5tgFHAbRgHCC a rdf:Statement ;
+    rdf:object tdd:5vMfYTL9wGVi ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:9Rc8SbHP9LwF ;
+    schema:datePublished "1853" .
 
-tdd:9Rc8SbHP9LwF-FU3sAoiPzQuw a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:ckc24LpP764N ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:9Rc8SbHP9LwF .
-
-tdd:9Rc8SbHP9LwF-Ln65xR7bfuh5 a rdf:Statement ;
+tdd:9Rc8SbHP9LwF-76JLAzU7xXs3 a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N8c6009c1b12e453b98acc687375861b3" ;
+    rdf:object "N9f9a618b302d46fe9c74156987c76f40" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:9Rc8SbHP9LwF ;
     schema:datePublished "1853" ;
     schema:url <https://go.wander.be/record/opacap/c:lvd:12977361> .
 
-tdd:9Rc8SbHP9LwF-YY38MNq6Uv8W a rdf:Statement ;
+tdd:9Rc8SbHP9LwF-BoSEeS5kMWTf a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:9Rc8SbHP9LwF .
+
+tdd:9Rc8SbHP9LwF-LzyWgkfLmf8d a rdf:Statement ;
     bf:Role tdd:FM6DzoKyNv6j ;
     rdf:object tdd:3pfFtL7PyMqL ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:9Rc8SbHP9LwF .
 
-tdd:9Rc8SbHP9LwF-oQHiwxV6vyxP a rdf:Statement ;
-    rdf:object tdd:5vMfYTL9wGVi ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:9Rc8SbHP9LwF ;
-    schema:datePublished "1853" .
+tdd:9Rc8SbHP9LwF-jyjegRYeo2o6 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ckc24LpP764N ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:9Rc8SbHP9LwF .
 
 tdd:9Rc8SbHP9LwF a rdfs:Resource ;
     rdfs:label "Neptune. Quadrille pour le piano" ;

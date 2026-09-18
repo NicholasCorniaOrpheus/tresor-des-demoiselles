@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: Biblioteca Civica Girolamo Tartarotti
+  aliases:
+  description:
+  base_name: Biblioteca Civica Girolamo Tartarotti
+  filename: Biblioteca Civica Girolamo Tartarotti.md
+  id: ZrEGPsvHE4pG
+  n_id: 657168316910743624316
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
+      label: public library
+  described_by_source:
+  inception:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UVpHqGKMxPXT
+      label: Rovereto
+  dissolved:
+  contributor:
+  official_website:
+    - http://www.bibliotecacivica.rovereto.tn.it/
+  identifier:
+    - http://www.wikidata.org/entity/Q26128679
+  country:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ZrEGPsvHE4pG.json
+content:
+  markdown_content: ""

@@ -7,18 +7,18 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:A4CGKMgQ6e5R-9WpMGoYrccDE a rdf:Statement ;
+tdd:A4CGKMgQ6e5R-2iK4XutLesc7 a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:A4CGKMgQ6e5R ;
     schema:datePublished "1862-01-01" ;
     schema:volumeNumber 30 .
 
-tdd:A4CGKMgQ6e5R-iYpgHoZh4VZe a rdf:Statement ;
+tdd:A4CGKMgQ6e5R-G9e8JXnDVDmX a rdf:Statement ;
     bf:electronicLocator <https://archive.org/details/journaldesdemoi03unkngoog> ;
     bf:heldBy tdd:HzNj4duEtJSX ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Ne6304120dca84375b6a0f861bdda5b1d" ;
+    rdf:object "N1ffb3a3837884ec7a10b5fa21f339d62" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:A4CGKMgQ6e5R ;
     schema:datePublished "1853-01-01" ;

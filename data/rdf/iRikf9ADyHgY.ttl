@@ -1,0 +1,51 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:iRikf9ADyHgY-3BkWRKW2zjhv a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:4Z9bCRmwDbS7 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:iRikf9ADyHgY .
+
+tdd:iRikf9ADyHgY-CvZBqx4oLnoS a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:iSimXAKtZnp4 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:iRikf9ADyHgY .
+
+tdd:iRikf9ADyHgY-JiK7HC5SewJ4 a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:iRikf9ADyHgY ;
+    schema:datePublished "1869-03" .
+
+tdd:iRikf9ADyHgY-g5pystQ3wLb8 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:iRikf9ADyHgY .
+
+tdd:iRikf9ADyHgY-hUSWVxCveLux a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Na6c21f2093c344878fe73541adaf7996" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:iRikf9ADyHgY ;
+    schema:datePublished "1869" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012401879706186> .
+
+tdd:iRikf9ADyHgY a rdfs:Resource ;
+    rdfs:label "Le printemps. Rondeau" ;
+    dcterms:contributor tdd:4Z9bCRmwDbS7,
+        tdd:iSimXAKtZnp4 ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Le printemps : rondeau paroles de Paul Dubourg ; musique de Nicolini." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:HSET3ivinxzc .
+

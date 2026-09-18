@@ -7,14 +7,14 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/af9ZEKkDCPJP",
-      "label": "Le Carillonneur de Bruges",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
+      "label": "La fée aux roses",
       "class": "Work",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
-      "label": "la fée aux roses",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/af9ZEKkDCPJP",
+      "label": "Le Carillonneur de Bruges",
       "class": "Work",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
     },
@@ -69,12 +69,12 @@
   ],
   "links": [
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/af9ZEKkDCPJP",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
       "property": "instance_of"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/af9ZEKkDCPJP",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
       "property": "instance_of"
     },

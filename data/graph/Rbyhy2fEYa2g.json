@@ -23,6 +23,12 @@
       "label": "Le réveil de la nature. Duetto pour soprano et mezzo-soprano",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-2029_1856-1/BV14-2029_1856-1_001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/53thyZtdtUR6",
+      "label": "La sommeil de l'enfant. Duettino concertant pour piano et violon",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
     }
   ],
   "links": [
@@ -38,6 +44,11 @@
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pfu97uFDuP6p",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Rbyhy2fEYa2g",
+      "property": "form_of_creative_work"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/53thyZtdtUR6",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Rbyhy2fEYa2g",
       "property": "form_of_creative_work"
     }

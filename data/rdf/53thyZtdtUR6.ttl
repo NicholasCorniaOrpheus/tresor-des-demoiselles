@@ -1,0 +1,52 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:53thyZtdtUR6-2VuYhcsdKx2h a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:k3KxZ8he3QS2 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:53thyZtdtUR6 .
+
+tdd:53thyZtdtUR6-8HucqZmbfWbL a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:53thyZtdtUR6 .
+
+tdd:53thyZtdtUR6-BHynCW9Qko7k a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Un5sANwGQqnd]" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:53thyZtdtUR6 .
+
+tdd:53thyZtdtUR6-YWAQfvwre6gC a rdf:Statement ;
+    bf:Note "Romance tirée de L'operette La Bohémienne" ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nd73ee5a437cc48dbad5fb68ae812067f" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:53thyZtdtUR6 ;
+    schema:datePublished "1868" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012400029706186> .
+
+tdd:53thyZtdtUR6-iZUQY6SC7MbN a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:53thyZtdtUR6 ;
+    schema:datePublished "1868-09" .
+
+tdd:53thyZtdtUR6 a rdfs:Resource ;
+    rdfs:label "La sommeil de l'enfant. Duettino concertant pour piano et violon" ;
+    dcterms:contributor tdd:k3KxZ8he3QS2 ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Le sommeil de l'enfant : duettino concertant pour piano et violon par A. Henry." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:Rbyhy2fEYa2g,
+        tdd:XRwJorUjHMLm .
+

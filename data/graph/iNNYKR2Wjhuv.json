@@ -7,16 +7,16 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P5STT4EQ4vXZ",
+      "label": "Le val fleuri. Quadrille",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_20/CR-02772_20_001.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "label": "composer",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
-    },
-    {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TMthL5XA7Hbe",
-      "label": "Le val fleuri. Quadrille pour le piano. Par Achille Decombes",
-      "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_20/CR-02772_20_001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
@@ -59,17 +59,17 @@
       "property": "related_to"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TMthL5XA7Hbe",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P5STT4EQ4vXZ",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iNNYKR2Wjhuv",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TMthL5XA7Hbe",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P5STT4EQ4vXZ",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
       "property": "part_of"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TMthL5XA7Hbe",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P5STT4EQ4vXZ",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     }

@@ -1,0 +1,33 @@
+metadata:
+  class: Work
+  description:
+  aliases:
+    - Waltzes, Op. 34
+  label: Trois grandes valses brillantes, Op. 34
+  base_name: Trois grandes valses brillantes, Op. 34
+  filename: Trois grandes valses brillantes, Op. 34.md
+  id: ZF4igoS6uoo8
+  n_id: 644436565927398965904
+statements:
+  instance_of:
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q7966844
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC
+      label: waltz
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/b8RbfoXTY2fG
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Frédéric Chopin
+  based_on:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ZF4igoS6uoo8.json
+content:
+  markdown_content: ""

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Vincenzo Bonetti",
+    "aliases": null,
+    "description": null,
+    "base_name": "Vincenzo Bonetti",
+    "filename": "Vincenzo Bonetti.md",
+    "id": "HVQ65sXxdJGu",
+    "n_id": 319453583787869001951
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q113679538"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

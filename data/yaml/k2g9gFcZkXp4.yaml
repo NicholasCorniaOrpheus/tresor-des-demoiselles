@@ -1,0 +1,37 @@
+metadata:
+  class: Agent
+  label: Gatien Marcailhou
+  aliases:
+  description:
+  base_name: Gatien Marcailhou
+  filename: Gatien Marcailhou.md
+  id: k2g9gFcZkXp4
+  n_id: 866950005818953224770
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+    - value: 1807
+  described_by_source:
+  date_of_death:
+    - value: 1855
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+    - http://www.wikidata.org/entity/Q3099271
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  related_to:
+  member_of:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/d/de/Marcailhou.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/k2g9gFcZkXp4.json
+content:
+  markdown_content: ""

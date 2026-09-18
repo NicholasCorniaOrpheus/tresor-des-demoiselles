@@ -1,0 +1,22 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:ZF4igoS6uoo8-ktv5UVBKJUhL a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:b8RbfoXTY2fG ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ZF4igoS6uoo8 .
+
+tdd:ZF4igoS6uoo8 a rdfs:Resource ;
+    rdfs:label "Trois grandes valses brillantes, Op. 34" ;
+    dcterms:contributor tdd:b8RbfoXTY2fG ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q7966844> ;
+    dcterms:type "Work" ;
+    wdt:P7937 tdd:LTZ2PAutKcZC ;
+    skos:altLabel "Waltzes, Op. 34" .
+

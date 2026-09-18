@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Women, Pianos, and the Parisian Periodical Press, 1850-1875",
+    "aliases": null,
+    "description": null,
+    "base_name": "Women, Pianos, and the Parisian Periodical Press, 1850-1875",
+    "filename": "Women, Pianos, and the Parisian Periodical Press, 1850-1875.md",
+    "id": "XfLx7jGjFr7V",
+    "n_id": 611956684841328023676
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5NQHQagvNUif",
+        "label": "catalogue"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": null,
+    "dissolved": null,
+    "contributor": null,
+    "official_website": [
+      "https://everist.eu/interventions/data/women-pianos-and-the-parisian-periodical-press-1850-1875/"
+    ],
+    "identifier": null,
+    "country": null,
+    "member": null
+  }
+}

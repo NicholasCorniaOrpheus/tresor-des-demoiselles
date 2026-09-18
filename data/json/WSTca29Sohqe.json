@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "class": "Work",
+    "description": null,
+    "aliases": [
+      "Grande valse brillante in E-flat major"
+    ],
+    "label": "Grande valse brillante Op. 18",
+    "base_name": "Grande valse brillante Op. 18",
+    "filename": "Grande valse brillante Op. 18.md",
+    "id": "WSTca29Sohqe",
+    "n_id": 586656634661583666549
+  },
+  "statements": {
+    "instance_of": null,
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q2918877"
+    ],
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
+        "label": "waltz"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/b8RbfoXTY2fG",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Frédéric Chopin"
+      }
+    ],
+    "based_on": null
+  }
+}

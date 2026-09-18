@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_label,member_of_value
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,date_of_birth,,,,,,,,,,,,,,,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,described_by_source,,,,,,,,,,,,,,,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,date_of_death,,,,,,,,,,,,,,,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,place_of_birth,,,,,,,,,,,,,,,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,place_of_death,,,,,,,,,,,,,,,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,,,,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,identifier,,,,,,,,,,,,,,,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU,Journal des demoiselles,
+Agent,S. de Lisle,,,S. de Lisle,S. de Lisle.md,PEzYptShKCkg,438057414130558913201,member_of,,,,,,,,,,,,,,,

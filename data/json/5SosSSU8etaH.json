@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Edeghem. Polka",
+    "aliases": null,
+    "description": null,
+    "base_name": "Edeghem. Polka",
+    "filename": "Edeghem. Polka.md",
+    "id": "5SosSSU8etaH",
+    "n_id": 70887823207153295502
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "publication_date": "1867-09",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PEzYptShKCkg",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "S. de Lisle"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/jJR8QbUjykJp",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+          "label": "dedicatee"
+        },
+        "label": "Olympe Caroline d'Oultremont"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012395759706186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WYNgoYLdzNNR",
+          "label": "Biblioteca comunale di Ala"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "publication_date": 1867
+      }
+    ],
+    "title": [
+      "Edeghem : polka par mademoiselle S. De Lisle."
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Ebx8kqGPPPEV",
+        "label": "Edeghem"
+      }
+    ],
+    "about": null,
+    "language": null,
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/U66A6PCCFAfU",
+        "label": "polka"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Jules ten Brink",
+    "aliases": null,
+    "description": null,
+    "base_name": "Jules ten Brink",
+    "filename": "Jules ten Brink.md",
+    "id": "YbNR26axZDQC",
+    "n_id": 631153688996098441030
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1838
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1889
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q27861144"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "member_of": null
+  }
+}

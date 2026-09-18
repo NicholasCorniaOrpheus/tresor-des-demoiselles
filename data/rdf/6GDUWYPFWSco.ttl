@@ -1,0 +1,45 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:6GDUWYPFWSco-6VvavzDhAMbP a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:6GDUWYPFWSco .
+
+tdd:6GDUWYPFWSco-AivHA3JYh4Vf a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N44b99de5029d4a9eaaa39d8c950cb734" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:6GDUWYPFWSco ;
+    schema:datePublished "1869" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012402709706186> .
+
+tdd:6GDUWYPFWSco-Rxq5WmQwoTdW a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:YKeuirNkbiW8 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:6GDUWYPFWSco .
+
+tdd:6GDUWYPFWSco-V9iVfEVASedE a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:6GDUWYPFWSco ;
+    schema:datePublished "1869-09" .
+
+tdd:6GDUWYPFWSco a rdfs:Resource ;
+    rdfs:label "Sturm-Marsch-Galopp. Op. 6" ;
+    dcterms:contributor tdd:YKeuirNkbiW8 ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Sturm-Marsch-Galopp : Op. 6 B. Bilse" ;
+    dcterms:type "Manifestation" ;
+    wdt:P144 tdd:WSTca29Sohqe ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:Mj6hzfVSHHew .
+

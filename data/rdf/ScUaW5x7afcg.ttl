@@ -7,71 +7,71 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:ScUaW5x7afcg-8LdQja7hcEbT a rdf:Statement ;
+tdd:ScUaW5x7afcg-3SqDHmw2vAGV a rdf:Statement ;
     bf:Note "dedicated to the Trésor des demoiselles' subscribers." ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N95dfd753df844f6e977b593d5ef42cef" ;
+    rdf:object "N808fe544e2da4e22b74f45bb04e71e51" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:ScUaW5x7afcg ;
     schema:datePublished "1853-01-01" ;
     schema:url <https://anet.be/record/opacdkvc/c:lvd:14436621> .
 
-tdd:ScUaW5x7afcg-8VMXTrtVP3oq a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:CXpPMVRq6JaP ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:ScUaW5x7afcg .
-
-tdd:ScUaW5x7afcg-9zwaEWDwUep9 a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:ScUaW5x7afcg ;
-    schema:datePublished "1853-04-01" .
-
-tdd:ScUaW5x7afcg-PWnb6BDT7HyT a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:o9wrXKJXFPNx ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:ScUaW5x7afcg .
-
-tdd:ScUaW5x7afcg-TZCdmUJpXY63 a rdf:Statement ;
+tdd:ScUaW5x7afcg-5AWcArMQSRXr a rdf:Statement ;
     bf:heldBy tdd:MzUK38XpCjqB ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N9231eb1d88994251af9cf3c98a4cbd4b" ;
+    rdf:object "N65b0a65c690e40b9a1a8f72a575c9824" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:ScUaW5x7afcg ;
     schema:datePublished "1861-01-01" ;
     schema:url <http://ark.bnf.fr/ark:/12148/cb42940871v> .
 
-tdd:ScUaW5x7afcg-ZhYZk2NeTfbt a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:ScUaW5x7afcg .
-
-tdd:ScUaW5x7afcg-dmUFewTD4Nes a rdf:Statement ;
-    bf:Note "aux Abonnés du Trésor des Demoiselles." ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nd7f7075356b24dd0b7d7d3af1b08d741" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:ScUaW5x7afcg ;
-    schema:datePublished "1853-04-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:ScUaW5x7afcg-e8JabaFvJDiz a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:ScUaW5x7afcg .
-
-tdd:ScUaW5x7afcg-m26fg3yGPaXV a rdf:Statement ;
+tdd:ScUaW5x7afcg-D88USTUFW4B8 a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:ScUaW5x7afcg ;
     schema:datePublished "1852-01-01" ;
     schema:volumeNumber 9 .
+
+tdd:ScUaW5x7afcg-MCnPP5ijRatx a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:o9wrXKJXFPNx ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ScUaW5x7afcg .
+
+tdd:ScUaW5x7afcg-RX2ctFUTxNxY a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:ScUaW5x7afcg .
+
+tdd:ScUaW5x7afcg-acWVsPjMgvPN a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:ScUaW5x7afcg .
+
+tdd:ScUaW5x7afcg-dgY5v8Hrc9Fu a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:ScUaW5x7afcg ;
+    schema:datePublished "1853-04-01" .
+
+tdd:ScUaW5x7afcg-dpD23sFSKBA3 a rdf:Statement ;
+    bf:Note "aux Abonnés du Trésor des Demoiselles." ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "Nc92d8b1971c34a728640cd96ba3c61b9" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:ScUaW5x7afcg ;
+    schema:datePublished "1853-04-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:ScUaW5x7afcg-jqfvzLYnEH8Y a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:CXpPMVRq6JaP ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:ScUaW5x7afcg .
 
 tdd:ScUaW5x7afcg a rdfs:Resource ;
     rdfs:label "En écoutant avec son coeur" ;

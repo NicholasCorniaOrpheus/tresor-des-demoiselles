@@ -7,51 +7,51 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:bHeBRrdh9d2N-2aP83rU7XeDe a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:bHeBRrdh9d2N .
-
-tdd:bHeBRrdh9d2N-SEfuRqpiqWRr a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:bHeBRrdh9d2N .
-
-tdd:bHeBRrdh9d2N-YEQFVfJgQ6y6 a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "Nc80e06bf113d4401909f435a2b437380" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:bHeBRrdh9d2N ;
-    schema:datePublished "1861" ;
-    schema:url <https://anet.be/record/ap/opacap/c:lvd:13208499> .
-
-tdd:bHeBRrdh9d2N-atsSXsMiozSK a rdf:Statement ;
-    bf:Role tdd:Mgp8YUwRv3Jz ;
-    rdf:object tdd:2jgpRvqzUYNF ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:bHeBRrdh9d2N .
-
-tdd:bHeBRrdh9d2N-cCEaLpkL7Gwd a rdf:Statement ;
+tdd:bHeBRrdh9d2N-9iH7sEaGzk2D a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:bHeBRrdh9d2N ;
     schema:datePublished "1861" ;
     schema:volumeNumber 18 .
 
-tdd:bHeBRrdh9d2N-gSrGWXsUtWm5 a rdf:Statement ;
+tdd:bHeBRrdh9d2N-DiAZMdWNfiuQ a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:2jgpRvqzUYNF ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:bHeBRrdh9d2N .
+
+tdd:bHeBRrdh9d2N-Ep2yJZensCY3 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:4cmvbqajFNRE ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:bHeBRrdh9d2N .
+
+tdd:bHeBRrdh9d2N-HGwsQ65M8xbR a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:bHeBRrdh9d2N .
+
+tdd:bHeBRrdh9d2N-QexeX7eqox9T a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:bHeBRrdh9d2N .
+
+tdd:bHeBRrdh9d2N-RC6ZNAcmgatu a rdf:Statement ;
     wdt:P1114 "2" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:bHeBRrdh9d2N .
 
-tdd:bHeBRrdh9d2N-nER3FgXneJ9R a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:4cmvbqajFNRE ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:bHeBRrdh9d2N .
+tdd:bHeBRrdh9d2N-mucjuuBYVoE3 a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N36c7e8cebac14886be43680206008aad" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:bHeBRrdh9d2N ;
+    schema:datePublished "1861" ;
+    schema:url <https://anet.be/record/ap/opacap/c:lvd:13208499> .
 
 tdd:bHeBRrdh9d2N a rdfs:Resource ;
     rdfs:label "Marianne. Opéra-comique en un acte" ;

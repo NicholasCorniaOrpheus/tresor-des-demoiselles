@@ -1,0 +1,50 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:Z7RsjHQseoro-3fEiPtnPyoMz a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Z7RsjHQseoro .
+
+tdd:Z7RsjHQseoro-7HGeBUJ6j3uW a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:dotvkxrkZXYu ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Z7RsjHQseoro .
+
+tdd:Z7RsjHQseoro-HoK5pLNgmcL2 a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N9fa59da8e3e34785a037bd3dd992a495" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Z7RsjHQseoro ;
+    schema:datePublished "1869" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012401689706186> .
+
+tdd:Z7RsjHQseoro-VJQuNASwnzLQ a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Z7RsjHQseoro .
+
+tdd:Z7RsjHQseoro-kPCTogkzyTZX a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:Z7RsjHQseoro ;
+    schema:datePublished "1869-01" .
+
+tdd:Z7RsjHQseoro a rdfs:Resource ;
+    rdfs:label "Les pionniers. Choeur. Transcription pour piano à 4 mains" ;
+    dcterms:contributor tdd:dotvkxrkZXYu ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Les pionniers : choeur de A. Rocheblave ; transcription pour piano à 4 mains." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

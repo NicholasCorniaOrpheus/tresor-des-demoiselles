@@ -1,0 +1,47 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:8upE2FcyNcex-74mCjAo6vzEM a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:8upE2FcyNcex .
+
+tdd:8upE2FcyNcex-gEyF4jiminFz a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:8upE2FcyNcex ;
+    schema:datePublished "1856-01-01" ;
+    schema:volumeNumber 23 .
+
+tdd:8upE2FcyNcex-hwyJzp2sjsC3 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:7iBtPDhpSi6a ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:8upE2FcyNcex .
+
+tdd:8upE2FcyNcex-iauPnDCPQe8r a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nac340a21b0924b3ebd482533214fa57a" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:8upE2FcyNcex ;
+    schema:datePublished "1856-01-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:8upE2FcyNcex a rdfs:Resource ;
+    rdfs:label "L'Aubépine" ;
+    dcterms:contributor tdd:7iBtPDhpSi6a ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "L'Aubépine: Polka mazurka" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:U66A6PCCFAfU,
+        tdd:aRNbPTwmsbtP .
+

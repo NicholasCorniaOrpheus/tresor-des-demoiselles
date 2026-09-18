@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,liturgical chant,religious chant,religious chant.md,kx9cGBUtqUpw,886305871924912788680,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,liturgical chant,religious chant,religious chant.md,kx9cGBUtqUpw,886305871924912788680,subclass_of,,,,,
+Concept,,,liturgical chant,religious chant,religious chant.md,kx9cGBUtqUpw,886305871924912788680,described_by_source,,,,,
+Concept,,,liturgical chant,religious chant,religious chant.md,kx9cGBUtqUpw,886305871924912788680,identifier,,,,,http://www.wikidata.org/entity/Q23072435

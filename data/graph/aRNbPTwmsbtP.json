@@ -7,22 +7,22 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MV2HVzMYoieL",
+      "label": "Maïa. Polka mazurka",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_18/CR-02772_18_001.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
       "label": "classical dance music",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gyh3ExubqN2H",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8upE2FcyNcex",
       "label": "L'Aubépine",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p30/orp-bosch-l'aubép-20143702p30-ps-00001.jpg"
-    },
-    {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pwixv9i4zdSe",
-      "label": "Maïa. Polka mazurka. Par A. Morin",
-      "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_18/CR-02772_18_001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ReUSHfcDfYkz",
@@ -31,7 +31,7 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p19/orp-braul-hermini-20143702p19-ps-00001.jpg"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AgTowXcdYL6T",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/khP6zus8Xcy7",
       "label": "Thalie",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p44/orp-talex-thalie-20143702p44-ps-00001.jpg"
@@ -44,12 +44,12 @@
       "property": "instance_of"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gyh3ExubqN2H",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MV2HVzMYoieL",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aRNbPTwmsbtP",
       "property": "form_of_creative_work"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pwixv9i4zdSe",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8upE2FcyNcex",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aRNbPTwmsbtP",
       "property": "form_of_creative_work"
     },
@@ -59,7 +59,7 @@
       "property": "form_of_creative_work"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AgTowXcdYL6T",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/khP6zus8Xcy7",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/aRNbPTwmsbtP",
       "property": "form_of_creative_work"
     }

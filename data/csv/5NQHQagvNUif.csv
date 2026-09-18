@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['catalog'],catalogue,catalogue,catalogue.md,5NQHQagvNUif,69289814037289520911,instance_of,,,,
+Concept,,['catalog'],catalogue,catalogue,catalogue.md,5NQHQagvNUif,69289814037289520911,subclass_of,,,,
+Concept,,['catalog'],catalogue,catalogue,catalogue.md,5NQHQagvNUif,69289814037289520911,described_by_source,,,,
+Concept,,['catalog'],catalogue,catalogue,catalogue.md,5NQHQagvNUif,69289814037289520911,identifier,,,,http://www.wikidata.org/entity/Q2352616

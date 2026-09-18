@@ -1,0 +1,59 @@
+metadata:
+  class: Manifestation
+  label: Un bal à Couatémas
+  aliases:
+  description: Dediée à M.me Denise
+  base_name: Un bal à Couatémas
+  filename: Un bal à Couatémas.md
+  id: 2DBAbcShdbv5
+  n_id: 4040486929436523441
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1870-01
+      label: Journal des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/G39Q2gVfxU7S
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Juline Poncabaré
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NTcJNXAMBCUB
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j
+        label: dedicatee
+      label: Clément Poncabaré
+  has_version:
+    - permalink: https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012402979706186
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WYNgoYLdzNNR
+        label: Biblioteca comunale di Ala
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1870
+  title:
+    - Un bal à Couatémas par Julien Poncabaré.
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew
+      label: classical dance music
+assets:
+  local_asset_path:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/2DBAbcShdbv5.json
+content:
+  markdown_content: According to [Women, Pianos, and the Parisian Periodical Press, 1850-1875](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XfLx7jGjFr7V), the piece has been written by Juline Poncabaré, rather than Julien as the metadata of [Biblioteca comunale di Ala](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WYNgoYLdzNNR) suggest.

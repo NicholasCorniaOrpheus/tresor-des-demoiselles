@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,member_of_value
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,date_of_birth,,,,,,,,,,,,,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,described_by_source,,,,,,,,,,,,,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,date_of_death,,,,,,,,,,,,,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,place_of_birth,,,,,,,,,,,,,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,place_of_death,,,,,,,,,,,,,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q320962,,,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,related_to,,,,,,,,,,,,,,
+Agent,Louis Lacombe,,,Louis Lacombe,Louis Lacombe.md,WQUYEp5MWkGH,585938436221220841029,member_of,,,,,,,,,,,,,,

@@ -1,0 +1,9 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_https,form_of_creative_work_value,form_of_creative_work_label,contributor_value,contributor_role,contributor_label,based_on_value
+Work,,,La fée aux roses,La fée aux roses,La fée aux roses.md,9ZJuv8atE4fA,155781740684994600368,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp,dramatico-musical work,,,,,,,,,
+Work,,,La fée aux roses,La fée aux roses,La fée aux roses.md,9ZJuv8atE4fA,155781740684994600368,subclass_of,,,,,,,,,,,
+Work,,,La fée aux roses,La fée aux roses,La fée aux roses.md,9ZJuv8atE4fA,155781740684994600368,described_by_source,,,,,,,,,,,
+Work,,,La fée aux roses,La fée aux roses,La fée aux roses.md,9ZJuv8atE4fA,155781740684994600368,identifier,,,,,//imslp.org/wiki/La_f%C3%A9e_aux_roses_(Hal%C3%A9vy%2C_Fromental),,,,,,
+Work,,,La fée aux roses,La fée aux roses,La fée aux roses.md,9ZJuv8atE4fA,155781740684994600368,form_of_creative_work,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Dr2VYNgaa4XN,opéra comique,,,,
+Work,,,La fée aux roses,La fée aux roses,La fée aux roses.md,9ZJuv8atE4fA,155781740684994600368,contributor,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ePAEBeWWE82,"{'value': 'https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz', 'label': 'librettist'}",Eugène Scribe,
+Work,,,La fée aux roses,La fée aux roses,La fée aux roses.md,9ZJuv8atE4fA,155781740684994600368,contributor,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z,"{'value': 'https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5', 'label': 'composer'}",Fromental Halévy,
+Work,,,La fée aux roses,La fée aux roses,La fée aux roses.md,9ZJuv8atE4fA,155781740684994600368,based_on,,,,,,,,,,,

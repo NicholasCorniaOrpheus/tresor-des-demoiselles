@@ -7,12 +7,6 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Pierre_Dupont_LACMA_AC1992.229.130.jpg"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pg9nouQqwH7x",
-      "label": "Une orientale: mélodie",
-      "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12971503/20260608141705109_0004.jpg"
-    },
-    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
       "label": "lyricist",
       "class": "Concept",
@@ -35,6 +29,12 @@
       "label": "male",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/An432jLuvPhj",
+      "label": "Une orientale: mélodie",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12971503/20260608141705109_0004.jpg"
     }
   ],
   "links": [
@@ -59,12 +59,12 @@
       "property": "sex_or_gender"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pg9nouQqwH7x",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/An432jLuvPhj",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bdE6MYos7APn",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pg9nouQqwH7x",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/An432jLuvPhj",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
       "property": "contributor"
     }

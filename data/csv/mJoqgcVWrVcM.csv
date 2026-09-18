@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,choral music,choral music,choral music.md,mJoqgcVWrVcM,893427357131261438206,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,choral music,choral music,choral music.md,mJoqgcVWrVcM,893427357131261438206,subclass_of,,,,,
+Concept,,,choral music,choral music,choral music.md,mJoqgcVWrVcM,893427357131261438206,described_by_source,,,,,
+Concept,,,choral music,choral music,choral music.md,mJoqgcVWrVcM,893427357131261438206,identifier,,,,,http://www.wikidata.org/entity/Q1076513

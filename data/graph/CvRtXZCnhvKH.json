@@ -7,16 +7,16 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YuGFQRG8bw4Y",
+      "label": "Ondine",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/BV10-7424_1890-1/RCB-BV10-7424_1890-1_001.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/i35bPNVVTFXP",
       "label": "mythical character",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
-    },
-    {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ZoDppeZsnymZ",
-      "label": "Ondine",
-      "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/BV10-7424_1890-1/RCB-BV10-7424_1890-1_001.jpg"
     }
   ],
   "links": [
@@ -26,7 +26,7 @@
       "property": "instance_of"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ZoDppeZsnymZ",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YuGFQRG8bw4Y",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/CvRtXZCnhvKH",
       "property": "depicts"
     }

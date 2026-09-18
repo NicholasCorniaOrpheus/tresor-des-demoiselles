@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "La vallée de chevreuse. Suite de valses",
+    "aliases": null,
+    "description": null,
+    "base_name": "La vallée de chevreuse. Suite de valses",
+    "filename": "La vallée de chevreuse. Suite de valses.md",
+    "id": "Nhd9FMoJ4wES",
+    "n_id": 427060405052758499685
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "publication_date": "1879-10-01",
+        "volume": 47,
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7rCN58jGBfxB",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/FM6DzoKyNv6j",
+          "label": "dedicatee"
+        },
+        "label": "Marie Antonine Joséphine de Gramont"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/26TsCae57TVa",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Hortense Wild"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=89103",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/iKoQN6jW4jjj",
+          "label": "Royal Conservatory of Brussels"
+        },
+        "publication_date": "1879-01-01",
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "external_source": null
+      }
+    ],
+    "title": [
+      "La vallée de chevreuse : suite de valses"
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eXQDntRhJGku",
+        "label": "Chevreuse"
+      }
+    ],
+    "about": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/2z8JMC92FAK6",
+        "label": "landscape"
+      }
+    ],
+    "language": null,
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LTZ2PAutKcZC",
+        "label": "waltz"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:Xa2kJ3jQsSsz-2vsacCYR5eYQ a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Xa2kJ3jQsSsz .
+
+tdd:Xa2kJ3jQsSsz-JLg2tpaodu3T a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:g6GkTxFENv6x ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Xa2kJ3jQsSsz .
+
+tdd:Xa2kJ3jQsSsz-U9HBLK36FrEh a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Xa2kJ3jQsSsz .
+
+tdd:Xa2kJ3jQsSsz-oRzahDXpRJP3 a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    rdf:object "N85a69a12ffa345188463580ceaa490cc" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Xa2kJ3jQsSsz ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61731> .
+
+tdd:Xa2kJ3jQsSsz a rdfs:Resource ;
+    rdfs:label "Fanny. Polka pour le piano" ;
+    dcterms:contributor tdd:g6GkTxFENv6x,
+        tdd:jUohUDQ7mo5u ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Fanny : polka pour le piano / par A. Daguin" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:U66A6PCCFAfU .
+

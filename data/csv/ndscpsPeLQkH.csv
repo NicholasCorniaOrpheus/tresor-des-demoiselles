@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,member_of_value
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,date_of_birth,,,,,,,,,,,,,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,described_by_source,,,,,,,,,,,,,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,date_of_death,,,,,,,,,,,,,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,place_of_birth,,,,,,,,,,,,,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,place_of_death,,,,,,,,,,,,,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q46096,,,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,related_to,,,,,,,,,,,,,,
+Agent,Felix Mendelssohn,,,Felix Mendelssohn,Felix Mendelssohn.md,ndscpsPeLQkH,920965863740859631707,member_of,,,,,,,,,,,,,,

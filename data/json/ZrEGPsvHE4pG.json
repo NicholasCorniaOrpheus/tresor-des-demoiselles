@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Biblioteca Civica Girolamo Tartarotti",
+    "aliases": null,
+    "description": null,
+    "base_name": "Biblioteca Civica Girolamo Tartarotti",
+    "filename": "Biblioteca Civica Girolamo Tartarotti.md",
+    "id": "ZrEGPsvHE4pG",
+    "n_id": 657168316910743624316
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
+        "label": "public library"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/UVpHqGKMxPXT",
+        "label": "Rovereto"
+      }
+    ],
+    "dissolved": null,
+    "contributor": null,
+    "official_website": [
+      "http://www.bibliotecacivica.rovereto.tn.it/"
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q26128679"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B",
+        "label": "Italy"
+      }
+    ]
+  }
+}

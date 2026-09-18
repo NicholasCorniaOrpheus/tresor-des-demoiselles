@@ -1,0 +1,52 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:5SosSSU8etaH-AGyt5WP68tSt a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:5SosSSU8etaH ;
+    schema:datePublished "1867-09" .
+
+tdd:5SosSSU8etaH-ARCerAWS679c a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jJR8QbUjykJp ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:5SosSSU8etaH .
+
+tdd:5SosSSU8etaH-FrkR4gYjjEVF a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:PEzYptShKCkg ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:5SosSSU8etaH .
+
+tdd:5SosSSU8etaH-KaDAkqwqhaSA a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:5SosSSU8etaH .
+
+tdd:5SosSSU8etaH-eXP6erxHda9Z a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N446bca46c50f4b4eacac3b1925f7396d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:5SosSSU8etaH ;
+    schema:datePublished "1867" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012395759706186> .
+
+tdd:5SosSSU8etaH a rdfs:Resource ;
+    rdfs:label "Edeghem. Polka" ;
+    dcterms:contributor tdd:PEzYptShKCkg,
+        tdd:jJR8QbUjykJp ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Edeghem : polka par mademoiselle S. De Lisle." ;
+    dcterms:type "Manifestation" ;
+    wdt:P180 tdd:Ebx8kqGPPPEV ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:U66A6PCCFAfU .
+

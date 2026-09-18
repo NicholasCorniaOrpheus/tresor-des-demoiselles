@@ -13,6 +13,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MV2HVzMYoieL",
+      "label": "Maïa. Polka mazurka",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_18/CR-02772_18_001.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
       "label": "human",
       "class": "Concept",
@@ -23,12 +29,6 @@
       "label": "Journal des demoiselles",
       "class": "Organisation",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mazurka_1845.jpg"
-    },
-    {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pwixv9i4zdSe",
-      "label": "Maïa. Polka mazurka. Par A. Morin",
-      "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_18/CR-02772_18_001.jpg"
     }
   ],
   "links": [
@@ -48,17 +48,17 @@
       "property": "related_to"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pwixv9i4zdSe",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MV2HVzMYoieL",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVwFKDmktcqF",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pwixv9i4zdSe",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MV2HVzMYoieL",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
       "property": "part_of"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pwixv9i4zdSe",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MV2HVzMYoieL",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     }

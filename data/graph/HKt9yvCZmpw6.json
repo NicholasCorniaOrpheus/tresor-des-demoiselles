@@ -7,6 +7,18 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MngB2vLHBvt6",
+      "label": "Le carnaval au pensionnat. Quadrille",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_23/CR-02772_23_001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P5STT4EQ4vXZ",
+      "label": "Le val fleuri. Quadrille",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_20/CR-02772_20_001.jpg"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YchLbp5wxwMv",
       "label": "Quadrille sur l'opéra Le prophète",
       "class": "Manifestation",
@@ -25,10 +37,10 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12977270/RCA-12977270_001.jpg"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TMthL5XA7Hbe",
-      "label": "Le val fleuri. Quadrille pour le piano. Par Achille Decombes",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8zKpJnZ9weL7",
+      "label": "L'Ouragan",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_20/CR-02772_20_001.jpg"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p39/orp-musar-l'ourag-20143702p39-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Q5YfCM4bBtmP",
@@ -47,12 +59,6 @@
       "label": "Les lutins de Bretagne",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p28/orp-pilet-lesluti-20143702p28-fs-00001.jpg"
-    },
-    {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/g24ctTK5q9V8",
-      "label": "L'Ouragan",
-      "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p39/orp-musar-l'ourag-20143702p39-fs-00001.jpg"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
@@ -85,10 +91,10 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12977361/RCA-12977361_001.jpg"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3uXhFz4koKyE",
-      "label": "Le carnaval au pensionnat. Quadrille. J. B. Tolbecque",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/J8hUwDELTqxH",
+      "label": "Soirées de Grenade. 2me quadrille",
       "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-CR-02772_23/CR-02772_23_001.jpg"
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
     }
   ],
   "links": [
@@ -101,6 +107,16 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew",
       "property": "subclass_of"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/MngB2vLHBvt6",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
+      "property": "form_of_creative_work"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P5STT4EQ4vXZ",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
+      "property": "form_of_creative_work"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/YchLbp5wxwMv",
@@ -118,7 +134,7 @@
       "property": "form_of_creative_work"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TMthL5XA7Hbe",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8zKpJnZ9weL7",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
       "property": "form_of_creative_work"
     },
@@ -138,11 +154,6 @@
       "property": "form_of_creative_work"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/g24ctTK5q9V8",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
-      "property": "form_of_creative_work"
-    },
-    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Bi2WWaHWyPiH",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
       "property": "form_of_creative_work"
@@ -158,7 +169,7 @@
       "property": "form_of_creative_work"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3uXhFz4koKyE",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/J8hUwDELTqxH",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HKt9yvCZmpw6",
       "property": "form_of_creative_work"
     },

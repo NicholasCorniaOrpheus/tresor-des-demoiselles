@@ -1,0 +1,27 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:9ZJuv8atE4fA-C8Kc5xBfcZur a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:SuU5RRaXHL2Z ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:9ZJuv8atE4fA .
+
+tdd:9ZJuv8atE4fA-mPtNUYBxs46n a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:9ePAEBeWWE82 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:9ZJuv8atE4fA .
+
+tdd:9ZJuv8atE4fA a rdfs:Resource ;
+    rdfs:label "La fée aux roses" ;
+    dcterms:contributor tdd:9ePAEBeWWE82,
+        tdd:SuU5RRaXHL2Z ;
+    dcterms:type "Work" ;
+    wdt:P31 tdd:XaBZqJUPUbCp ;
+    wdt:P7937 tdd:Dr2VYNgaa4XN .
+

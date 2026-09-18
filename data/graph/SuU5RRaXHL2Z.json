@@ -7,8 +7,8 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fromental_Halevy_by_Etienne_Carjat-crop.jpg"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
-      "label": "la fée aux roses",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
+      "label": "La fée aux roses",
       "class": "Work",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
     },
@@ -54,7 +54,7 @@
       "property": "occupation"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z",
       "property": "contributor"
     },
@@ -64,7 +64,7 @@
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     },

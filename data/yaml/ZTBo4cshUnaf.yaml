@@ -1,0 +1,38 @@
+metadata:
+  class: Agent
+  label: Wojciech Sowiński
+  aliases:
+    - Albert Sowinski
+  description:
+  base_name: Wojciech Sowiński
+  filename: Wojciech Sowiński.md
+  id: ZTBo4cshUnaf
+  n_id: 648825912546191362285
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+    - value: 1805
+  described_by_source:
+  date_of_death:
+    - value: 1880
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+    - http://www.wikidata.org/entity/Q9376869
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  related_to:
+  member_of:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/5/54/%D0%A1%D0%BE%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%92.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/ZTBo4cshUnaf.json
+content:
+  markdown_content: ""

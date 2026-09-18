@@ -1,0 +1,13 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,member_of_value
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,date_of_birth,,,1865.0,,,,,,,,,,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,described_by_source,,,,,,,,,,,,,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,date_of_death,,,,,1922.0,,,,,,,,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,place_of_birth,,,,,,,,,,,,,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,place_of_death,,,,,,,,,,,,,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q15406989,,,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JWRn28TDQzuu,visual artist,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,related_to,,,,,,,,,,,,,,
+Agent,Ferdinand Misti-Mifliez,['Misti'],,Ferdinand Misti-Mifliez,Ferdinand Misti-Mifliez.md,azE7uwfUFGTm,680699539368229090447,member_of,,,,,,,,,,,,,,

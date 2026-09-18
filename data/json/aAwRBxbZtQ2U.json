@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "La campanella. Choeur pour trois voix égales",
+    "aliases": null,
+    "description": null,
+    "base_name": "La campanella. Choeur pour trois voix égales",
+    "filename": "La campanella. Choeur pour trois voix égales.md",
+    "id": "aAwRBxbZtQ2U",
+    "n_id": 663584273049551694461
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "publication_date": "1868-07",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dotvkxrkZXYu",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Antoine Rocheblave"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bbp23eR4DnZs",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa",
+          "label": "lyricist"
+        },
+        "label": "Élisa Adam-Boisgontier"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012399869706186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WYNgoYLdzNNR",
+          "label": "Biblioteca comunale di Ala"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "publication_date": 1868
+      }
+    ],
+    "title": [
+      "La campanella : choeur pour trois voix égales : accompagnement de piano ad lib. paroles de M.me Adam Boisgontier ; musique de A. Rocheblave ."
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ",
+        "quantity": 3,
+        "label": "voice"
+      },
+      {
+        "value": "[[choir]",
+        "quantity": 1
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8",
+        "quantity": 1,
+        "label": "piano"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "based_on": null,
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mJoqgcVWrVcM",
+        "label": "choral music"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cPayemxUKyHY",
+      "label": "folklore",
+      "class": "Concept",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/F3ZoWs87ZnXS",
+      "label": "Ancien Noël tiré des chants religieux de la Pologne",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gqXyUUV6R5GE",
+      "label": "Les petits sabots. Chanson bretonne",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
+    }
+  ],
+  "links": [
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/F3ZoWs87ZnXS",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cPayemxUKyHY",
+      "property": "about"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gqXyUUV6R5GE",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cPayemxUKyHY",
+      "property": "about"
+    }
+  ]
+}

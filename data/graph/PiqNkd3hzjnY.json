@@ -19,7 +19,7 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AgTowXcdYL6T",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/khP6zus8Xcy7",
       "label": "Thalie",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p44/orp-talex-thalie-20143702p44-ps-00001.jpg"
@@ -37,12 +37,12 @@
       "property": "occupation"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AgTowXcdYL6T",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/khP6zus8Xcy7",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PiqNkd3hzjnY",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AgTowXcdYL6T",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/khP6zus8Xcy7",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     }

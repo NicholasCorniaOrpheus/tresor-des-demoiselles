@@ -1,0 +1,37 @@
+metadata:
+  class: Agent
+  label: Caroline de Saint-Croix
+  aliases:
+  description:
+  base_name: Caroline de Saint-Croix
+  filename: Caroline de Saint-Croix.md
+  id: kF6uppBTjz5K
+  n_id: 871445409060179648537
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
+  identifier:
+    - http://www.wikidata.org/entity/Q126497154
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      label: Journal des demoiselles
+  member_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/kF6uppBTjz5K.json
+content:
+  markdown_content: ""

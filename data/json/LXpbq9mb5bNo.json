@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "Biblioteca Thun",
+    "aliases": null,
+    "description": null,
+    "base_name": "Biblioteca Thun",
+    "filename": "Biblioteca Thun.md",
+    "id": "LXpbq9mb5bNo",
+    "n_id": 382241101245631711629
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J",
+        "label": "public library"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/E4xSS3mmne5W",
+        "label": "Trento"
+      }
+    ],
+    "dissolved": null,
+    "contributor": null,
+    "official_website": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q117192574"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B",
+        "label": "Italy"
+      }
+    ]
+  }
+}

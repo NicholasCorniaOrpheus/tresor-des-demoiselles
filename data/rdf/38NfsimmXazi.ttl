@@ -7,51 +7,51 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:38NfsimmXazi-46BnKNyhArYc a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:38NfsimmXazi .
-
-tdd:38NfsimmXazi-FCyhFkS4eKiw a rdf:Statement ;
+tdd:38NfsimmXazi-2DkSbnpHmhBA a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:8sM7TLD3KzME ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:38NfsimmXazi .
 
-tdd:38NfsimmXazi-HxGMbpTT6dxG a rdf:Statement ;
+tdd:38NfsimmXazi-5mPaKSQyHYWn a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:38NfsimmXazi .
 
-tdd:38NfsimmXazi-bheEXbmXdZeR a rdf:Statement ;
-    wdt:P1114 "3" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:38NfsimmXazi .
-
-tdd:38NfsimmXazi-bkRsYAJSbeoP a rdf:Statement ;
+tdd:38NfsimmXazi-M4yC2wNuHqcW a rdf:Statement ;
     bf:Role tdd:Mgp8YUwRv3Jz ;
     rdf:object tdd:Qc88zGgn28AB ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:38NfsimmXazi .
 
-tdd:38NfsimmXazi-iBpAskQjDkAA a rdf:Statement ;
+tdd:38NfsimmXazi-SDoWyzH3ydFr a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N73878728e9fc44e183abcc1e4528a9f9" ;
+    rdf:object "N7431674a35e64ca39799eceddc1ce50b" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:38NfsimmXazi ;
     schema:datePublished "1859" ;
     schema:url <https://anet.be/record/ap/opacap/c:lvd:14016062> .
 
-tdd:38NfsimmXazi-jExL2HTuKmbT a rdf:Statement ;
+tdd:38NfsimmXazi-auUwEGFgmX4t a rdf:Statement ;
+    wdt:P1114 "3" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:38NfsimmXazi .
+
+tdd:38NfsimmXazi-dvEZ3qFXoASs a rdf:Statement ;
     rdf:object tdd:HuT8aF2rGmzB ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:38NfsimmXazi ;
     schema:datePublished "1859" ;
     schema:volumeNumber 15 .
+
+tdd:38NfsimmXazi-kUr6ZYduDy8H a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:38NfsimmXazi .
 
 tdd:38NfsimmXazi a rdfs:Resource ;
     rdfs:label "La fille du golfe. Opéra-comique en un acte" ;

@@ -7,8 +7,8 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
-      "label": "la fée aux roses",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
+      "label": "La fée aux roses",
       "class": "Work",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
     },
@@ -48,12 +48,12 @@
       "property": "occupation"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ePAEBeWWE82",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
       "property": "contributor"
     }

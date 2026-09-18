@@ -7,12 +7,6 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kLWLt9hwDNKA",
-      "label": "La fée aux roses. Paroles de Mrs Scribe et de St Georges. Musique de F. Halévy",
-      "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCB-BV14-3018/BV14-3018_001.jpg"
-    },
-    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z",
       "label": "Fromental Halévy",
       "class": "Agent",
@@ -79,11 +73,6 @@
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
-    },
-    {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kLWLt9hwDNKA",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
-      "property": "based_on"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z",

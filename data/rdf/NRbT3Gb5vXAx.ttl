@@ -1,0 +1,54 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:NRbT3Gb5vXAx-2UbyoeJQ5wUu a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:XAXPzmuYeWFU ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:NRbT3Gb5vXAx .
+
+tdd:NRbT3Gb5vXAx-DtUDH3rReuPw a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:NRbT3Gb5vXAx ;
+    schema:datePublished "1863-07" .
+
+tdd:NRbT3Gb5vXAx-SWbo95TNZXeF a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:WwjjVjpFTEDV ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:NRbT3Gb5vXAx .
+
+tdd:NRbT3Gb5vXAx-n8T4MF8gV8AW a rdf:Statement ;
+    bf:heldBy tdd:koyArz5BTiZv ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nb163d4c3337c40f98d23b55ed91ee9ec" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:NRbT3Gb5vXAx ;
+    schema:datePublished "1863" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991016161969706186> .
+
+tdd:NRbT3Gb5vXAx-nW2X5wAH2nm4 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:NRbT3Gb5vXAx .
+
+tdd:NRbT3Gb5vXAx a rdfs:Resource ;
+    rdfs:label "La danza. Tarantelle napolitaine" ;
+    dc:description "Dediée à M.me Denise" ;
+    dcterms:contributor tdd:WwjjVjpFTEDV,
+        tdd:XAXPzmuYeWFU ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "La danza : tarantelle napolitaine par Ch. Delisle." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:7xkioCTJrXxL ;
+    schema:about tdd:BCSvsKmuf8u3 .
+

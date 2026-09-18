@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Charles Delisle",
+    "aliases": null,
+    "description": null,
+    "base_name": "Charles Delisle",
+    "filename": "Charles Delisle.md",
+    "id": "WwjjVjpFTEDV",
+    "n_id": 597257996324232393501
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q96595424"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "member_of": null
+  }
+}

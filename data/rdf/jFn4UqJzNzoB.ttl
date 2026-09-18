@@ -1,0 +1,44 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:jFn4UqJzNzoB-BrgRcsHFQx5R a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:jFn4UqJzNzoB .
+
+tdd:jFn4UqJzNzoB-EG8j9FRA5D6j a rdf:Statement ;
+    bf:heldBy tdd:koyArz5BTiZv ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N33693c3c2dcf475498d8efb9e420e8fc" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:jFn4UqJzNzoB ;
+    schema:datePublished "1863" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012399599706186> .
+
+tdd:jFn4UqJzNzoB-gwAsmyhvrfdy a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:4bAmLVeeH4gn ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:jFn4UqJzNzoB .
+
+tdd:jFn4UqJzNzoB-jrKnUj3xozyK a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:jFn4UqJzNzoB ;
+    schema:datePublished "1863-07" .
+
+tdd:jFn4UqJzNzoB a rdfs:Resource ;
+    rdfs:label "Blondine. Scottisch" ;
+    dcterms:contributor tdd:4bAmLVeeH4gn ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Blondine : Scottisch par Alfred Systermans" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:P3xwqK2mHjC7 .
+

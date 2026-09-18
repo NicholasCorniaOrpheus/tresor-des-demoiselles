@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Poland",
+    "aliases": null,
+    "description": null,
+    "base_name": "Poland",
+    "filename": "Poland.md",
+    "id": "9zb8m5j522fm",
+    "n_id": 164935516820538457720
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q368949"
+    ],
+    "country": null
+  }
+}

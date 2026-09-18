@@ -1,0 +1,39 @@
+metadata:
+  class: Agent
+  label: C.J. de Camaret
+  aliases:
+    - M.me C.J. de Camaret
+  description:
+  base_name: C.J. de Camaret
+  filename: C.J. de Camaret.md
+  id: QHHdDivjLe3k
+  n_id: 459519492476079224496
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
+  identifier:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa
+      label: lyricist
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      label: Journal des demoiselles
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3ki4XenmgvbN
+      label: de Camaret family
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/QHHdDivjLe3k.json
+content:
+  markdown_content: ""

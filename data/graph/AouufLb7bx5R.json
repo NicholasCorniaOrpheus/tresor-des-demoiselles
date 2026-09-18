@@ -19,19 +19,19 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gRR8aAYdEX54",
-      "label": "Dieu le voit",
-      "class": "Manifestation",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p36/orp-henri-dieulev-20143702p36-fs-00001.jpg"
-    },
-    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
       "label": "male",
       "class": "Concept",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HhZTHayappCf",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVXCHETrJ6Vy",
+      "label": "Dieu le voit",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p36/orp-henri-dieulev-20143702p36-fs-00001.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5QLeFuHN6G3A",
       "label": "Captivité",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p45/orp-henri-captivi-20143702p45-fs-00001.jpg"
@@ -54,22 +54,22 @@
       "property": "occupation"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gRR8aAYdEX54",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVXCHETrJ6Vy",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AouufLb7bx5R",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HhZTHayappCf",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5QLeFuHN6G3A",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/AouufLb7bx5R",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/gRR8aAYdEX54",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVXCHETrJ6Vy",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HhZTHayappCf",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5QLeFuHN6G3A",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
       "property": "contributor"
     }

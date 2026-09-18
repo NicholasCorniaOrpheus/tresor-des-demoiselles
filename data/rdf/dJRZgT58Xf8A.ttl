@@ -7,43 +7,43 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:dJRZgT58Xf8A-4T4UyXdY49uF a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:dJRZgT58Xf8A .
-
-tdd:dJRZgT58Xf8A-FG5vD3QhwnkT a rdf:Statement ;
+tdd:dJRZgT58Xf8A-EidXvzEAMAZ5 a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:NRPF64xecNgD ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:dJRZgT58Xf8A .
 
-tdd:dJRZgT58Xf8A-K43UeuM5JLSm a rdf:Statement ;
+tdd:dJRZgT58Xf8A-KJqJE6cxsVce a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N8bf3e7b6249146cda84729985f686d5c" ;
+    rdf:object "N8d5d38a2e75e4974b081769d1263898c" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:dJRZgT58Xf8A ;
     schema:url <https://anet.be/record/opacap/c:lvd:12971546> .
 
-tdd:dJRZgT58Xf8A-NQbWfjWmm2Wr a rdf:Statement ;
+tdd:dJRZgT58Xf8A-LDjezZ4Wr5og a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:dJRZgT58Xf8A .
 
-tdd:dJRZgT58Xf8A-TH7UBpCwhpcS a rdf:Statement ;
-    rdf:object tdd:VWaxuELqVfKN ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:dJRZgT58Xf8A ;
-    schema:volumeNumber 4 .
+tdd:dJRZgT58Xf8A-RTwgVRsQifLn a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:dJRZgT58Xf8A .
 
-tdd:dJRZgT58Xf8A-UdSwBga7By3i a rdf:Statement ;
+tdd:dJRZgT58Xf8A-YpbhDvfccvvY a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:gBejS4d5MNmC ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:dJRZgT58Xf8A .
+
+tdd:dJRZgT58Xf8A-nhajSPLu6mNu a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:dJRZgT58Xf8A ;
+    schema:volumeNumber 4 .
 
 tdd:dJRZgT58Xf8A a rdfs:Resource ;
     rdfs:label "Le soir: mélodie transcrite pour soprano" ;

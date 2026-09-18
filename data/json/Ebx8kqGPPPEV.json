@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Edeghem",
+    "aliases": null,
+    "description": null,
+    "base_name": "Edeghem",
+    "filename": "Edeghem.md",
+    "id": "Ebx8kqGPPPEV",
+    "n_id": 259921629901401494238
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q724238"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/B2DaBkDtqy5R",
+        "label": "Belgium"
+      }
+    ]
+  }
+}

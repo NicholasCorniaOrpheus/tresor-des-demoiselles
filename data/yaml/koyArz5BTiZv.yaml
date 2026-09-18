@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: Municipal Library of Trento
+  aliases: Biblioteca comunale di Trento
+  description:
+  base_name: Municipal Library of Trento
+  filename: Municipal Library of Trento.md
+  id: koyArz5BTiZv
+  n_id: 883349613021746336446
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
+      label: public library
+  described_by_source:
+  inception:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/E4xSS3mmne5W
+      label: Trento
+  dissolved:
+  contributor:
+  official_website:
+    - http://www.bibcom.trento.it/
+  identifier:
+    - http://www.wikidata.org/entity/Q21075930
+  country:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/koyArz5BTiZv.json
+content:
+  markdown_content: ""

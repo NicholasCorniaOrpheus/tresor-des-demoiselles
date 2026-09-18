@@ -1,0 +1,32 @@
+metadata:
+  class: Organisation
+  label: de Camaret family
+  aliases:
+  description:
+  base_name: de Camaret family
+  filename: de Camaret family.md
+  id: 3ki4XenmgvbN
+  n_id: 36095639104396790228
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LWCE9BBAwpmz
+      label: noble family
+  described_by_source:
+  inception:
+  location:
+  dissolved:
+  contributor:
+  official_website:
+  identifier:
+    - http://www.wikidata.org/entity/Q65769403
+  country:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS
+      label: France
+  member:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/3ki4XenmgvbN.json
+content:
+  markdown_content: ""

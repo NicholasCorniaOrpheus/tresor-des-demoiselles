@@ -1,0 +1,35 @@
+metadata:
+  class: Agent
+  label: Frédéric Chopin
+  aliases:
+  description:
+  base_name: Frédéric Chopin
+  filename: Frédéric Chopin.md
+  id: b8RbfoXTY2fG
+  n_id: 683306731138578218144
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD
+      label: male
+  identifier:
+    - http://www.wikidata.org/entity/Q1268
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  related_to:
+  member_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/b8RbfoXTY2fG.json
+content:
+  markdown_content: ""

@@ -1,0 +1,63 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:RvidFN62EdQh-74LCp5W8rvdP a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:RvidFN62EdQh ;
+    schema:datePublished "1867-07" ;
+    schema:volumeNumber 35 .
+
+tdd:RvidFN62EdQh-H7XKMysKhPeB a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:RvidFN62EdQh .
+
+tdd:RvidFN62EdQh-Mz5DF4tMCLK5 a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:3Y5ZuvTBzed4 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:RvidFN62EdQh .
+
+tdd:RvidFN62EdQh-Wj8GkQnMF3gh a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:RvidFN62EdQh .
+
+tdd:RvidFN62EdQh-bGtGp9UTntKE a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:bbp23eR4DnZs ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:RvidFN62EdQh .
+
+tdd:RvidFN62EdQh-o5DqfJvKvjYD a rdf:Statement ;
+    bf:Note "The libretto is available on pag. 205-208 of the associated periodical." ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nfa7443749f61415e89b6ffb5d10173ab" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:RvidFN62EdQh ;
+    schema:datePublished "1867" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012401879706186> .
+
+tdd:RvidFN62EdQh a rdfs:Resource ;
+    rdfs:label "Le procès. Opérette en un acte" ;
+    dcterms:contributor tdd:3Y5ZuvTBzed4,
+        tdd:bbp23eR4DnZs ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Le procès : opérette en un acte paroles de M.me Adam-Boisgontier ; musique de Albert Grisar." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:GFGuESLqMKpn,
+        tdd:bogx9ECia7TM ;
+    wdt:P870 tdd:fcrABEiDKbza,
+        "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" .
+

@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,location_label,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Biblioteca comunale di Ala,,,Biblioteca comunale di Ala,Biblioteca comunale di Ala.md,WYNgoYLdzNNR,588797549506474073219,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J,public library,,,,,,,,,,
+Organisation,Biblioteca comunale di Ala,,,Biblioteca comunale di Ala,Biblioteca comunale di Ala.md,WYNgoYLdzNNR,588797549506474073219,described_by_source,,,,,,,,,,,,
+Organisation,Biblioteca comunale di Ala,,,Biblioteca comunale di Ala,Biblioteca comunale di Ala.md,WYNgoYLdzNNR,588797549506474073219,inception,,,,,,,,,,,,
+Organisation,Biblioteca comunale di Ala,,,Biblioteca comunale di Ala,Biblioteca comunale di Ala.md,WYNgoYLdzNNR,588797549506474073219,location,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TFVypnP45HEt,Ala,,,,,,
+Organisation,Biblioteca comunale di Ala,,,Biblioteca comunale di Ala,Biblioteca comunale di Ala.md,WYNgoYLdzNNR,588797549506474073219,dissolved,,,,,,,,,,,,
+Organisation,Biblioteca comunale di Ala,,,Biblioteca comunale di Ala,Biblioteca comunale di Ala.md,WYNgoYLdzNNR,588797549506474073219,contributor,,,,,,,,,,,,
+Organisation,Biblioteca comunale di Ala,,,Biblioteca comunale di Ala,Biblioteca comunale di Ala.md,WYNgoYLdzNNR,588797549506474073219,official_website,,,,,,,,,https://www.comune.ala.tn.it/amministrazione/strutture/biblioteca-ed-archivio-storico,,,
+Organisation,Biblioteca comunale di Ala,,,Biblioteca comunale di Ala,Biblioteca comunale di Ala.md,WYNgoYLdzNNR,588797549506474073219,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q28670553,,
+Organisation,Biblioteca comunale di Ala,,,Biblioteca comunale di Ala,Biblioteca comunale di Ala.md,WYNgoYLdzNNR,588797549506474073219,country,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B,Italy

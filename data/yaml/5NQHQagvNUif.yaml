@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  description:
+  aliases:
+    - catalog
+  label: catalogue
+  base_name: catalogue
+  filename: catalogue.md
+  id: 5NQHQagvNUif
+  n_id: 69289814037289520911
+statements:
+  instance_of:
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q2352616
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/5NQHQagvNUif.json
+content:
+  markdown_content: ""

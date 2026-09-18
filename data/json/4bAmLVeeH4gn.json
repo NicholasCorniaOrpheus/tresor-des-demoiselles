@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Alfred Systermans",
+    "aliases": null,
+    "description": null,
+    "base_name": "Alfred Systermans",
+    "filename": "Alfred Systermans.md",
+    "id": "4bAmLVeeH4gn",
+    "n_id": 53274539009764571990
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q141462294"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

@@ -1,0 +1,44 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:QHDoUebEJgKi-MMuGisTu8VLA a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:QHDoUebEJgKi .
+
+tdd:QHDoUebEJgKi-X5aB6252FWjG a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:QHDoUebEJgKi ;
+    schema:datePublished "1866-09" .
+
+tdd:QHDoUebEJgKi-YQAPUyRCBZQT a rdf:Statement ;
+    bf:heldBy tdd:LXpbq9mb5bNo ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "Nd82b9cca43ce40b89fac590f87e78d83" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:QHDoUebEJgKi ;
+    schema:datePublished "1866" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991005002499706186> .
+
+tdd:QHDoUebEJgKi-oXbyMD8eb44M a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:4bAmLVeeH4gn ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:QHDoUebEJgKi .
+
+tdd:QHDoUebEJgKi a rdfs:Resource ;
+    rdfs:label "Amélie. Polka mazurka" ;
+    dcterms:contributor tdd:4bAmLVeeH4gn ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Amélie : polka mazurka par Alfred Systermans." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:U66A6PCCFAfU .
+

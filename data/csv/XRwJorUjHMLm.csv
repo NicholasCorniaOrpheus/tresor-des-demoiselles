@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,,chamber music,chamber music,chamber music.md,XRwJorUjHMLm,607106363504595172216,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,
+Concept,,,chamber music,chamber music,chamber music.md,XRwJorUjHMLm,607106363504595172216,subclass_of,,,,,
+Concept,,,chamber music,chamber music,chamber music.md,XRwJorUjHMLm,607106363504595172216,described_by_source,,,,,
+Concept,,,chamber music,chamber music,chamber music.md,XRwJorUjHMLm,607106363504595172216,identifier,,,,,http://www.wikidata.org/entity/Q189201

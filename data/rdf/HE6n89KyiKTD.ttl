@@ -1,0 +1,58 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:HE6n89KyiKTD-5GkGhK2Cw9jh a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N1aaae1d739634e07bf53b160f3149247" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:HE6n89KyiKTD ;
+    schema:datePublished "1867" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012394549706186> .
+
+tdd:HE6n89KyiKTD-bnB9TmiRKcBj a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:HE6n89KyiKTD .
+
+tdd:HE6n89KyiKTD-cj5cqQvSbJpF a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:HE6n89KyiKTD ;
+    schema:datePublished "1867-09" .
+
+tdd:HE6n89KyiKTD-gHi2aQPHya25 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:HE6n89KyiKTD .
+
+tdd:HE6n89KyiKTD-iNrXjgJu7vnu a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:HVQ65sXxdJGu ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:HE6n89KyiKTD .
+
+tdd:HE6n89KyiKTD-jANc7UG9pfSm a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:46bgjfV4h235 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:HE6n89KyiKTD .
+
+tdd:HE6n89KyiKTD a rdfs:Resource ;
+    rdfs:label "Dieu le veut! Hymne à la paix" ;
+    dcterms:contributor tdd:46bgjfV4h235,
+        tdd:HVQ65sXxdJGu ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Dieu le veut! : hymne à la paix paroles de M.r Gustave Chouchet ; musique de M.r Vincenzo Bonetti." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:8FqAjuo6FtkU ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

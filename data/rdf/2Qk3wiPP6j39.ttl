@@ -7,50 +7,50 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:2Qk3wiPP6j39-7QDZQSgTyHir a rdf:Statement ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N13f8e755473b4723b5eb539389218afa" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:2Qk3wiPP6j39 ;
-    schema:url <https://anet.be/record/opacdkvc/c:lvd:6722999> .
-
-tdd:2Qk3wiPP6j39-7ZuqWxgQXa7S a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:kXFWowftH5UQ ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:2Qk3wiPP6j39 .
-
-tdd:2Qk3wiPP6j39-UXbeDJFQQmDt a rdf:Statement ;
-    bf:Note "Piano four-hands version. Second edition." ;
-    bf:heldBy tdd:MzUK38XpCjqB ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N738141708c334a2bb2e799ff1cdb9723" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:2Qk3wiPP6j39 ;
-    schema:datePublished "1862-01-01" ;
-    schema:url <http://ark.bnf.fr/ark:/12148/cb42884316z> .
-
-tdd:2Qk3wiPP6j39-YRVPJFCrMJXG a rdf:Statement ;
-    rdf:object tdd:HuT8aF2rGmzB ;
-    rdf:predicate dcterms:isPartOf ;
-    rdf:subject tdd:2Qk3wiPP6j39 ;
-    schema:datePublished "1852-01-01" ;
-    schema:volumeNumber 9 .
-
-tdd:2Qk3wiPP6j39-ZtxQRbfxUqoF a rdf:Statement ;
+tdd:2Qk3wiPP6j39-5N3Dcn2Btmgw a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:2Qk3wiPP6j39 .
 
-tdd:2Qk3wiPP6j39-hPGAeEjv4FJq a rdf:Statement ;
+tdd:2Qk3wiPP6j39-7JSRFLjVMtUB a rdf:Statement ;
     bf:heldBy tdd:nvkQnSyBbvsT ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Ncbb26f42ce234974b77355a9fa65a930" ;
+    rdf:object "N23a287c56a024f54a67010a1ff909710" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:2Qk3wiPP6j39 ;
     schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:2Qk3wiPP6j39-FeDU8dbpu45M a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:kXFWowftH5UQ ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2Qk3wiPP6j39 .
+
+tdd:2Qk3wiPP6j39-KpaamHCH9Upb a rdf:Statement ;
+    bf:Note "Piano four-hands version. Second edition." ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N064771c6cd014002bee9d2fba0f63d69" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:datePublished "1862-01-01" ;
+    schema:url <http://ark.bnf.fr/ark:/12148/cb42884316z> .
+
+tdd:2Qk3wiPP6j39-RaWCjhPKQmf3 a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N5015d3f8a4e4480eb947be3fae233192" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:url <https://anet.be/record/opacdkvc/c:lvd:6722999> .
+
+tdd:2Qk3wiPP6j39-iCAeP6vhDS6f a rdf:Statement ;
+    rdf:object tdd:HuT8aF2rGmzB ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:2Qk3wiPP6j39 ;
+    schema:datePublished "1852-01-01" ;
+    schema:volumeNumber 9 .
 
 tdd:2Qk3wiPP6j39 a rdfs:Resource ;
     rdfs:label "Fantaisie sur le Carillonneur" ;

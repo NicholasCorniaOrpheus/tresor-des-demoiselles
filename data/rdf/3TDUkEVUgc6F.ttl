@@ -1,0 +1,45 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:3TDUkEVUgc6F-Dek9wCzGWstr a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:3TDUkEVUgc6F .
+
+tdd:3TDUkEVUgc6F-JcaKAjtDX6SS a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:3TDUkEVUgc6F .
+
+tdd:3TDUkEVUgc6F-XvhgwqGLzQYd a rdf:Statement ;
+    rdf:object tdd:5vMfYTL9wGVi ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:3TDUkEVUgc6F ;
+    schema:datePublished "1850" .
+
+tdd:3TDUkEVUgc6F-nCrbv3asyjqH a rdf:Statement ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N61d9a1bd25194008b9bd0890a4235214" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:3TDUkEVUgc6F ;
+    schema:datePublished "1850" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88236> .
+
+tdd:3TDUkEVUgc6F a rdfs:Resource ;
+    rdfs:label "La fée aux roses. Musique de F. Halévy" ;
+    dcterms:isPartOf tdd:5vMfYTL9wGVi ;
+    dcterms:title "La fée aux roses : paroles de Mrs Scribe et de St Georges ; musique de F. Halévy" ;
+    dcterms:type "Manifestation" ;
+    wdt:P144 tdd:3TDUkEVUgc6F ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:aph6QHtmL78s ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

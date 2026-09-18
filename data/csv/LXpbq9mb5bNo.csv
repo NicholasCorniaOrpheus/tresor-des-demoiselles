@@ -1,0 +1,10 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,location_label,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label
+Organisation,Biblioteca Thun,,,Biblioteca Thun,Biblioteca Thun.md,LXpbq9mb5bNo,382241101245631711629,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J,public library,,,,,,,,,,
+Organisation,Biblioteca Thun,,,Biblioteca Thun,Biblioteca Thun.md,LXpbq9mb5bNo,382241101245631711629,described_by_source,,,,,,,,,,,,
+Organisation,Biblioteca Thun,,,Biblioteca Thun,Biblioteca Thun.md,LXpbq9mb5bNo,382241101245631711629,inception,,,,,,,,,,,,
+Organisation,Biblioteca Thun,,,Biblioteca Thun,Biblioteca Thun.md,LXpbq9mb5bNo,382241101245631711629,location,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/E4xSS3mmne5W,Trento,,,,,,
+Organisation,Biblioteca Thun,,,Biblioteca Thun,Biblioteca Thun.md,LXpbq9mb5bNo,382241101245631711629,dissolved,,,,,,,,,,,,
+Organisation,Biblioteca Thun,,,Biblioteca Thun,Biblioteca Thun.md,LXpbq9mb5bNo,382241101245631711629,contributor,,,,,,,,,,,,
+Organisation,Biblioteca Thun,,,Biblioteca Thun,Biblioteca Thun.md,LXpbq9mb5bNo,382241101245631711629,official_website,,,,,,,,,,,,
+Organisation,Biblioteca Thun,,,Biblioteca Thun,Biblioteca Thun.md,LXpbq9mb5bNo,382241101245631711629,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q117192574,,
+Organisation,Biblioteca Thun,,,Biblioteca Thun,Biblioteca Thun.md,LXpbq9mb5bNo,382241101245631711629,country,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B,Italy

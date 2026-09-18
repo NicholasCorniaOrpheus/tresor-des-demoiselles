@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Riva del Garda",
+    "aliases": null,
+    "description": null,
+    "base_name": "Riva del Garda",
+    "filename": "Riva del Garda.md",
+    "id": "7ghKvwoUDWGX",
+    "n_id": 117186470872240833413
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q194136"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B",
+        "label": "Italy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Wolfgang Amadeus Mozart",
+    "aliases": null,
+    "description": null,
+    "base_name": "Wolfgang Amadeus Mozart",
+    "filename": "Wolfgang Amadeus Mozart.md",
+    "id": "V8FvqpV6QvB7",
+    "n_id": 559429953896597703278
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q254"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

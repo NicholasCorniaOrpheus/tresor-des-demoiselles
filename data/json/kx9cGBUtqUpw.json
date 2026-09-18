@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "class": "Concept",
+    "description": null,
+    "aliases": null,
+    "label": "liturgical chant",
+    "base_name": "religious chant",
+    "filename": "religious chant.md",
+    "id": "kx9cGBUtqUpw",
+    "n_id": 886305871924912788680
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP",
+        "label": "type of musical work"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q23072435"
+    ]
+  }
+}

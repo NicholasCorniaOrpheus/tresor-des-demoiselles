@@ -1,0 +1,57 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:Uv8NxNAsQurk-6B2UTm3EzudD a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:eeRfejkq5jtH ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Uv8NxNAsQurk .
+
+tdd:Uv8NxNAsQurk-K452hr8gogDb a rdf:Statement ;
+    bf:heldBy tdd:ZrEGPsvHE4pG ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N8dd1472871294504a827b03d3abc63af" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Uv8NxNAsQurk ;
+    schema:datePublished "1896" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991003112529706186> .
+
+tdd:Uv8NxNAsQurk-NNHVpTvYcXsw a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Uv8NxNAsQurk .
+
+tdd:Uv8NxNAsQurk-djyw6VMXvWbU a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:Uv8NxNAsQurk ;
+    schema:datePublished "1896" .
+
+tdd:Uv8NxNAsQurk-iYTXZUCpYukx a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Uv8NxNAsQurk .
+
+tdd:Uv8NxNAsQurk-nXzqaYpLhpJR a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:Ni6ASxqtSvxQ ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Uv8NxNAsQurk .
+
+tdd:Uv8NxNAsQurk a rdfs:Resource ;
+    rdfs:label "La leçon de Pierre" ;
+    dcterms:contributor tdd:Ni6ASxqtSvxQ,
+        tdd:eeRfejkq5jtH ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "La leçon de Pierre paroles de André Lénéka ; musique de Georges Douay." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:8FqAjuo6FtkU .
+

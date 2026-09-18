@@ -80,6 +80,9 @@
 ???+ abstract "occupation"
     - [librettist](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz)
 
+???+ abstract "related to"
+    - [Journal des demoiselles](https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU)
+
 
 
 

@@ -65,8 +65,22 @@ based_on/note,bf,note,http://id.loc.gov/ontologies/bibframe/Note,String,,stateme
 about,schema,about,https://schema.org/about,Entity,,statements
 form_of_creative_work,wdt,form of creative work,http://wikidata.org/entity/P7937,Entity,P7937,statements
 markdown_content,schema,text,https://schema.org/text,String,,content
-related_to,gnd,relatedTerm,https://d-nb.info/standards/elementset/gnd#relatedTerm,Entity,,statements
+related_to,gnd,relatedTerm,https://d-nb.info/standards/elementset/gnd#relatedTerm,Statement,,statements
+related_to/value,gnd,relatedTerm,https://d-nb.info/standards/elementset/gnd#relatedTerm,Entity,,statements
+related_to/relationship,bf,Relationship,http://id.loc.gov/ontologies/bibframe/Relationship,Entity,,statements
 filename,,,,String,,metadata
 n_id,,,,Integer,,metadata
 id,,,,String,,metadata
 base_name,,,,String,,metadata
+member,,,,Statement,,statements
+member/value,schema,members,https://schema.org/members,Entity,,statements
+member/role,schema,OrganizationRole,https://schema.org/OrganizationRole,Entity,,statements
+member/start_date,schema,startDate,https://schema.org/startDate,String,,statements
+member/end_date,schema,endDate,https://schema.org/endDate,String,,statements
+member/reference_URL,wdt,reference URL,http://wikidata.org/entity/P854,URIRef,,statements
+member_of,,,,Statement,,statements
+member_of/value,schema,memberOf,https://schema.org/memberOf,Entity,,statements
+member_of/role,schema,OrganizationRole,https://schema.org/OrganizationRole,Entity,,statements
+member_of/start_date,schema,startDate,https://schema.org/startDate,String,,statements
+member_of/end_date,schema,endDate,https://schema.org/endDate,String,,statements
+member_of/reference_URL,wdt,reference URL,http://wikidata.org/entity/P854,URIRef,,statements

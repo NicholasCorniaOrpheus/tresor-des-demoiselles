@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  description:
+  aliases:
+  label: folklore
+  base_name: folklore
+  filename: folklore.md
+  id: cPayemxUKyHY
+  n_id: 709432743594089548290
+statements:
+  instance_of:
+  subclass_of:
+  described_by_source:
+  identifier:
+    - http://www.wikidata.org/entity/Q36192
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/cPayemxUKyHY.json
+content:
+  markdown_content: ""

@@ -7,49 +7,49 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:bXeCi7hg9Gqt-6GpuriLWwu6H a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:YWYUY7mvkVNd ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:bXeCi7hg9Gqt .
-
-tdd:bXeCi7hg9Gqt-An8MHoScLT2z a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:bXeCi7hg9Gqt .
-
-tdd:bXeCi7hg9Gqt-BR9YTgzVABUQ a rdf:Statement ;
-    bf:Note "Hommage à Madame la Baronne de Peellaert" ;
-    bf:heldBy tdd:RYU7rRDeh5zs ;
-    rdf:object "Ne4b3a12c9bc04ecb8bd82026167739b2" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:bXeCi7hg9Gqt ;
-    schema:url <https://anet.be/record/opacap/c:lvd:12971523> .
-
-tdd:bXeCi7hg9Gqt-JtsaqqNRDryd a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:bXeCi7hg9Gqt .
-
-tdd:bXeCi7hg9Gqt-N7pP8x8UEZuv a rdf:Statement ;
+tdd:bXeCi7hg9Gqt-ACYEGsg9iiKm a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:RjYJceWjXaJJ ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:bXeCi7hg9Gqt .
 
-tdd:bXeCi7hg9Gqt-QoTCwWdFqwa2 a rdf:Statement ;
+tdd:bXeCi7hg9Gqt-DEft8XgUKQrx a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-THdvzQJ4vjTP a rdf:Statement ;
     rdf:object tdd:VWaxuELqVfKN ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:bXeCi7hg9Gqt ;
     schema:volumeNumber 2 .
 
-tdd:bXeCi7hg9Gqt-cGYYfUz68Sxp a rdf:Statement ;
+tdd:bXeCi7hg9Gqt-W8jqJYi45Q9k a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:YWYUY7mvkVNd ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-cRCNU3c4fdAt a rdf:Statement ;
     bf:Role tdd:FM6DzoKyNv6j ;
     rdf:object tdd:oTMkeVga9UZA ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-iFJo3ZqFEffh a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:bXeCi7hg9Gqt .
+
+tdd:bXeCi7hg9Gqt-n4NPCm3Mt6zx a rdf:Statement ;
+    bf:Note "Hommage à Madame la Baronne de Peellaert" ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    rdf:object "Nf487de516e6d4fafb2927b3d9816b835" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:bXeCi7hg9Gqt ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971523> .
 
 tdd:bXeCi7hg9Gqt a rdfs:Resource ;
     rdfs:label "L'enfant et la rose: mélodie" ;

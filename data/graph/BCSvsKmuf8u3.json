@@ -13,10 +13,28 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/OI-20143702p42/orp-plant-lemaria-20143702p42-fs-00001.jpg"
     },
     {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pg9nouQqwH7x",
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eCpW9h8afLPq",
+      "label": "Ghazel. Valse",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NRbT3Gb5vXAx",
+      "label": "La danza. Tarantelle napolitaine",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/An432jLuvPhj",
       "label": "Une orientale: mélodie",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-12971503/20260608141705109_0004.jpg"
+    },
+    {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/J8hUwDELTqxH",
+      "label": "Soirées de Grenade. 2me quadrille",
+      "class": "Manifestation",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png"
     }
   ],
   "links": [
@@ -26,7 +44,22 @@
       "property": "about"
     },
     {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Pg9nouQqwH7x",
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eCpW9h8afLPq",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BCSvsKmuf8u3",
+      "property": "about"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NRbT3Gb5vXAx",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BCSvsKmuf8u3",
+      "property": "about"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/An432jLuvPhj",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BCSvsKmuf8u3",
+      "property": "about"
+    },
+    {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/J8hUwDELTqxH",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/BCSvsKmuf8u3",
       "property": "about"
     }

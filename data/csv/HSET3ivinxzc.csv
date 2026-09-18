@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,subclass_of_label,described_by_source_value,identifier_value
+Concept,,"['rondo', 'rondò']",rondeau,rondeau,rondeau.md,HSET3ivinxzc,318306304981473753901,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dfucaD9GdueP,type of musical work,,,,
+Concept,,"['rondo', 'rondò']",rondeau,rondeau,rondeau.md,HSET3ivinxzc,318306304981473753901,subclass_of,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mj6hzfVSHHew,classical dance music,,
+Concept,,"['rondo', 'rondò']",rondeau,rondeau,rondeau.md,HSET3ivinxzc,318306304981473753901,described_by_source,,,,,,
+Concept,,"['rondo', 'rondò']",rondeau,rondeau,rondeau.md,HSET3ivinxzc,318306304981473753901,identifier,,,,,,http://www.wikidata.org/entity/Q13323

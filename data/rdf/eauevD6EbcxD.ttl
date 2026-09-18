@@ -5,15 +5,15 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:eauevD6EbcxD-EL5JRkL4Chb5 a rdf:Statement ;
-    bf:Role tdd:Mgp8YUwRv3Jz ;
-    rdf:object tdd:9ePAEBeWWE82 ;
+tdd:eauevD6EbcxD-6c8b9dWiuamR a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:SuU5RRaXHL2Z ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:eauevD6EbcxD .
 
-tdd:eauevD6EbcxD-oPeDGsM3aUkt a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:SuU5RRaXHL2Z ;
+tdd:eauevD6EbcxD-7BfVL2ZViWB7 a rdf:Statement ;
+    bf:Role tdd:Mgp8YUwRv3Jz ;
+    rdf:object tdd:9ePAEBeWWE82 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:eauevD6EbcxD .
 

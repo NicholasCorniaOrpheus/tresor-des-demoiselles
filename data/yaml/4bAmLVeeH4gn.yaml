@@ -1,0 +1,33 @@
+metadata:
+  class: Agent
+  label: Alfred Systermans
+  aliases:
+  description:
+  base_name: Alfred Systermans
+  filename: Alfred Systermans.md
+  id: 4bAmLVeeH4gn
+  n_id: 53274539009764571990
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+  identifier:
+    - http://www.wikidata.org/entity/Q141462294
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+      label: composer
+  related_to:
+  member_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/4bAmLVeeH4gn.json
+content:
+  markdown_content: ""

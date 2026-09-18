@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Gatien Marcailhou",
+    "aliases": null,
+    "description": null,
+    "base_name": "Gatien Marcailhou",
+    "filename": "Gatien Marcailhou.md",
+    "id": "k2g9gFcZkXp4",
+    "n_id": 866950005818953224770
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1807
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1855
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q3099271"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

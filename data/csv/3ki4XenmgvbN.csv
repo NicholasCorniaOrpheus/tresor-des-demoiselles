@@ -1,0 +1,11 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,described_by_source_value,inception_value,location_value,dissolved_value,contributor_value,official_website_value,identifier_value,country_value,country_label,member_value
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LWCE9BBAwpmz,noble family,,,,,,,,,,
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,described_by_source,,,,,,,,,,,,
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,inception,,,,,,,,,,,,
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,location,,,,,,,,,,,,
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,dissolved,,,,,,,,,,,,
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,contributor,,,,,,,,,,,,
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,official_website,,,,,,,,,,,,
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,identifier,,,,,,,,,http://www.wikidata.org/entity/Q65769403,,,
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,country,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS,France,
+Organisation,de Camaret family,,,de Camaret family,de Camaret family.md,3ki4XenmgvbN,36095639104396790228,member,,,,,,,,,,,,

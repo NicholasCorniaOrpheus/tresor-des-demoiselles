@@ -1,0 +1,53 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:F3ZoWs87ZnXS-7wd86cCpDKSk a rdf:Statement ;
+    bf:heldBy tdd:koyArz5BTiZv ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N29db1a32a6ac4997bfe493b539c8ae79" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:F3ZoWs87ZnXS ;
+    schema:datePublished "1863" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991016161619706186> .
+
+tdd:F3ZoWs87ZnXS-8QinAppLdWJk a rdf:Statement ;
+    wdt:P1114 "3" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:F3ZoWs87ZnXS .
+
+tdd:F3ZoWs87ZnXS-GPSztAw4A5SU a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:ZTBo4cshUnaf ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:F3ZoWs87ZnXS .
+
+tdd:F3ZoWs87ZnXS-TjfFXecLWFam a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:F3ZoWs87ZnXS .
+
+tdd:F3ZoWs87ZnXS-gLXpMY5LE8tW a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:F3ZoWs87ZnXS ;
+    schema:datePublished "1863-07" .
+
+tdd:F3ZoWs87ZnXS a rdfs:Resource ;
+    rdfs:label "Ancien Noël tiré des chants religieux de la Pologne" ;
+    dcterms:contributor tdd:ZTBo4cshUnaf ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Ancien Noël tiré des chants religieux de la Pologne harmonisés et arrangés par Albert Sowinski." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:kx9cGBUtqUpw ;
+    wdt:P870 tdd:fcrABEiDKbza ;
+    schema:about tdd:9zb8m5j522fm,
+        tdd:cPayemxUKyHY .
+

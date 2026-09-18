@@ -1,4 +1,5 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix gnd: <https://d-nb.info/standards/elementset/gnd#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
@@ -9,6 +10,8 @@ tdd:4Z9bCRmwDbS7 a rdfs:Resource ;
     dcterms:identifier <http://www.wikidata.org/entity/Q140330128> ;
     dcterms:type "Agent" ;
     wdt:P31 tdd:TudsDJnQvonk ;
+    gnd:relatedTerm tdd:NS7S3TJjbHvU ;
     schema:gender tdd:hkA3uvTGSDnD ;
-    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz" .
+    schema:hasOccupation "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+        "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PGagqrY8C5Aa" .
 

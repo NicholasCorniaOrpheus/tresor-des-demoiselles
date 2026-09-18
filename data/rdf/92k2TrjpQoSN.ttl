@@ -6,28 +6,28 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:92k2TrjpQoSN-JzLSrCWAVoRd a rdf:Statement ;
+tdd:92k2TrjpQoSN-4g5SFaj9PLDw a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:MzKoxNkE4So3 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:92k2TrjpQoSN .
+
+tdd:92k2TrjpQoSN-AaAzQsuQjjY2 a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
-    rdf:object "N76be05f0f75a4297bf1537e74b7d4098" ;
+    rdf:object "Nacf562395a9148e68909dc66b3b3905c" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:92k2TrjpQoSN ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=61736> .
 
-tdd:92k2TrjpQoSN-QUmepctWDcCz a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:jUohUDQ7mo5u ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:92k2TrjpQoSN .
-
-tdd:92k2TrjpQoSN-aeTQnFFNkGvy a rdf:Statement ;
+tdd:92k2TrjpQoSN-T57sh7Sc5CcA a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:92k2TrjpQoSN .
 
-tdd:92k2TrjpQoSN-gDUvUUFkPWAx a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:MzKoxNkE4So3 ;
+tdd:92k2TrjpQoSN-aBPMomkcrZvn a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:jUohUDQ7mo5u ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:92k2TrjpQoSN .
 

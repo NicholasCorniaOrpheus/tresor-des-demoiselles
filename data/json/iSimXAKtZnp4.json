@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Ernesto Nicolini",
+    "aliases": null,
+    "description": null,
+    "base_name": "Ernesto Nicolini",
+    "filename": "Ernesto Nicolini.md",
+    "id": "iSimXAKtZnp4",
+    "n_id": 834383702585809948190
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1834
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1898
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q3083329"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VMZCquADC29J",
+        "label": "opera singer"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

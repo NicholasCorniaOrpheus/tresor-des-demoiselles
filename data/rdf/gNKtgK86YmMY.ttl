@@ -1,0 +1,37 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:gNKtgK86YmMY-YBj3T7MQTgac a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N510b4e6184174fce994557a8119f4018" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:gNKtgK86YmMY ;
+    schema:datePublished "1868" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012396749706186> .
+
+tdd:gNKtgK86YmMY-Zw4d4Rfpb4bU a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:gNKtgK86YmMY ;
+    schema:datePublished "1868-03" .
+
+tdd:gNKtgK86YmMY-ntTwEvE9tVjC a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:gNKtgK86YmMY .
+
+tdd:gNKtgK86YmMY a rdfs:Resource ;
+    rdfs:label "Pulcinella. Polka par M.me L. Lacombe" ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Pulcinella : polka par M.me L. Lacombe." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:U66A6PCCFAfU .
+

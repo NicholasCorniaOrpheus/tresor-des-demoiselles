@@ -1,0 +1,54 @@
+metadata:
+  class: Manifestation
+  label: Blondine. Scottisch
+  aliases:
+  description:
+  base_name: Blondine. Scottisch
+  filename: Blondine. Scottisch.md
+  id: jFn4UqJzNzoB
+  n_id: 851058068557535498727
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1863-07
+      label: Journal des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4bAmLVeeH4gn
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Alfred Systermans
+  has_version:
+    - permalink: https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012399599706186
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/koyArz5BTiZv
+        label: Municipal Library of Trento
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1863
+  title:
+    - "Blondine : Scottisch par Alfred Systermans"
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/P3xwqK2mHjC7
+      label: schottische
+assets:
+  local_asset_path:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/jFn4UqJzNzoB.json
+content:
+  markdown_content: ""

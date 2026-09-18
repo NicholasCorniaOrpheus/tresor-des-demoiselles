@@ -1,0 +1,64 @@
+metadata:
+  class: Manifestation
+  label: Le soir. Mélodie
+  aliases:
+  description:
+  base_name: Le soir. Mélodie
+  filename: Le soir. Mélodie.md
+  id: gLFPG899X7sw
+  n_id: 790765732498204546868
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1868-11
+      label: Journal des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/8XSuzc4cjCmp
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Carl Maria von Weber
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/4Z9bCRmwDbS7
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/3yS9agtba9rA
+        label: translator
+      label: Paul Dubourg
+  has_version:
+    - permalink: https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012400889706186
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WYNgoYLdzNNR
+        label: Biblioteca comunale di Ala
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1868
+  title:
+    - "Le soir : mélodie de Weber ; paroles de Paul Dubourg."
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 1
+      label: voice
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WHdDug4Xwv3G
+      label: mélodie
+assets:
+  local_asset_path:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/gLFPG899X7sw.json
+content:
+  markdown_content: ""

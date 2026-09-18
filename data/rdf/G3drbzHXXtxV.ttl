@@ -7,23 +7,23 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:G3drbzHXXtxV-2h9uw6ukge9E a rdf:Statement ;
-    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11308545> ;
-    bf:heldBy tdd:PSaEANSLWUfh ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11308545/manifest> ;
-    rdf:object "N96b2bc6516a447dc87314f8aca909740" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:G3drbzHXXtxV ;
-    schema:datePublished "1875-01-01" ;
-    schema:url <https://mdz-nbn-resolving.de/details:bsb11308545> .
-
-tdd:G3drbzHXXtxV-mcwfDrrNTkn5 a rdf:Statement ;
+tdd:G3drbzHXXtxV-cjwdSECVsARk a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:G3drbzHXXtxV ;
     schema:datePublished "1875-01-01" ;
     schema:volumeNumber 43 .
+
+tdd:G3drbzHXXtxV-nf864XSuSEtL a rdf:Statement ;
+    bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb11308545> ;
+    bf:heldBy tdd:PSaEANSLWUfh ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11308545/manifest> ;
+    rdf:object "N679fdb6322014ea089fc846be40b4159" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:G3drbzHXXtxV ;
+    schema:datePublished "1875-01-01" ;
+    schema:url <https://mdz-nbn-resolving.de/details:bsb11308545> .
 
 tdd:G3drbzHXXtxV a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1875)" ;

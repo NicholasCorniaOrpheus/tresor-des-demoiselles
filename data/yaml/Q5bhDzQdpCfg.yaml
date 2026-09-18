@@ -1,0 +1,32 @@
+metadata:
+  class: Agent
+  label: Marie Dark
+  aliases:
+  description:
+  base_name: Marie Dark
+  filename: Marie Dark.md
+  id: Q5bhDzQdpCfg
+  n_id: 455289865061056051784
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
+  identifier:
+  occupation:
+  related_to:
+  member_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/Q5bhDzQdpCfg.json
+content:
+  markdown_content: ""

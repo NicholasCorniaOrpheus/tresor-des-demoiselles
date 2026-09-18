@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "class": "Organisation",
+    "label": "de Camaret family",
+    "aliases": null,
+    "description": null,
+    "base_name": "de Camaret family",
+    "filename": "de Camaret family.md",
+    "id": "3ki4XenmgvbN",
+    "n_id": 36095639104396790228
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LWCE9BBAwpmz",
+        "label": "noble family"
+      }
+    ],
+    "described_by_source": null,
+    "inception": null,
+    "location": null,
+    "dissolved": null,
+    "contributor": null,
+    "official_website": null,
+    "identifier": [
+      "http://www.wikidata.org/entity/Q65769403"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/LCZnUXZBAaXS",
+        "label": "France"
+      }
+    ],
+    "member": null
+  }
+}

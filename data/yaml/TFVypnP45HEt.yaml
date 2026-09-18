@@ -1,0 +1,22 @@
+metadata:
+  class: Place
+  label: Ala
+  aliases:
+  description:
+  base_name: Ala
+  filename: Ala.md
+  id: TFVypnP45HEt
+  n_id: 520781640158431761737
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q243644
+  country:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B
+      label: Italy
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/TFVypnP45HEt.json
+content:
+  markdown_content: ""

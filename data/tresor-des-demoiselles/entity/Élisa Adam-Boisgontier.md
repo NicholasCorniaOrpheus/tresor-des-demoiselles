@@ -18,4 +18,7 @@ identifier:
 occupation:
   - "[[librettist]]"
 country_of_citizenship: "[[France]]"
+related_to:
+  - value: "[[Journal des demoiselles]]"
+member_of:
 ---

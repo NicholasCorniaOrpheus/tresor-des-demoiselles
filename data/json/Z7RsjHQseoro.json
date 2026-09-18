@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "class": "Manifestation",
+    "label": "Les pionniers. Choeur. Transcription pour piano à 4 mains",
+    "aliases": null,
+    "description": null,
+    "base_name": "Les pionniers. Choeur. Transcription pour piano à 4 mains",
+    "filename": "Les pionniers. Choeur. Transcription pour piano à 4 mains.md",
+    "id": "Z7RsjHQseoro",
+    "n_id": 641674687674288829473
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr",
+        "label": "notated music"
+      }
+    ],
+    "has_part": null,
+    "part_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU",
+        "publication_date": "1869-01",
+        "label": "Journal des demoiselles"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/dotvkxrkZXYu",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Antoine Rocheblave"
+      }
+    ],
+    "has_version": [
+      {
+        "permalink": "https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012401689706186",
+        "holding_institution": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WYNgoYLdzNNR",
+          "label": "Biblioteca comunale di Ala"
+        },
+        "place_of_publication": [
+          {
+            "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d",
+            "label": "Paris"
+          }
+        ],
+        "publication_date": 1869
+      }
+    ],
+    "title": [
+      "Les pionniers : choeur de A. Rocheblave ; transcription pour piano à 4 mains."
+    ],
+    "instrumentation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XydSWTaz2cRs",
+        "quantity": 1,
+        "label": "choir"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kc8mMg6XAXbn",
+        "quantity": 1,
+        "label": "piano four hands"
+      }
+    ],
+    "depicts": null,
+    "about": null,
+    "language": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza",
+        "label": "French"
+      }
+    ],
+    "based_on": null,
+    "form_of_creative_work": null
+  }
+}

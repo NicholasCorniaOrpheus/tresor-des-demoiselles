@@ -1,0 +1,62 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:jEQW3gkD2hGB-4eNLAusBfwzP a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N78c99159a3724fdba6fc5896c58d230b" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:jEQW3gkD2hGB ;
+    schema:datePublished "1853-01-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:jEQW3gkD2hGB-Frec9DEj8E7d a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:ZfmKav6XRoha ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:jEQW3gkD2hGB .
+
+tdd:jEQW3gkD2hGB-PYk7k7kxLxYc a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:2iKRPNbFtmcd ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:jEQW3gkD2hGB .
+
+tdd:jEQW3gkD2hGB-T9VruLvk8XU9 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:jEQW3gkD2hGB .
+
+tdd:jEQW3gkD2hGB-crc2ZdXj3SWn a rdf:Statement ;
+    bf:electronicLocator <https://uurl.kbr.be/1477349> ;
+    bf:heldBy tdd:2osPtS3ax4Hc ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N842c256b879749d69e8e7d01117be998" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:jEQW3gkD2hGB ;
+    schema:datePublished "1853-01-01" ;
+    schema:url <https://uurl.kbr.be/bib/16059097> .
+
+tdd:jEQW3gkD2hGB-kmHQmtsizsaV a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:jEQW3gkD2hGB .
+
+tdd:jEQW3gkD2hGB a rdfs:Resource ;
+    rdfs:label "Le Pinson" ;
+    dcterms:contributor tdd:2iKRPNbFtmcd,
+        tdd:ZfmKav6XRoha ;
+    dcterms:isPartOf tdd:VWaxuELqVfKN ;
+    dcterms:title "Le Pinson ou le bien pour le mal" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:8FqAjuo6FtkU ;
+    wdt:P870 tdd:fcrABEiDKbza .
+

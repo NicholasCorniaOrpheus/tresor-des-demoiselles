@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,member_of_value
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,date_of_birth,,,,,,,,,,,,,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,described_by_source,,,,,,,,,,,,,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,date_of_death,,,,,,,,,,,,,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,place_of_birth,,,,,,,,,,,,,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,place_of_death,,,,,,,,,,,,,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q113679538,,,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,related_to,,,,,,,,,,,,,,
+Agent,Vincenzo Bonetti,,,Vincenzo Bonetti,Vincenzo Bonetti.md,HVQ65sXxdJGu,319453583787869001951,member_of,,,,,,,,,,,,,,

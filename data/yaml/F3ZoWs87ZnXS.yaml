@@ -1,0 +1,63 @@
+metadata:
+  class: Manifestation
+  label: Ancien Noël tiré des chants religieux de la Pologne
+  aliases:
+  description:
+  base_name: Ancien Noël tiré des chants religieux de la Pologne
+  filename: Ancien Noël tiré des chants religieux de la Pologne.md
+  id: F3ZoWs87ZnXS
+  n_id: 268830697995024795138
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/PoUD3gvUcVyr
+      label: notated music
+  has_part:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      publication_date: 1863-07
+      label: Journal des demoiselles
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/ZTBo4cshUnaf
+      role:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5
+        label: composer
+      label: Wojciech Sowiński
+  has_version:
+    - permalink: https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991016161619706186
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/koyArz5BTiZv
+        label: Municipal Library of Trento
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/7VQdaj7JW86d
+          label: Paris
+      publication_date: 1863
+  title:
+    - Ancien Noël tiré des chants religieux de la Pologne harmonisés et arrangés par Albert Sowinski.
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ
+      quantity: 3
+      label: voice
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8
+      quantity: 1
+      label: piano
+  depicts:
+  about:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cPayemxUKyHY
+      label: folklore
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9zb8m5j522fm
+      label: Poland
+  language:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fcrABEiDKbza
+      label: French
+  based_on:
+  form_of_creative_work:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/kx9cGBUtqUpw
+      label: religious chant
+assets:
+  local_asset_path:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/manifestation.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/F3ZoWs87ZnXS.json
+content:
+  markdown_content: ""

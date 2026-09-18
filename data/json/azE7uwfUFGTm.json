@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Ferdinand Misti-Mifliez",
+    "aliases": [
+      "Misti"
+    ],
+    "description": null,
+    "base_name": "Ferdinand Misti-Mifliez",
+    "filename": "Ferdinand Misti-Mifliez.md",
+    "id": "azE7uwfUFGTm",
+    "n_id": 680699539368229090447
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1865
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1922
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q15406989"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JWRn28TDQzuu",
+        "label": "visual artist"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

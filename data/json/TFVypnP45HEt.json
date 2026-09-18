@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "class": "Place",
+    "label": "Ala",
+    "aliases": null,
+    "description": null,
+    "base_name": "Ala",
+    "filename": "Ala.md",
+    "id": "TFVypnP45HEt",
+    "n_id": 520781640158431761737
+  },
+  "statements": {
+    "identifier": [
+      "http://www.wikidata.org/entity/Q243644"
+    ],
+    "country": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B",
+        "label": "Italy"
+      }
+    ]
+  }
+}

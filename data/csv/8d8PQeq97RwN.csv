@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,related_to_relationship,related_to_label,member_of_value
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,,,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,date_of_birth,,,,,,,,,,,,,,,,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,described_by_source,,,,,,,,,,,,,,,,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,date_of_death,,,,,,,,,,,,,,,,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,place_of_birth,,,,,,,,,,,,,,,,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,place_of_death,,,,,,,,,,,,,,,,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4,female,,,,,,,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q137719927,,,,,,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VMZCquADC29J,opera singer,,,,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,related_to,,,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/WQUYEp5MWkGH,"{'value': 'https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Zw3J5xiqV2bA', 'label': 'spouse'}",Louis Lacombe,
+Agent,Andrée Favel,,,Andrée Favel,Andrée Favel.md,8d8PQeq97RwN,136527059014051030865,member_of,,,,,,,,,,,,,,,,

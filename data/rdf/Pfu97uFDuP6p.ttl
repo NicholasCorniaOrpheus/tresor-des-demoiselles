@@ -6,49 +6,49 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:Pfu97uFDuP6p-4YWpkiKEFwEy a rdf:Statement ;
-    bf:Note "Edition belge." ;
-    bf:heldBy tdd:iKoQN6jW4jjj ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "Nc1cdd24e92e54306841c6ee286bcda71" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:Pfu97uFDuP6p ;
-    schema:datePublished "1856-09" ;
-    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88508> .
-
-tdd:Pfu97uFDuP6p-SqPLcetCCo2t a rdf:Statement ;
-    bf:Role tdd:FM6DzoKyNv6j ;
-    rdf:object tdd:QefcFcp5yGSk ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:Pfu97uFDuP6p .
-
-tdd:Pfu97uFDuP6p-TC63X7hbcKer a rdf:Statement ;
+tdd:Pfu97uFDuP6p-2xfXQP3otHCF a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:ku7b5p7YSdzi ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-TFQhuFHrcVLL a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+tdd:Pfu97uFDuP6p-72pBJu7yLDPF a rdf:Statement ;
+    wdt:P1114 "2" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-fyCNuSTAevXg a rdf:Statement ;
+tdd:Pfu97uFDuP6p-7JqBcJAaP4Jf a rdf:Statement ;
     rdf:object tdd:5vMfYTL9wGVi ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:Pfu97uFDuP6p ;
     schema:datePublished "1856-09" .
 
-tdd:Pfu97uFDuP6p-ivRCL9SuoiCC a rdf:Statement ;
+tdd:Pfu97uFDuP6p-9FkfvwAzeqJE a rdf:Statement ;
+    bf:Note "Edition belge." ;
+    bf:heldBy tdd:iKoQN6jW4jjj ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N7c2dbbc7d8f04d06b64c37dd75597075" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Pfu97uFDuP6p ;
+    schema:datePublished "1856-09" ;
+    schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88508> .
+
+tdd:Pfu97uFDuP6p-ZGAAXg4tZsU6 a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:3vDTjkF6fXYz ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:Pfu97uFDuP6p .
 
-tdd:Pfu97uFDuP6p-iz88HkVQoDwD a rdf:Statement ;
-    wdt:P1114 "2" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+tdd:Pfu97uFDuP6p-dETroQD6rzrT a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:QefcFcp5yGSk ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Pfu97uFDuP6p .
+
+tdd:Pfu97uFDuP6p-mD6zYZGPPpJg a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:Pfu97uFDuP6p .
 

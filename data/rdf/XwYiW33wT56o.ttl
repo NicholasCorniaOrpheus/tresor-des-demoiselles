@@ -6,62 +6,62 @@
 @prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
 @prefix wdt: <http://wikidata.org/entity/> .
 
-tdd:XwYiW33wT56o-6Luj2Asmqqin a rdf:Statement ;
-    bf:heldBy tdd:MzUK38XpCjqB ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N5e1d47369b994e4e9c75b45c0564e047" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:XwYiW33wT56o ;
-    schema:datePublished "1851-01-01" ;
-    schema:url <http://ark.bnf.fr/ark:/12148/cb42913217h> .
-
-tdd:XwYiW33wT56o-Huyjws586Sjn a rdf:Statement ;
-    bf:Role tdd:PGagqrY8C5Aa ;
-    rdf:object tdd:CRKTdiKE8hR7 ;
-    rdf:predicate dcterms:contributor ;
-    rdf:subject tdd:XwYiW33wT56o .
-
-tdd:XwYiW33wT56o-QhRYNYpczhgU a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:XwYiW33wT56o .
-
-tdd:XwYiW33wT56o-WAisz98Lbpfr a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N5f419b98078c4ca9a8d7fac30d2217b3" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:XwYiW33wT56o ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:XwYiW33wT56o-Z9GC2xZgfFHf a rdf:Statement ;
+tdd:XwYiW33wT56o-4oeY8qyepynf a rdf:Statement ;
     bf:Note "Part of Le Mélomane, journal de chant No. 54, vol. 3" ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:dcRsGEWm6xtE ;
-    rdf:object "Nb916b468c15b493ba6d551bfc036066c" ;
+    rdf:object "N8e1b8d69fc7f4b14b52bfdde9cd89e22" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:XwYiW33wT56o ;
     schema:datePublished "1852-01-01" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=183654> .
 
-tdd:XwYiW33wT56o-ePaAQFMynKFh a rdf:Statement ;
+tdd:XwYiW33wT56o-GiST6FWgyg4Z a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:XwYiW33wT56o .
+
+tdd:XwYiW33wT56o-SJipgE9XrgDV a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N89dfa6a676a948b78ecab569f6c10e71" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:XwYiW33wT56o ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:XwYiW33wT56o-SoT7FxLpEftV a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:XwYiW33wT56o .
 
-tdd:XwYiW33wT56o-fZsWu3wweNp4 a rdf:Statement ;
+tdd:XwYiW33wT56o-ZsvNhqWZgsoA a rdf:Statement ;
+    bf:heldBy tdd:MzUK38XpCjqB ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N136cba32d91546a7a72b1b6a7dcee007" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:XwYiW33wT56o ;
+    schema:datePublished "1851-01-01" ;
+    schema:url <http://ark.bnf.fr/ark:/12148/cb42913217h> .
+
+tdd:XwYiW33wT56o-b4NBzcoD9FrZ a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:mscfQWWqDRcw ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:XwYiW33wT56o .
+
+tdd:XwYiW33wT56o-bpEkSm438zSB a rdf:Statement ;
     bf:heldBy tdd:RYU7rRDeh5zs ;
     wdt:P291 tdd:BxHoLQMESXU2 ;
-    rdf:object "N08fb1eb21dfb4a34bba1859d7d3a2755" ;
+    rdf:object "N64fcc32b8ae64abe85bf17faca34f26f" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:XwYiW33wT56o ;
     schema:url <https://anet.be/record/opacdkvc/c:lvd:15287383> .
 
-tdd:XwYiW33wT56o-gNiwGUm7WCaT a rdf:Statement ;
-    bf:Role tdd:9Y8pKvFMJST5 ;
-    rdf:object tdd:mscfQWWqDRcw ;
+tdd:XwYiW33wT56o-mG5cmSixyWPK a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:CRKTdiKE8hR7 ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:XwYiW33wT56o .
 

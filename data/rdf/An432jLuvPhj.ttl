@@ -1,0 +1,60 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tdd:An432jLuvPhj-7qRwqRnwKwfs a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:An432jLuvPhj .
+
+tdd:An432jLuvPhj-ApgC2ZbUmm7d a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:An432jLuvPhj .
+
+tdd:An432jLuvPhj-KQMzoK5oHhBA a rdf:Statement ;
+    rdf:object tdd:VWaxuELqVfKN ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:An432jLuvPhj ;
+    schema:volumeNumber 2 .
+
+tdd:An432jLuvPhj-SasFdHbqzSwz a rdf:Statement ;
+    bf:Role tdd:PGagqrY8C5Aa ;
+    rdf:object tdd:bdE6MYos7APn ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:An432jLuvPhj .
+
+tdd:An432jLuvPhj-erMRDFsCBs8Y a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:XY6KvveRnQs7 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:An432jLuvPhj .
+
+tdd:An432jLuvPhj-oDH2MqdaXC8e a rdf:Statement ;
+    bf:heldBy tdd:RYU7rRDeh5zs ;
+    wdt:P291 tdd:BxHoLQMESXU2 ;
+    rdf:object "N8f1cb500516844c6a545c91126ead37d" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:An432jLuvPhj ;
+    schema:url <https://anet.be/record/opacap/c:lvd:12971503> .
+
+tdd:An432jLuvPhj a rdfs:Resource ;
+    rdfs:label "Une orientale: mélodie" ;
+    dcterms:contributor tdd:XY6KvveRnQs7,
+        tdd:bdE6MYos7APn ;
+    dcterms:identifier <https://anet.be/record/opacap/c:lvd:12971503> ;
+    dcterms:isPartOf tdd:VWaxuELqVfKN ;
+    dcterms:title "Une orientale: mélodie" ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:8FqAjuo6FtkU ;
+    wdt:P870 tdd:fcrABEiDKbza ;
+    schema:about tdd:BCSvsKmuf8u3 .
+

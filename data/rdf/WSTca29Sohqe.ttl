@@ -1,0 +1,22 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:WSTca29Sohqe-QLktikBXtDGC a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:b8RbfoXTY2fG ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:WSTca29Sohqe .
+
+tdd:WSTca29Sohqe a rdfs:Resource ;
+    rdfs:label "Grande valse brillante Op. 18" ;
+    dcterms:contributor tdd:b8RbfoXTY2fG ;
+    dcterms:identifier <http://www.wikidata.org/entity/Q2918877> ;
+    dcterms:type "Work" ;
+    wdt:P7937 tdd:LTZ2PAutKcZC ;
+    skos:altLabel "Grande valse brillante in E-flat major" .
+

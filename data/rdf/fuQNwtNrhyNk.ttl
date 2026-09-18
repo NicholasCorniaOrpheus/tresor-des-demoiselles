@@ -7,29 +7,29 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:fuQNwtNrhyNk-CDX9DEhET8xZ a rdf:Statement ;
+tdd:fuQNwtNrhyNk-6HTnx2XmXp69 a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:fuQNwtNrhyNk .
 
-tdd:fuQNwtNrhyNk-EFCbS8UfwuXb a rdf:Statement ;
+tdd:fuQNwtNrhyNk-TbEJLgaSWpWf a rdf:Statement ;
     bf:heldBy tdd:iKoQN6jW4jjj ;
     wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N0d91b73bf78c4ec0acd25a0422e4f5be" ;
+    rdf:object "N755e41902fd643c3b71b27bc56fc8dcf" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:fuQNwtNrhyNk ;
     schema:datePublished "1884" ;
     schema:url <https://catalog.b-bc.org/cgi-bin/koha/opac-detail.pl?biblionumber=88118> .
 
-tdd:fuQNwtNrhyNk-R3paFMdndrgW a rdf:Statement ;
+tdd:fuQNwtNrhyNk-ZatXdBveXsUz a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:fuQNwtNrhyNk ;
     schema:datePublished "1884" ;
     schema:volumeNumber 52 .
 
-tdd:fuQNwtNrhyNk-VepbNXxdWvdW a rdf:Statement ;
+tdd:fuQNwtNrhyNk-cNLgF5qcpJ9q a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:26TsCae57TVa ;
     rdf:predicate dcterms:contributor ;

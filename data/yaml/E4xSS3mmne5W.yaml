@@ -1,0 +1,22 @@
+metadata:
+  class: Place
+  label: Trento
+  aliases:
+  description:
+  base_name: Trento
+  filename: Trento.md
+  id: E4xSS3mmne5W
+  n_id: 248700565602960039946
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3376
+  country:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B
+      label: Italy
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/place.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/E4xSS3mmne5W.json
+content:
+  markdown_content: ""

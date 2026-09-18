@@ -7,43 +7,43 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:FiFAWv3HUTn6-5eyosRYw3P8e a rdf:Statement ;
+tdd:FiFAWv3HUTn6-Dgqqws85vA3T a rdf:Statement ;
+    bf:heldBy tdd:nvkQnSyBbvsT ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N6b8dd69e3047479ba8318ca7a864b0fc" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:FiFAWv3HUTn6 ;
+    schema:datePublished "1856-03-01" ;
+    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
+
+tdd:FiFAWv3HUTn6-JWxyBm4gn8k4 a rdf:Statement ;
     bf:Role tdd:9Y8pKvFMJST5 ;
     rdf:object tdd:EZRQ4FAbVngs ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:FiFAWv3HUTn6 .
 
-tdd:FiFAWv3HUTn6-Ewys2PFeA4Rd a rdf:Statement ;
+tdd:FiFAWv3HUTn6-Prk3VBmY84gp a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:FiFAWv3HUTn6 ;
     schema:datePublished "1856-03-01" ;
     schema:volumeNumber 24 .
 
-tdd:FiFAWv3HUTn6-MFEmkyAe3uMc a rdf:Statement ;
-    wdt:P1114 "1" ;
-    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
-    rdf:predicate wdt:P870 ;
-    rdf:subject tdd:FiFAWv3HUTn6 .
-
-tdd:FiFAWv3HUTn6-cTk8oteAVpvE a rdf:Statement ;
+tdd:FiFAWv3HUTn6-RN4t9BnQjzt9 a rdf:Statement ;
     bf:Role tdd:PGagqrY8C5Aa ;
     rdf:object tdd:GwA6AyoA6rSz ;
     rdf:predicate dcterms:contributor ;
     rdf:subject tdd:FiFAWv3HUTn6 .
 
-tdd:FiFAWv3HUTn6-hCLEMiob7BrX a rdf:Statement ;
-    bf:heldBy tdd:nvkQnSyBbvsT ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N9010523699264f538a398c50802a85cc" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:FiFAWv3HUTn6 ;
-    schema:datePublished "1856-03-01" ;
-    schema:url <https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=22186> .
-
-tdd:FiFAWv3HUTn6-k67V3uGVCVvD a rdf:Statement ;
+tdd:FiFAWv3HUTn6-gCmS8Z9eNtqg a rdf:Statement ;
     wdt:P1114 "1" ;
     rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/cyw32uWwiuUQ" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:FiFAWv3HUTn6 .
+
+tdd:FiFAWv3HUTn6-j2HYuigkeuz8 a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
     rdf:predicate wdt:P870 ;
     rdf:subject tdd:FiFAWv3HUTn6 .
 

@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Juline Poncabaré",
+    "aliases": null,
+    "description": null,
+    "base_name": "Juline Poncabaré",
+    "filename": "Juline Poncabaré.md",
+    "id": "G39Q2gVfxU7S",
+    "n_id": 289311544829111598615
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4",
+        "label": "female"
+      }
+    ],
+    "identifier": null,
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+        "label": "composer"
+      }
+    ],
+    "related_to": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NTcJNXAMBCUB",
+        "relationship": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9GekkBKKgjMW",
+          "label": "sibling"
+        },
+        "label": "Clément Poncabaré"
+      }
+    ],
+    "member_of": null
+  }
+}

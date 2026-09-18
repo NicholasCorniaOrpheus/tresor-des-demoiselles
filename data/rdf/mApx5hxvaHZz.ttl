@@ -7,23 +7,23 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:mApx5hxvaHZz-JGTQ5CfqKvqK a rdf:Statement ;
+tdd:mApx5hxvaHZz-6MrTztckGVGf a rdf:Statement ;
+    bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1865." ;
+    bf:electronicLocator <https://archive.org/details/bub_gb_EV4EAAAAYAAJ> ;
+    bf:heldBy tdd:G9FZhC6pNp69 ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N7c73aae1c284443693656a0cb2e42e8e" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:mApx5hxvaHZz ;
+    schema:datePublished "1865-01-01" ;
+    schema:url <https://archive.org/details/bub_gb_EV4EAAAAYAAJ> .
+
+tdd:mApx5hxvaHZz-ekQr2fQzhkfe a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:mApx5hxvaHZz ;
     schema:datePublished "1865-01-01" ;
     schema:volumeNumber 33 .
-
-tdd:mApx5hxvaHZz-hqXZknQdWpew a rdf:Statement ;
-    bf:Note "The publication date listed in Internet Archive is wrong. According to the digitization, it is 1865." ;
-    bf:electronicLocator <https://archive.org/details/bub_gb_EV4EAAAAYAAJ> ;
-    bf:heldBy tdd:G9FZhC6pNp69 ;
-    wdt:P291 tdd:7VQdaj7JW86d ;
-    rdf:object "N69f6e89dc9d74f52bf2b21828d3f6ff1" ;
-    rdf:predicate wdt:P747 ;
-    rdf:subject tdd:mApx5hxvaHZz ;
-    schema:datePublished "1865-01-01" ;
-    schema:url <https://archive.org/details/bub_gb_EV4EAAAAYAAJ> .
 
 tdd:mApx5hxvaHZz a rdfs:Resource ;
     rdfs:label "Journal des demoiselles (1865)" ;

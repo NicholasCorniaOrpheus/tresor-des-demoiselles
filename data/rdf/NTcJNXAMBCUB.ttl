@@ -1,0 +1,22 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix gnd: <https://d-nb.info/standards/elementset/gnd#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:NTcJNXAMBCUB-g858CSqpKw2g a rdf:Statement ;
+    bf:Relationship tdd:9GekkBKKgjMW ;
+    rdf:object tdd:G39Q2gVfxU7S ;
+    rdf:predicate gnd:relatedTerm ;
+    rdf:subject tdd:NTcJNXAMBCUB .
+
+tdd:NTcJNXAMBCUB a rdfs:Resource ;
+    rdfs:label "Clément Poncabaré" ;
+    dcterms:type "Agent" ;
+    wdt:P31 tdd:TudsDJnQvonk ;
+    gnd:relatedTerm tdd:G39Q2gVfxU7S ;
+    schema:gender tdd:hkA3uvTGSDnD .
+

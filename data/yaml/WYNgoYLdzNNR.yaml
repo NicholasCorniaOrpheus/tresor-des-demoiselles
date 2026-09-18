@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: Biblioteca comunale di Ala
+  aliases:
+  description:
+  base_name: Biblioteca comunale di Ala
+  filename: Biblioteca comunale di Ala.md
+  id: WYNgoYLdzNNR
+  n_id: 588797549506474073219
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TKzN8Z8ZP45J
+      label: public library
+  described_by_source:
+  inception:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TFVypnP45HEt
+      label: Ala
+  dissolved:
+  contributor:
+  official_website:
+    - https://www.comune.ala.tn.it/amministrazione/strutture/biblioteca-ed-archivio-storico
+  identifier:
+    - http://www.wikidata.org/entity/Q28670553
+  country:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/VAvBZjyK4s8B
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/WYNgoYLdzNNR.json
+content:
+  markdown_content: ""

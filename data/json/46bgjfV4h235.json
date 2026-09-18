@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Gustave Chouquet",
+    "aliases": null,
+    "description": null,
+    "base_name": "Gustave Chouquet",
+    "filename": "Gustave Chouquet.md",
+    "id": "46bgjfV4h235",
+    "n_id": 42933847100450886555
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": [
+      {
+        "value": 1819
+      }
+    ],
+    "described_by_source": null,
+    "date_of_death": [
+      {
+        "value": 1886
+      }
+    ],
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": [
+      "http://www.wikidata.org/entity/Q441931"
+    ],
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/JHYsKBRZX72B",
+        "label": "historian"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

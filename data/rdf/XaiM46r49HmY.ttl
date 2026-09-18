@@ -7,19 +7,19 @@
 @prefix wdt: <http://wikidata.org/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-tdd:XaiM46r49HmY-dovBXTXozwcf a rdf:Statement ;
+tdd:XaiM46r49HmY-7Vb3rVPsvVaa a rdf:Statement ;
     rdf:object tdd:NS7S3TJjbHvU ;
     rdf:predicate dcterms:isPartOf ;
     rdf:subject tdd:XaiM46r49HmY ;
     schema:datePublished "1838-01-01" ;
     schema:volumeNumber 6 .
 
-tdd:XaiM46r49HmY-ey89E9UHv7p8 a rdf:Statement ;
+tdd:XaiM46r49HmY-CquiXjnqr69f a rdf:Statement ;
     bf:electronicLocator <https://www.digitale-sammlungen.de/en/view/bsb10359989> ;
     bf:heldBy tdd:PSaEANSLWUfh ;
     wdt:P291 tdd:7VQdaj7JW86d ;
     wdt:P6108 <https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10359989/manifest> ;
-    rdf:object "N84731b30530746baa78239b87f617bd3" ;
+    rdf:object "N42e70f76bc2c4f7f9529a83f47cc13e3" ;
     rdf:predicate wdt:P747 ;
     rdf:subject tdd:XaiM46r49HmY ;
     schema:datePublished "1838-01-01" ;

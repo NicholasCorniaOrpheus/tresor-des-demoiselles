@@ -1,0 +1,44 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:Df4vp9HokgRF-3QHBgy8XoK88 a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N33153c3311844811a0ebb1fa04ece301" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:Df4vp9HokgRF ;
+    schema:datePublished "1868" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012402209706186> .
+
+tdd:Df4vp9HokgRF-6hVKoxVzQrGZ a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:Df4vp9HokgRF ;
+    schema:datePublished "1869-09" .
+
+tdd:Df4vp9HokgRF-PckaTooibb8m a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:V8FvqpV6QvB7 ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:Df4vp9HokgRF .
+
+tdd:Df4vp9HokgRF-W42ACSSmvMEQ a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:Df4vp9HokgRF .
+
+tdd:Df4vp9HokgRF a rdfs:Resource ;
+    rdfs:label "Sonate XIII. Mozart" ;
+    dcterms:contributor tdd:V8FvqpV6QvB7 ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Sonate XIII Mozart." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/5GQCpP8JBfZH]> .
+

@@ -7,6 +7,12 @@
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/concept.png"
     },
     {
+      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
+      "label": "La fée aux roses",
+      "class": "Work",
+      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
+    },
+    {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/38NfsimmXazi",
       "label": "La fille du golfe. Opéra-comique en un acte",
       "class": "Manifestation",
@@ -17,12 +23,6 @@
       "label": "Marianne. Opéra-comique en un acte",
       "class": "Manifestation",
       "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/RCA-13208499/RCA-13208499_001.jpg"
-    },
-    {
-      "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
-      "label": "la fée aux roses",
-      "class": "Work",
-      "image": "https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/work.png"
     },
     {
       "id": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/F6XCdYmXePGk",
@@ -44,17 +44,17 @@
       "property": "instance_of"
     },
     {
+      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ZJuv8atE4fA",
+      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Dr2VYNgaa4XN",
+      "property": "form_of_creative_work"
+    },
+    {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/38NfsimmXazi",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Dr2VYNgaa4XN",
       "property": "form_of_creative_work"
     },
     {
       "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/bHeBRrdh9d2N",
-      "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Dr2VYNgaa4XN",
-      "property": "form_of_creative_work"
-    },
-    {
-      "source": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/eauevD6EbcxD",
       "target": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Dr2VYNgaa4XN",
       "property": "form_of_creative_work"
     },

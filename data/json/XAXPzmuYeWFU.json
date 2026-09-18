@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "class": "Agent",
+    "label": "Enrico de' Rossi-Gazzolo",
+    "aliases": [
+      "Henri de Rossi-Gazzolo",
+      "Count Rossi-Gazzolo"
+    ],
+    "description": null,
+    "base_name": "Enrico de' Rossi-Gazzolo",
+    "filename": "Enrico de' Rossi-Gazzolo.md",
+    "id": "XAXPzmuYeWFU",
+    "n_id": 601524006938918438402
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk",
+        "label": "human"
+      }
+    ],
+    "date_of_birth": null,
+    "described_by_source": null,
+    "date_of_death": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "sex_or_gender": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD",
+        "label": "male"
+      }
+    ],
+    "identifier": null,
+    "occupation": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fgecgVu7ZDZ7",
+        "label": "patron of the arts"
+      }
+    ],
+    "related_to": null,
+    "member_of": null
+  }
+}

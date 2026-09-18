@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "class": "Work",
+    "description": null,
+    "aliases": null,
+    "label": "La fée aux roses",
+    "base_name": "La fée aux roses",
+    "filename": "La fée aux roses.md",
+    "id": "9ZJuv8atE4fA",
+    "n_id": 155781740684994600368
+  },
+  "statements": {
+    "instance_of": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/XaBZqJUPUbCp",
+        "label": "dramatico-musical work"
+      }
+    ],
+    "subclass_of": null,
+    "described_by_source": null,
+    "identifier": [
+      {
+        "https": "//imslp.org/wiki/La_f%C3%A9e_aux_roses_(Hal%C3%A9vy%2C_Fromental)"
+      }
+    ],
+    "form_of_creative_work": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Dr2VYNgaa4XN",
+        "label": "opéra comique"
+      }
+    ],
+    "contributor": [
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9ePAEBeWWE82",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/Mgp8YUwRv3Jz",
+          "label": "librettist"
+        },
+        "label": "Eugène Scribe"
+      },
+      {
+        "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/SuU5RRaXHL2Z",
+        "role": {
+          "value": "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5",
+          "label": "composer"
+        },
+        "label": "Fromental Halévy"
+      }
+    ],
+    "based_on": null
+  }
+}

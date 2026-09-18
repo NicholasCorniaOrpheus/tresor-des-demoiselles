@@ -1,0 +1,12 @@
+class,label,aliases,description,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,date_of_birth_value,described_by_source_value,date_of_death_value,place_of_birth_value,place_of_death_value,sex_or_gender_value,sex_or_gender_label,identifier_value,occupation_value,occupation_label,related_to_value,member_of_value
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk,human,,,,,,,,,,,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,date_of_birth,,,1770.0,,,,,,,,,,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,described_by_source,,,,,,,,,,,,,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,date_of_death,,,,,1827.0,,,,,,,,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,place_of_birth,,,,,,,,,,,,,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,place_of_death,,,,,,,,,,,,,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,sex_or_gender,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/hkA3uvTGSDnD,male,,,,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,identifier,,,,,,,,,,http://www.wikidata.org/entity/Q255,,,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,occupation,,,,,,,,,,,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/9Y8pKvFMJST5,composer,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,related_to,,,,,,,,,,,,,,
+Agent,Ludwig van Beethoven,,,Ludwig van Beethoven,Ludwig van Beethoven.md,btBQvoeEkgjR,699146080862117184587,member_of,,,,,,,,,,,,,,

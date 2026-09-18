@@ -1,0 +1,11 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:XfLx7jGjFr7V a rdfs:Resource ;
+    rdfs:label "Women, Pianos, and the Parisian Periodical Press, 1850-1875" ;
+    dcterms:type "Organisation" ;
+    wdt:P31 tdd:5NQHQagvNUif ;
+    wdt:P856 <https://everist.eu/interventions/data/women-pianos-and-the-parisian-periodical-press-1850-1875/> .
+

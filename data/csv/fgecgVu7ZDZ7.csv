@@ -1,0 +1,5 @@
+class,description,aliases,label,base_name,filename,id,n_id,property,instance_of_value,instance_of_label,subclass_of_value,described_by_source_value,identifier_value
+Concept,,['mecenate'],patron of the arts,patron of the arts,patron of the arts.md,fgecgVu7ZDZ7,777518079102534816152,instance_of,https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/mQD8LFQ4A2HJ,occupation,,,
+Concept,,['mecenate'],patron of the arts,patron of the arts,patron of the arts.md,fgecgVu7ZDZ7,777518079102534816152,subclass_of,,,,,
+Concept,,['mecenate'],patron of the arts,patron of the arts,patron of the arts.md,fgecgVu7ZDZ7,777518079102534816152,described_by_source,,,,,
+Concept,,['mecenate'],patron of the arts,patron of the arts,patron of the arts.md,fgecgVu7ZDZ7,777518079102534816152,identifier,,,,,http://www.wikidata.org/entity/Q15472169

@@ -1,0 +1,53 @@
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix tdd: <https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/> .
+@prefix wdt: <http://wikidata.org/entity/> .
+
+tdd:2DBAbcShdbv5-2aztTwjoALTu a rdf:Statement ;
+    bf:heldBy tdd:WYNgoYLdzNNR ;
+    wdt:P291 tdd:7VQdaj7JW86d ;
+    rdf:object "N154cc1b7f470423896a311e8cfe5f80c" ;
+    rdf:predicate wdt:P747 ;
+    rdf:subject tdd:2DBAbcShdbv5 ;
+    schema:datePublished "1870" ;
+    schema:url <https://strutture-provincia.primo.exlibrisgroup.com/permalink/39SBT_INST/116i12g/alma991012402979706186> .
+
+tdd:2DBAbcShdbv5-FJKTggxE3wro a rdf:Statement ;
+    rdf:object tdd:NS7S3TJjbHvU ;
+    rdf:predicate dcterms:isPartOf ;
+    rdf:subject tdd:2DBAbcShdbv5 ;
+    schema:datePublished "1870-01" .
+
+tdd:2DBAbcShdbv5-LtBdPnjpVJcH a rdf:Statement ;
+    bf:Role tdd:9Y8pKvFMJST5 ;
+    rdf:object tdd:G39Q2gVfxU7S ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2DBAbcShdbv5 .
+
+tdd:2DBAbcShdbv5-Qvvwve3LXuhG a rdf:Statement ;
+    bf:Role tdd:FM6DzoKyNv6j ;
+    rdf:object tdd:NTcJNXAMBCUB ;
+    rdf:predicate dcterms:contributor ;
+    rdf:subject tdd:2DBAbcShdbv5 .
+
+tdd:2DBAbcShdbv5-ZSQHF5w5C29o a rdf:Statement ;
+    wdt:P1114 "1" ;
+    rdf:object "https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/HVUSjYYisyE8" ;
+    rdf:predicate wdt:P870 ;
+    rdf:subject tdd:2DBAbcShdbv5 .
+
+tdd:2DBAbcShdbv5 a rdfs:Resource ;
+    rdfs:label "Un bal à Couatémas" ;
+    dc:description "Dediée à M.me Denise" ;
+    dcterms:contributor tdd:G39Q2gVfxU7S,
+        tdd:NTcJNXAMBCUB ;
+    dcterms:isPartOf tdd:NS7S3TJjbHvU ;
+    dcterms:title "Un bal à Couatémas par Julien Poncabaré." ;
+    dcterms:type "Manifestation" ;
+    wdt:P31 tdd:PoUD3gvUcVyr ;
+    wdt:P7937 tdd:Mj6hzfVSHHew .
+

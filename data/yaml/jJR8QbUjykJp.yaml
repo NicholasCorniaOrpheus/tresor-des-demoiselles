@@ -1,0 +1,38 @@
+metadata:
+  class: Agent
+  label: Olympe Caroline d'Oultremont
+  aliases:
+    - Olympe du Bois d'Aische
+  description:
+  base_name: Olympe Caroline d'Oultremont
+  filename: Olympe Caroline d'Oultremont.md
+  id: jJR8QbUjykJp
+  n_id: 852011225273596336231
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/TudsDJnQvonk
+      label: human
+  date_of_birth:
+  described_by_source:
+  date_of_death:
+  place_of_birth:
+  place_of_death:
+  sex_or_gender:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/6vopxa7szAQ4
+      label: female
+  identifier:
+    - http://www.wikidata.org/entity/Q136207050
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/fgecgVu7ZDZ7
+      label: patron of the arts
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/tresor-des-demoiselles/entity/NS7S3TJjbHvU
+      label: Journal des demoiselles
+  member_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/tresor-des-demoiselles/assets/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/tresor-des-demoiselles/main/data/graph/jJR8QbUjykJp.json
+content:
+  markdown_content: ""
